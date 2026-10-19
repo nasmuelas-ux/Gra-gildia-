@@ -8731,9 +8731,9 @@
    "co": "GRANICA MIASTA CAILIN - SLUPY STALE Z KAMIENIA na linii muru wg rysunku obwodu MF-1 (Weylin, 09-15); wpis do karty miasta i ksiegi sadu grodzkiego. Do tego czasu slupy tymczasowe (wbite ~07-05). Plik: gra/granica_miasta_cailin_300_06.md.",
    "kto": "RODERYK + HERWIN + pisarz grodzki; WEYLIN (linia)",
    "kanal": "na miejscu",
-   "wraca": "300-09-29",
+   "wraca": "300-09-30",
    "zamyka": "slupy stale wbite, wpis w obu ksiegach",
-   "status": "otwarte ### 300-09-25 TRIAZ: robota na miejscu (zasada 7) - wynik w zbiorczym Garricka."
+   "status": "otwarte ### 300-09-25 TRIAZ: robota na miejscu (zasada 7) - wynik w zbiorczym Garricka. ### 300-09-29 TRIAZ: robota na miejscu - stan w zbiorczym Garricka (stos jutro)."
   },
   {
    "data": "300-06-30",
@@ -11674,9 +11674,9 @@
    "co": "KSIEGA MILCZENIA (slowo pana 08-03, rada Sansy; gra/ksiega_milczenia.md): Beron - czesc Korony, przeglad CO PONIEDZIALEK, zmiany rytmu do pana; Lucan - czesc Domu; Willa - rubryka POSLANCY POLUDNIA od karty 09-01 (liczyc poslancow, nie czytac listow). Cykl tygodniowy - po kazdym przegladzie: python3 gra/dzien.py odebrane ID DATA.",
    "kto": "BERON ; LUCAN ; WILLA",
    "kanal": "kancelaria WF; kruk WF-Fosa 08-04",
-   "wraca": "300-09-29",
+   "wraca": "300-10-06",
    "zamyka": "cykl staly - nie zamyka sie (filar); kazdy poniedzialek przeglad",
-   "status": "otwarte - cykl ### 08-11: przeglad poniedzialkowy Berona: bez zmian rytmu - Dolina milczy jak dotad (Gulltown odlozone), Dreadfort - bez odpowiedzi na pytanie Krola (~08-14). Nastepny przeglad 08-18. ### 08-18 przeglad Berona: bez zmian rytmu; Dolina milczy; Dreadfort - odpowiedzial list Krola. Nastepny 08-25. ### 08-25 (poczta_300_08_25.md): przeglad Berona 08-25: rytm bez zmian; Dolina milczy; Dreadfort - tylko listy Krola. Nastepny 09-01. ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych). ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe. ### 09-10: przeglad Berona 09-08 - rytm bez zmian; Dolina milczy; Dreadfort: listy Krola + chlodny list Roose'a (09-05). Nastepny 09-15. ### 09-15 przeglad Berona (ksiega_milczenia.md): Dustin blizej (szybciej, cieplej), Mormont dalej (ton ostrzejszy), Bolton szybciej tam, gdzie tanio (karty lodzi przez jego maestra - nowa droga pisma); Edmure cieplej do siostry; Dolina, Tyrion, Mance - bez zmian. Nastepny 09-22. ### 09-22 przeglad Berona (ksiega_milczenia.md): Krol - 28 dni ciszy; Wyman szybko dla Korony, chlodno dla Domu; Aemon cieplej; Davos w rytmie; BOLTON MILCZY w tygodniu wiesci o flocie syna (sygnal). Nastepny 09-29."
+   "status": "otwarte - cykl ### 08-11: przeglad poniedzialkowy Berona: bez zmian rytmu - Dolina milczy jak dotad (Gulltown odlozone), Dreadfort - bez odpowiedzi na pytanie Krola (~08-14). Nastepny przeglad 08-18. ### 08-18 przeglad Berona: bez zmian rytmu; Dolina milczy; Dreadfort - odpowiedzial list Krola. Nastepny 08-25. ### 08-25 (poczta_300_08_25.md): przeglad Berona 08-25: rytm bez zmian; Dolina milczy; Dreadfort - tylko listy Krola. Nastepny 09-01. ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych). ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe. ### 09-10: przeglad Berona 09-08 - rytm bez zmian; Dolina milczy; Dreadfort: listy Krola + chlodny list Roose'a (09-05). Nastepny 09-15. ### 09-15 przeglad Berona (ksiega_milczenia.md): Dustin blizej (szybciej, cieplej), Mormont dalej (ton ostrzejszy), Bolton szybciej tam, gdzie tanio (karty lodzi przez jego maestra - nowa droga pisma); Edmure cieplej do siostry; Dolina, Tyrion, Mance - bez zmian. Nastepny 09-22. ### 09-22 przeglad Berona (ksiega_milczenia.md): Krol - 28 dni ciszy; Wyman szybko dla Korony, chlodno dla Domu; Aemon cieplej; Davos w rytmie; BOLTON MILCZY w tygodniu wiesci o flocie syna (sygnal). Nastepny 09-29. ### 300-09-29 TRIAZ: PRZEGLAD ODBYTY (ksiega_milczenia.md, 09-29): Bolton - listy nic, karty maestra jak zawsze; Aemon gorzej; Wyman zawsze z warunkiem. Nastepny 10-06."
   },
   {
    "data": "300-08-03",
@@ -13492,9 +13492,9 @@
    "co": "LENNO - GARRONY I KOZY OD KLANOW (slowo pana 08-30: zakup DLA LENNA, Kasa 2): Norrey 20 garronow za 40 sztab zelaza (E ~10 smokow); Burley 60 koz za 60 korcy zboza lenna (E ~6 smokow). Odbior u stop gor ~09-15 (E), poganiacze lenna na Fose (~10 dni). Wlasni - bez rzutu przy odbiorze; droga - pogoda.",
    "kto": "GERRIK (Kasa 2) ; GARRICK ; poslancy Korony (umowa ustna)",
    "kanal": "poslaniec do klanow; kruk WF-Fosa",
-   "wraca": "300-09-29",
+   "wraca": "300-09-30",
    "zamyka": "garrony i kozy w lennie",
-   "status": "otwarte ### 300-09-25 TRIAZ: DROGA - RZUT 56 (prog 35): odbior u stop gor przesuniety przez zamiec 09-15 na ~09-18 (E); stado idzie bez strat - 20 garronow Norreyow i 60 koz Burleyow, na Fosie ~09-28. Meldunek w zbiorczym Garricka."
+   "status": "otwarte ### 300-09-25 TRIAZ: DROGA - RZUT 56 (prog 35): odbior u stop gor przesuniety przez zamiec 09-15 na ~09-18 (E); stado idzie bez strat - 20 garronow Norreyow i 60 koz Burleyow, na Fosie ~09-28. Meldunek w zbiorczym Garricka. ### 300-09-29 TRIAZ: stado na Fosie ~09-28 - potwierdzenie w zbiorczym Garricka (stos jutro)."
   },
   {
    "data": "300-08-30",
@@ -14349,7 +14349,7 @@
    "kanal": "WF-ZM, osobiscie",
    "wraca": "300-09-29",
    "zamyka": "egzamin grupy I (rzut) i rozdzial opatrywaczy do garnizonow",
-   "status": "otwarte"
+   "status": "zamkniete 300-09-29 ### EGZAMIN - RZUT 63: DOBRZE - 10 z 12 zdalo (E); dwoch powtarza z grupa II. Rozdzial: 4 do garnizonu WF, 3 do Zimowej Strazy i przybocznej, 3 do ZM (E). Wenda Klos (O): 'Szyja pewnie. Gorzej z goraczka - tego nie nauczy dwa tygodnie.' ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-09-09",
@@ -14914,9 +14914,9 @@
    "co": "CIALA WYLA JODLY I HOBA KRZEMIENIA - Z GORACEGO PORTU DO WINTERFELL (slowo pana 09-16 przy wieczerzy): do rodzin; mroz trzyma ciala (E). Droga: barka GP->Fosa (~2 dni), woz Fosa->WF (6 dni, trakt przejezdny), eskorta - dwoch ludzi Torvina (E). Rozkaz: kruk Korony WF->Fosa z poczta rano 09-17 (pieczec Namiestnika), Garrick przekazuje do GP. Pochowek - rodziny po swojemu, Korona placi (Kasa 3). Wlasni - bez rzutu.",
    "kto": "SYMON ; GARRICK ; TORVIN ; SER RODRIK (rodziny)",
    "kanal": "kruk Korony WF-Fosa 09-17 rano",
-   "wraca": "300-09-29",
+   "wraca": "300-09-30",
    "zamyka": "ciala w WF, rodziny je przyjely",
-   "status": "otwarte ### 09-17 ZAMIEC (pogoda rzut 7): kruki stoja caly dzien - list/rozkaz wychodzi 09-18 rano (+1 dzien). ### 09-20 kruk Garricka: rozkaz doszedl 09-18; barka GP->Fosa w drodze; woz z Fosy ~09-21; w WF ~09-27. ### 300-09-27 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: sniezyca 09-26 i zaspy - woz z cialami stoi w drodze; w WF ~09-29."
+   "status": "otwarte ### 09-17 ZAMIEC (pogoda rzut 7): kruki stoja caly dzien - list/rozkaz wychodzi 09-18 rano (+1 dzien). ### 09-20 kruk Garricka: rozkaz doszedl 09-18; barka GP->Fosa w drodze; woz z Fosy ~09-21; w WF ~09-27. ### 300-09-27 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: sniezyca 09-26 i zaspy - woz z cialami stoi w drodze; w WF ~09-29. ### 300-09-29 TRIAZ: WOZ DOJECHAL DO WF przed poludniem (wlasni). Rodrik prowadzi rodziny; pochowek - wdowa Wyla: w ZM przy septie albo w gaju (jej wola, E); matka Hoba - 'przy ojcu, za mlynem' (z zapisu). Zamkniecie po pochowkach."
   },
   {
    "data": "300-09-17",
@@ -15303,7 +15303,7 @@
    "kanal": "do rak, WF",
    "wraca": "300-09-29",
    "zamyka": "kartka Sansy (rzut)",
-   "status": "otwarte ### 09-22 SLOWO PANA: potwierdzone - OCZYWISCI (wykluczeni): rodzina przy stole, Rodrik, Brynden, Sten i jego dwoch przy komnatach, Rhona; maester - poza lista (pan). SIEDEM MIEJSC do patrzenia: (1) kruczarnia - chlopcy i pisarz przy klatkach; (2) podczaszy i sluzba przy wysokim stole; (3) sluzba krolowej (ludzie z Dorzecza); (4) maly Walder i jego czlowiek; (5) nienazwani pisarze kancelarii Korony; (6) pisarz Skarbu (rachunki Gawena); (7) chlopcy od swiec i opalu."
+   "status": "zamkniete 300-09-29 ### KARTKA SANSY (do rak pana) - RZUT 59: dwa konkrety (odczyt swiadka, nie prawda): (1) przy wysokim stole od tygodnia nikt nie mowi o wojsku - 'dziala'; (2) z dwoch podczaszych mlodszy (E) przy rozmowach polglosem zwalnia z dzbanem - 'nie wiem, czy slucha, czy czeka, az ktos skinie; starszy nigdy nie zwalnia'. Nikogo nie oskarza. Kanarek B rozstrzygnie (10-06). ### POPRZEDNIO: byl-otw ### 09-22 SLOWO PANA: potwierdzone - OCZYWISCI (wykluczeni): rodzina przy stole, Rodrik, Brynden, Sten i jego dwoch przy komnatach, Rhona; maester - poza lista (pan). SIEDEM MIEJSC do patrzenia: (1) kruczarnia - chlopcy i pisarz przy klatkach; (2) podczaszy i sluzba przy wysokim stole; (3) sluzba krolowej (ludzie z Dorzecza); (4) maly Walder i jego czlowiek; (5) nienazwani pisarze kancelarii Korony; (6) pisarz Skarbu (rachunki Gawena); (7) chlopcy od swiec i opalu."
   },
   {
    "data": "300-09-22",
@@ -15645,7 +15645,7 @@
    "kanal": "WF",
    "wraca": "300-09-29",
    "zamyka": "przeglad Berona 09-29: rytm kart Dreadfortu odnotowany",
-   "status": "otwarte"
+   "status": "zamkniete 300-09-29 ### PRZEGLAD BERONA - RZUT 73: karty lodzi od maestera Dreadfortu ida JAK ZAWSZE (dwie w tygodniu, w terminie). Odczyt wg rady Sansy: milczenie OSOBISTE, nie polityczne. Trzeciego listu nie ma; pierwsze slowo - z wiescia o flocie. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-09-28",
@@ -15859,7 +15859,7 @@
     "start": "300-04-11"
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-09-15",
+   "ostatnio_odebrane": "300-09-29",
    "zrodlo": "terminarz_budow_300_04.md",
    "uwaga_0915": "SLOWO PANA 09-15: karta Spichlerza ZAWSZE W RACJACH (Racja Polnocna, skladniki + waskie gardlo), od dzis."
   },

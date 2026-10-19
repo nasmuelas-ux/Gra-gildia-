@@ -70,3 +70,20 @@ _Tydzień 09-15 → 09-21. Kruki stały 09-15 i 09-17 (zamiecie) oraz 09-19 i 09
 | **Cytadela** | odpowiedź o maestra dla GP ~10-10. | — |
 
 **Beron (bez interpretacji):** *„Trzy zmiany: Wyman szybciej dla Korony, chłodniej dla Domu. Aemon cieplej. A Bolton milczy w tygodniu, w którym przyszła pierwsza wieść o flocie jego syna.”* Następny przegląd: 09-29.
+
+## PRZEGLĄD BERONA 300-09-29 (poniedziałek, lekki mróz; część Korony)
+_Tydzień 09-22 → 09-28. Śnieżyca 09-26 (kruki stały cały dzień), 09-27 kruki od południa._
+| korespondent | zmiana rytmu | ⚑ |
+|---|---|---|
+| **Król** | **cisza od 08-25, 35 dni.** | **⚑ najważniejsze** |
+| **Roose Bolton** | **na listy nic** (drugi bez odpowiedzi). **Karty łodzi od jego maestra – jak zawsze** (dwie w tygodniu, w terminie, E). | sygnał: milczenie osobiste, nie polityczne (rzut 73) |
+| **Wyman Manderly** | **szybko, ale każda odpowiedź z „nie” albo „przez mojego”:** Lys – „pokażcie dowód”; trakty – „przez zarządcę”; łodzie – „nie tej zimy”. | do karty |
+| **Rickard Karstark** | odpowiedział (09-27): krótko, o wodach, „czekam na wieść o synu”. Catelyn napisała 09-28. | czekamy |
+| **Aemon / Clydas** | **gorzej** (09-28): gorączka wróciła. | ⚑ |
+| **Edmure / Riverrun** | wieść o Maidenpool (09-28): Harrion wolny. | sygnał dobry |
+| **Robett Glover** | karta łańcucha w rytmie (09-26, doszła 09-27). | — |
+| **Hal** | szyfr Domu w terminie (09-27). | — |
+| **Dacey / Wyspa** | potwierdzenie zboża i soli (09-28). | — |
+| **Maege, Mance, Dolina, Tyrion** | dalej nic. | bez zmian |
+
+**Beron (bez interpretacji):** *„Trzy zmiany: Bolton milczy na listy, a jego maester pisze jak zawsze. Aemon gorzej. Wyman odpowiada szybko i zawsze z warunkiem.”* Następny przegląd: 10-06.

@@ -15951,7 +15951,7 @@
    "kanal": "osobiscie",
    "wraca": "300-10-07",
    "zamyka": "zadanie zrobione (rzut)",
-   "status": "zamkniete 300-10-05 ### ZROBIONE (popoludnie) - RZUT 7 (prog 40) ZLE: proba 'przez kogo' robiona przy kazdym zdaniu, ale pan dopisuje sprawce tez do form bezpodmiotowych - zdanie 'brzmi', wiec uznaje je za bierne; 2/5 dobrze, 3/5 zle, PAN PEWNY, ze dobrze (nie widzi bledu). Do lekcji 23 wt 10-07. ### POPRZEDNIO: byl-otw"
+   "status": "zamkniete 300-10-07 ### LEKCJA HV 23 ODBYTA: zadanie (rzut 7) - 3/5 zle, Luwin pokazuje blad (proba 'przez kogo' w ORYGINALE, nie w przekladzie); RZUT 36 SLABO - na przykladach Luwina pan rozumie, przy dwoch nowych zdaniach znow myli raz. Zadanie na pt 10-10. ### POPRZEDNIO: zamkniete 300-10-05 ### ZROBIONE (popoludnie) - RZUT 7 (prog 40) ZLE: proba 'przez kogo' robiona przy kazdym zdaniu, ale pan dopisuje sprawce tez do form bezpodmiotowych - zdanie 'brzmi', wiec uznaje je za bierne; 2/5 dobrze, 3/5 zle, PAN PEWNY, ze dobrze (nie widzi bledu). Do lekcji 23 wt 10-07. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-10-04",
@@ -16132,6 +16132,15 @@
    "wraca": "300-10-08",
    "zamyka": "pierwsza nauka Owena odbyta albo slowo pana o terminie",
    "status": "otwarte ### 300-10-07 SLOWO PANA: ustalimy RAZEM Z CATELYN (pan + Catelyn + Owen) - rozmowa do ~10-10. ### 300-10-07 (wieczerza): ROZMOWA PAN + CATELYN + OWEN - JUTRO 10-08 PO SNIADANIU, SOLAR CATELYN (jej propozycja: przed wiesciami ze zwiadu)."
+  },
+  {
+   "data": "300-10-07",
+   "co": "WYSOKI VALYRIANSKI - ZADANIE NA PT 10-10 (po lekcji 23, rzut 36): (1) na gorze kartki regula wlasnymi slowami: proba 'przez kogo' w ORYGINALE - czy forma ma miejsce/koncowke na sprawce, nie czy przeklad to zniesie; (2) trzy zle zdania z zadania przepisane wg reguly; (3) trzy nowe zdania z tablicy (E) - tylko rozpoznac, bez przekladu.",
+   "kto": "SYMON (Luwin sprawdza)",
+   "kanal": "osobiscie, WF",
+   "wraca": "300-10-10",
+   "zamyka": "lekcja 24 HV odbyta",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

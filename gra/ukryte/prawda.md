@@ -389,3 +389,7 @@ Posłaniec: **Benno** (E), pisarz placówki Domu na Czarnym Zamku. Był u Aemona
 - Ten sam zielony sen co 07-27: droga na północ, na której kończy się to, co Jojen widzi. **Od pierwszego śniegu (09-26) śni ją częściej.** Jojen (O): *„Jak sen przychodzi coraz częściej, to znaczy, że jest blisko.”*
 - To zielony sen, a nie fakt świata. Nie ma w nim daty ani miejsca. Ze Skagos i z Królem nie ma nic wspólnego.
 - Obietnica Symona z 07-27 (nic nie mówić Meerze) nadal obowiązuje. Jojen o niej przypomniał.
+
+## 300-10-01: LUCAN, wieczory w dolnym mieście (rzut prawdy 6)
+- **PRAWDA:** Lucan chodzi do bednarza od beczki zimowej grać w kości i wypytuje go o beczki. Nic więcej się za tym nie kryje.
+- Symon czytał go rzutem 13 (mylny odczyt): wydaje mu się, że Lucan coś pomija. **To fałszywe podejrzenie.** Jeśli Willa albo Sten pójdą za Lucanem, znajdą bednarza i kości.

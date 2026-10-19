@@ -15799,6 +15799,15 @@
    "wraca": "300-10-02",
    "zamyka": "odpowiedz do Hallisa: ile w XII",
    "status": "otwarte"
+  },
+  {
+   "data": "300-10-01",
+   "co": "POWROT SIL Z GLEBI I OSRICA Z ZACHODU (slowo pana 10-01, rada Rodrika - zgoda): 50 (31 z garnizonu + 19 ochotnikow rezerwy domeny) i OSRIC (Marszalek Choragwi) z Kamiennego Brzegu do WF przed sniegiem; Osric przejmuje nadzor nad spisem rezerwy (slowo pana 09-28). ZOSTAJA: ludzie Corwina i Ulrica (46, miejscowi), straz nocna i ognie podwojnie na cala zime, Dustinport jak jest. Rozkaz Namiestnika: kruk WF->Barrowton + jezdziec (E ~10-04/05 u Osrica); marsz ~2-3 tyg. (E). Wlasni - bez rzutu; droga - pogoda.",
+   "kto": "SYMON -> OSRIC ; CORWIN",
+   "kanal": "kruk WF-Barrowton + jezdziec",
+   "wraca": "300-10-05",
+   "zamyka": "sily z glebi i Osric w WF",
+   "status": "otwarte ### 300-10-01: rozkaz wyszedl rano (pieczec Namiestnika). Czesc 'I Z GORACEGO PORTU' - do doprecyzowania przez pana (kto i dokad)."
   }
  ],
  "_dopiski_300_03_18": [

@@ -753,3 +753,30 @@
 *Dopisek spisującego:* Walder spytał Rickona szeptem, czy te jaskinie są też pod Winterfell. Rickon powiedział, że są tylko krypty. Meera popatrzyła na Jojena, który milczał. Bran długo patrzył w ogień i nie zadał już żadnego pytania.
 
 *Uwaga porządkowa (reguła Brana):* kanon: Gendel i Gorne byli braćmi i wspólnie królami za Murem około trzech tysięcy lat temu. Przeprowadzili wojsko jaskiniami pod Murem i zostali rozbici przez Króla Północy razem ze Strażą. Gorne zabił króla i sam zginął z ręki jego syna. Gendel z resztą uciekł w jaskinie i przepadł. To, że ich potomkowie nadal tam błądzą, to opowieść wolnych ludzi (wersja Ygritte), a nie wiedza maesterów. E: „jedyny raz, kiedy dwóch królów się nie pozabijało”, „kiszki”, rozmowa po bajce. Z zapisu: list do Aemona wyszedł 09-29.
+
+## 35. O OLBRZYMACH, KTÓRZY POMAGALI DŹWIGAĆ MUR
+*Spisane 300-10-05, w niedzielę wieczorem, po wieczerzy, w izbie dziecięcej. Mróz, czyste niebo. Słuchali Lyra na kolanach spisującego (pierwszy raz u Niani), Rickon i mały Walder, Bran z Meerą i Jojenem. Pytała Lyra, prosto od progu: „Babciu, a są olbrzymy? Takie jak Tytan?”*
+
+> Są, kruszynko. Albo były. Prawdziwe, nie z kamienia.
+>
+> Za Murem, daleko, tam gdzie śnieg nigdy nie topnieje, żyją olbrzymy. Są wyższe niż dwóch rosłych mężczyzn, jeden na drugim, owłosione jak niedźwiedzie i silne jak dziesięć wołów. Nie jeżdżą na koniach, bo żaden koń by ich nie uniósł. Jeżdżą na **mamutach**. To takie włochate słonie z kłami jak zakrzywione miecze. *(Lyra zapytała, co to słoń.)* Wielkie zwierzę z nosem jak ręka. Nigdy go nie widziałam i ty też nie zobaczysz. Ale mamuta jeszcze możesz.
+>
+> A kiedy Brandon Budowniczy stawiał Mur, tak przynajmniej mówią, **olbrzymy mu pomagały.** Ludzie nie unieśliby takich bloków lodu. Olbrzymy niosły je na plecach, jak my nosimy drwa. Za to Brandon dał im… tego bajka nie mówi. Może jedzenie. Może słowo. Olbrzymy są proste: dasz słowo i dotrzymasz, to wrócą.
+>
+> Potem Mur stanął, a olbrzymy zostały po drugiej stronie. Bo Mur jest dla wszystkich, którzy są za nim, a one były za nim.
+>
+> *(Rickon zapytał, czy olbrzymy są złe.)*
+>
+> Nie złe. Duże. Jak ktoś jest duży, ludzie myślą, że jest zły, a on tylko nie mieści się w drzwiach.
+>
+> *(Lyra zapytała, czy olbrzym przyjdzie.)*
+>
+> Nie przyjdzie, kruszynko. Mur jest wysoki. Ale jakby przyszedł, to pewnie chciałby tylko zjeść i się ogrzać. Jak każdy.
+>
+> Spać.
+
+*Dopisek spisującego:* Lyra przez całą bajkę ani razu się nie poruszyła. Na koniec powiedziała do Niani: *„Ja bym mu dała kaszy.”* Niania się roześmiała, pierwszy raz od dawna (O). Rickon zaczął chodzić po izbie na palcach jak olbrzym, a Walder za nim. Jojen patrzył w ogień.
+
+*Uwaga porządkowa (reguła Brana):*
+- **Kanon:** olbrzymy żyją za Murem, są ogromne i owłosione, jeżdżą na mamutach. Według podania olbrzymy pomagały Brandonowi Budowniczemu wznieść Mur; tak mówią opowieści, nie maesterzy.
+- **E (wersja Niani):** co Brandon dał olbrzymom, „nie mieszczą się w drzwiach”, rozmowa po bajce.

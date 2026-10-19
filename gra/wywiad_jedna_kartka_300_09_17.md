@@ -204,3 +204,24 @@
 - **Sabotaż:** *„Można. Ale osobni ludzie – ucho, które podpala, przestaje słyszeć. Mała grupa, nigdy z teatru, który słucha w tym samym miejscu. I tylko na wasze ustne słowo, jak eliminacja. Każdy sabotaż mówi wrogowi, że mamy ręce – używać rzadko.”*
 - **Koszt dodatkowy (E):** BP ~12, Pentos ~15 jednorazowo; szkoła ~1–2/mies; grupa sabotażu – osobno, od sprawy. **Do słowa pana.**
 **⚑ SŁOWO PANA 09-25:** **Biały Port – własny szef** (osobny od Merel, raport osobno). **Koszty dodatkowe zatwierdzone:** BP ~12, Pentos ~15 jednorazowo; szkoła ~1–2/mies od XI (ekonomia.json).
+
+---
+### ⚑ SŁOWO PANA 300-10-03 (po obiedzie, u Willi w ZM): RAPORT MIESIĘCZNY ROZBITY. KAŻDY TEATR I PLACÓWKA OSOBNO, W INNYM DNIU. TERMINY:
+**Propozycja Willi (O), zgodnie ze słowem pana z 09-25:**
+
+| placówka | dzień miesiąca | kanał | od kiedy |
+|---|---|---|---|
+| **PÓŁNOC: Cailin** (Merel) | **2.** | kurier albo gołąb z Fosy, szyfr wywiadu | XI (do tego czasu stara karta Willi) |
+| **PÓŁNOC: Biały Port** (własny szef) | **6.** | gołąb BP–ZM, w zimie kurier | XI |
+| **ZACHÓD I PYKE: Seagard** | **10.** | kurier przez Riverrun, potem Przesmyk | X/XI (pierwsza karta ~11-10) |
+| **ESSOS: Braavos** | **14.** | statkiem; karta datowana na 14., przychodzi z najbliższym statkiem | XI |
+| **ESSOS: Pentos** | **18.** | jak Braavos, osobna koperta | XI/XII |
+| **POŁUDNIE: Stare Miasto** | **22.** | statkiem przez BP | wiosna 301 |
+| **KRÓLEWSKA PRZYSTAŃ** | **26.** | kurier, nowa linia od zera | wiosna 301 |
+| **CENTRALA ZM (Willa)** | **28.** | do rąk własnych | X |
+
+- **Karty idą do pana pojedynczo, tak jak przyjdą.** Nikt ich nie składa w jedną.
+- **Willa 28. dnia pisze jedną stronę: co się łączy między kartami** (O): *„Nie streszczam. Piszę tylko, gdzie dwie karty mówią o tym samym, a gdzie sobie przeczą.”*
+- **Kontrwywiad nie wchodzi do tego kalendarza.** Raportuje wprost do pana, w dniu, który wyznaczy pan.
+- **Willa (O):** *„Różne dni to też kanarek. Jeśli coś z karty z szóstego wypłynie w Białym Porcie przed czternastym, wiem, którędy szło.”*
+- **Przejście:** do czasu otwarcia placówek (X–XI) zostaje stara wspólna karta Willi (cykl 1.). Każda placówka przechodzi na własny dzień, kiedy ruszy jej centrum.

@@ -15925,6 +15925,15 @@
    "wraca": "300-10-06",
    "zamyka": "wpis sciezki w ksiedze Kanonu",
    "status": "otwarte"
+  },
+  {
+   "data": "300-10-03",
+   "co": "WYWIAD - RAPORTY ROZBITE NA PLACOWKI, KAZDA W INNYM DNIU (slowo pana 10-03; gra/wywiad_jedna_kartka_300_09_17.md): Cailin 2., BP 6., Seagard 10., Braavos 14., Pentos 18., Stare Miasto 22. (wiosna), KP 26. (wiosna), centrala ZM 28. (strona Willi 'co sie laczy'); kontrwywiad osobno do pana. Przejscie: stara karta Willi (cykl 1.) do otwarcia placowek. Przy otwarciu kazdego centrum - wpisac NOWY CYKL do kalendarza (dzien.py).",
+   "kto": "WILLA ; GM (cykle)",
+   "kanal": "osobiscie ZM",
+   "wraca": "300-10-28",
+   "zamyka": "pierwsza strona Willi 'co sie laczy' (28.) + cykle placowek wpisane przy otwarciu",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

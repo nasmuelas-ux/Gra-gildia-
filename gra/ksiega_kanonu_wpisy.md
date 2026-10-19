@@ -11,3 +11,12 @@
   - Wolno ją zmienić raz.
   - **Szczebel III od dziś** (prawo i ludzie; od III wysoki valyriański).
   - **Nauczyciele ścieżki (300-10-06):** miecz uczy **mistrz z Braavos przy przybocznej, Talvo Rhessin** (E, imię). Uczył Aryi już wcześniej, a teraz prowadzi ją jako nauczyciel ścieżki (słowo gracza). Braavoski uczy Namiestnik. Wysoki valyriański od szczebla III uczy Luwin.
+  - **Czego Arya chce się nauczyć (jej słowa, 300-10-06, na pytanie pana):**
+    1. **miecz lekki, braavoski** (Talvo): *„Żeby nie trzeba było być dużym.”*
+    2. **łuk**: *„Strzela się z daleka i nikt nie wie skąd.”*
+    3. **koń zimą i nocą**: *„Posłaniec, który jeździ tylko w dzień, to nie posłaniec.”*
+    4. **braavoski porządnie**, nie tylko z lekcji, i **wysoki valyriański** od szczebla III;
+    5. **jeszcze jedna mowa**: *„Ta z Lys. Bo stamtąd przychodzą kłopoty.”*
+    6. **mapy i drogi** (dziedzina 4 Kanonu): *„Gdzie są brody i ile dni do każdego portu.”*
+    7. **pływanie**: *„W Braavos są kanały. Jak ktoś wpadnie, to nie umiera.”*
+    8. **poznawać, kiedy ktoś kłamie**: *„Syrio mówił, że trzeba patrzeć, a nie tylko widzieć.”* (kanon: nauka Syria)

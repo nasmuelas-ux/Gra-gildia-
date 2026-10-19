@@ -15807,7 +15807,16 @@
    "kanal": "kruk WF-Barrowton + jezdziec",
    "wraca": "300-10-05",
    "zamyka": "sily z glebi i Osric w WF",
-   "status": "otwarte ### 300-10-01: rozkaz wyszedl rano (pieczec Namiestnika). Czesc 'I Z GORACEGO PORTU' - do doprecyzowania przez pana (kto i dokad)."
+   "status": "otwarte ### 300-10-01: rozkaz wyszedl rano (pieczec Namiestnika). Czesc 'I Z GORACEGO PORTU' - do doprecyzowania przez pana (kto i dokad). ### 300-10-01 SLOWO PANA: GORACY PORT ZOSTAJE jak jest (zapora, ognie, lodz, wzmocnienie) - 'I z Goracego Portu' cofniete."
+  },
+  {
+   "data": "300-10-01",
+   "co": "LIST PANA DO THEONA (Dustinport): czy ma nowe wiesci z Wysp - od Ashy (list z 09-03, odpowiedz ~X), z morza, od jenca z Harlaw, o czarnym kadlubie. Kanal: kruk WF->Barrowton + jezdziec do Dustinportu (jak 07-26). Odpowiedz - RZUT (co Theon wie).",
+   "kto": "SYMON -> THEON",
+   "kanal": "kruk WF-Barrowton + jezdziec",
+   "wraca": "300-10-08",
+   "zamyka": "odpowiedz Theona",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

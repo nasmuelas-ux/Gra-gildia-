@@ -16131,7 +16131,7 @@
    "kanal": "osobiscie, WF",
    "wraca": "300-10-08",
    "zamyka": "pierwsza nauka Owena odbyta albo slowo pana o terminie",
-   "status": "otwarte ### 300-10-07 SLOWO PANA: ustalimy RAZEM Z CATELYN (pan + Catelyn + Owen) - rozmowa do ~10-10. ### 300-10-07 (wieczerza): ROZMOWA PAN + CATELYN + OWEN - JUTRO 10-08 PO SNIADANIU, SOLAR CATELYN (jej propozycja: przed wiesciami ze zwiadu)."
+   "status": "zamkniete 300-10-08 ### SLOWO PANA (solar Catelyn): (1) jak mowi Catelyn - stare bogi zostaja, Siedmiu jako wiedza i obyczaj; Sansa i Arya (luka po Mordane), Bran (wszystko), Rickon tylko opowiesci rzadko; (2) 2 RAZY W TYGODNIU PO 1 GODZINIE - pon. i czw. przed poludniem (E, Catelyn/Owen, omijaja braavoski wt/pt); (3) TAK - Owen mowi prawde o Wierze, takze zle; dzieci maja uczyc sie MYSLEC KRYTYCZNIE; (4) OCZYWISCIE - Owen pomaga Chayle'owi w siodmy dzien (Owen pyta Chayle'a dzis). ### POPRZEDNIO: byl-otw ### 300-10-07 SLOWO PANA: ustalimy RAZEM Z CATELYN (pan + Catelyn + Owen) - rozmowa do ~10-10. ### 300-10-07 (wieczerza): ROZMOWA PAN + CATELYN + OWEN - JUTRO 10-08 PO SNIADANIU, SOLAR CATELYN (jej propozycja: przed wiesciami ze zwiadu)."
   },
   {
    "data": "300-10-07",
@@ -16140,6 +16140,24 @@
    "kanal": "osobiscie, WF",
    "wraca": "300-10-10",
    "zamyka": "lekcja 24 HV odbyta",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-08",
+   "co": "OWEN - PIERWSZA NAUKA SIEDMIU (slowo pana 10-08: pon. i czw. po 1 h; Sansa, Arya, Bran; Rickon rzadko, opowiesci; prawda o Wierze, myslenie krytyczne). Pierwsza: czw. 10-09 przed poludniem (E). Odbior dzieci - RZUT przy pierwszej nauce.",
+   "kto": "OWEN ; SANSA, ARYA, BRAN",
+   "kanal": "osobiscie, WF",
+   "wraca": "300-10-09",
+   "zamyka": "pierwsza nauka odbyta (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-08",
+   "co": "OWEN POMAGA SEPTONOWI CHAYLE'OWI - NABOZENSTWO W SIODMY DZIEN (dla Catelyn i krolowej Roslin; slowo pana 10-08 'oczywiscie'). Owen pyta Chayle'a 10-08.",
+   "kto": "OWEN -> CHAYLE",
+   "kanal": "osobiscie, sept WF",
+   "wraca": "300-10-12",
+   "zamyka": "pierwsze wspolne nabozenstwo odbyte",
    "status": "otwarte"
   }
  ],

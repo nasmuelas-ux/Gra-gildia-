@@ -16167,7 +16167,7 @@
    "kanal": "kruk WF-Fosa + jezdziec do Dustinportu",
    "wraca": "300-10-10",
    "zamyka": "slowo pana i rozkaz wyslany",
-   "status": "zamkniete 300-10-08 ### SLOWO PANA: POBOR STOI ('sa u siebie') - sluzba przedluzona do odwolania; pan SUGERUJE ZWIEKSZYC DO 100. Rodrik: lordom trzeba to napisac (list 08-07 obiecal powrot przed zima) - list regenta imieniem Krola. Nowe pozycje: list do lordow + zold na zime (Gawen). ### POPRZEDNIO: byl-otw"
+   "status": "zamkniete 300-10-08 ### SLOWO PANA: POBOR STOI ('sa u siebie') - sluzba przedluzona do odwolania; pan SUGERUJE ZWIEKSZYC DO 100. Rodrik: lordom trzeba to napisac (list 08-07 obiecal powrot przed zima) - list regenta imieniem Krola. Nowe pozycje: list do lordow + zold na zime (Gawen). ### POPRZEDNIO: byl-otw ### 300-10-08 KOREKTA PANA (ta sama rozmowa, przed listem ze zwiadu): POBOR ROZPUSZCZONY - 46 do domow przed sniegiem, zold do dnia wyjazdu (Kasa 3). Poprzednie 'niech stoi / zwiekszyc do 100' - ZASTAPIONE."
   },
   {
    "data": "300-10-08",
@@ -16189,12 +16189,12 @@
   },
   {
    "data": "300-10-08",
-   "co": "LIST REGENTA DO LORDOW WSCHODU I SRODKA - POBOR W DUSTINPORCIE ZOSTAJE NA ZIME (do odwolania) i ZWIEKSZENIE DO 100 (slowo pana 10-08: 'niech stoi, sa u siebie, sugeruje zwiekszyc do 100'). List 08-07 obiecal powrot przed zima - nowy list imieniem Krola, pod pieczecia regencji: przedluzenie + prosba o dosylke (+54); zold zimowy Kasy 3. Szkic BERON, zold GAWEN, rozdzial RODRIK. Odpowiedzi lordow - RZUT na kazda.",
+   "co": "LIST REGENTA DO LORDOW WSCHODU I SRODKA - POBOR Z DUSTINPORTU WRACA DO DOMOW PRZED SNIEGIEM (korekta pana 10-08; spelnienie obietnicy z listu 08-07). Imieniem Krola, pod pieczecia regencji: podziekowanie, zold do dnia wyjazdu, ludzie wracaja z karta. Rozkaz do ser Edwyle'a / Torrena: kruk WF-Fosa + jezdziec do Dustinportu. Szkic BERON, zold GAWEN, rozdzial RODRIK. Wlasni - bez rzutu.",
    "kto": "BERON (szkic) ; GAWEN (zold) ; RODRIK",
    "kanal": "kruki WF -> lordowie",
    "wraca": "300-10-10",
-   "zamyka": "szkic na stole do podpisu pana (Mala Rada ~10-10)",
-   "status": "otwarte"
+   "zamyka": "listy wyslane i rozkaz u ser Edwyle'a; pobor w drodze do domow",
+   "status": "otwarte ### 300-10-08 (pierwotnie: przedluzenie + dosylka do 100) - ZASTAPIONE korekta pana: rozpuscic."
   }
  ],
  "_dopiski_300_03_18": [

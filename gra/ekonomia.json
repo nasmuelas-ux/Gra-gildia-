@@ -2148,7 +2148,8 @@
   "sakiewka_pana_ruchy": [
    "300-08-08: -1 smok - Benno (pisarz placowki Domu na Czarnym Zamku), za droge i slowo Aemona; z sakiewki pana (saldo z 08-02 ~190,6 -> ~189,6)",
    "300-08-14: +224,47 smoka - wyplata (a) wyrownanie wsteczne VIII (Tam/Hal, slowo pana 08-06), odebrana osobiscie w faktorii ZM za kwitem (saldo ~189,6 -> ~414,07)",
-   "300-10-01: -14 smokow - WYWIAD, pierwsza miesieczna wyplata do Willi za X/300 (pasmo zatwierdzone 09-25: 10-18/mies, E - srodek pasma); w sakiewce przez Aldwina do rak wlasnych w ZM"
+   "300-10-01: -14 smokow - WYWIAD, pierwsza miesieczna wyplata do Willi za X/300 (pasmo zatwierdzone 09-25: 10-18/mies, E - srodek pasma); w sakiewce przez Aldwina do rak wlasnych w ZM",
+   "300-10-03: -44 smokow - WYWIAD, rozbudowa z 10-03 ZAPLACONA OD RAZU do rak Willi w ZM (slowo pana): Boltonsgate 8, Karport 8, Mewi Grod 12, Deskowe Miasto 12, mapy 4 (E); kwit faktorii ZM"
   ],
   "wyplata_VIII_a_300_08_14": "Symon 224,47 ODEBRANE w faktorii ZM 08-14 za kwitem; Mira 112,24 czeka w faktorii do jej odbioru (dlug Miry wobec szkatuly - rozliczyc przy jej odbiorze).",
   "zasada_wplat_do_rodu": "300-08-17 (slowo pana, propozycja Miry): DO RODU - TA SAMA CZESC (1/10) Z KAZDEJ WYPLATY DOMU, Symona i Miry; wpis w ksiedze rodu reka glowy rodu, podpis Miry obok (dwie rece). SZKATULA - osobno, po rowno w kwocie, gdy pustoszeje.",
@@ -2216,36 +2217,6 @@
     "kwota": -15,
     "opis": "WYWIAD - placowka Pentos (mala, cicha) (E)",
     "zrodlo": "slowo pana 300-09-25"
-   },
-   {
-    "data": "300-10-20",
-    "kwota": -4,
-    "opis": "WYWIAD - mapy kupione (trakty, przeprawy; E)",
-    "zrodlo": "slowo pana 300-10-03 (u Willi)"
-   },
-   {
-    "data": "300-11-20",
-    "kwota": -8,
-    "opis": "WYWIAD - placowka Boltonsgate (E)",
-    "zrodlo": "slowo pana 300-10-03 (u Willi)"
-   },
-   {
-    "data": "300-12-10",
-    "kwota": -8,
-    "opis": "WYWIAD - placowka Karport (E)",
-    "zrodlo": "slowo pana 300-10-03 (u Willi)"
-   },
-   {
-    "data": "301-04-01",
-    "kwota": -12,
-    "opis": "WYWIAD - placowka Mewi Grod (wiosna, E)",
-    "zrodlo": "slowo pana 300-10-03 (u Willi)"
-   },
-   {
-    "data": "301-04-01",
-    "kwota": -12,
-    "opis": "WYWIAD - placowka Deskowe Miasto (wiosna, E)",
-    "zrodlo": "slowo pana 300-10-03 (u Willi)"
    }
   ]
  },

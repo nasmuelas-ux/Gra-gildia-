@@ -291,3 +291,15 @@
 - **Koszty (E, sakiewka pana):**
   - jednorazowo: Mewi Gród ~12, Deskowe Miasto ~12 (wiosna), Karport ~8, Boltonsgate ~8, mapy ~4;
   - miesięcznie: cztery placówki ~4–6, stół szyfrów ~2–3 (od XII), dwóch analityków (stoły wojska i logistyki) ~2–3.
+
+### ⚑ SŁOWO PANA 300-10-03: (1) KOSZTY JEDNORAZOWE ROZBUDOWY ZAPŁACONE OD RAZU (44 smoki do rąk Willi, kwit faktorii ZM). (2) WZÓR RAPORTU LOKALNEGO, OBOWIĄZKOWY DLA KAŻDEJ PLACÓWKI:
+```
+RAPORT PLACÓWKI ________  za ________  (dzień raportu: __.)
+1. GOSPODARCZY:   ceny, skupy, pieniądz, kto kupuje i sprzedaje
+2. WOJSKOWY:      ludzie, broń, konie, stępki, ruchy oddziałów
+3. LOGISTYCZNY:   wozy, barki, statki, ładunki, przeprawy, magazyny, komory
+4. ZADANE PYTANIA: pytania pana lub Willi z tego okresu i odpowiedzi (albo „bez odpowiedzi, bo…”)
+5. PLOTKI Z REGIONU: co mówią ludzie (osobno od faktów)
+6. AKCJE:         tylko jeśli były; co, kto (bez imion), skutek
+```
+**Willa (O):** przy każdej pozycji pewność (pewne / prawdopodobne / plotka) i data źródła, zgodnie z zasadą jednej miary. *„Plotki osobno, żeby nikt nie wziął plotki za fakt tylko dlatego, że stała w tej samej rubryce.”* Wzór dostaje każdy szef placówki razem z kluczem szyfru.

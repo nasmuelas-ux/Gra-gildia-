@@ -46,3 +46,20 @@ Pan wybrał prostsze warianty:
 1. **Tekst:** zostaje „Dwóch przewoźników”, bo jest już gotowy.
 2. **Czyta Sansa,** Arya odpowiada na pytania (zmiana w stosunku do lekcji 20).
 3. **Część 4 zawężona:** *„Pamiętam kogoś dzielnego z bajki Niani. On/ona…”*. Lżej, bez własnych zmarłych.
+
+---
+## PRZEBIEG (pt 300-10-03, przed południem, solar). RZUT 18 (próg 40: 45, −5 część 1 z własnych listów; prostsze warianty bez korekty): ŹLE (pasmo <20)
+- **Część 1:** Sansa ma list do Darei. Data jest przeliczona dobrze, pytanie o maski. **Arya listu nie ma.** Rano zdawała szczebel II i *„nie było kiedy”*.
+- **Część 3:** Sansa czyta tekst równo, aż do zdania *„Przewoźników już nie było”*. Tam się zatrzymuje i czyta je drugi raz, ciszej. Arya odpowiada na pytania półsłówkami.
+- **Słowa: weszło 5 z 16** (noc, wróg, ogień, rano, śmierć).
+- **Część 4 („ktoś dzielny z bajki Niani”):**
+  - **Arya** wybiera **Danny Flint** (bajka nr 27). Mówi po braavosku jedno zdanie: *„Ona stała lepiej niż oni.”* Potem przechodzi na wspólną mowę, łamiąc zasadę: *„A oni jej to zrobili, i nikt jej nie pomógł.”*
+  - **Sansa** cicho: *„Arya. Nie teraz.”*
+  - **Arya:** *„Kiedy, jak nie teraz? To lekcja o dzielnych.”*
+  - Sansa nie wybiera nikogo. Mówi, że *„nie przygotowała”*.
+- Lekcja kończy się wcześniej, w ciszy. Kłótni nie ma, ale siostry wychodzą osobno.
+
+## ZADANIE NA LEKCJĘ 22 (~wt 10-07)
+- Arya: list do Darei (stare zadanie).
+- Obie: 11 słów, które nie weszły.
+- **Zasada domowa 3:** to pierwsza porażka (18). Jeśli lekcja 22 też się nie uda, próg spada.

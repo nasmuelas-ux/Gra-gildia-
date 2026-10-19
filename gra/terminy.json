@@ -15582,7 +15582,7 @@
    "kanal": "osobiscie, WF",
    "wraca": "300-10-03",
    "zamyka": "lekcja odbyta",
-   "status": "otwarte ### 300-09-30 SLOWO PANA: TEMAT - SMIERC I BOHATERSTWO. Plan GM: gra/braavoski_lekcja_21_plan_300_09_30.md (do slowa pana: tekst, kto czyta, czesc 4). ### 300-10-02 SLOWO PANA: prostsze opcje - tekst 'Dwoch przewoznikow', czyta Sansa (Arya odpowiada), czesc 4 zawezona do 'kogos dzielnego z bajki Niani'. Lekcja pt 10-03."
+   "status": "zamkniete 300-10-03 ### LEKCJA 21 ODBYTA (gra/braavoski_lekcja_21_plan_300_09_30.md, przebieg) - RZUT 18 ZLE: 5/16 slow; Arya bez listu; czesc 4 - Arya: Danny Flint (wspolna mowa), Sansa nikogo. ### POPRZEDNIO: byl-otw ### 300-09-30 SLOWO PANA: TEMAT - SMIERC I BOHATERSTWO. Plan GM: gra/braavoski_lekcja_21_plan_300_09_30.md (do slowa pana: tekst, kto czyta, czesc 4). ### 300-10-02 SLOWO PANA: prostsze opcje - tekst 'Dwoch przewoznikow', czyta Sansa (Arya odpowiada), czesc 4 zawezona do 'kogos dzielnego z bajki Niani'. Lekcja pt 10-03."
   },
   {
    "data": "300-09-26",
@@ -15907,6 +15907,15 @@
    "wraca": "300-10-08",
    "zamyka": "slowo regenta: tak/nie/kiedy",
    "status": "otwarte ### 300-10-03 SLOWO REGENTA: DOPIERO PO ZWIADZIE (~10-08). Odpis regenta do Rickarda dzis: dziekuje, slowo po powrocie zwiadu Wymana; lodzie niech stoja gotowe. Kruk WF-Karhold."
+  },
+  {
+   "data": "300-10-03",
+   "co": "BRAAVOSKI - LEKCJA 22 (~wt 10-07): forma - do slowa pana. Zadanie: ARYA - list do Darei (stare); OBIE - 11 slow z lekcji 21, ktore nie weszly. Zasada domowa 3: jedna porazka (18) - przy drugiej prog spada.",
+   "kto": "SYMON, SANSA, ARYA",
+   "kanal": "osobiscie, WF",
+   "wraca": "300-10-07",
+   "zamyka": "lekcja odbyta",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

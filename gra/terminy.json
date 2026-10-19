@@ -16104,6 +16104,15 @@
    "kanal": "osobiscie",
    "wraca": "300-10-08",
    "zamyka": "slowo pana",
+   "status": "zamkniete 300-10-07 ### SLOWO PANA: POMOC + LUWIN. Luwin (albo jego uczen z kursu opatrywaczy) do matki Tyma w ZM - kaszel; relief Domu (rachmistrz reliefu ZM, Kasa 1 pod mantia Wiary): drewno i maka na zime dla rodziny. Tym zostaje w kruczarni. Pan do Tyma: postapil zle - ale jak jest problem, ma zawsze przychodzic do przelozonego. ### POPRZEDNIO: byl-otw"
+  },
+  {
+   "data": "300-10-07",
+   "co": "PODWYZKA PENSJI SLUZBY ZAMKU WINTERFELL O 50% (slowo regenta 10-07, po konsultacji z lady Catelyn): dla CALEJ sluzby zamku rowno (rada Catelyn: 'zeby nikt nie wiedzial, ze przez jednego chlopca'); od X. Koszt - RACHUNEK RODWELLA (Dom Starkow) i GAWENA - kwoty nie zgaduje sie (zasada 43); kasa - Dom Starkow / Korona wg Rodwella. Ogloszenie - ochmistrzyni i Rodrik. Garnizon - zold Korony osobno (bez zmian, chyba ze pan powie inaczej).",
+   "kto": "RODWELL ; GAWEN ; RODRIK",
+   "kanal": "osobiscie WF",
+   "wraca": "300-10-10",
+   "zamyka": "rachunek kosztu na Radzie, ogloszenie sluzbie",
    "status": "otwarte"
   }
  ],

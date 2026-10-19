@@ -722,3 +722,34 @@
 
 ---
 *300-09-28, wieczór, przy pierwszym śniegu: Niania **powtórzyła „O Długiej Nocy” (nr 3)** – bez nowych szczegółów. Dopisek skryby, jedyne nowe zdanie, do pana: „**Wczesny śnieg to długa zima** – tak mówiła moja babka.” Jojen patrzył w ogień.*
+
+## 34. O GENDELU I GORNIE, KTÓRZY PRZESZLI POD MUREM
+*Spisane 300-09-29, w poniedziałek wieczorem, po wieczerzy, w izbie dziecięcej przy kominku. Lekki mróz, bez wiatru. Słuchali Bran (Hodor pod ścianą), Rickon i mały Walder pod kocem, Meera i Jojen. Pytał Bran, który przy wieczerzy słyszał, że do maestra Aemona poszedł list: „Czy przez Mur da się przejść inaczej niż bramą?”*
+
+> Da się, dziecko. Raz się dało. I źle się to skończyło dla tych, co przeszli.
+>
+> Dawno temu, trzy tysiące lat albo więcej, za Murem było dwóch braci. Gendel i Gorne. Obaj byli królami, bo żaden nie chciał ustąpić drugiemu, więc wolni ludzie mieli dwóch królów naraz. Mówią, że to jedyny raz, kiedy dwóch królów za Murem się nie pozabijało.
+>
+> Mur był już wtedy wysoki, a Straż liczna. Bramą nie przejdziesz. Po lodzie się nie wdrapiesz. Ale bracia wiedzieli coś, czego Straż nie wiedziała: **pod Murem są jaskinie.** Stare, głębokie, kręte jak kiszki, a niektóre wychodzą po drugiej stronie.
+>
+> I poszli tymi jaskiniami. Całe wojsko, z pochodniami, w ciemności. I wyszli po południowej stronie, za plecami Straży, zanim ktokolwiek na Murze się zorientował.
+>
+> Ale Straż nie była sama. **Król Zimy z Winterfell** przyszedł ze swoimi ludźmi z południa, Straż zeszła z Muru od północy i bracia znaleźli się między nimi. Imienia tego króla nie znam, a zmyślać nie będę.
+>
+> Gorne zabił króla. Własną ręką, w bitwie. I zaraz potem zabił go syn króla. Tak to szło: ojciec padł, a syn podniósł miecz, zanim ojciec ostygł.
+>
+> A Gendel zebrał tych, co zostali, i uciekł z powrotem do jaskiń. Tylko że jaskinie to nie droga. Kręcą się, dzielą i schodzą w dół. **Nigdy z nich nie wyszli.**
+>
+> *(Rickon zapytał, czy umarli.)*
+>
+> Tak mówią maesterzy. Ale wolni ludzie mówią co innego. Mówią, że **dzieci Gendela dalej tam chodzą**, w ciemności, blade jak robaki spod kamienia, i szukają wyjścia. Ja tam nie byłam. Ale gdybym wiedziała, gdzie jest wejście, tobym je zasypała.
+>
+> *(Bran zapytał, czy Straż te jaskinie zasypała.)*
+>
+> Tego nie wiem, chłopcze. Zapytaj starego maestra na Murze, póki żyje.
+>
+> Spać.
+
+*Dopisek spisującego:* Walder spytał Rickona szeptem, czy te jaskinie są też pod Winterfell. Rickon powiedział, że są tylko krypty. Meera popatrzyła na Jojena, który milczał. Bran długo patrzył w ogień i nie zadał już żadnego pytania.
+
+*Uwaga porządkowa (reguła Brana):* kanon: Gendel i Gorne byli braćmi i wspólnie królami za Murem około trzech tysięcy lat temu. Przeprowadzili wojsko jaskiniami pod Murem i zostali rozbici przez Króla Północy razem ze Strażą. Gorne zabił króla i sam zginął z ręki jego syna. Gendel z resztą uciekł w jaskinie i przepadł. To, że ich potomkowie nadal tam błądzą, to opowieść wolnych ludzi (wersja Ygritte), a nie wiedza maesterów. E: „jedyny raz, kiedy dwóch królów się nie pozabijało”, „kiszki”, rozmowa po bajce. Z zapisu: list do Aemona wyszedł 09-29.

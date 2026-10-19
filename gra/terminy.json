@@ -16077,7 +16077,7 @@
    "kanal": "osobiscie",
    "wraca": "300-10-08",
    "zamyka": "slowo pana",
-   "status": "otwarte"
+   "status": "zamkniete 300-10-07 ### ROZMOWA PANA I LADY CATELYN Z TYMEM (solar Catelyn, placek z miodem) - RZUT 96: PRAWDA + COS WIECEJ. Tym placze i przyznaje sie od razu: matka (praczka w ZM) kaszle od wrzesnia, nie moze stac w zimnej wodzie, dwoje mlodszych; ziarno sprzedawal na chleb dla nich (motyw - rzut 6, prawda). SAM Z SIEBIE: 'Stary od drewna dwa razy pytal mnie, ktore ptaki leca do Bialego Portu i kiedy nastepny. Powiedzialem. Myslalem, ze to nic.' Do slowa pana: co z Tymem i matka; czlowiek od drewna (nowa operacja). ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-10-07",
@@ -16086,6 +16086,24 @@
    "kanal": "Fosa",
    "wraca": "300-10-14",
    "zamyka": "rozmowa odbyta, odczyt septona",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-07",
+   "co": "CZLOWIEK OD DREWNA (WF, przybysz z Dorzecza, BEZ PORECZENIA - Rodrik 10-07): (1) dal miedziaka Gilowi od swiec przy schodach skrzydla Tallych (Rhona/Sten 10-01); (2) dwa razy pytal Tyma, ktore kruki leca do BP i kiedy nastepny (Tym 10-07). Prawda (szpieg / ciekawski / cos innego) - RZUT przy dzialaniu, pasma przed rzutem. Do slowa pana.",
+   "kto": "SYMON -> STEN / ALDWIN (kontrwywiad) / RODRIK",
+   "kanal": "osobiscie",
+   "wraca": "300-10-08",
+   "zamyka": "slowo pana i dzialanie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-07",
+   "co": "TYM I JEGO MATKA (praczka w ZM, kaszel od IX, dwoje mlodszych) - po rozmowie 10-07: do slowa pana (kara/praca/pomoc - Luwin do matki? relief Domu?).",
+   "kto": "SYMON ; CATELYN ; LUWIN",
+   "kanal": "osobiscie",
+   "wraca": "300-10-08",
+   "zamyka": "slowo pana",
    "status": "otwarte"
   }
  ],

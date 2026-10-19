@@ -14367,7 +14367,7 @@
    "kanal": "listy przez lordow",
    "wraca": "300-10-08",
    "zamyka": "pierwsze odpowiedzi matek (rzut) + slowo pana/Krola o trzech ostatnich synach",
-   "status": "otwarte ### 09-10 SLOWO PANA (sniadanie): 'OSTATNI SYNOWIE ZOSTAJA W DOMU' - trzech wraca do domow; zasada dla poboru Korony: ostatni syn (potwierdzony przez lorda na pismie) nie idzie. Krolowa pisze sama do trzech matek. ### 300-10-05 TRIAZ: przeglad listy z Roslin ~10-08. ### 300-10-08 ODPOWIEDZI MATEK PRZEZ LORDOW - RZUT 89 (pasmo 85+): cieple; lord sam pisze do Krolowej z podziekowaniem (ujawnienie przy przegladzie z Roslin dzis). ### 300-10-08 PRZEGLAD Z ROSLIN (solar krolowej): odpowiedzi RZUT 89 - trzy matki ostatnich synow odpisaly przez lordow cieplo (E); dwie inne matki z poboru pytaja, czy moga na liste/do roboty w Konserwie; LORD STOUT (E, Goldgrass) pisze sam do Krolowej z podziekowaniem za ostatniego syna."
+   "status": "zamkniete 300-10-08 ### Pierwsze odpowiedzi matek (rzut 89) przyszly i przejrzane z Roslin; slowo o ostatnich synach z 09-10 stoi. Filar Krolowej zyje dalej w liscie wdow i matek. ### POPRZEDNIO: byl-otw ### 09-10 SLOWO PANA (sniadanie): 'OSTATNI SYNOWIE ZOSTAJA W DOMU' - trzech wraca do domow; zasada dla poboru Korony: ostatni syn (potwierdzony przez lorda na pismie) nie idzie. Krolowa pisze sama do trzech matek. ### 300-10-05 TRIAZ: przeglad listy z Roslin ~10-08. ### 300-10-08 ODPOWIEDZI MATEK PRZEZ LORDOW - RZUT 89 (pasmo 85+): cieple; lord sam pisze do Krolowej z podziekowaniem (ujawnienie przy przegladzie z Roslin dzis). ### 300-10-08 PRZEGLAD Z ROSLIN (solar krolowej): odpowiedzi RZUT 89 - trzy matki ostatnich synow odpisaly przez lordow cieplo (E); dwie inne matki z poboru pytaja, czy moga na liste/do roboty w Konserwie; LORD STOUT (E, Goldgrass) pisze sam do Krolowej z podziekowaniem za ostatniego syna."
   },
   {
    "data": "300-09-10",
@@ -15357,7 +15357,7 @@
    "kanal": "WF/ZM",
    "wraca": "300-10-08",
    "zamyka": "lista prowadzona, pierwsze odwiedziny odbyte (rzut)",
-   "status": "otwarte ### 09-23 SLOWO PANA: do ZM - strazniczka i pisarz Skarbu; rubryka wdow Edrica z Konserwy - TAK; listy Krolowej do Krola - TAK (jej pieczecia). ### 09-24 (slowo regenta): z Krolowa do ZM jedzie tez 5 LUDZI STARKOW (garnizon WF, dobiera Rodrik) obok strazniczki i pisarza Skarbu. Wlasni - bez rzutu. ### 09-24 ODWIEDZINY W ZM (RZUT 48, prog 40 - DOBRZE, bez zapasu): wdowa Wyla przyjela Krolowa w izbie; bierze robote w Konserwie Korony od X (rubryka Edrica - od beczki z udzialem); dwie sasiadki (wdowy z poboru, E) pytaly, czy moga byc na liscie - Roslin wpisala; przy drzwiach stary sasiad mruknal 'Freyowna' - wdowa go uciszyla (E). Lista: 3 imiona. Nastepne odwiedziny - do woli Krolowej. ### 300-10-01 TRIAZ: lista prowadzona; przeglad z Roslin ~10-08. ### 300-10-08: przeglad listy z Roslin - dzis (pora do ustalenia)."
+   "status": "zamkniete 300-10-08 ### Lista prowadzona (7 imion, przeglad 10-08), pierwsze odwiedziny odbyte 09-24 (rzut 48). Dalej - nowa operacja: dwie matki z poboru do Konserwy (Edric). ### POPRZEDNIO: byl-otw ### 09-23 SLOWO PANA: do ZM - strazniczka i pisarz Skarbu; rubryka wdow Edrica z Konserwy - TAK; listy Krolowej do Krola - TAK (jej pieczecia). ### 09-24 (slowo regenta): z Krolowa do ZM jedzie tez 5 LUDZI STARKOW (garnizon WF, dobiera Rodrik) obok strazniczki i pisarza Skarbu. Wlasni - bez rzutu. ### 09-24 ODWIEDZINY W ZM (RZUT 48, prog 40 - DOBRZE, bez zapasu): wdowa Wyla przyjela Krolowa w izbie; bierze robote w Konserwie Korony od X (rubryka Edrica - od beczki z udzialem); dwie sasiadki (wdowy z poboru, E) pytaly, czy moga byc na liscie - Roslin wpisala; przy drzwiach stary sasiad mruknal 'Freyowna' - wdowa go uciszyla (E). Lista: 3 imiona. Nastepne odwiedziny - do woli Krolowej. ### 300-10-01 TRIAZ: lista prowadzona; przeglad z Roslin ~10-08. ### 300-10-08: przeglad listy z Roslin - dzis (pora do ustalenia)."
   },
   {
    "data": "300-09-23",
@@ -15382,9 +15382,9 @@
    "co": "MIRA WRACA DO WF Z PIERWSZYM WOZEM W X (rada przyjela Konserwe na zime 09-20 - jej warunek): z Dagonem i oddzialem II, E wyjazd ~10-03, w WF ~10-09.",
    "kto": "MIRA ; DAGON",
    "kanal": "trakt Fosa-WF",
-   "wraca": "300-10-09",
+   "wraca": "300-10-12",
    "zamyka": "Mira w WF",
-   "status": "otwarte"
+   "status": "otwarte ### 300-10-08: wg zbiorczego 10-06 Mira wyjechala z Fosy 10-05 z Dagonem i oddzialem II - w WF ~10-12."
   },
   {
    "data": "300-09-24",
@@ -16221,6 +16221,15 @@
    "kanal": "kruk Karhold-WF",
    "wraca": "300-10-09",
    "zamyka": "odpowiedz Rickarda (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-08",
+   "co": "KROLOWA ROSLIN - DWIE NOWE MATKI Z POBORU: wpis na liste i robota w Konserwie Korony (rubryka Edrica - od beczki z udzialem). Roslin pyta Edrica. Wlasni - bez rzutu.",
+   "kto": "ROSLIN -> EDRIC PLUG",
+   "kanal": "WF/ZM",
+   "wraca": "300-10-12",
+   "zamyka": "odpowiedz Edrica: jest robota / od kiedy",
    "status": "otwarte"
   }
  ],

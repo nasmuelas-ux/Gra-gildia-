@@ -384,3 +384,8 @@ Posłaniec: **Benno** (E), pisarz placówki Domu na Czarnym Zamku. Był u Aemona
   - **„W tym śnie nie było wilka.”**
 - Jojen nie twierdzi, że sen dotyczy Króla. Meera ucina dalsze pytania przy stole.
 - *(GM, ukryte: sen wiąże się z wątkiem Wysp: czarny kadłub, Lys, śmierć Balona i wiec. Nie dotyczy Skagos.)*
+
+## 300-09-30: JOJEN, droga na północ wraca częściej (obiad, pan na stronie)
+- Ten sam zielony sen co 07-27: droga na północ, na której kończy się to, co Jojen widzi. **Od pierwszego śniegu (09-26) śni ją częściej.** Jojen (O): *„Jak sen przychodzi coraz częściej, to znaczy, że jest blisko.”*
+- To zielony sen, a nie fakt świata. Nie ma w nim daty ani miejsca. Ze Skagos i z Królem nie ma nic wspólnego.
+- Obietnica Symona z 07-27 (nic nie mówić Meerze) nadal obowiązuje. Jojen o niej przypomniał.

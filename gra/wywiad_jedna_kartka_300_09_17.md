@@ -225,3 +225,17 @@
 - **Kontrwywiad nie wchodzi do tego kalendarza.** Raportuje wprost do pana, w dniu, który wyznaczy pan.
 - **Willa (O):** *„Różne dni to też kanarek. Jeśli coś z karty z szóstego wypłynie w Białym Porcie przed czternastym, wiem, którędy szło.”*
 - **Przejście:** do czasu otwarcia placówek (X–XI) zostaje stara wspólna karta Willi (cykl 1.). Każda placówka przechodzi na własny dzień, kiedy ruszy jej centrum.
+
+### ⚑ SŁOWO PANA 300-10-03 (w drzwiach zakładu Willi): WYWIAD MA CZYTAĆ SYGNAŁY GOSPODARCZE, WOJSKOWE I LOGISTYCZNE. Karta Tama to raport handlowy Domu, nie wywiad.
+**Willa (O), co z tego wynika:**
+- **Każda karta placówki ma trzy stałe rubryki obok tego, co słychać:**
+  - **GOSPODARKA:** ceny ziarna, soli, drewna i żelaza; kto skupuje, gdzie drożeje, czyj pieniądz się rusza (weksle, Bank, Lys);
+  - **WOJSKO:** ilu ludzi, gdzie stoją, co kują kowale, czy biorą konie i buty, stępki w stoczniach;
+  - **LOGISTYKA:** wozy, barki, statki i ich ładunki, przeprawy, mosty, magazyny, co przechodzi przez komory i myto.
+- **W centrali ZM trzy stoły analityków** (każdy czyta wszystkie karty pod swoim kątem):
+  - **rachmistrz** do gospodarki (już jest w planie centrum);
+  - **stary żołnierz** do wojska: ktoś po służbie, ranny albo za stary na pole, ale umie liczyć obóz z dymów. Nie z garnizonu ani z przybocznej;
+  - **były woźnica albo barkarz** do logistyki: zna drogi, dni i ładunki.
+- **Szkoła wywiadu (od XI)** uczy wszystkich trzech czytań: każdy uczeń przez miesiąc przy każdym stole.
+- **Koszt dodatkowy (E):** dwóch analityków ~2–3 smoki/mies. **Do słowa pana.**
+- **Willa (O):** *„Uszy powiedzą, że kowal w Seagardzie kuje groty. Stół wojskowy powie, ile to włóczni. Stół logistyczny powie, ile wozów je zawiezie i kiedy. A to już jest wiadomość.”*

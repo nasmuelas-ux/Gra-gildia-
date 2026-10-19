@@ -15807,7 +15807,7 @@
    "kanal": "kruk WF-Barrowton + jezdziec",
    "wraca": "300-10-22",
    "zamyka": "sily z glebi i Osric w WF",
-   "status": "otwarte ### 300-10-01: rozkaz wyszedl rano (pieczec Namiestnika). Czesc 'I Z GORACEGO PORTU' - do doprecyzowania przez pana (kto i dokad). ### 300-10-01 SLOWO PANA: GORACY PORT ZOSTAJE jak jest (zapora, ognie, lodz, wzmocnienie) - 'I z Goracego Portu' cofniete. ### 300-10-05 TRIAZ: rozkaz u Osrica ~10-04/05 (pogoda dobra); wymarsz ~10-06 (E); WF ~10-22..25."
+   "status": "otwarte ### 300-10-01: rozkaz wyszedl rano (pieczec Namiestnika). Czesc 'I Z GORACEGO PORTU' - do doprecyzowania przez pana (kto i dokad). ### 300-10-01 SLOWO PANA: GORACY PORT ZOSTAJE jak jest (zapora, ognie, lodz, wzmocnienie) - 'I z Goracego Portu' cofniete. ### 300-10-05 TRIAZ: rozkaz u Osrica ~10-04/05 (pogoda dobra); wymarsz ~10-06 (E); WF ~10-22..25. ### 300-10-08 SLOWO PANA (sala map, rada Bryndena): po powrocie OSRIC i 50 ZOSTAJA W WINTERFELL JAKO ODWOD (do odwolania)."
   },
   {
    "data": "300-10-01",
@@ -16167,6 +16167,33 @@
    "kanal": "kruk WF-Fosa + jezdziec do Dustinportu",
    "wraca": "300-10-10",
    "zamyka": "slowo pana i rozkaz wyslany",
+   "status": "zamkniete 300-10-08 ### SLOWO PANA: POBOR STOI ('sa u siebie') - sluzba przedluzona do odwolania; pan SUGERUJE ZWIEKSZYC DO 100. Rodrik: lordom trzeba to napisac (list 08-07 obiecal powrot przed zima) - list regenta imieniem Krola. Nowe pozycje: list do lordow + zold na zime (Gawen). ### POPRZEDNIO: byl-otw"
+  },
+  {
+   "data": "300-10-08",
+   "co": "48 LUDZI STARKOW Z GORACEGO PORTU DO WINTERFELL (slowo pana 10-08, warunek Bryndena): TYDZIEN NAKLADKI - Jastrzebie Kessela i setka Hendry'ego przejmuja warty przy pomostach i zaporze; wymarsz ~10-15, WF ~10-29 (E, 2 tyg. traktem). Dowodzi Torvin. Rozkaz krukiem WF-Fosa 10-08 do Garricka i Hendry'ego. Wlasni - bez rzutu.",
+   "kto": "SYMON -> GARRICK / HENDRY / TORVIN",
+   "kanal": "kruk WF-Fosa",
+   "wraca": "300-10-15",
+   "zamyka": "48 w drodze (meldunek z Fosy), potem w WF ~10-29",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-08",
+   "co": "ZIMOWE MIASTO - NOCNA WARTA NA BRAMIE MIASTA ZE STRAZY MIEJSKIEJ EDRICA, NIE Z GARNIZONU (propozycja Rodrika, slowo pana 10-08 'tak'). Wlasni - bez rzutu. Koszt (jesli dodatkowi ludzie) - Edric/Gawen.",
+   "kto": "EDRIC PLUG (straz miejska) ; RODRIK",
+   "kanal": "osobiscie, WF/ZM",
+   "wraca": "300-10-12",
+   "zamyka": "warta stoi od pierwszej nocy - meldunek Edrica",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-08",
+   "co": "LIST REGENTA DO LORDOW WSCHODU I SRODKA - POBOR W DUSTINPORCIE ZOSTAJE NA ZIME (do odwolania) i ZWIEKSZENIE DO 100 (slowo pana 10-08: 'niech stoi, sa u siebie, sugeruje zwiekszyc do 100'). List 08-07 obiecal powrot przed zima - nowy list imieniem Krola, pod pieczecia regencji: przedluzenie + prosba o dosylke (+54); zold zimowy Kasy 3. Szkic BERON, zold GAWEN, rozdzial RODRIK. Odpowiedzi lordow - RZUT na kazda.",
+   "kto": "BERON (szkic) ; GAWEN (zold) ; RODRIK",
+   "kanal": "kruki WF -> lordowie",
+   "wraca": "300-10-10",
+   "zamyka": "szkic na stole do podpisu pana (Mala Rada ~10-10)",
    "status": "otwarte"
   }
  ],

@@ -719,3 +719,6 @@
 *Dopisek spisującego:* Jojen przez całą bajkę patrzył na mnie, a nie na Nianię. Rickon zapytał na wychodnym, czy Wieżę Pijaka da się wyprostować. Odpowiedziałem, że nie i że lepiej jej nie ruszać. Arya powiedziała: „To dobrze. Niech się zatacza.”
 
 *Uwaga porządkowa (reguła Brana):* kanon: Fosę zbudowali Pierwsi Ludzie z bazaltu; było w niej około dwudziestu wież, a ostały się trzy: Wieża Bramna, Wieża Pijaka (pochylona) i Wieża Dzieci; z podania Wieża Dzieci jest miejscem, z którego wezwano Młot Wód; Andalowie nie przeszli Przesmyku, a Fosy nigdy nie zdobyto od południa. Wersja Niani (E): bagno przyszło nocą po Wieżę Pijaka. E: słowa Meery o bagnie, które pilnuje wież, oraz rozmowa po bajce. Z zapisu: siedemnaście wież Orbela (budowa od 07-01, pierwsza ~10-15).
+
+---
+*300-09-28, wieczór, przy pierwszym śniegu: Niania **powtórzyła „O Długiej Nocy” (nr 3)** – bez nowych szczegółów. Dopisek skryby, jedyne nowe zdanie, do pana: „**Wczesny śnieg to długa zima** – tak mówiła moja babka.” Jojen patrzył w ogień.*

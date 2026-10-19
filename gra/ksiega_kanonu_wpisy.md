@@ -20,3 +20,12 @@
     6. **mapy i drogi** (dziedzina 4 Kanonu): *„Gdzie są brody i ile dni do każdego portu.”*
     7. **pływanie**: *„W Braavos są kanały. Jak ktoś wpadnie, to nie umiera.”*
     8. **poznawać, kiedy ktoś kłamie**: *„Syrio mówił, że trzeba patrzeć, a nie tylko widzieć.”* (kanon: nauka Syria)
+  - **SŁOWO NAMIESTNIKA ZA KRÓLA (300-10-06), kto czego uczy:**
+    1. **szpada:** wykuć Aryi lekką klingę według instrukcji Talva (kuje Gendry, przy hartowaniu Mikken; E ~2 smoki, dom królewski);
+    2. **łuk:** Arya już umie, ćwiczy dalej sama;
+    3. **koń zimą i nocą:** ser Rodrik;
+    4. **braavoski:** w rozmowach z Braavosyjczykami (Talvo; tłumacz Ferrego Lanthas od XII);
+    5. **mowa z Lys:** tłumacz Ferrego Lanthas (zna ją);
+    6. **mapy i drogi:** Brynden i Rodrik;
+    7. **pływanie:** czasowy wyjazd tam, gdzie można się tego nauczyć lepiej niż w Winterfell (miejsce i termin do ustalenia);
+    8. **poznawanie kłamstwa:** częściowo Talvo, inni nauczyciele do sprawdzenia.

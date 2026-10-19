@@ -16024,6 +16024,42 @@
    "wraca": "300-10-10",
    "zamyka": "slowo pana: kto uczy miecza",
    "status": "zamkniete 300-10-06 ### SLOWO GRACZA (fakt swiata): w WF JEST braawijski instruktor (mistrz z Braavos przy przybocznej - karta przybocznej 07-12; sprowadzony przez Neste 299), ktory DO TEJ PORY UCZY ARYE - dotad bez imienia w zapisie. Imie (E): TALVO RHESSIN. Prowadzi sciezke 'miecz' Aryi dalej - styl braawijski, lekki. Mowa - braavoski (pan) + wysoki valyrianski od III (Luwin). ### POPRZEDNIO: byl-otw"
+  },
+  {
+   "data": "300-10-06",
+   "co": "SZPADA DLA ARYI wg instrukcji TALVA RHESSINA (slowo Namiestnika za Krola 10-06): lekka klinga braawijska (dlugosc i waga wg Talva, E); kuje GENDRY wieczorami, Mikken przy hartowaniu; stal dobra zamkowa (qohorska jest dla miecza pana); E ~2 smoki z kasy domu krolewskiego. Wlasni - bez rzutu na wykonanie; jakosc - rzut przy odbiorze.",
+   "kto": "GENDRY ; MIKKEN ; TALVO",
+   "kanal": "kuznia WF",
+   "wraca": "300-11-01",
+   "zamyka": "szpada w rekach Aryi",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-06",
+   "co": "ARYA - NAUKA JAZDY ZIMA I NOCA (ser Rodrik) + MAPY I DROGI (Brynden, Rodrik) - slowo Namiestnika 10-06. Rytm do ustalenia przez Rodrika; pierwszy przeglad ~10-20.",
+   "kto": "RODRIK ; BRYNDEN",
+   "kanal": "WF",
+   "wraca": "300-10-20",
+   "zamyka": "rytm nauki ustalony i pierwsze proby",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-06",
+   "co": "ARYA - PLYWANIE: czasowy wyjazd tam, gdzie mozna sie nauczyc lepiej niz w WF (slowo Namiestnika 10-06). Miejsce i termin - do slowa pana (z lady Catelyn).",
+   "kto": "SYMON ; CATELYN",
+   "kanal": "osobiscie",
+   "wraca": "300-10-10",
+   "zamyka": "miejsce i termin",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-06",
+   "co": "ARYA - POZNAWANIE KLAMSTWA: czesciowo Talvo; INNI NAUCZYCIELE DO WERYFIKACJI (slowo Namiestnika 10-06) - kandydaci i ich sprawdzenie (Sten / kontrwywiad). Do slowa pana.",
+   "kto": "SYMON ; STEN",
+   "kanal": "osobiscie",
+   "wraca": "300-10-13",
+   "zamyka": "kandydaci sprawdzeni",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

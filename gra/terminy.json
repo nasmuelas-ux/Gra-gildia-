@@ -11269,9 +11269,9 @@
    "co": "SWIADEK W PRZYSTANI WILKA - OCHRONA DYSKRETNA (rozkaz pana 07-30, ustnie przez jezdzca przybocznej 07-31 rano): BORS wyznacza DWOCH swoich zaufanych z budowy baszty (nie straz, bez barw) - jeden zawsze przy chacie albo przy robocie ojca, noca na zmiane; obcy, ktory pyta o 'nowych', o rodzine z Bialego Portu albo o kogos z Dreadfortu - imie, skad, kiedy - do Borsa, Bors do pana (karta). Lodzie i barki z gory rzeki (od strony Dreadfortu/Boltonow) - patrzec, kto wysiada. Zadnych zmian w zyciu rodziny, nic, co widac. Bez nazwiska swiadka na papierze (obietnica). Do rozmowy Krola (~08-06) i dalej - do slowa pana.",
    "kto": "BORS (+ dwoch jego ludzi); jezdziec przybocznej",
    "kanal": "ustnie; karta Borsa",
-   "wraca": "300-10-06",
+   "wraca": "300-11-06",
    "zamyka": "rozmowa Krola ze swiadkiem odbyta; dalsza ochrona - slowo pana",
-   "status": "otwarte ### 08-06: rozmowa Krola odbyta; dalsza ochrona - do slowa pana (Bors pyta przy pozegnaniu). ### 08-06 SLOWO PANA: OCHRONA DALEJ PRZEZ 2 MIESIACE (do ~10-06) - dwaj ludzie Borsa jak dotad (bez barw, przy chacie i przy robocie ojca, obcy pytajacy - do Borsa, Bors do pana w karcie)."
+   "status": "otwarte ### 08-06: rozmowa Krola odbyta; dalsza ochrona - do slowa pana (Bors pyta przy pozegnaniu). ### 08-06 SLOWO PANA: OCHRONA DALEJ PRZEZ 2 MIESIACE (do ~10-06) - dwaj ludzie Borsa jak dotad (bez barw, przy chacie i przy robocie ojca, obcy pytajacy - do Borsa, Bors do pana w karcie). ### 300-10-06 KARTA BORSA (gra/poczta_300_10_06.md): spokojnie, nikt obcy nie pytal. Nastepna karta ~11-06."
   },
   {
    "data": "300-07-30",
@@ -11674,9 +11674,9 @@
    "co": "KSIEGA MILCZENIA (slowo pana 08-03, rada Sansy; gra/ksiega_milczenia.md): Beron - czesc Korony, przeglad CO PONIEDZIALEK, zmiany rytmu do pana; Lucan - czesc Domu; Willa - rubryka POSLANCY POLUDNIA od karty 09-01 (liczyc poslancow, nie czytac listow). Cykl tygodniowy - po kazdym przegladzie: python3 gra/dzien.py odebrane ID DATA.",
    "kto": "BERON ; LUCAN ; WILLA",
    "kanal": "kancelaria WF; kruk WF-Fosa 08-04",
-   "wraca": "300-10-06",
+   "wraca": "300-10-13",
    "zamyka": "cykl staly - nie zamyka sie (filar); kazdy poniedzialek przeglad",
-   "status": "otwarte - cykl ### 08-11: przeglad poniedzialkowy Berona: bez zmian rytmu - Dolina milczy jak dotad (Gulltown odlozone), Dreadfort - bez odpowiedzi na pytanie Krola (~08-14). Nastepny przeglad 08-18. ### 08-18 przeglad Berona: bez zmian rytmu; Dolina milczy; Dreadfort - odpowiedzial list Krola. Nastepny 08-25. ### 08-25 (poczta_300_08_25.md): przeglad Berona 08-25: rytm bez zmian; Dolina milczy; Dreadfort - tylko listy Krola. Nastepny 09-01. ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych). ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe. ### 09-10: przeglad Berona 09-08 - rytm bez zmian; Dolina milczy; Dreadfort: listy Krola + chlodny list Roose'a (09-05). Nastepny 09-15. ### 09-15 przeglad Berona (ksiega_milczenia.md): Dustin blizej (szybciej, cieplej), Mormont dalej (ton ostrzejszy), Bolton szybciej tam, gdzie tanio (karty lodzi przez jego maestra - nowa droga pisma); Edmure cieplej do siostry; Dolina, Tyrion, Mance - bez zmian. Nastepny 09-22. ### 09-22 przeglad Berona (ksiega_milczenia.md): Krol - 28 dni ciszy; Wyman szybko dla Korony, chlodno dla Domu; Aemon cieplej; Davos w rytmie; BOLTON MILCZY w tygodniu wiesci o flocie syna (sygnal). Nastepny 09-29. ### 300-09-29 TRIAZ: PRZEGLAD ODBYTY (ksiega_milczenia.md, 09-29): Bolton - listy nic, karty maestra jak zawsze; Aemon gorzej; Wyman zawsze z warunkiem. Nastepny 10-06."
+   "status": "otwarte - cykl ### 08-11: przeglad poniedzialkowy Berona: bez zmian rytmu - Dolina milczy jak dotad (Gulltown odlozone), Dreadfort - bez odpowiedzi na pytanie Krola (~08-14). Nastepny przeglad 08-18. ### 08-18 przeglad Berona: bez zmian rytmu; Dolina milczy; Dreadfort - odpowiedzial list Krola. Nastepny 08-25. ### 08-25 (poczta_300_08_25.md): przeglad Berona 08-25: rytm bez zmian; Dolina milczy; Dreadfort - tylko listy Krola. Nastepny 09-01. ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych). ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe. ### 09-10: przeglad Berona 09-08 - rytm bez zmian; Dolina milczy; Dreadfort: listy Krola + chlodny list Roose'a (09-05). Nastepny 09-15. ### 09-15 przeglad Berona (ksiega_milczenia.md): Dustin blizej (szybciej, cieplej), Mormont dalej (ton ostrzejszy), Bolton szybciej tam, gdzie tanio (karty lodzi przez jego maestra - nowa droga pisma); Edmure cieplej do siostry; Dolina, Tyrion, Mance - bez zmian. Nastepny 09-22. ### 09-22 przeglad Berona (ksiega_milczenia.md): Krol - 28 dni ciszy; Wyman szybko dla Korony, chlodno dla Domu; Aemon cieplej; Davos w rytmie; BOLTON MILCZY w tygodniu wiesci o flocie syna (sygnal). Nastepny 09-29. ### 300-09-29 TRIAZ: PRZEGLAD ODBYTY (ksiega_milczenia.md, 09-29): Bolton - listy nic, karty maestra jak zawsze; Aemon gorzej; Wyman zawsze z warunkiem. Nastepny 10-06. ### 300-10-06 PRZEGLAD BERONA (gra/poczta_300_10_06.md D): Bolton - milczy wobec Namiestnika, Walda odpisala Krolowej; karty lodzi IX/VIII - rzut 56, zwykla roznica; Aemon lepiej; Wyman szybko z warunkami. Nastepny 10-13."
   },
   {
    "data": "300-08-03",
@@ -15492,7 +15492,7 @@
    "kanal": "WF",
    "wraca": "300-10-06",
    "zamyka": "dopisek do kosztorysu na stole pana",
-   "status": "otwarte ### 300-10-05 TRIAZ: w karcie Theomore 10-06."
+   "status": "zamkniete 300-10-06 ### KARTA THEOMORE: dopisek Ulli Kory - golebnik przy kazdym z 6 wezlow ~2 smoki, golebie z BP (Torsen), proby wiosna, zima - kruki i kurierzy; razem ~12 (Kasa 3). Do slowa pana (nowa operacja). ### POPRZEDNIO: byl-otw ### 300-10-05 TRIAZ: w karcie Theomore 10-06."
   },
   {
    "data": "300-09-25",
@@ -15706,9 +15706,9 @@
    "co": "POSELSTWO KOSCI - WYJAZD (slowo pana 09-29): 10 ZOLNIERZY STARKOW (garnizon WF, szare plaszcze, choragiew wilka) + DOWODCA (Rodrik wskazuje) + SER HARWOOD WRZOS (czlowiek Barbrey - zgoda Barbrey krukiem, cicho); NIE Zimowa Straz. Droga: WF -> BP (~5 dni, E) -> statek najety (~40 Kasa 3) -> Waskie Morze i STOPNIE (jesien - ryzyko sztormow; statki rzadko tona - opoznienia) -> SLONECZNA WLOCZNIA (E ~4-5 tyg.) -> list do Oberyna z reki do reki: przejazd przez Czerwone Gory i przelecz Yronwoodow, zgoda na wszystkich OSMIU (Willam Dustin, Ethan Glover, Martyn Cassel, Theo Wull, Mark Ryswell; ser Arthur Dayne -> STARFALL, ser Gerold Hightower -> Stare Miasto, ser Oswell Whent -> Harrenhal przez Edmure'a). Wyjazd z WF ~10-01, BP ~10-06, w Dorne ~XI. Wlasni - bez rzutu; morze - pogoda; przyjecie w Dorne - RZUT na miejscu.",
    "kto": "SER RODRIK (sklad, dowodca) ; HAL + TORSEN (statek) ; GAWEN (Kasa 3) ; BARBREY (Harwood)",
    "kanal": "WF-BP traktem; statek BP-Sloneczna Wlocznia",
-   "wraca": "300-10-06",
+   "wraca": "300-10-08",
    "zamyka": "poselstwo na wodzie (wyplyniecie z BP)",
-   "status": "otwarte ### 09-29 LIST DO OBERYNA (z prosba o zrozumienie - okno pogody) i DARY zatwierdzone (gra/list_do_oberyna_300_09_29.md); bursztyn - Hal na statek w BP. ### 09-29 SNIADANIE - RODRIK: dowodca - BRENN KAMIENIEC (E, sierzant gwardii domowej WF, ~40, sluzyl z Martynem Casselem); dziesieciu wybierze dzis z garnizonu. ### 300-10-01 RANO: POSELSTWO WYJEZDZA Z WF - Brenn Kamieniec + 10, choragiew wilka; z nimi list do Oberyna (pieczec Namiestnika), laska dla Dorana (srebrna obrecz, gotowa), zielnik, futro snieznego lisa, plotno dla Starfall; trumny/plotna i strawa wg kosztorysu. SER HARWOOD - odpowiedz Barbrey ~10-02; jesli zgoda - jedzie z Barrowton prosto do BP (~10-06) i dolacza przy statku. BP ~10-06. ### 300-10-01 STALA ZASADA (kruki na kazda wyprawe): poselstwo bierze klatki z kruczarni BP przy statku (Hal/Torsen) - kartka pana do Hala dzis z poczta Domu. ### 300-10-02: Harwood + 2 ludzi Dustinow do BP ~10-06 (zgoda Barbrey, rzut 94); choragiew Dustinow na trumne Willama i list Barbrey do Oberyna."
+   "status": "otwarte ### 09-29 LIST DO OBERYNA (z prosba o zrozumienie - okno pogody) i DARY zatwierdzone (gra/list_do_oberyna_300_09_29.md); bursztyn - Hal na statek w BP. ### 09-29 SNIADANIE - RODRIK: dowodca - BRENN KAMIENIEC (E, sierzant gwardii domowej WF, ~40, sluzyl z Martynem Casselem); dziesieciu wybierze dzis z garnizonu. ### 300-10-01 RANO: POSELSTWO WYJEZDZA Z WF - Brenn Kamieniec + 10, choragiew wilka; z nimi list do Oberyna (pieczec Namiestnika), laska dla Dorana (srebrna obrecz, gotowa), zielnik, futro snieznego lisa, plotno dla Starfall; trumny/plotna i strawa wg kosztorysu. SER HARWOOD - odpowiedz Barbrey ~10-02; jesli zgoda - jedzie z Barrowton prosto do BP (~10-06) i dolacza przy statku. BP ~10-06. ### 300-10-01 STALA ZASADA (kruki na kazda wyprawe): poselstwo bierze klatki z kruczarni BP przy statku (Hal/Torsen) - kartka pana do Hala dzis z poczta Domu. ### 300-10-02: Harwood + 2 ludzi Dustinow do BP ~10-06 (zgoda Barbrey, rzut 94); choragiew Dustinow na trumne Willama i list Barbrey do Oberyna. ### 300-10-06 POSELSTWO W BP (wlasni, bez rzutu; pogoda dobra): Brenn + 10 doszli ~10-06 rano; ser Harwood + 2 ludzi Dustinow juz czekaja; statek 'Morska Klacz' (kpt. Jorund Sol) - zaladunek, klatki z krukami BP (Hal/Torsen); wyplyniecie ~10-08 z odplywem. Dorne ~XI."
   },
   {
    "data": "300-09-29",
@@ -15834,7 +15834,7 @@
    "kanal": "kancelaria WF (polecenie przez Aldwina/kartka pana)",
    "wraca": "300-10-06",
    "zamyka": "porownanie w ksiedze milczenia",
-   "status": "otwarte"
+   "status": "zamkniete 300-10-06 ### PORownanie w ksiedze milczenia - RZUT 56: trzy lodzie mniej (wyciagniete na zime), nic nowego na wodzie. Beron: 'Nic nie przyplynelo ani nie odplynelo, czego nie bylo w sierpniu.' ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-10-01",
@@ -16006,6 +16006,15 @@
    "wraca": "300-10-15",
    "zamyka": "Reed w WF, rozmowa",
    "status": "otwarte"
+  },
+  {
+   "data": "300-10-06",
+   "co": "GOLEBNIKI KORONY - KOSZTORYS ULLI KORY ~12 smokow (6 wezlow x ~2, Kasa 3; golebie z BP; proby wiosna). Do slowa pana.",
+   "kto": "SYMON ; GAWEN ; ULLA KORA",
+   "kanal": "karta Theomore / Mala Rada",
+   "wraca": "300-10-10",
+   "zamyka": "slowo pana na kosztorys",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [
@@ -16116,7 +16125,7 @@
     "dzien_miesiaca": 6
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-09-06",
+   "ostatnio_odebrane": "300-10-06",
    "zrodlo": "terminarz_budow_300_04.md"
   },
   {
@@ -16128,7 +16137,7 @@
     "dzien_miesiaca": 6
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-09-06",
+   "ostatnio_odebrane": "300-10-06",
    "zrodlo": "terminarz_budow_300_04.md"
   },
   {
@@ -16228,7 +16237,7 @@
     "dzien_miesiaca": 6
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-09-06",
+   "ostatnio_odebrane": "300-10-06",
    "zrodlo": "rozkaz pana 300-06-05"
   },
   {

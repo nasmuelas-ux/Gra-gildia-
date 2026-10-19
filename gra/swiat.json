@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 10,
-  "dzien": 4,
+  "dzien": 5,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "rano",
  "sezon": "zima (300)",
- "pogoda": "RZUT 24 (300-10-04): ZLE - mgla i marznaca mzawka od switu (E); kruki dopiero od poludnia; trakty sliskie.",
- "dzien_tygodnia_nr": 6,
+ "pogoda": "RZUT 85 (300-10-05): BARDZO DOBRZE - mroz, slonce, czyste niebo, bez wiatru (E); kruki od switu; trakty twarde.",
+ "dzien_tygodnia_nr": 7,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

@@ -2987,9 +2987,9 @@
    "data": "300-03-17",
    "kto": "HAL SIEROTA (kantor Bialy Port)",
    "kanal": "na miejscu / ksiega zaliczek",
-   "wraca": "300-10-05",
+   "wraca": "300-11-05",
    "zamyka": "nie zamyka sie - ma trwac, dopoki nasluch nie da nazwiska",
-   "status": "otwarte ### DATA 06-01: kontrola przy meldunku z Rozdroza (Deron, 06-16), potem z kazdym meldunkiem. ### 08-15: dyspozycja stala, bez zmian; nastepny przeglad 08-22. ### 08-22 (poczta_300_08_22.md): wyplata zeszla 08-14 jak zawsze (Hal); dyspozycja stala; nastepny przeglad z bilansem Hala. ### 09-05 (poczta_300_09_05.md): wyplata zeszla 09-01 jak zawsze; dyspozycja stala; przeglad z bilansem IX.",
+   "status": "otwarte ### DATA 06-01: kontrola przy meldunku z Rozdroza (Deron, 06-16), potem z kazdym meldunkiem. ### 08-15: dyspozycja stala, bez zmian; nastepny przeglad 08-22. ### 08-22 (poczta_300_08_22.md): wyplata zeszla 08-14 jak zawsze (Hal); dyspozycja stala; nastepny przeglad z bilansem Hala. ### 09-05 (poczta_300_09_05.md): wyplata zeszla 09-01 jak zawsze; dyspozycja stala; przeglad z bilansem IX. ### 300-10-05 TRIAZ: wyplata X poszla co do dnia (dyspozycja stala); nastepna 11-05.",
    "co": "WYPLATY NA ZNAK MILCZACEJ REKI IDA DALEJ BEZ ZMIANY - dyspozycja stala. Co do dnia, ta sama kwota, to samo miejsce, zaden pisarz nie wie dlaczego. ⚠ W DNIU, W KTORYM WYPLATA NIE ZEJDZIE, ON PRZESTAJE PRZYCHODZIC I NIE DOWIEMY SIE O NIM JUZ NIGDY NICZEGO. To najtanszy nasluch, jaki ten Dom mial - i placi go ten, kogo sie slucha. ### 06-15: ulewa (rzut 2) - kolumna na Fosie ~06-18; odczyt tam (zasada 34). ### 06-18 (Fosa): wyplata na znak zeszla jak zawsze (ksiega zaliczek Hala, 06-14); kontrola - przy nastepnym meldunku Derona. ### 07-16: dyspozycja stala - bez zmian; kontrola przy nastepnym meldunku Derona."
   },
   {
@@ -8436,7 +8436,7 @@
    "kanal": "poslaniec krannogow / Winterfell",
    "wraca": "300-10-05",
    "zamyka": "Reed w Winterfell albo wiesc, ze nie",
-   "status": "otwarte ### 300-09-20 TRIAZ: liscie opadly, snieg lezy; wiesci od krannogow brak (posel przez Fose/grobla) - ~10-05."
+   "status": "zamkniete 300-10-05 ### WIESC (posel krannog przez Fose, list Garricka z poczta 10-05) - RZUT 90: REED JUZ W DRODZE - wyszedl z Szarej Wody ~10-01 (E) z kilkoma krannogami; przez grobla Fosy i trakt; w WF ~10-15. Posel (O): 'Lord Reed mowi, ze liscie opadly.' ### POPRZEDNIO: byl-otw ### 300-09-20 TRIAZ: liscie opadly, snieg lezy; wiesci od krannogow brak (posel przez Fose/grobla) - ~10-05."
   },
   {
    "data": "300-06-25",
@@ -8965,9 +8965,9 @@
    "co": "SKUP PAPIEROW LWA - BEZ LIMITU (slowo pana 07-09 do Hala): skupowac kwity rekwizycyjne i weksle Lannisportu bez sufitu, przez slupy; papier Lwa jako NACISK POLITYCZNY Korony/Domu - nie martwic sie, czy KP uzna kwity. Hal melduje w bilansie miesiecznym (co, po ile, gdzie). ZASADA 8 (do wiedzy pana, zdanie Hala przyjdzie z odpowiedzia): ta sama gotowka Kasy 1 - wyplata 700 (07-12), pozyczka w materiale dla Cailin, domy dla ludzi Domu. ### 07-11 SLOWO PANA (po radach Lucana): papiery Lwa = ZABEZPIECZENIE POLITYCZNE DOMU (dzwignia Domu na Lannisterow, karta na wszelki wypadek) - zostaja w Kasie 1, Korona ich NIE odkupuje; BEZ SUFITU ('nowy miesiac, nowe pieniadze'); po rozkazie Korony w Dorzeczu Hal NIE ZMIENIA RYTMU (ta sama reka, ten sam kurs). Dom i Korona - zawsze osobny papier, osobna reka. ### 07-13 KROL (rzut 35, jedna konsekwencja): Korona NIE odkupuje; Dom trzyma; W DORZECZU (Rozdroze, Maidenpool - tam, gdzie wisi slup Krola) SKUP STAJE do wyjscia garnizonow; weksle Lannisportu przez Braavos - bez zmian; uzycie papierow w sprawach Korony (Harrion, garnizony) - tylko za wiedza Krola, przed. List do Hala - do slowa pana (kruki 07-14). ### 07-13 LIST PANA DO HALA napisany (pieczec Domu): skup w Dorzeczu STOP do wyjscia garnizonow; weksle przez Braavos bez zmian; sortowanie wg dat dalej. Kruk 07-14 o swicie.",
    "kto": "HAL -> placowki (slupy)",
    "kanal": "kruk Winterfell-Bialy Port (list pana dzis)",
-   "wraca": "300-10-05",
+   "wraca": "300-10-07",
    "zamyka": "meldunek w bilansie VII: ile kupiono i ile gotowki zostalo",
-   "status": "otwarte ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana. ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): VII (E): 2 partie kwitow na Rozdrozu PRZED 07-16 (przed listem z wola Krola), potem skup w Dorzeczu stanal; 3 weksle Lannisportu przez Braavos. Kasa 1 trzyma razem 11 partii kwitow + 5 weksli, nominal ~900, zaplacone ~480 (E). ### 08-06 WIECZOR SLOWO PANA: papiery zostaja w Kasie 1, nic nie sprzedawac (zob. 1050). ### 09-05 (poczta_300_09_05.md): w Dorzeczu stoi; przez Braavos +2 weksle; razem 11 partii + 7 weksli, nominal ~1000, zaplacone ~540 (E). Meldunek co miesiac."
+   "status": "otwarte ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana. ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): VII (E): 2 partie kwitow na Rozdrozu PRZED 07-16 (przed listem z wola Krola), potem skup w Dorzeczu stanal; 3 weksle Lannisportu przez Braavos. Kasa 1 trzyma razem 11 partii kwitow + 5 weksli, nominal ~900, zaplacone ~480 (E). ### 08-06 WIECZOR SLOWO PANA: papiery zostaja w Kasie 1, nic nie sprzedawac (zob. 1050). ### 09-05 (poczta_300_09_05.md): w Dorzeczu stoi; przez Braavos +2 weksle; razem 11 partii + 7 weksli, nominal ~1000, zaplacone ~540 (E). Meldunek co miesiac. ### 300-10-05 TRIAZ: w bilansie Hala IX (doszedl 10-05) bez nowej decyzji - przeglad z Halem/Lucanem ~10-07."
   },
   {
    "data": "300-07-09",
@@ -9316,9 +9316,9 @@
    "co": "IZBA ROZRACHUNKOWA DOMU (oddzielna pozycja w obrotach, pan 07-11; wdraza LUCAN): LIST IZBY (wplata w punkcie A, wyplata w B, dwie pieczecie, numer, ksiega lustrzana), grosz od przelewu, rozliczenie miedzy punktami raz w miesiacu (moneta tylko za roznice), limit listu wg monety w punkcie; zasada: nie pozyczamy z cudzego. Start: BIALY PORT - RIVERRUN (Lyman) od IX; potem Seagard, Fosa, Winterfell, Braavos, Pentos. KROK 1: karta izby od Lucana do Hala ~07-20; KROK 2: rezerwy monety w punktach - Hal ~08-05; KROK 3: proba od IX. Wlasni - bez rzutu; zaufanie kupcow - rzut przy pierwszym miesiacu. UDZIAL LUCANA: 10% zysku netto obu linii przez 1 rok (zgoda pana 07-11), kwartalnie z ksiegi Hala, bez strat.",
    "kto": "LUCAN (wdrozenie) + HAL (skarbnik) + LYMAN (Riverrun) + TAM (wynik)",
    "kanal": "kruk Winterfell-BP-Riverrun",
-   "wraca": "300-10-05",
+   "wraca": "300-10-07",
    "zamyka": "karta izby + rezerwy Hala; pierwszy przelew w IX",
-   "status": "otwarte ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana. ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): KROK 2: rezerwy monety w punktach (E) - BP 400, Riverrun 250 (Lyman); moneta lezy, nie wydana. KROK 3: proba od IX. ### 09-05 (poczta_300_09_05.md): krok 3: pierwszy przelew BP->Riverrun w IX (E: 60 smokow)."
+   "status": "otwarte ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana. ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): KROK 2: rezerwy monety w punktach (E) - BP 400, Riverrun 250 (Lyman); moneta lezy, nie wydana. KROK 3: proba od IX. ### 09-05 (poczta_300_09_05.md): krok 3: pierwszy przelew BP->Riverrun w IX (E: 60 smokow). ### 300-10-05 TRIAZ: w bilansie Hala IX (doszedl 10-05) bez nowej decyzji - przeglad z Halem/Lucanem ~10-07."
   },
   {
    "data": "300-07-11",
@@ -9640,9 +9640,9 @@
    "co": "MALA OBECNOSC DOMU NA ZACHODZIE (zgoda pana 07-15, model Lucana: gra/model_malej_obecnosci_domu_300_07.md): HAL - kosztorys i kolejnosc; KANTOREK BARROWTON (czlowiek Domu z rodzina); ZNAKI: Torrhen's Square (Tallhart), Deepwood (Glover), Kamienny Brzeg (przy Corwinie), Dustinport (przy Donnelu). Wspolnicy znakow i zgoda lordow miejsca - RZUT przy odpowiedziach. Lucan z Halem w BP od 08-05 (razem z Lancuchem Zimowym). Willa czyta ksiegi, nie obsadza.",
    "kto": "HAL (+ LUCAN)",
    "kanal": "kruk Winterfell-Bialy Port; listy do lordow zachodu",
-   "wraca": "300-10-05",
+   "wraca": "300-10-07",
    "zamyka": "kosztorys Hala + pierwszy kantorek/znak uruchomiony",
-   "status": "otwarte ### 08-10: kosztorys Hala - z meldunkiem Hala ~08-11 (kanal Domu, BP). ### 08-11: Hal 08-11: kosztorys kantorka Barrowton i czterech znakow - z ksiegi po VIII, w bilansie ~09-05 (zasada 43). ### 09-05 (poczta_300_09_05.md): kosztorys Hala: ~45 jednorazowo + ~8/mies. (E); zgoda lordow na znaki - rzut przy listach."
+   "status": "otwarte ### 08-10: kosztorys Hala - z meldunkiem Hala ~08-11 (kanal Domu, BP). ### 08-11: Hal 08-11: kosztorys kantorka Barrowton i czterech znakow - z ksiegi po VIII, w bilansie ~09-05 (zasada 43). ### 09-05 (poczta_300_09_05.md): kosztorys Hala: ~45 jednorazowo + ~8/mies. (E); zgoda lordow na znaki - rzut przy listach. ### 300-10-05 TRIAZ: w bilansie Hala IX (doszedl 10-05) bez nowej decyzji - przeglad z Halem/Lucanem ~10-07."
   },
   {
    "data": "300-07-16",
@@ -10036,9 +10036,9 @@
    "co": "HAL - KONTYNUUJE SPIENEZANIE TOWARU KORONY TERAZ (slowo pana 07-19, pismo Skarbnika; kruk BP 07-19 wieczorem): na dotychczasowych warunkach (kwit skladowy, cena oglaszona, prowizja jawna), bez czekania na spis; wolumen, nie lepsza cena; do czasu Faktora Krolewskiego.",
    "kto": "GAWEN -> HAL (Bialy Port)",
    "kanal": "kruk Winterfell-Bialy Port",
-   "wraca": "300-10-05",
+   "wraca": "300-10-07",
    "zamyka": "meldunek przy bilansie VII (ile spienezone i za ile) - wynik rynku RZUT przy bilansie",
-   "status": "otwarte - pismo 07-19 ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana. ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): rzut 22 ZLE: lato - futra w skladzie do jesieni (Braavos X-XI), skory i welna powoli; zaliczka 6/10 za skory i futra WYPLACONA wg kwitu (u Gawena); 4/10 dopiero jesienia (\"Skarbnik niech nie liczy na moje 4/10 przy pierwszej racie za zboze\"). Licytacja welny atelier 96,40 zamiast 113,99 (E, -17,59) - Gawen koryguje w bilansie Korony 08-10. Sprzedaz trwa. ### 09-05 (poczta_300_09_05.md): VIII RZUT 55: wg modelu, welna wolno; tran od IX nie na sprzedaz."
+   "status": "otwarte - pismo 07-19 ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana. ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): rzut 22 ZLE: lato - futra w skladzie do jesieni (Braavos X-XI), skory i welna powoli; zaliczka 6/10 za skory i futra WYPLACONA wg kwitu (u Gawena); 4/10 dopiero jesienia (\"Skarbnik niech nie liczy na moje 4/10 przy pierwszej racie za zboze\"). Licytacja welny atelier 96,40 zamiast 113,99 (E, -17,59) - Gawen koryguje w bilansie Korony 08-10. Sprzedaz trwa. ### 09-05 (poczta_300_09_05.md): VIII RZUT 55: wg modelu, welna wolno; tran od IX nie na sprzedaz. ### 300-10-05 TRIAZ: w bilansie Hala IX (doszedl 10-05) bez nowej decyzji - przeglad z Halem/Lucanem ~10-07."
   },
   {
    "data": "300-07-19",
@@ -11161,9 +11161,9 @@
    "co": "SKORY ZBROJOWNI - GARBOWANIE PRZYDZIALU (~480, E): Orwyl potrzebuje skory wyprawionej, nie surowej; surowe w lipcowym cieple trzeba solic albo oddac garbarzowi szybko (zasada 8). KTO GARBUJE - do slowa pana: garbarnia Domu (umowa 07-12; usluga dla Korony na kwit) albo garbarz Zimowego Miasta (patronat). Placi Kasa 3 - kwota z kwitu garbarza (zasada 43). Garbowanie ~6-8 tygodni (E); pierwsze pasy i obicia ~IX.",
    "kto": "ORWYL (sol, zaladunek) + GAWEN (kwit) + HAL (garbarnia Domu)",
    "kanal": "Winterfell",
-   "wraca": "300-10-05",
+   "wraca": "300-10-10",
    "zamyka": "skory u garbarni Domu, kwit u Gawena",
-   "status": "otwarte ### 07-29 SLOWO PANA: GARBARNIA DOMU. Orwyl dzis soli skory w skladzie (sol z zapasu kuchni zamku, na kwit kasztelana); woz Korony z ~480 skorami do garbarni Domu (miejsce wskazuje Hal; kruk do Hala z jutrzejsza poczta); usluga dla Korony po stawce umowy 07-12, kwit garbarni -> Gawen (Kasa 3, zasada 43); garbowanie 6-8 tyg. (E); pierwsze wyroby ~IX. ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana. ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): garbarnia Domu przy Garbarskiej gotowa, kadzie przygotowane; woz z WF jeszcze nie doszedl (~08-08..10); garbowanie 6-8 tyg. od przyjecia (E). ### 08-12: woz z WF do garbarni Domu w BP mial dojsc ~08-08..10 - w meldunku Hala 08-11 brak wzmianki; pytanie z nastepna poczta Domu; garbowanie 6-8 tyg. od przyjecia. ### 08-16 NIE PRZYSZLO, WIADOMO DLACZEGO: kruki ruszyly dopiero w poludnie po nawalnicy; skory zbrojowni - pytanie do Hala z poczta Domu; odpowiedz ~08-20. ### 08-20 woz doszedl 08-09; skory w kadziach garbarni Domu, gotowe ~09-25 (Hal 08-17). ### 300-09-25 TRIAZ: skory wyprawione w garbarni Domu w BP (Hal, wlasni) - idzie najblizszym wozem Domu do WF; kwit garbarni do Gawena. W WF ~10-05 (E)."
+   "status": "otwarte ### 07-29 SLOWO PANA: GARBARNIA DOMU. Orwyl dzis soli skory w skladzie (sol z zapasu kuchni zamku, na kwit kasztelana); woz Korony z ~480 skorami do garbarni Domu (miejsce wskazuje Hal; kruk do Hala z jutrzejsza poczta); usluga dla Korony po stawce umowy 07-12, kwit garbarni -> Gawen (Kasa 3, zasada 43); garbowanie 6-8 tyg. (E); pierwsze wyroby ~IX. ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana. ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): garbarnia Domu przy Garbarskiej gotowa, kadzie przygotowane; woz z WF jeszcze nie doszedl (~08-08..10); garbowanie 6-8 tyg. od przyjecia (E). ### 08-12: woz z WF do garbarni Domu w BP mial dojsc ~08-08..10 - w meldunku Hala 08-11 brak wzmianki; pytanie z nastepna poczta Domu; garbowanie 6-8 tyg. od przyjecia. ### 08-16 NIE PRZYSZLO, WIADOMO DLACZEGO: kruki ruszyly dopiero w poludnie po nawalnicy; skory zbrojowni - pytanie do Hala z poczta Domu; odpowiedz ~08-20. ### 08-20 woz doszedl 08-09; skory w kadziach garbarni Domu, gotowe ~09-25 (Hal 08-17). ### 300-09-25 TRIAZ: skory wyprawione w garbarni Domu w BP (Hal, wlasni) - idzie najblizszym wozem Domu do WF; kwit garbarni do Gawena. W WF ~10-05 (E). ### 300-10-05 TRIAZ: przeglad na Malej Radzie ~10-10."
   },
   {
    "data": "300-07-29",
@@ -11683,9 +11683,9 @@
    "co": "LIST KORONY DO ZELAZNEGO BANKU (slowo pana 08-03; gra/list_bank_braavos_300_08_03.md): odpis ultimatum + 'Polnoc nie jest dluznikiem, dotrzymuje ugod'. Bez zaciagu w Lannisporcie (firewall), bez Domu. W woli Krola 08-01 (rzut 84 'caly swiat') - bez nowego rzutu; PODPIS I PIECZEC KROLA 08-04. Kanal: kruk WF-BP 08-04 -> Hal -> statek -> Nesta wrecza; Braavos ~08-27..30. REAKCJA BANKU - RZUT przy wiesci (najwczesniej koniec IX). ### 08-03 po kolacji SLOWO PANA: pisac Z SZACUNKIEM PO BRAAWOSKU (pisze Symon wlasna reka - biegly, bez rzutu) + akapit: Korona Polnocy liczy na poglebiajaca sie wspolprace z Braavos (handel, zegluga, rzemioslo, wiedza; kupcy, szkutnicy, uczeni mile widziani; wiezi z Bankiem - jesli Bank zechce).",
    "kto": "SYMON (tekst braawoski) ; BERON (odpis we wspolnej) ; KROL (podpis) ; HAL -> NESTA",
    "kanal": "kruk WF-BP + morze BP-Braavos",
-   "wraca": "300-10-05",
+   "wraca": "300-10-07",
    "zamyka": "list podpisany i w drodze; potem reakcja Banku",
-   "status": "otwarte ### 08-04: KROL PODPISAL I DOPISAL WLASNA REKA: 'Polnoc nie zapomina ani dlugow, ani przyjaciol.' Kruk WF-BP po poludniu -> Hal -> statek -> Nesta; Braavos ~08-27..30. Reakcja Banku - rzut przy wiesci. ### 300-09-25 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: odpowiedz Banku idzie statkiem przez Neste; jesienna zegluga (E)."
+   "status": "otwarte ### 08-04: KROL PODPISAL I DOPISAL WLASNA REKA: 'Polnoc nie zapomina ani dlugow, ani przyjaciol.' Kruk WF-BP po poludniu -> Hal -> statek -> Nesta; Braavos ~08-27..30. Reakcja Banku - rzut przy wiesci. ### 300-09-25 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: odpowiedz Banku idzie statkiem przez Neste; jesienna zegluga (E). ### 300-10-05 TRIAZ: w bilansie Hala IX (doszedl 10-05) bez nowej decyzji - przeglad z Halem/Lucanem ~10-07."
   },
   {
    "data": "300-08-03",
@@ -11721,7 +11721,7 @@
    "kanal": "slupy i kruki Korony",
    "wraca": "300-10-05",
    "zamyka": "pierwsza wystawa odbyta, ksiega sprzedazy",
-   "status": "otwarte ### 300-10-01 TRIAZ: wystawa dzis w BP; wynik (odzew kupcow) - RZUT przy karcie Torsena ~10-05."
+   "status": "zamkniete 300-10-05 ### KARTA TORSENA (kruk BP) - RZUT 7 (prog 45): SLABO. Wystawa 10-01: sprzedano ok. 1/5 wystawionego (E); kupcy BP czekaja z zakupem - 'mowia, ze z Reach przyjdzie wiecej i cena spadnie' (Torsen, O). Cena minimalna utrzymana (nie schodzil). Reszta w skladzie BP. Do slowa pana: trzymac cene czy obnizyc (Gawen). ### POPRZEDNIO: byl-otw ### 300-10-01 TRIAZ: wystawa dzis w BP; wynik (odzew kupcow) - RZUT przy karcie Torsena ~10-05."
   },
   {
    "data": "300-08-04",
@@ -11854,9 +11854,9 @@
    "co": "CZTERY RODZINY Z BRAAVOS (przywileje Fosy; bednarz, powroznik, 2 tkaczy - E): PRZEJAZD DARMO statkiem Domu (slowo pana 08-06); z BP dalej na Fose. Nesta zapisuje na statek jesienny. Wlasni - bez rzutu; przyjazd ~IX/X.",
    "kto": "Nesta przez Hala",
    "kanal": "kruk WF-BP 08-07 + statek BP-Braavos",
-   "wraca": "300-10-05",
+   "wraca": "300-10-15",
    "zamyka": "przyjazd na Fose",
-   "status": "otwarte ### 300-09-30 Brak wiesci; statek jesienny Nesty - wiadomosc w liscie Nesty/bilansie Hala IX (~10-05)."
+   "status": "otwarte ### 300-09-30 Brak wiesci; statek jesienny Nesty - wiadomosc w liscie Nesty/bilansie Hala IX (~10-05). ### 300-10-05 TRIAZ: wiesci z Braavos - jesiennym statkiem Nesty ~10-15."
   },
   {
    "data": "300-08-07",
@@ -12007,9 +12007,9 @@
    "co": "SER EDWYLE SZRON - W DUSTINPORCIE: kwatery wg domow; raz w tygodniu w karcie Torrena - kto z kim trzyma w kolumnie (rada Sansy: dziesieciu z Dreadfortu obok ludzi Barbrey). Wlasni - bez rzutu.",
    "kto": "SER EDWYLE SZRON ; TORREN",
    "kanal": "karta Torrena",
-   "wraca": "300-10-05",
+   "wraca": "300-10-12",
    "zamyka": "pierwsza notatka w karcie Torrena po przybyciu kolumny",
-   "status": "otwarte ### 09-05 (poczta_300_09_05.md): pierwsza notatka: dziesieciu z Dreadfortu trzyma sie razem, osobno od ludzi Barbrey; rozkazy bez sporu - 'cisza, ale nie spokoj'."
+   "status": "otwarte ### 09-05 (poczta_300_09_05.md): pierwsza notatka: dziesieciu z Dreadfortu trzyma sie razem, osobno od ludzi Barbrey; rozkazy bez sporu - 'cisza, ale nie spokoj'. ### 300-10-05 TRIAZ: karta Torrena (Dustinport) ~10-12."
   },
   {
    "data": "300-08-07",
@@ -12052,9 +12052,9 @@
    "co": "KTO JEST PRZY DAENERYS (rozkaz pana 08-08: 'musze sie dowiedziec') - LINIA DOMU (Hal -> Nesta, statek): w Braavos kapitanowie i kupcy wracajacy z Zatoki Niewolniczej, Volantis i Qarthu - kto stoi przy krolowej w Meereen (doradcy, rycerze z Westeros, dowodcy, kaplani); sluchac, nie pytac wprost; bez imienia Korony. Odpowiedz - RZUT przy meldunku (obce Essos).",
    "kto": "HAL -> NESTA",
    "kanal": "kruk WF-BP + statek BP-Braavos i z powrotem",
-   "wraca": "300-10-05",
+   "wraca": "300-10-15",
    "zamyka": "meldunek Nesty: kto przy niej",
-   "status": "otwarte ### 300-09-25 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: statek BP-Braavos-BP (~45 dni od ~08-08); sztorm 09-08 na wodach polnocy - zegluga opozniona (E)."
+   "status": "otwarte ### 300-09-25 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: statek BP-Braavos-BP (~45 dni od ~08-08); sztorm 09-08 na wodach polnocy - zegluga opozniona (E). ### 300-10-05 TRIAZ: wiesci z Braavos - jesiennym statkiem Nesty ~10-15."
   },
   {
    "data": "300-08-08",
@@ -12547,9 +12547,9 @@
    "co": "[CYKL] LADY CATELYN - KROTKIE STRESZCZENIE RAZ W TYGODNIU (jej prosba 08-17, po rozmowie w solarze): co dotyczy jej domu i dzieci; bez daru Brana, siatki Willi, tajnej ksiegi.",
    "kto": "SYMON -> CATELYN",
    "kanal": "osobiscie, WF",
-   "wraca": "300-10-05",
+   "wraca": "300-10-12",
    "zamyka": "cykliczne - co niedziele",
-   "status": "otwarte ### 08-31 ODBYTE (solar po septie; Arya-lekcja 12, Sansa, Bran, Rickon, Lyra, list do Jona, miecz rodu). Nastepne - 09-07. ### 08-24 ODBYTE (solar; pan mowil wszystko, co moze, takze o lennie). Nastepne - 08-31. ### 09-07: streszczenie tygodnia odbyte (solar, przed poludniem; Maidenpool/Harrion, Edmure). ### 09-14: streszczenie tygodnia odbyte (solar, wieczorem, z listem Edmure'a). Nastepne - 09-21. ### 09-21 ODBYTE (solar przed sniadaniem: wiesc Wymana o Skagos, zwiad; streszczenie). Nastepne - 09-28. ### 09-28 ODBYTE (solar, po poludniu): wiesc o Harrionie i Maidenpool; reszta - do slowa pana. Nastepne - 10-05."
+   "status": "otwarte ### 08-31 ODBYTE (solar po septie; Arya-lekcja 12, Sansa, Bran, Rickon, Lyra, list do Jona, miecz rodu). Nastepne - 09-07. ### 08-24 ODBYTE (solar; pan mowil wszystko, co moze, takze o lennie). Nastepne - 08-31. ### 09-07: streszczenie tygodnia odbyte (solar, przed poludniem; Maidenpool/Harrion, Edmure). ### 09-14: streszczenie tygodnia odbyte (solar, wieczorem, z listem Edmure'a). Nastepne - 09-21. ### 09-21 ODBYTE (solar przed sniadaniem: wiesc Wymana o Skagos, zwiad; streszczenie). Nastepne - 09-28. ### 09-28 ODBYTE (solar, po poludniu): wiesc o Harrionie i Maidenpool; reszta - do slowa pana. Nastepne - 10-05. ### 300-10-05 STRESZCZENIE TYGODNIA dla Catelyn na stole pana (Beron spisal): Harrion wolny i Rickard cieplo (list do niej); zwiad ~10-08; Roslin - Glebokie Laki i druga wizyta; Arya - szczebel II; Reed w drodze ~10-15; Walda odpisala Roslin. Wrecza pan."
   },
   {
    "data": "300-08-17",
@@ -12583,9 +12583,9 @@
    "co": "[CYKL] SKARB - KARTA WYDATKOW KORONY OBOK WPLYWOW (slowo pana 08-17, rada Gawena): raz w miesiacu, dla Namiestnika i do teki Krola.",
    "kto": "GAWEN",
    "kanal": "na miejscu, WF",
-   "wraca": "300-10-05",
+   "wraca": "300-10-10",
    "zamyka": "cykliczne - 5. dnia miesiaca",
-   "status": "otwarte ### 09-05 (poczta_300_09_05.md): karta VIII na stole: Kasa 3 +1706..+4282 ze zdarzeniami; najwiecej po stronie wydatkow - zold."
+   "status": "otwarte ### 09-05 (poczta_300_09_05.md): karta VIII na stole: Kasa 3 +1706..+4282 ze zdarzeniami; najwiecej po stronie wydatkow - zold. ### 300-10-05 TRIAZ: karta wydatkow IX - Gawen na Mala Rade ~10-10."
   },
   {
    "data": "300-08-17",
@@ -12709,9 +12709,9 @@
    "co": "WZOR II - SCINKA W WILCZYM LESIE (slowo pana 08-20): 2 maszty ~70 stop, dab ~60 pni, sosna ~140 klocow wg spisu mistrza Wymana; sciete przed mrozem, saniami do BP ~XII-I. Kasa 3. Wlasni - bez rzutu.",
    "kto": "GAWEN + drwale domeny",
    "kanal": "na miejscu (Wilczy Las)",
-   "wraca": "300-10-05",
+   "wraca": "300-10-10",
    "zamyka": "meldunek Gawena: ile sciete",
-   "status": "otwarte ### 09-05 (poczta_300_09_05.md): dab 22/60, sosna 48/140, jeden maszt sciety (E)."
+   "status": "otwarte ### 09-05 (poczta_300_09_05.md): dab 22/60, sosna 48/140, jeden maszt sciety (E). ### 300-10-05 TRIAZ: przeglad na Malej Radzie ~10-10."
   },
   {
    "data": "300-08-20",
@@ -12862,9 +12862,9 @@
    "co": "DOM - WIECEJ Z ISTNIEJACYCH: PLAN WZROSTU OBROTU BP I RIVERRUN (slowo pana 08-20, rada Lucana): co blokuje szybszy obrot (sklad, transport, kredyt kupcow); bez nowych placowek. Wlasni - bez rzutu na plan; rynek - rzut przy wyniku.",
    "kto": "HAL + LYMAN OD BRODOW",
    "kanal": "kruk Domu ZM-BP; kruk WF-Riverrun",
-   "wraca": "300-10-05",
+   "wraca": "300-10-07",
    "zamyka": "plan na pismie z bilansem VIII",
-   "status": "otwarte ### 09-05 (poczta_300_09_05.md): Hal/Lyman: sklad BP zapchany (drugi sklad przy Rybnej - propozycja); Riverrun - czeka na Maidenpool; rynek - rzut przy wyniku."
+   "status": "otwarte ### 09-05 (poczta_300_09_05.md): Hal/Lyman: sklad BP zapchany (drugi sklad przy Rybnej - propozycja); Riverrun - czeka na Maidenpool; rynek - rzut przy wyniku. ### 300-10-05 TRIAZ: w bilansie Hala IX (doszedl 10-05) bez nowej decyzji - przeglad z Halem/Lucanem ~10-07."
   },
   {
    "data": "300-08-21",
@@ -13186,9 +13186,9 @@
    "co": "JENIEC Z HARLAW - ODESLANIE PO OKNIE ZELAZNYCH (slowo pana 08-19, C): po koncu IX statkiem kupieckim przez Seagard, bez pisma, ustnie: 'Polnoc nie pali tych, ktorych wyrzuca morze.' Do tego czasu w kuzni portowej Dustinportu pod strazem (po pobiciu przy pochylni).",
    "kto": "THEON ; Seagard (placowka Domu)",
    "kanal": "statek kupiecki Dustinport-Seagard",
-   "wraca": "300-10-05",
+   "wraca": "300-10-08",
    "zamyka": "jeniec na statku; meldunek Theona",
-   "status": "otwarte ### 09-10 SLOWO PANA (kolejnosc 1): jeniec wraca w X Z WORKIEM ZIARNA (E: korzec zyta z komory Dustinportu, Kasa 3, grosz) i z tym samym zdaniem ustnie: 'Polnoc nie pali tych, ktorych wyrzuca morze.' Rozkaz do Theona w paczce 09-10. ### 09-10 SLOWO PANA (Lucan a): worek DLA CZYTELNIKA - przez Seagard statkiem kupieckim, ustnie z imieniem Rodrika Harlawa: 'Dla Czytelnika, od Polnocy, ktora nie pali tych, ktorych wyrzuca morze.' Bez pieczeci Korony."
+   "status": "otwarte ### 09-10 SLOWO PANA (kolejnosc 1): jeniec wraca w X Z WORKIEM ZIARNA (E: korzec zyta z komory Dustinportu, Kasa 3, grosz) i z tym samym zdaniem ustnie: 'Polnoc nie pali tych, ktorych wyrzuca morze.' Rozkaz do Theona w paczce 09-10. ### 09-10 SLOWO PANA (Lucan a): worek DLA CZYTELNIKA - przez Seagard statkiem kupieckim, ustnie z imieniem Rodrika Harlawa: 'Dla Czytelnika, od Polnocy, ktora nie pali tych, ktorych wyrzuca morze.' Bez pieczeci Korony. ### 300-10-05 TRIAZ: razem z odpowiedzia Theona ~10-08."
   },
   {
    "data": "300-08-27",
@@ -13294,9 +13294,9 @@
    "co": "HASLO 'WILK RZADZI, FOSA BUDUJE' (slowo pana 08-27, rada Lucana 3): kupcy Domu w BP puszczaja w obieg ta sama droga, ktora przyszlo 'Korona, ktora trzyma Tally'. Wlasni - bez rzutu przy puszczeniu; czy sie przyjmie - RZUT przy raporcie Willi/Hala.",
    "kto": "LUCAN -> HAL (kruk Domu, szyfr) ; kupcy Domu BP",
    "kanal": "kruk Domu WF-BP",
-   "wraca": "300-10-05",
+   "wraca": "300-10-07",
    "zamyka": "odzew z BP/KP: czy haslo krazy (rzut)",
-   "status": "otwarte ### 300-09-20 TRIAZ: odzew z BP/KP (rzut) - po miesiacu obiegu, ~10-05."
+   "status": "otwarte ### 300-09-20 TRIAZ: odzew z BP/KP (rzut) - po miesiacu obiegu, ~10-05. ### 300-10-05 TRIAZ: w bilansie Hala IX (doszedl 10-05) bez nowej decyzji - przeglad z Halem/Lucanem ~10-07."
   },
   {
    "data": "300-08-27",
@@ -13357,9 +13357,9 @@
    "co": "MIECZ RODU TALLY - dla pana, jednoreczny, plomien i pioro na glowicy/jelcu, bez zlota; kuje GENDRY wieczorami na wlasnym palenisku (zgoda Mikkena, rzut 82; Mikken przy hartowaniu). STAL QOHORSKA (najlepsza) przez Hala/Neste w Braavos - kruk Domu 08-29; E ~5 smokow, statkiem ~10-05. Wegiel i praca ~2, rekojesc i pochwa u rymarza ZM ~1/2. RAZEM ~7,5 smoka z SAKIEWKI PANA przy odbiorze. Czas: ~5-6 tyg. od stali (~11-15). Wykonanie - RZUT przy kuciu/hartowaniu.",
    "kto": "GENDRY ; MIKKEN ; HAL/NESTA (stal)",
    "kanal": "na miejscu; kruk Domu WF-BP + statek Braavos",
-   "wraca": "300-10-05",
+   "wraca": "300-10-15",
    "zamyka": "stal w kuzni; potem miecz w rekach pana",
-   "status": "otwarte"
+   "status": "otwarte ### 300-10-05 TRIAZ: wiesci z Braavos - jesiennym statkiem Nesty ~10-15."
   },
   {
    "data": "300-08-28",
@@ -14068,9 +14068,9 @@
    "co": "ZARZADCA FILII BRAAVOS - VELLAN TORRE (E; propozycja Nesty, zgoda pana 09-05): umowa 5 lat, udzial w zysku filii, nie krewny (wzor filii 06-30). Hal papier, Nesta wprowadza.",
    "kto": "HAL + NESTA",
    "kanal": "statek BP-Braavos",
-   "wraca": "300-10-05",
+   "wraca": "300-10-15",
    "zamyka": "umowa podpisana w Braavos",
-   "status": "otwarte ### 300-09-30 Brak wiesci; umowa w Braavos - wiadomosc w liscie Nesty/bilansie Hala IX (~10-05)."
+   "status": "otwarte ### 300-09-30 Brak wiesci; umowa w Braavos - wiadomosc w liscie Nesty/bilansie Hala IX (~10-05). ### 300-10-05 TRIAZ: wiesci z Braavos - jesiennym statkiem Nesty ~10-15."
   },
   {
    "data": "300-09-05",
@@ -14131,9 +14131,9 @@
    "co": "ZBOZE Z REACH +10 000 KORCY PONAD KONTRAKT (slowo pana 09-06, wariant a): list Gawena do Olenny przez Hala (szyfr) i przedstawiciela w Highgarden - ~22 jelenie/korzec z frachtem, dostawa z ostatnimi statkami Redwyne'ow do konca X albo pierwsze wiosenne, zaplata przy wadze, 1/3 drewnem budulcowym. Zgoda i cena Olenny - RZUT przy odpowiedzi.",
    "kto": "GAWEN -> HAL -> OLENNA",
    "kanal": "kruk WF-BP (09-06) + przedstawiciel w Highgarden",
-   "wraca": "300-10-05",
+   "wraca": "300-10-07",
    "zamyka": "odpowiedz Olenny: tak/nie, cena, kiedy",
-   "status": "otwarte"
+   "status": "otwarte ### 300-10-05 TRIAZ: w bilansie Hala IX (doszedl 10-05) bez nowej decyzji - przeglad z Halem/Lucanem ~10-07."
   },
   {
    "data": "300-09-06",
@@ -14329,9 +14329,9 @@
    "co": "MLEKO MAKOWE Z REACH (slowo pana 09-09: 'Pytanie do Reach, Fosa sie dolaczy'): list Gawena do Olenny kanalem zbozowym (Hal, szyfr, przedstawiciel w Highgarden) - 200 flakonow dla Korony + ~50 dla lenna Fosy; dostawa ze statkami Redwyne'ow po zboze do konca X; ~0,25 smoka/flakon (E): Korona ~50 (Kasa 3), Fosa ~12,5 (Kasa 2) przy dostawie. Zgoda i cena Olenny - RZUT przy odpowiedzi.",
    "kto": "GAWEN -> HAL -> przedstawiciel -> OLENNA",
    "kanal": "kruk WF-BP 09-09 + statek",
-   "wraca": "300-10-05",
+   "wraca": "300-10-07",
    "zamyka": "odpowiedz Olenny (ile, cena, kiedy) - wtedy zdarzenie Kasa 3/Kasa 2",
-   "status": "otwarte"
+   "status": "otwarte ### 300-10-05 TRIAZ: w bilansie Hala IX (doszedl 10-05) bez nowej decyzji - przeglad z Halem/Lucanem ~10-07."
   },
   {
    "data": "300-09-09",
@@ -14365,9 +14365,9 @@
    "co": "KROLOWA ROSLIN - MATKI POBORU WSCHODU, CIAG DALSZY (sprawa zyje - filar krolowej): odpowiedzi matek i zon przez lordow (cudza wola, dalekie wsie) + PYTANIE KROLOWEJ: 3 ludzi poboru to ostatni synowie u matek (E) - czy ida do Dustinportu jak inni? (do slowa pana / Krola).",
    "kto": "KROLOWA ROSLIN ; lordowie wschodu",
    "kanal": "listy przez lordow",
-   "wraca": "300-10-05",
+   "wraca": "300-10-08",
    "zamyka": "pierwsze odpowiedzi matek (rzut) + slowo pana/Krola o trzech ostatnich synach",
-   "status": "otwarte ### 09-10 SLOWO PANA (sniadanie): 'OSTATNI SYNOWIE ZOSTAJA W DOMU' - trzech wraca do domow; zasada dla poboru Korony: ostatni syn (potwierdzony przez lorda na pismie) nie idzie. Krolowa pisze sama do trzech matek."
+   "status": "otwarte ### 09-10 SLOWO PANA (sniadanie): 'OSTATNI SYNOWIE ZOSTAJA W DOMU' - trzech wraca do domow; zasada dla poboru Korony: ostatni syn (potwierdzony przez lorda na pismie) nie idzie. Krolowa pisze sama do trzech matek. ### 300-10-05 TRIAZ: przeglad listy z Roslin ~10-08."
   },
   {
    "data": "300-09-10",
@@ -14446,9 +14446,9 @@
    "co": "OLENNA - LYS PYTA O POMOST GP (slowo pana 09-10, rada Sansy: TYLKO o pomoscie, NIE o lysenskim kredycie Lwa): (1) od razu - Hendry/Garrick mowia dowodcy eskorty Redwyne'ow przy pierwszym statku w GP: dwaj kapitanowie z Lys pytali w BP o glebokosc ujscia i o pomost (VIII); przymus lodmanski od ~09-15; (2) list Gawena do Olenny kanalem zbozowym (Hal, przedstawiciel), w tym samym rzucie co mak i +10 000 korcy. Reakcja Olenny / eskorty - RZUT przy odpowiedzi.",
    "kto": "HENDRY + GARRICK (eskorta w GP) ; GAWEN -> HAL -> przedstawiciel -> OLENNA",
    "kanal": "kruk WF-Fosa 09-10 (szyfr); kruk WF-BP",
-   "wraca": "300-10-05",
+   "wraca": "300-10-07",
    "zamyka": "odpowiedz Olenny / reakcja eskorty (rzut)",
-   "status": "otwarte"
+   "status": "otwarte ### 300-10-05 TRIAZ: w bilansie Hala IX (doszedl 10-05) bez nowej decyzji - przeglad z Halem/Lucanem ~10-07."
   },
   {
    "data": "300-09-10",
@@ -14565,7 +14565,7 @@
    "kanal": "kruki WF-lordowie",
    "wraca": "300-10-05",
    "zamyka": "pierwsze odpowiedzi lordow (rzut) - kto chce domowic i ile",
-   "status": "otwarte"
+   "status": "zamkniete 300-10-05 ### ODPOWIEDZI LORDOW (zebrane przez Berona do 10-05) - RZUT 88: WIEKSZOSC + ZAMOWIENIA. Odpisalo 9 z 12 (E; milcza: Bolton, Umber - wiesci z gor wolno, Karstark - list do Catelyn zamiast). PROSZA KORONE O DOMOWIENIE (E): Cerwyn ~800 korcy, Tallhart ~1200, Ryswell ~600, Flint z Palca ~300 - razem ~2900 korcy. Do slowa pana (Gawen: skad - Reach +10 000, Illyria; cena; zadatek). ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-09-12",
@@ -14583,7 +14583,7 @@
    "kanal": "na miejscu (domena)",
    "wraca": "300-10-05",
    "zamyka": "zastepca wskazany + odpowiedz Bertrama (rzut)",
-   "status": "otwarte ### 300-09-20 TRIAZ: Edric - zastepca w Owsianych Polach po mlocce (~09-25), na Malej Radzie ~09-26; potem rozmowa z Bertramem (rzut). ### 300-09-26 TRIAZ: Edric w WF na Malej Radzie - kandydat na zastepce soltysa na Radzie; odpowiedz Bertrama - rzut potem. ### 09-26 MALA RADA - NOMINACJA PANA: WAT SIWY (E) zastepca soltysa Owsianych Pol. Teraz pytanie do BERTRAMA WOLNEGO (faktor w Cailin) - Edric po powrocie do domeny (po sniezycy); odpowiedz - RZUT. ### 300-10-03 TRIAZ: Edric 10-02 z Krolowa w Glebokich Lakach; do Bertrama Wolnego jedzie 10-04 (E); odpowiedz - RZUT ~10-05."
+   "status": "zamkniete 300-10-05 ### EDRIC U BERTRAMA WOLNEGO 10-04 (Owsiane Pola) - RZUT 56 (prog 45): ZGODA. Bertram przyjmuje urzad stalego faktora krolewskiego w Cailin; warunek (O): 'Wat Siwy zostaje w Owsianych Polach na moim miejscu, nie kto inny.' Nominacja Namiestnika - do slowa pana; potwierdzenie Krola po powrocie. ### POPRZEDNIO: byl-otw ### 300-09-20 TRIAZ: Edric - zastepca w Owsianych Polach po mlocce (~09-25), na Malej Radzie ~09-26; potem rozmowa z Bertramem (rzut). ### 300-09-26 TRIAZ: Edric w WF na Malej Radzie - kandydat na zastepce soltysa na Radzie; odpowiedz Bertrama - rzut potem. ### 09-26 MALA RADA - NOMINACJA PANA: WAT SIWY (E) zastepca soltysa Owsianych Pol. Teraz pytanie do BERTRAMA WOLNEGO (faktor w Cailin) - Edric po powrocie do domeny (po sniezycy); odpowiedz - RZUT. ### 300-10-03 TRIAZ: Edric 10-02 z Krolowa w Glebokich Lakach; do Bertrama Wolnego jedzie 10-04 (E); odpowiedz - RZUT ~10-05."
   },
   {
    "data": "300-09-12",
@@ -14617,9 +14617,9 @@
    "co": "SZEF BEZPIECZENSTWA DOMU TALLY (slowo pana 09-13: 'zatrudniam szefa bezpieczenstwa Domu - on bedzie zarzadzal jego bezpieczenstwem'): nowy urzad Domu (Kasa 1), pod panem; zakres: kantory i placowki (BP, Braavos, Pentos, Seagard...), ladunki i skarbczyki, ludzie Domu, ochrona przed trucizna/kradzieza/podstepem (Lys); wspolpraca: STEN (przyboczna - osoba pana i rodu), WILLA (wywiad - firewall: szef dostaje od niej tylko ostrzezenia), HAL (kantor). Sam najmuje ludzi lokalnie wedlug potrzeby, w budzecie. KANDYDACI (Sten, E): (1) Gerold Popiol, (2) Torvald Siwek - b. sierzant strazy portu BP, (3) Ysilla z Braavos - b. strazniczka skarbca domu Prestayn (przez Neste). Wybor - slowo pana; zgoda kandydata - RZUT przy rozmowie/liscie.",
    "kto": "SYMON ; STEN (kandydaci)",
    "kanal": "WF",
-   "wraca": "300-10-05",
+   "wraca": "300-10-10",
    "zamyka": "WERYFIKACJA 4-STOPNIOWA (stala zasada 09-16): Willa (rzut ~09-25) -> kontrwywiad (rzut ~09-28) -> Sten -> pan -> oferta Hala -> zgoda Torvalda (rzut)",
-   "status": "otwarte ### 09-13 SLOWO PANA: TORVALD SIWEK - ale NAJPIERW sprawdzenie przez Wille (po cichu); potem oferta przez Hala w BP + slowo grzecznosci do Wymana. ### 09-16 STALA ZASADA: weryfikacja kluczowych - Willa, kontrwywiad, Sten, pan (po kolei)."
+   "status": "otwarte ### 09-13 SLOWO PANA: TORVALD SIWEK - ale NAJPIERW sprawdzenie przez Wille (po cichu); potem oferta przez Hala w BP + slowo grzecznosci do Wymana. ### 09-16 STALA ZASADA: weryfikacja kluczowych - Willa, kontrwywiad, Sten, pan (po kolei). ### 300-10-05 TRIAZ: przeglad na Malej Radzie ~10-10."
   },
   {
    "data": "300-09-13",
@@ -15022,9 +15022,9 @@
    "co": "CZLOWIEK Z MURU DO LUPACZY STANNISA (slowo pana 09-18, prosba Davosa): list do Aemona/Clydasa - Mur wskazuje; wsiada na kadlub Wymana przy Wschodniej Strazniy ~XI. Odpowiedz Muru - RZUT.",
    "kto": "SYMON -> AEMON/CLYDAS",
    "kanal": "kruk WF-Czarny Zamek 09-19",
-   "wraca": "300-10-05",
+   "wraca": "300-10-08",
    "zamyka": "imie czlowieka z Muru",
-   "status": "otwarte ### 300-10-01 ODPOWIEDZ MURU (CLYDAS za Aemona) - RZUT 27 (prog 45; pasmo 25-49): bedzie ktos, ale POZNIEJ (~XII) - 'z tych, co znaja Wschodnia Straznice, nikt nie moze teraz zejsc' (O). Kadlub Wymana przy Wschodniej Straznicy ~XI - NIE ZGRA SIE. Do slowa pana: czekac do XII, inny statek, czy inny czlowiek. ### 300-10-01 SLOWO PANA: 'A moze ktos ze strazy?' - zamiast brata Nocnej Strazy ktos z NASZEJ strazy (Korona) do nauki lupania smoczego szkla u ludzi Stannisa; Rodrik wskazuje czlowieka z rekami do kamienia; Hal pyta kapitana Wymana, gdzie kadlub moze go wziac (BP czy Wschodnia Straznica). Clydas - czlowiek Muru w XII zostaje jako drugi (list pana)."
+   "status": "otwarte ### 300-10-01 ODPOWIEDZ MURU (CLYDAS za Aemona) - RZUT 27 (prog 45; pasmo 25-49): bedzie ktos, ale POZNIEJ (~XII) - 'z tych, co znaja Wschodnia Straznice, nikt nie moze teraz zejsc' (O). Kadlub Wymana przy Wschodniej Straznicy ~XI - NIE ZGRA SIE. Do slowa pana: czekac do XII, inny statek, czy inny czlowiek. ### 300-10-01 SLOWO PANA: 'A moze ktos ze strazy?' - zamiast brata Nocnej Strazy ktos z NASZEJ strazy (Korona) do nauki lupania smoczego szkla u ludzi Stannisa; Rodrik wskazuje czlowieka z rekami do kamienia; Hal pyta kapitana Wymana, gdzie kadlub moze go wziac (BP czy Wschodnia Straznica). Clydas - czlowiek Muru w XII zostaje jako drugi (list pana). ### 300-10-05 TRIAZ: Hal pyta kapitana Wymana - odpowiedz ~10-08."
   },
   {
    "data": "300-09-18",
@@ -15411,7 +15411,7 @@
    "kanal": "kurier Willi trakt WF-BP (do rak wlasnych)",
    "wraca": "300-10-05",
    "zamyka": "Hal i Torsen wiedza, ze to falsz, przed 10-04",
-   "status": "otwarte ### 09-24 SLOWO PANA: HAL dostaje prawde SZYFREM DOMU, kruk Domu WF-BP (szyfruje sam pan, 09-24) - kruk 2 dni -> Hal wie ~09-26, przed noca A z zapasem. Szyfr chroni tresc (zasada 08-21). Kurierowi Willi zostaje: pismo C + slowo do TORSENA (~10-03, przed noca C 10-08/09 - zdazy). ### 09-25 PISMO C PRZEKAZANE WILLI (izba w ZM, zgodnie ze slowem pana 09-24 opcja B). Kurier Willi (jej czlowiek z drogi z Fosy, E) wyjezdza 09-26 o swicie traktem do BP; ~8 dni (E) -> BP ~10-03/04; Torsen dostaje pismo C i slowo 'to przyneta, nic nie robic, w noc 10-08/09 przy Rybnej nic Korony'. Wlasni - bez rzutu; droga - pogoda. ### 300-09-26 TRIAZ: SNIEZYCA: kurier Willi nie rusza dzis - wyjazd 09-27 o swicie; BP ~10-04/05 (przed noca C 10-08/09 - zdazy)."
+   "status": "zamkniete 300-10-05 ### Kurier Willi w BP 10-04 wieczorem (pogoda - drogi przejezdne): pismo C u Torsena do rak wlasnych, slowa dla Torsena i Hala przekazane. Wlasni - bez rzutu. Noce kanarka 10-04/05 ... 10-10 - wynik ~10-13. ### POPRZEDNIO: byl-otw ### 09-24 SLOWO PANA: HAL dostaje prawde SZYFREM DOMU, kruk Domu WF-BP (szyfruje sam pan, 09-24) - kruk 2 dni -> Hal wie ~09-26, przed noca A z zapasem. Szyfr chroni tresc (zasada 08-21). Kurierowi Willi zostaje: pismo C + slowo do TORSENA (~10-03, przed noca C 10-08/09 - zdazy). ### 09-25 PISMO C PRZEKAZANE WILLI (izba w ZM, zgodnie ze slowem pana 09-24 opcja B). Kurier Willi (jej czlowiek z drogi z Fosy, E) wyjezdza 09-26 o swicie traktem do BP; ~8 dni (E) -> BP ~10-03/04; Torsen dostaje pismo C i slowo 'to przyneta, nic nie robic, w noc 10-08/09 przy Rybnej nic Korony'. Wlasni - bez rzutu; droga - pogoda. ### 300-09-26 TRIAZ: SNIEZYCA: kurier Willi nie rusza dzis - wyjazd 09-27 o swicie; BP ~10-04/05 (przed noca C 10-08/09 - zdazy)."
   },
   {
    "data": "300-09-24",
@@ -15456,7 +15456,7 @@
    "kanal": "osobiscie, okreg V",
    "wraca": "300-10-05",
    "zamyka": "druga partia kupiona (rzut odzewu)",
-   "status": "otwarte"
+   "status": "zamkniete 300-10-05 ### Gawen zaplacil Hildzie za druga partie na czas, po tej samej cenie (Kasa 3, kwit). Wlasni - bez rzutu. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-09-25",
@@ -15490,9 +15490,9 @@
    "co": "GOLEBNIKI PRZY KRUKARNIACH KORONY (slowo pana 09-25): Ulla Kora + Theomore - dopisek do kosztorysu etapu I: golebnik przy kazdym wezle, skad ptaki (E: z wiosek domeny / przez Neste z Braavos), ile, koszt; zima - kruki, golebie jako druga linia. Wlasni - bez rzutu.",
    "kto": "ULLA KORA ; THEOMORE ; LUWIN",
    "kanal": "WF",
-   "wraca": "300-10-05",
+   "wraca": "300-10-06",
    "zamyka": "dopisek do kosztorysu na stole pana",
-   "status": "otwarte"
+   "status": "otwarte ### 300-10-05 TRIAZ: w karcie Theomore 10-06."
   },
   {
    "data": "300-09-25",
@@ -15526,9 +15526,9 @@
    "co": "ESSOS - CZLOWIEK Z POLNOCY DO BRAAVOS (slowo pana 09-25): przykrywka - niezalezny kupiec z Polnocy (drewno/futra/bursztyn/ryba), NIE faktor Domu; zima - nauka braavoskiego i fachu (Ilario moze uczyc, nie wiedzac po co - O); wyplyniecie wiosna 301. Profil: mlody, piesmienny, liczy, zna jeden towar, bez dlugow, rodzina na Polnocy. Kandydaci - Willa ~10-10.",
    "kto": "WILLA ; SYMON",
    "kanal": "osobiscie ZM",
-   "wraca": "300-10-05",
+   "wraca": "300-10-15",
    "zamyka": "kandydat wskazany; nauka od X",
-   "status": "otwarte ### 09-25 SLOWO PANA: SZYBCIEJ - szukac w BIALYM PORCIE kogos, kto juz zna Braavos i jezyk (nie z linii Nesty, nie z ludzi Domu). Kandydaci ~10-05; statek w X, w Braavos ~XI."
+   "status": "otwarte ### 09-25 SLOWO PANA: SZYBCIEJ - szukac w BIALYM PORCIE kogos, kto juz zna Braavos i jezyk (nie z linii Nesty, nie z ludzi Domu). Kandydaci ~10-05; statek w X, w Braavos ~XI. ### 300-10-05 TRIAZ: wiesci z Braavos - jesiennym statkiem Nesty ~10-15."
   },
   {
    "data": "300-09-25",
@@ -15598,9 +15598,9 @@
    "co": "ZBOZE KUPIONE PRZEZ LORDOW - ODBIOR ALBO DOSTAWA ZA OPLATA (slowo pana 09-26, poprawione na Radzie): list Korony do lordow z zaliczkami (11 kolumn, m.in. Hornwood, Flint, Ryswell): (a) odbior wlasnymi wozami ze skladow Korony, albo (b) Korona dostarcza ZA OPLATA ZA PRZEWOZ (stawka Gawena - E, od korca i mili); termin przed zlym lodem (E ~10-20); czego nie odbiora ani nie zamowia dostawy - lezy w skladzie Korony do wiosny. Gawen pisze, kruki po sniezycy. Odzew lordow - RZUT przy odpowiedziach.",
    "kto": "GAWEN ; ORLAND -> lordowie",
    "kanal": "kruki (od 09-27)",
-   "wraca": "300-10-05",
+   "wraca": "300-10-10",
    "zamyka": "lordowie potwierdzaja odbior albo pozostawienie do wiosny",
-   "status": "otwarte"
+   "status": "otwarte ### 300-10-05 TRIAZ: przeglad na Malej Radzie ~10-10."
   },
   {
    "data": "300-09-26",
@@ -15699,7 +15699,7 @@
    "kanal": "ustnie WF",
    "wraca": "300-10-05",
    "zamyka": "meldunek Stena o Torvaldzie (rzut)",
-   "status": "otwarte"
+   "status": "zamkniete 300-10-05 ### MELDUNEK STENA (ustnie, rano) - RZUT 6 (prog 45): NIEWYJASNIONE. Szczeble 1-2 czyste; Sten (przez czlowieka przybocznej w BP, po cichu): Torvald CO MIESIAC, w pierwszych dniach, nosi sakiewke do domu przy Uliczce Powroznikow w BP i wychodzi bez niej (E: ~1-2 smoki). Czyj dom i za co - Sten nie ustalil; nie pytal. Sten (O): 'Czlowiek, ktory placi co miesiac komus, kogo nie znamy, moze byc winien. A kto jest winien, tego mozna kupic. Albo nic z tego. Nie wiem.' Do slowa pana (rozmowa z Torvaldem - wstrzymana?). ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-09-29",
@@ -15735,7 +15735,7 @@
    "kanal": "kruk WF-Dreadfort",
    "wraca": "300-10-05",
    "zamyka": "odpowiedz Waldy albo nazwane milczenie (rzut)",
-   "status": "otwarte"
+   "status": "zamkniete 300-10-05 ### ODPOWIEDZ WALDY (kruk Dreadfortu, do Roslin) - RZUT 55: JEJ REKA, cieplo, bez polityki: gratuluje Eddarda, pyta o zab i o to, czy spi w nocy; o zimie: 'U nas w Dreadforcie zima zawsze przychodzi wczesniej. Pali sie duzo swiec, lord duzo czyta.' Nic o Skagos ani o bekarcie. Znak: Dreadfort NIE milczy wobec Krolowej - milczy wobec Namiestnika. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-09-29",
@@ -15753,7 +15753,7 @@
    "kanal": "kruk Domu WF-Czarny Zamek, szyfr Domu",
    "wraca": "300-10-05",
    "zamyka": "odpowiedz Aemona (przez Benna/Clydasa) - rzut",
-   "status": "otwarte"
+   "status": "zamkniete 300-10-05 ### ODPOWIEDZ AEMONA (kruk Domu przez Benna, szyfr; dyktowal Clydasowi) - RZUT 53: przytomny, jego slowa. Tresc w dzienniku 10-05. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-09-30",
@@ -15805,9 +15805,9 @@
    "co": "POWROT SIL Z GLEBI I OSRICA Z ZACHODU (slowo pana 10-01, rada Rodrika - zgoda): 50 (31 z garnizonu + 19 ochotnikow rezerwy domeny) i OSRIC (Marszalek Choragwi) z Kamiennego Brzegu do WF przed sniegiem; Osric przejmuje nadzor nad spisem rezerwy (slowo pana 09-28). ZOSTAJA: ludzie Corwina i Ulrica (46, miejscowi), straz nocna i ognie podwojnie na cala zime, Dustinport jak jest. Rozkaz Namiestnika: kruk WF->Barrowton + jezdziec (E ~10-04/05 u Osrica); marsz ~2-3 tyg. (E). Wlasni - bez rzutu; droga - pogoda.",
    "kto": "SYMON -> OSRIC ; CORWIN",
    "kanal": "kruk WF-Barrowton + jezdziec",
-   "wraca": "300-10-05",
+   "wraca": "300-10-22",
    "zamyka": "sily z glebi i Osric w WF",
-   "status": "otwarte ### 300-10-01: rozkaz wyszedl rano (pieczec Namiestnika). Czesc 'I Z GORACEGO PORTU' - do doprecyzowania przez pana (kto i dokad). ### 300-10-01 SLOWO PANA: GORACY PORT ZOSTAJE jak jest (zapora, ognie, lodz, wzmocnienie) - 'I z Goracego Portu' cofniete."
+   "status": "otwarte ### 300-10-01: rozkaz wyszedl rano (pieczec Namiestnika). Czesc 'I Z GORACEGO PORTU' - do doprecyzowania przez pana (kto i dokad). ### 300-10-01 SLOWO PANA: GORACY PORT ZOSTAJE jak jest (zapora, ognie, lodz, wzmocnienie) - 'I z Goracego Portu' cofniete. ### 300-10-05 TRIAZ: rozkaz u Osrica ~10-04/05 (pogoda dobra); wymarsz ~10-06 (E); WF ~10-22..25."
   },
   {
    "data": "300-10-01",
@@ -15859,9 +15859,9 @@
    "co": "BEDNARNIA KONSERWY KORONY - PRZEDSIEBIORSTWO SPECJALNE POD PATRONATEM KORONY (slowo pana 10-01): (1) EDRIC wybiera bednarza z ZM (mistrz z rodzina, nie z tych, co robia beczke Domu - zeby nie zabrac Domowi rak); zgoda bednarza - RZUT przy rozmowie (~10-05); (2) warsztat przy przetworni Podgrodzie; (3) pieniadze na rozbudowe - KOSZTORYS GAWENA (szopa, narzedzia, klepka na zime; Kasa 3) na Mala Rade ~10-10; (4) robi tylko dla Konserwy, cena od beczki na pismie, zadatek z gory; (5) klauzula o uczniu (Korpus/szkola ZM). Rownolegle: (a) ogloszenie pierwszenstwa na slupie i u cechu - herold 10-02; (b) zadatek Korony od beczki dla wszystkich bednarzy pracujacych dla Konserwy - od zaraz (Gawen).",
    "kto": "EDRIC PLUG ; GAWEN (Kasa 3, kosztorys)",
    "kanal": "osobiscie, ZM/domena",
-   "wraca": "300-10-05",
+   "wraca": "300-10-10",
    "zamyka": "bednarz przy warsztacie, kosztorys przyjety, pierwsze beczki tylko dla Konserwy",
-   "status": "otwarte"
+   "status": "otwarte ### 300-10-05 EDRIC U BEDNARZA (ZM, E: mistrz Jory Klepka z dwoma synami, nie robi dla Domu) - RZUT 21 (prog 35): ZGODA Z WARUNKIEM - od XII: do konca XI konczy zamowienie kupcow BP (beczki na sledzia). Warsztat przy Podgrodziu stawiaja w XI (kosztorys Gawena na Rade 10-10). Do XII - zadatek Korony dla bednarzy ZM (b) jedyna ulga."
   },
   {
    "data": "300-10-01",
@@ -15961,6 +15961,51 @@
    "wraca": "300-10-24",
    "zamyka": "buty i kozuchy u straznikow lancucha (karta Robetta)",
    "status": "otwarte ### 300-10-04 SLOWO PANA: ZGODA - GAWEN DAJE SKORY ZE SWIADCZEN KORONY. Wykonanie (E): skory do szewcow i kusnierzy ZM (zlecenie Korony, zaplata za robote z Kasy 3 wg kwitu); 40 par butow + 40 kozuchow gotowe ~10-20, wozem do Deepwood ~10-27; Robett potwierdza odbior w karcie lancucha. Wlasni - bez rzutu."
+  },
+  {
+   "data": "300-10-05",
+   "co": "NOMINACJA BERTRAMA WOLNEGO NA STALEGO FAKTORA KROLEWSKIEGO W CAILIN (zgoda Bertrama 10-04, rzut 56; wniosek Rady 3:1): pismo nominacyjne Namiestnika (pieczec, Beron), potwierdzenie Krola po powrocie; wyjazd Bertrama do Cailin i przejecie od Garricka. Do slowa pana.",
+   "kto": "SYMON ; BERON ; GARRICK",
+   "kanal": "pismo Namiestnika; kruk WF-Fosa",
+   "wraca": "300-10-06",
+   "zamyka": "pismo nominacyjne podpisane i Bertram w drodze",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-05",
+   "co": "TORVALD - COMIESIECZNA SAKIEWKA DO DOMU PRZY ULICZCE POWROZNIKOW W BP (meldunek Stena 10-05, rzut 6): czyj dom, za co. Prawda - RZUT przy dzialaniu (pasma przed rzutem). Do slowa pana: zapytac wprost, sprawdzic dalej (Willa/kontrwywiad), czy odlozyc oferte szefa bezpieczenstwa.",
+   "kto": "SYMON -> STEN / ALDWIN / WILLA",
+   "kanal": "osobiscie",
+   "wraca": "300-10-06",
+   "zamyka": "slowo pana",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-05",
+   "co": "WYSTAWA ZBOZA BP - 4/5 NIESPRZEDANE (karta Torsena 10-05, rzut 7): kupcy czekaja na spadek ceny przy dostawach z Reach. Do slowa pana (z Gawenem): trzymac cene minimalna, obnizyc, czy zostawic w skladzie na zime.",
+   "kto": "SYMON ; GAWEN ; TORSEN",
+   "kanal": "kruk WF-BP",
+   "wraca": "300-10-10",
+   "zamyka": "slowo pana do Torsena",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-05",
+   "co": "LORDOWIE ZAMAWIAJA ZBOZE PRZEZ KORONE (odpowiedzi na tabele zim, rzut 88): Cerwyn ~800, Tallhart ~1200, Ryswell ~600, Flint z Palca ~300 = ~2900 korcy (E). ZASADA 8: skad (Reach +10 000 ponad kontrakt - list do Olenny 09-06; Illyria), po jakiej cenie, zadatek, przewoz. Do slowa pana (Gawen na Rade ~10-10).",
+   "kto": "SYMON ; GAWEN ; ORLAND",
+   "kanal": "Mala Rada",
+   "wraca": "300-10-10",
+   "zamyka": "slowo pana i listy do lordow",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-05",
+   "co": "HOWLAND REED W WINTERFELL ~10-15 (wiesc 10-05, rzut 90): do dzieci (Meera, Jojen) i do Brana; przyjecie - Rodrik (izby), Catelyn. Sen Jojena o drodze na polnoc (ukryte) - obietnica pana z 07-27 (nic Meerze).",
+   "kto": "SYMON ; RODRIK ; CATELYN",
+   "kanal": "osobiscie WF",
+   "wraca": "300-10-15",
+   "zamyka": "Reed w WF, rozmowa",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [
@@ -16146,7 +16191,7 @@
     "start": "300-05-01"
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-09-28",
+   "ostatnio_odebrane": "300-10-05",
    "zrodlo": "terminy (AEMON CHORY)",
    "rzut": "tak - stan zdrowia (sprawa zewnetrzna)"
   },
@@ -16159,7 +16204,7 @@
     "dzien_miesiaca": 5
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-09-05",
+   "ostatnio_odebrane": "300-10-05",
    "zrodlo": "terminy (HAL - PELNE ROZLICZENIE)"
   },
   {
@@ -16171,7 +16216,7 @@
     "dzien_miesiaca": 5
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-09-05",
+   "ostatnio_odebrane": "300-10-05",
    "zrodlo": "rozkaz pana 300-05-19 (rada Sansy)"
   },
   {
@@ -16249,7 +16294,7 @@
     "start": "300-08-23"
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-09-21",
+   "ostatnio_odebrane": "300-10-05",
    "zrodlo": "poczta_300_08_13_seagard_flint.md",
    "uwaga_0822": "slowo pana 08-22: pisac rzadziej - co 14 dni, przy ruchu od razu (ludzie Mallistera pytaja o kruki, rzut 18)"
   },

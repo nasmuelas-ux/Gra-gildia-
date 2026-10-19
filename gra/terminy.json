@@ -15691,6 +15691,15 @@
    "wraca": "300-10-03",
    "zamyka": "odpowiedz Rickarda (rzut)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-09-28",
+   "co": "TORVALD SIWEK - SZCZEBEL 3 WERYFIKACJI: STEN (zasada 09-16: Willa -> kontrwywiad -> Sten -> pan). Szczeble 1 (Willa 93) i 2 (Aldwin/Hollis 92) - przeszedl. Sten sprawdza po swojemu (przyboczna); potem rozmowa pana z Torvaldem o stanowisku szefa bezpieczenstwa Domu. Wlasni - bez rzutu na robote Stena; wynik - rzut przy meldunku.",
+   "kto": "STEN ; SYMON",
+   "kanal": "ustnie WF",
+   "wraca": "300-10-05",
+   "zamyka": "meldunek Stena o Torvaldzie (rzut)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

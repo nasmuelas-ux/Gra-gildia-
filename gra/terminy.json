@@ -15906,7 +15906,7 @@
    "kanal": "kruk WF-Karhold",
    "wraca": "300-10-08",
    "zamyka": "slowo regenta: tak/nie/kiedy",
-   "status": "otwarte ### 300-10-03 SLOWO REGENTA: DOPIERO PO ZWIADZIE (~10-08). Odpis regenta do Rickarda dzis: dziekuje, slowo po powrocie zwiadu Wymana; lodzie niech stoja gotowe. Kruk WF-Karhold."
+   "status": "zamkniete 300-10-08 ### SLOWO REGENTA PO ZWIADZIE: TAK - lodzie Karholdu z drugim zwiadem + 10-15 zbrojnych do ladowania z lekami i ciesliami. Odpowiedz Rickarda - nowa operacja (rzut). ### POPRZEDNIO: byl-otw ### 300-10-03 SLOWO REGENTA: DOPIERO PO ZWIADZIE (~10-08). Odpis regenta do Rickarda dzis: dziekuje, slowo po powrocie zwiadu Wymana; lodzie niech stoja gotowe. Kruk WF-Karhold."
   },
   {
    "data": "300-10-03",
@@ -16203,6 +16203,24 @@
    "kanal": "kruk WF-Karhold",
    "wraca": "300-10-08",
    "zamyka": "slowo regenta i kruk do Karholdu",
+   "status": "zamkniete 300-10-08 ### SLOWO REGENTA (sala map): DRUGI ZWIAD - Srebrna Foka + lodzie Rickarda + klatki krukow (Karhold i WF); LADOWANIE 10-15 zbrojnych Karstarka z lekami i kilkoma ciesliami; list regenta do Krola (gra/list_regenta_do_krola_300_10_08.md). Nowe operacje ponizej. ### POPRZEDNIO: byl-otw"
+  },
+  {
+   "data": "300-10-08",
+   "co": "DRUGI ZWIAD NA SKAGOS (slowo regenta 10-08): 'Srebrna Foka' (kpt. Harlen Wydma) + LODZIE KARHOLDU (ludzie znajacy wode) + KLATKI KRUKOW (Karhold i WF); LADUJA 10-15 ZBROJNYCH KARSTARKA z LEKAMI i KILKOMA CIESLAMI (do napraw) - wizyta, nie desant (zasada Krola: nikt nie laduje sila). Niosa LIST REGENTA DO KROLA do rak. Kruk WF->Karhold 10-08. Wyjscie z Karholdu - gdy mgla pozwoli (E ~10-10); Kingshouse 1-2 dni. Wynik (co zastana, czy widza Krola) - RZUT przy meldunku, pasma przed rzutem.",
+   "kto": "SYMON (regent) -> RICKARD KARSTARK ; KAPITAN WYMANA ; LUWIN (kruki, leki)",
+   "kanal": "kruk WF-Karhold; lodzie; kruk Skagos/Karhold-WF",
+   "wraca": "300-10-13",
+   "zamyka": "meldunek drugiego zwiadu (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-08",
+   "co": "RICKARD KARSTARK - ODPOWIEDZ NA ROZKAZ DRUGIEGO ZWIADU (10-15 jego zbrojnych na Skagos z lekami i ciesliami, lodzie Karholdu). Wola obca - RZUT przy odpowiedzi (pasma przed rzutem).",
+   "kto": "RICKARD KARSTARK",
+   "kanal": "kruk Karhold-WF",
+   "wraca": "300-10-09",
+   "zamyka": "odpowiedz Rickarda (rzut)",
    "status": "otwarte"
   }
  ],

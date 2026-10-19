@@ -15769,9 +15769,9 @@
    "co": "BRAMA I SLUZBA ZAMKU WF - SPIS WOZOW I PORECZENIE (propozycje Rodrika z meldunku 09-30, ZGODA PANA 'zgodnie z calosci'): (1) brama - od dzis kazdy woz z ZM spisany (kto, co, do kogo), woznica nie wychodzi poza dziedziniec kuchenny bez straznika; (2) poreczenie - kazdy nowy sluga od dzis + wstecz ~30 przyjetych od wiosny (kto za nim reczy); KRUCZARNIA NA KONIEC, zeby nie sploszyc (trop Stena/Willi). W ramie rezimu informacji (ogloszenie ~10-13).",
    "kto": "SER RODRIK",
    "kanal": "osobiscie, WF",
-   "wraca": "300-10-14",
+   "wraca": "300-10-12",
    "zamyka": "spis wozow prowadzony + lista poreczen 30 slug",
-   "status": "otwarte ### 300-10-07 MELDUNEK RODRIKA - RZUT 46: 26 z 30 nowych slug ma poreczenie; 4 BEZ - przybysze z Dorzecza po wojnie (E: dwie kobiety do kuchni, wyrostek do stajni, starszy czlowiek od drewna - ten sam, co dal miedziaka Gilowi?, E - do sprawdzenia przez Stena); spis wozow na bramie prowadzony od 09-30. Kruczarnia na koniec. Rodrik proponuje: czterech bez poreczenia - z dala od komnat, kuchni panskiej i kruczarni, do czasu az ktos za nich poreczy. Do slowa pana. ### 300-10-07 SLOWO PANA: ZGODA na propozycje Rodrika - czterech bez poreczenia z dala od komnat, kuchni panskiej i kruczarni do czasu poreczenia. Wykonanie po cichu, jako zwykle przesuniecie na zime (Rodrik: kobiety do kuchni czeladnej, wyrostek do stajni zewnetrznej, czlowiek od drewna do drwalni przy murze zewnetrznym - 'drewno trzeba blizej murow na zime'). Sten: obserwacja czlowieka od drewna trwa - przesuniecie nie moze wygladac na kare. Kruczarnia na koniec poreczen."
+   "status": "otwarte ### 300-10-07 MELDUNEK RODRIKA - RZUT 46: 26 z 30 nowych slug ma poreczenie; 4 BEZ - przybysze z Dorzecza po wojnie (E: dwie kobiety do kuchni, wyrostek do stajni, starszy czlowiek od drewna - ten sam, co dal miedziaka Gilowi?, E - do sprawdzenia przez Stena); spis wozow na bramie prowadzony od 09-30. Kruczarnia na koniec. Rodrik proponuje: czterech bez poreczenia - z dala od komnat, kuchni panskiej i kruczarni, do czasu az ktos za nich poreczy. Do slowa pana. ### 300-10-07 SLOWO PANA: ZGODA na propozycje Rodrika - czterech bez poreczenia z dala od komnat, kuchni panskiej i kruczarni do czasu poreczenia. Wykonanie po cichu, jako zwykle przesuniecie na zime (Rodrik: kobiety do kuchni czeladnej, wyrostek do stajni zewnetrznej, czlowiek od drewna do drwalni przy murze zewnetrznym - 'drewno trzeba blizej murow na zime'). Sten: obserwacja czlowieka od drewna trwa - przesuniecie nie moze wygladac na kare. Kruczarnia na koniec poreczen. ### 300-10-07 SLOWO PANA (korekta wykonania): PRZESUNIECIE CZWORGA WSTRZYMANE - Rodrik robi je dopiero PO obserwacji (meldunek Stena ~10-12) i po dodatkowej obserwacji pozostalej trojki; teraz czlowiek od drewna moglby sie sploszyc. Do tego czasu czworo zostaje, gdzie jest; kruczarnia jak dotad (Tym przy krukach, obcy nie wchodza)."
   },
   {
    "data": "300-09-30",
@@ -16090,12 +16090,12 @@
   },
   {
    "data": "300-10-07",
-   "co": "CZLOWIEK OD DREWNA (WF, przybysz z Dorzecza, BEZ PORECZENIA - Rodrik 10-07): (1) dal miedziaka Gilowi od swiec przy schodach skrzydla Tallych (Rhona/Sten 10-01); (2) dwa razy pytal Tyma, ktore kruki leca do BP i kiedy nastepny (Tym 10-07). Prawda (szpieg / ciekawski / cos innego) - RZUT przy dzialaniu, pasma przed rzutem. Do slowa pana.",
+   "co": "CZLOWIEK OD DREWNA (WF, przybysz z Dorzecza, BEZ PORECZENIA - Rodrik 10-07): (1) dal miedziaka Gilowi od swiec przy schodach skrzydla Tallych (Rhona/Sten 10-01); (2) dwa razy pytal Tyma, ktore kruki leca do BP i kiedy nastepny (Tym 10-07). Prawda (szpieg / ciekawski / cos innego) - RZUT przy dzialaniu, pasma przed rzutem. Do slowa pana. Od 10-07 obserwacja obejmuje tez trojke bez poreczenia.",
    "kto": "STEN + ALDWIN",
    "kanal": "osobiscie",
    "wraca": "300-10-12",
    "zamyka": "meldunek Stena i Aldwina: kim jest i dla kogo pyta",
-   "status": "otwarte ### 300-10-07 SLOWO PANA: OBSERWACJA - STEN (zamek: z kim gada, gdzie chodzi, co nosi) + ALDWIN (kontrwywiad: kim jest, skad przyszedl, kto go przyjal latem, czy pisze/ktos pisze do niego). Nie ruszac, nie pytac. Tym i Gil - zachowuja sie jak dotad (Tym moze mu odpowiadac, ale Sten wie, co). Meldunek ~10-12 (RZUT przy meldunku, pasma przed rzutem)."
+   "status": "otwarte ### 300-10-07 SLOWO PANA: OBSERWACJA - STEN (zamek: z kim gada, gdzie chodzi, co nosi) + ALDWIN (kontrwywiad: kim jest, skad przyszedl, kto go przyjal latem, czy pisze/ktos pisze do niego). Nie ruszac, nie pytac. Tym i Gil - zachowuja sie jak dotad (Tym moze mu odpowiadac, ale Sten wie, co). Meldunek ~10-12 (RZUT przy meldunku, pasma przed rzutem). ### 300-10-07 SLOWO PANA: obserwacja ROZSZERZONA na pozostala trojke bez poreczenia (dwie kobiety z kuchni, wyrostek ze stajni) - Sten (ludzie przybocznej). Przesuniecie czworga przez Rodrika dopiero po meldunku ~10-12, zeby nie sploszyc."
   },
   {
    "data": "300-10-07",

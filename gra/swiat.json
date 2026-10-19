@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 9,
-  "dzien": 29,
+  "dzien": 30,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "rano",
  "sezon": "zima (300)",
- "pogoda": "RZUT 61 (300-09-29): DOBRZE - lekki mroz, przejasnienia, bez wiatru (E); kruki lataja od switu; trakty przejezdne, snieg ubity.",
- "dzien_tygodnia_nr": 1,
+ "pogoda": "RZUT 66 (300-09-30): DOBRZE - mroz, czyste niebo, bez wiatru (E); kruki lataja od switu; trakty przejezdne, snieg ubity.",
+ "dzien_tygodnia_nr": 2,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

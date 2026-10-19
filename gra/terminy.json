@@ -15826,6 +15826,15 @@
    "wraca": "300-10-10",
    "zamyka": "przeliczenie zapasu w racjach z nowa liczba beczek (Mala Rada)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-10-01",
+   "co": "BERON - KARTY LODZI MAESTRA DREADFORTU: porownac IX z VIII (rada Lucana, slowo pana 10-01) - czy we wrzesniu przybylo/ubylo lodzi przy wybrzezu Dreadfortu, jakie i kiedy (pod katem lodzi od Skagos). Do ksiegi milczenia, przeglad pon. 10-06. Wlasny - bez rzutu na wykonanie; co jest w kartach - RZUT przy przegladzie.",
+   "kto": "BERON",
+   "kanal": "kancelaria WF (polecenie przez Aldwina/kartka pana)",
+   "wraca": "300-10-06",
+   "zamyka": "porownanie w ksiedze milczenia",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

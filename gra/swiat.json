@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 10,
-  "dzien": 9,
+  "dzien": 10,
   "era": "AC"
  },
- "pora": "noc",
+ "pora": "rano",
  "sezon": "zima (300)",
- "pogoda": "RZUT 5 (300-10-09): BARDZO ZLE - sniezyca z wichura od polnocy od switu; widac na dlugosc dziedzinca; KRUKI STOJA; trakty zawiane (E).",
- "dzien_tygodnia_nr": 4,
+ "pogoda": "RZUT 22 (300-10-10): ZLE - po sniezycy mroz siarczysty i zawieja przy ziemi z polnocy; niebo czyste gora; KRUKI DOPIERO PO POLUDNIU (wiatr przy ziemi); trakty zawiane, odkopywanie (E).",
+ "dzien_tygodnia_nr": 5,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

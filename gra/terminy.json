@@ -14943,7 +14943,7 @@
    "kanal": "ustnie WF 09-17",
    "wraca": "300-10-01",
    "zamyka": "meldunek Stena (rzut)",
-   "status": "zamkniete 300-10-01 ### MELDUNEK STENA USTNIE RANO - RZUT 30 (prog 45; pasmo 20-44: rutyna + jeden drobiazg bez wagi). ALDWIN: rutyna - kancelaria, przyboczna, nauka czytania, wieczorem septa zamkowa; nikt z zewnatrz. LUCAN: rutyna - izby, kancelaria Domu, pan; DROBIAZG (POPRAWIONY 10-01 - Lucan mieszka w ZM): dwa razy (09-23, 09-27, E) wyszedl wieczorem z izb do dolnego miasta, do domu, ktory nie ma sprawy w ksiedze Domu; wrocil po okolo godzinie, z pustymi rekami; czyj to dom i z kim sie widzial - Sten nie wszedl (zakaz: nie sploszyc). Sten (O): 'Nie wiem, czy to cos. Wiem, ze nie bylo w ksiedze.' Rownolegle sprawdzenie Willi - otwarte. ### POPRZEDNIO: byl-otw"
+   "status": "zamkniete 300-10-01 ### MELDUNEK STENA USTNIE RANO - RZUT 30 (prog 45; pasmo 20-44: rutyna + jeden drobiazg bez wagi). ALDWIN: rutyna - kancelaria, przyboczna, nauka czytania, wieczorem septa zamkowa; nikt z zewnatrz. LUCAN: rutyna - izby, kancelaria Domu, pan; DROBIAZG (POPRAWIONY 10-01 - Lucan mieszka w ZM): dwa razy (09-23, 09-27, E) wyszedl wieczorem z izb do dolnego miasta, do domu, ktory nie ma sprawy w ksiedze Domu; wrocil po okolo godzinie, z pustymi rekami; czyj to dom i z kim sie widzial - Sten nie wszedl (zakaz: nie sploszyc). Sten (O): 'Nie wiem, czy to cos. Wiem, ze nie bylo w ksiedze.' Rownolegle sprawdzenie Willi - w toku. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-09-17",
@@ -15429,7 +15429,7 @@
    "kanal": "osobiscie, domena",
    "wraca": "300-10-02",
    "zamyka": "odwiedziny odbyte (rzut)",
-   "status": "otwarte ### 300-10-01 TRIAZ: Roslin wybrala czwartek 10-02 (E; wies wg rubryki Edrica); odbior ludzi - RZUT przy odwiedzinach."
+   "status": "otwarte ### 300-10-01 TRIAZ: Roslin wybrala czwartek 10-02 (E; wies wg rubryki Edrica); odbior ludzi - RZUT przy odwiedzinach. ### 10-02 RANO: Roslin wyjezdza do Glebokich Lak (eskorta: straznicza, pisarz Skarbu, 5 ludzi Starkow; Edric). RZUT 33 (CHLODNO) - wynik przy powrocie wieczorem."
   },
   {
    "data": "300-09-25",
@@ -15663,7 +15663,7 @@
    "kanal": "WF/ZM",
    "wraca": "300-10-02",
    "zamyka": "drugi woz rozdany; rytm zimowy ustalony",
-   "status": "otwarte ### 09-28 SLOWO PANA: TAK - po drugim wozie chrust jezdzi CO TYDZIEN przez zime (ZM; czwartek); Gawen - wozy i koszt, Edric - zbior."
+   "status": "zamkniete 300-10-02 ### Drugi woz rozdany w ZM przed poludniem (Rodrik, Gawen; Edric zbior) - bez rzutu (wlasni; rzut 71 z 09-28 trzyma); dla tych, ktorym zabraklo. RYTM ZIMOWY: co czwartek woz chrustu na placu w ZM, cena drewna Korony na slupie co tydzien. ### POPRZEDNIO: byl-otw ### 09-28 SLOWO PANA: TAK - po drugim wozie chrust jezdzi CO TYDZIEN przez zime (ZM; czwartek); Gawen - wozy i koszt, Edric - zbior."
   },
   {
    "data": "300-09-28",
@@ -15708,7 +15708,7 @@
    "kanal": "WF-BP traktem; statek BP-Sloneczna Wlocznia",
    "wraca": "300-10-06",
    "zamyka": "poselstwo na wodzie (wyplyniecie z BP)",
-   "status": "otwarte ### 09-29 LIST DO OBERYNA (z prosba o zrozumienie - okno pogody) i DARY zatwierdzone (gra/list_do_oberyna_300_09_29.md); bursztyn - Hal na statek w BP. ### 09-29 SNIADANIE - RODRIK: dowodca - BRENN KAMIENIEC (E, sierzant gwardii domowej WF, ~40, sluzyl z Martynem Casselem); dziesieciu wybierze dzis z garnizonu. ### 300-10-01 RANO: POSELSTWO WYJEZDZA Z WF - Brenn Kamieniec + 10, choragiew wilka; z nimi list do Oberyna (pieczec Namiestnika), laska dla Dorana (srebrna obrecz, gotowa), zielnik, futro snieznego lisa, plotno dla Starfall; trumny/plotna i strawa wg kosztorysu. SER HARWOOD - odpowiedz Barbrey ~10-02; jesli zgoda - jedzie z Barrowton prosto do BP (~10-06) i dolacza przy statku. BP ~10-06. ### 300-10-01 STALA ZASADA (kruki na kazda wyprawe): poselstwo bierze klatki z kruczarni BP przy statku (Hal/Torsen) - kartka pana do Hala dzis z poczta Domu."
+   "status": "otwarte ### 09-29 LIST DO OBERYNA (z prosba o zrozumienie - okno pogody) i DARY zatwierdzone (gra/list_do_oberyna_300_09_29.md); bursztyn - Hal na statek w BP. ### 09-29 SNIADANIE - RODRIK: dowodca - BRENN KAMIENIEC (E, sierzant gwardii domowej WF, ~40, sluzyl z Martynem Casselem); dziesieciu wybierze dzis z garnizonu. ### 300-10-01 RANO: POSELSTWO WYJEZDZA Z WF - Brenn Kamieniec + 10, choragiew wilka; z nimi list do Oberyna (pieczec Namiestnika), laska dla Dorana (srebrna obrecz, gotowa), zielnik, futro snieznego lisa, plotno dla Starfall; trumny/plotna i strawa wg kosztorysu. SER HARWOOD - odpowiedz Barbrey ~10-02; jesli zgoda - jedzie z Barrowton prosto do BP (~10-06) i dolacza przy statku. BP ~10-06. ### 300-10-01 STALA ZASADA (kruki na kazda wyprawe): poselstwo bierze klatki z kruczarni BP przy statku (Hal/Torsen) - kartka pana do Hala dzis z poczta Domu. ### 300-10-02: Harwood + 2 ludzi Dustinow do BP ~10-06 (zgoda Barbrey, rzut 94); choragiew Dustinow na trumne Willama i list Barbrey do Oberyna."
   },
   {
    "data": "300-09-29",
@@ -15717,7 +15717,7 @@
    "kanal": "kruk WF-Barrowton",
    "wraca": "300-10-02",
    "zamyka": "odpowiedz Barbrey (rzut); Harwood w drodze do BP",
-   "status": "otwarte"
+   "status": "zamkniete 300-10-02 ### ODPOWIEDZ BARBREY (kruk z Barrowton rano) - RZUT 94 (prog 30): ZGODA I DOKLADA. Ser Harwood Wrzos wyjechal z Barrowton 10-01 wieczorem (E) z dwoma ludzmi Dustinow - do BP ~10-06, dolacza przy statku. Barbrey sama placi za Harwooda i jego ludzi; posyla CHORAGIEW DUSTINOW na trumne lorda Willama i list do Oberyna od siebie (zapieczetowany, tresc nieznana). Barbrey (O): 'Siedemnascie lat czekalam, az ktos z Winterfell sobie przypomni. Przypomnial sobie Tally. Zapamietam to.' ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-09-29",
@@ -16106,7 +16106,7 @@
     "start": "300-07-19"
    },
    "opoznienie": 2,
-   "ostatnio_odebrane": "300-09-22",
+   "ostatnio_odebrane": "300-09-29",
    "zrodlo": "rozkaz pana 300-06-19; 300-07-20 pan: co tydzien, po kazdej sobotniej radzie (zamiast co dwa tygodnie)",
    "uwaga_0728": "07-28 burza - kruk z Fosy 07-29",
    "uwaga_0812": "08-12 nawalnica (pogoda 6) - kruk z Fosy 08-13"

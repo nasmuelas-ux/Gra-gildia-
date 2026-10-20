@@ -16726,6 +16726,15 @@
    "wraca": "300-10-21",
    "zamyka": "odpowiedz Wystana (rzut)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-10-18",
+   "co": "RACHUNEK REGENCJI DLA KROLA (slowo pana 10-18; gra/rachunek_regencji_plan_300_10_18.md): GAWEN - 5 rozdzialow (skrzynia od wyjazdu do powrotu; VIII-X linia po linii; decyzje regenta z kosztem - BERON z protokolow do 10-22; naleznosci i zobowiazania; mur miedzy kasami). Szkic na Rade 10-24, czysty odpis ~10-27 (Luwin swiadkiem); czyta Gawen przy Krolu. Wlasni - bez rzutu.",
+   "kto": "GAWEN ; BERON ; LUWIN",
+   "kanal": "WF, wieza Skarbu",
+   "wraca": "300-10-24",
+   "zamyka": "szkic na Radzie; potem czysty odpis ~10-27",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

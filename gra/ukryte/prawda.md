@@ -436,3 +436,7 @@ Posłaniec: **Benno** (E), pisarz placówki Domu na Czarnym Zamku. Był u Aemona
   3. **kruk o trzech oczach, który woła, „ale nie mnie”.** Tu Jojen milknie, przestraszony, że powiedział za dużo.
 - Jojen nie mówi, kogo woła kruk. Nie mówi też, kto jest wilkiem.
 - **Pan za nim na schodach: „Czy to musisz być ty i Bran?” RZUT 18 (próg 45):** Jojen nie odpowiada. Zatrzymuje się na moment i mówi (O): *„Nie mówiłem o Branie.”* Potem schodzi. Ani nie potwierdza, ani nie zaprzecza.
+
+## 300-10-16: BRAN, PYTANIE PANA O NOWE SNY (jego komnata; RZUT 35, pasma w rzuty.log)
+- Bran przypomina tylko umowę: sen jest (ten ze szkłem, 08-04/05, i może coś jeszcze), ale **Robb usłyszy go pierwszy.** Nic więcej nie mówi.
+- Zerka przy tym na okno, w stronę gaju. Nie potwierdza i nie zaprzecza, że śnią mu się nowe rzeczy.

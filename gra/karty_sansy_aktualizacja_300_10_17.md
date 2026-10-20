@@ -30,3 +30,19 @@
 3. *„Tania cena teraz to droga cena zimą. Olenna to wie. Kupić teraz, ile się da.”*
 
 **Pewność karty:** zboże pewne. Lys pewne. Cytadela: odmowa pewna, powód to odczyt.
+
+## 3. DORZECZE (Tully, Edmure)
+**Nowe od 08-27 (z zapisu):**
+- **Edmure odrzucił plan Bryndena** (09-07: zatopione łodzie, palisada, brandery; Mooton nie dał zatopić toru) i był urażony.
+- Potem **zgodził się na wymianę** (09-14, list do lady Catelyn, rzut 68): dwóch rycerzy Lwa z lochów Riverrun za Harriona. Jego człowiek był przy bramie.
+- **09-25: Maidenpool wolne, oblężenie Edmure'a się skończyło.** Harrion przez Riverrun i Przesmyk na Fosę (~10-15).
+- **Kompania** (Lyman): drugie pytanie o zastaw. Odpowiedź lordów w paczce Hala ~10-21.
+- **Sieroty z Dorzecza** do internatu Fosy, przez Lymana (plan Miry).
+- **Pomysł małżeński Edmure'a z Jonelle Cerwyn** czeka na Króla i na lady Catelyn (warunek Sansy z 05-12).
+
+**Odczyt Sansy (O, po braavosku):**
+1. *„Edmure jest jak dziecko, które się obraziło, a potem i tak oddało zabawkę. Następnym razem trzeba go zapytać pierwszego, nie ostatniego.”* Po chwili, ciszej: *„Wujek jest dobry. Tylko chce, żeby go widzieli.”*
+2. *„Dorzecze bez Lwa to Dorzecze bez wroga. Bez wroga lordowie Dorzecza zaczną liczyć, kto im co winien. Kompania musi być pierwsza z rachunkiem, zanim ktoś inny przyjdzie z mieczem.”*
+3. *„Jonelle. Najpierw mama, potem Robb, na końcu Edmure. Jak Edmure usłyszy pierwszy, powie »tak« tylko po to, żeby było jego.”*
+
+**Pewność karty:** wymiana i Maidenpool pewne. Lordowie Dorzecza to odczyt.

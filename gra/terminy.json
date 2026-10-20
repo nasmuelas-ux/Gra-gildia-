@@ -16005,7 +16005,7 @@
    "kanal": "osobiscie WF",
    "wraca": "300-10-15",
    "zamyka": "Reed w WF, rozmowa",
-   "status": "otwarte ### 300-10-15 zapowiedziany na dzis - przyjazd w ciagu dnia (E). ### 300-10-15 PRZED POLUDNIEM: REED PRZYJECHAL (dwoch krannogow, kuce; E). Przy bramie Meera i Jojen; Rodrik przyjmuje. Rozmowa z panem - do slowa pana. ### SLOWO PANA: rozmowa WIECZOREM (10-15)."
+   "status": "zamkniete 300-10-15 ### Rozmowa w gaju odbyta (plik ukryty prawda.md: rzuty 79 i 8). Nowa pozycja: prosba Reeda o Jojena. ### POPRZEDNIO: byl-otw ### 300-10-15 zapowiedziany na dzis - przyjazd w ciagu dnia (E). ### 300-10-15 PRZED POLUDNIEM: REED PRZYJECHAL (dwoch krannogow, kuce; E). Przy bramie Meera i Jojen; Rodrik przyjmuje. Rozmowa z panem - do slowa pana. ### SLOWO PANA: rozmowa WIECZOREM (10-15)."
   },
   {
    "data": "300-10-06",
@@ -16609,6 +16609,15 @@
    "wraca": "300-10-25",
    "zamyka": "stroj gotowy; platnik ustalony",
    "status": "otwarte ### SLOWO PANA 10-15: PLACI KORONA (Kasa 3 / dom krolewski) - Mira uzgadnia z GAWENEM przed zakupem jedwabiu; kwota z wyceny Miry, wpis Gawena (zasada 43)."
+  },
+  {
+   "data": "300-10-15",
+   "co": "REED - PROSBA O POMOC W SPRAWIE JOJENA (gaj 10-15, plik ukryty prawda.md): Reed chce zabrac syna do Szarej Wody przed glebokim sniegiem (przez Przesmyk/Fose); prosi pana, by przemowil Jojenowi albo nie stawal na drodze. Do slowa pana. Wola Jojena - RZUT, gdy ojciec mu powie.",
+   "kto": "SYMON ; HOWLAND REED ; JOJEN",
+   "kanal": "osobiscie WF",
+   "wraca": "300-10-16",
+   "zamyka": "slowo pana + rozmowa Reeda z Jojenem (rzut)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

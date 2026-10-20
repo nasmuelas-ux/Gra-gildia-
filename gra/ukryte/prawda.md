@@ -419,3 +419,6 @@ Posłaniec: **Benno** (E), pisarz placówki Domu na Czarnym Zamku. Był u Aemona
 - **Przyznaje, że przyjechał też dlatego.** Jojen napisał do niego przez Meerę (E: list w IX), że *„droga zaczyna się w Winterfell”* i że *„nie idzie nią sam”*. Kto idzie z nim, tego Jojen nie napisał, a Reed nie pytał.
 - **Reed pyta pana, co Jojen powiedział jemu.** Obietnica pana z 07-27 (nic Meerze) nie dotyczy ojca, ale to pan decyduje, co powie.
 - To nadal zielony sen, a nie fakt świata.
+- **Pan mówi Reedowi, co Jojen powiedział jemu** (07-27: droga na północ, na niej kończy się to, co Jojen widzi; 09-30: śni ją coraz częściej, „jest blisko”).
+- **REED, RZUT 8 (próg 40):** chce **zabrać Jojena do Szarej Wody**, wbrew śnowi. *„Jeśli droga zaczyna się w Winterfell, to niech go w Winterfell nie będzie.”* Prosi pana o pomoc: ma przemówić Jojenowi albo przynajmniej nie stawać na drodze. Wyjazd chce zrobić przed głębokim śniegiem, przez Przesmyk i Fosę.
+- **Wola Jojena** to osobna sprawa (rzut, kiedy ojciec mu powie). Meera nie wie.

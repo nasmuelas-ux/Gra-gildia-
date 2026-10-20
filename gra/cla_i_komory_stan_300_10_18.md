@@ -31,3 +31,16 @@
 - tabela ceł VIII–X i ludzie służby;
 - **pytania do Króla:** myto na drogach domeny (regale); komora w Starkporcie, kiedy port; czy komora BP ma pobierać sama, czy dalej tylko patrzeć (sprawa z Wymanem);
 - **Garth nie musi przyjeżdżać.** Gawen napisze do niego po stan komór na papierze.
+
+## 5. BOLTONSGATE (pytanie pana)
+**Z zapisu:**
+- miasto portowe na Płaczącej Wodzie, z prawem składu za budowę obu przystani, nadane Boltonowi (04-29);
+- w rewizji modelu z 09-01: **„komora Korony od otwarcia portu, data nieznana”**, cła w modelu 0;
+- **flota Króla wychodziła stamtąd w VIII.**
+
+**Gawen (O):**
+- *„Przystań stoi, statki do niej przybijają, Król z niej wypłynął. Ale karta miasta nie jest otwarta, a lord Bolton nam nie odpisuje. Więc komory nie ma, a ruch jest. To, co przez Boltonsgate wpływa i wypływa, nie płaci Koronie nic.”*
+- *„Nie wiem, ile to jest. Mogę zgadywać po Karporcie: przystań lorda na wschodnim brzegu, 30 smoków miesięcznie, rośnie. Boltonsgate może być więcej, bo Dreadfort jest bogatszy.”*
+- **Propozycja, do słowa pana:**
+  - **(a)** pytanie do Króla w rachunku regencji: komora w Boltonsgate od dziś, bez czekania na „otwarcie portu”, bo przystań już działa;
+  - **(b)** jeszcze przed Królem posłać pisarza komory z listem Korony. Gawen ostrzega: *„Lord Bolton może go nie wpuścić. A wtedy mamy odmowę na piśmie przed powrotem Króla. Wolałbym, żeby to Król zapytał.”*

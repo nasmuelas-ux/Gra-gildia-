@@ -3445,3 +3445,5 @@ rzut 9
 300-10-10 | WYNIK | BILANS IX POLOZENIE | RZUT 20
 300-10-10 | PASMA | BILANS HALA IX - POLOZENIE W PASMIE WOLNEJ GOTOWKI (964.60-2778.25; kasa.py skarbce) - nie rzucone 10-05 (przeoczenie GM) | rzut = procent pasma (1 = min, 100 = max); wyplata wspolnikow IX = 40% wolnej (zasada rozruchu Hala 06-19), Symon 1/3
 300-10-10 | WYNIK | BILANS HALA IX POLOZENIE | RZUT 43 wolna 1734.03 wyplata 40% 693.61 Symon 231.2 Nesta 231.2 Hal 115.6 Mira 115.6
+300-10-10 | PASMA | LEKCJA HV 24 (Luwin, wieczor; zadanie rzut 91 - czyste; kartka 4 '?' z nauki wlasnej 10-09: koncowka zamknieta, a formularz mowi o 'rece trzeciej') | prog 35 (45 -10 zadanie znakomite, -5 wypoczety zmeczenie 4, +5 cztery '?' i nowy material) | <20 zle, 20-34 slabo, 35-74 dobrze, 75+ znakomicie
+300-10-10 | WYNIK | LEKCJA HV 24 | RZUT 43

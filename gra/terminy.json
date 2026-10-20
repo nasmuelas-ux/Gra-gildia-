@@ -14898,7 +14898,7 @@
    "kanal": "szyfr Lucana kruk Domu WF-Fosa (dzis wieczor)",
    "wraca": "300-10-14",
    "zamyka": "meldunek Fosy (rzut)",
-   "status": "otwarte ### 09-24 SLOWO PANA - ROZSZERZENIE (osobna operacja 'DYSPOZYCJA BEZPIECZENSTWA FOSY'): HENDRY weryfikuje WSZYSTKICH, w tym KRUCZNIKOW Fosy; rada lenna nie dyskutuje spraw wojskowych. Kanal: POSLANIEC do rak wlasnych, nie kruk. ### 300-10-01 TRIAZ: wynik razem z dyspozycja bezpieczenstwa Fosy (Hendry, poslaniec do rak wlasnych ~10-14). ### 300-10-14 MELDUNEK HENDRY'EGO (gra/meldunek_hendry_300_10_14.md) - RZUT ODCZYTU 1: dyspozycja wykonana; krucznicy i rada czysci w jego ocenie; PODEJRZEWA ALYNA SKROBKA (sekretarz rady): pisze wszystko, widziany z kupcem z BP, wynosi papier i atrament; prosi o zgode na odsuniecie od protokolu do kanarka GP. DO SLOWA PANA."
+   "status": "zamkniete 300-10-14 ### meldunek Hendry'ego 10-14 (rzut odczytu 1): kluczowi czysci w jego ocenie poza podejrzeniem ALYNA SKROBKA (sekretarz rady) - prosba o odsuniecie od protokolu do kanarka GP: nowa pozycja do slowa pana. ### POPRZEDNIO: byl-otw ### 09-24 SLOWO PANA - ROZSZERZENIE (osobna operacja 'DYSPOZYCJA BEZPIECZENSTWA FOSY'): HENDRY weryfikuje WSZYSTKICH, w tym KRUCZNIKOW Fosy; rada lenna nie dyskutuje spraw wojskowych. Kanal: POSLANIEC do rak wlasnych, nie kruk. ### 300-10-01 TRIAZ: wynik razem z dyspozycja bezpieczenstwa Fosy (Hendry, poslaniec do rak wlasnych ~10-14). ### 300-10-14 MELDUNEK HENDRY'EGO (gra/meldunek_hendry_300_10_14.md) - RZUT ODCZYTU 1: dyspozycja wykonana; krucznicy i rada czysci w jego ocenie; PODEJRZEWA ALYNA SKROBKA (sekretarz rady): pisze wszystko, widziany z kupcem z BP, wynosi papier i atrament; prosi o zgode na odsuniecie od protokolu do kanarka GP. DO SLOWA PANA."
   },
   {
    "data": "300-09-16",
@@ -15402,7 +15402,7 @@
    "kanal": "poslancy do rak wlasnych, trakt WF-Fosa",
    "wraca": "300-10-14",
    "zamyka": "meldunek Hendry'ego z weryfikacji (rzut) + potwierdzenie rady, ze sprawy wojskowe zeszly ze stolu",
-   "status": "otwarte ### 300-09-26 TRIAZ: SNIEZYCA: poslancy (w drodze od 09-24) stoja dzien w zajezdzie - na Fosie ~10-01; meldunek Hendry'ego ~10-14. ### 300-10-14 MELDUNEK HENDRY'EGO (gra/meldunek_hendry_300_10_14.md) - RZUT ODCZYTU 1: dyspozycja wykonana; krucznicy i rada czysci w jego ocenie; PODEJRZEWA ALYNA SKROBKA (sekretarz rady): pisze wszystko, widziany z kupcem z BP, wynosi papier i atrament; prosi o zgode na odsuniecie od protokolu do kanarka GP. DO SLOWA PANA."
+   "status": "zamkniete 300-10-14 ### meldunek Hendry'ego 10-14: dyspozycja wykonana - rada lenna bez spraw wojskowych od 10-02, krucznicy sprawdzeni. ### POPRZEDNIO: byl-otw ### 300-09-26 TRIAZ: SNIEZYCA: poslancy (w drodze od 09-24) stoja dzien w zajezdzie - na Fosie ~10-01; meldunek Hendry'ego ~10-14. ### 300-10-14 MELDUNEK HENDRY'EGO (gra/meldunek_hendry_300_10_14.md) - RZUT ODCZYTU 1: dyspozycja wykonana; krucznicy i rada czysci w jego ocenie; PODEJRZEWA ALYNA SKROBKA (sekretarz rady): pisze wszystko, widziany z kupcem z BP, wynosi papier i atrament; prosi o zgode na odsuniecie od protokolu do kanarka GP. DO SLOWA PANA."
   },
   {
    "data": "300-09-24",
@@ -16266,7 +16266,7 @@
    "kanal": "osobiscie, WF",
    "wraca": "300-10-14",
    "zamyka": "lekcja odbyta",
-   "status": "otwarte ### 300-10-10 'NEXT' - propozycja GM przyjeta: powtorka drzec, blady, kolano, spokojny; zadanie - zdanie Talva wlasnymi slowami + jedno 'Kiedy sie boje, ...' (bez naciskania, moze byc o kims z bajki)."
+   "status": "zamkniete 300-10-14 ### lekcja 24 odbyta (gra/braavoski_lekcja_24_300_10_14.md); zadanie na 25 (pt 10-17): powtorka slow. ### POPRZEDNIO: byl-otw ### 300-10-10 'NEXT' - propozycja GM przyjeta: powtorka drzec, blady, kolano, spokojny; zadanie - zdanie Talva wlasnymi slowami + jedno 'Kiedy sie boje, ...' (bez naciskania, moze byc o kims z bajki)."
   },
   {
    "data": "300-10-10",
@@ -16401,7 +16401,7 @@
    "kanal": "osobiscie, WF",
    "wraca": "300-10-14",
    "zamyka": "lista przekazana",
-   "status": "otwarte"
+   "status": "zamkniete 300-10-14 ### przekazana 10-14 w kancelarii; kartka spalona przy szefie (plik ukryty). ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-10-12",
@@ -16509,6 +16509,24 @@
    "kanal": "dopisek do paczki WF-Fosa 10-14 + jezdziec",
    "wraca": "300-10-21",
    "zamyka": "pierwszy kruk z Dustinportu w WF",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-14",
+   "co": "FOSA - PROSBA HENDRY'EGO: ODSUNAC ALYNA SKROBKA (sekretarz rady lenna) OD PROTOKOLU, poki kanarek GP nie rozstrzygnie (~10-25). Podejrzenie bez dowodu (meldunek_hendry_300_10_14.md). Do slowa pana.",
+   "kto": "SYMON -> HENDRY ; GARRICK",
+   "kanal": "poslaniec do rak wlasnych, trakt WF-Fosa",
+   "wraca": "300-10-17",
+   "zamyka": "slowo pana",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-14",
+   "co": "BRAAVOSKI - LEKCJA 25 (pt 10-17): zadanie - powtorka slow (12 'strach' + bac sie, uciekac, wdowa, sztych, rownowaga). Forma reszty - do slowa pana.",
+   "kto": "SYMON, SANSA, ARYA",
+   "kanal": "osobiscie, WF",
+   "wraca": "300-10-17",
+   "zamyka": "lekcja odbyta",
    "status": "otwarte"
   }
  ],

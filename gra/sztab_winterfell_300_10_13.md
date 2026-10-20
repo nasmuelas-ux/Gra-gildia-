@@ -61,3 +61,29 @@
   - stajenni.
 - **Na wojnie** tabor rośnie do 1 cywila na 4–5 ludzi, bo dochodzą woźnice, kucharze w polu, kowale polowi i cieśle.
 - **Koszt** liczy Gawen. Brynden (O): *„Cywil kosztuje mniej niż żołnierz, ale jeść chce tak samo.”*
+
+## ODDZIAŁ 2: KOREKTA PANA (10-13). WYWIAD I ROZPOZNANIE NA CZAS POKOJU, NIE TYLKO WOJNY
+**Zakres (Brynden, O):** obce siły przy granicach i na wodach Północy w czasie pokoju.
+- Żelaźni: okręty i langskipy przy zachodnim brzegu.
+- Lew: garnizony w Dorzeczu i w KP, ruchy przy Przesmyku.
+- Skagos i Zatoka Fok.
+- Za Murem: wolni ludzie, Stannis na Smoczej Skale i jego ładunki.
+- Wybrzeże Dorzecza.
+- Mapy, księga obcych sił („kto, ile, gdzie, od kiedy”), drogi i przeprawy.
+
+**Rozpoznanie stałe:** posterunki z ludźmi, którzy patrzą i liczą.
+1. **Przesmyk i Fosa:** razem z Reedami, księga przybyszów przy bramie.
+2. **Zachodni brzeg:** razem z łańcuchem ognia Robetta i eskadrą Torrena.
+3. **Wschodni brzeg i Zatoka Fok:** Karhold i Karport.
+4. **Dar i Mur:** przez Czarny Zamek.
+
+Źródła na co dzień: kupcy i rybacy z pytaniami zadawanymi wprost, kapitanowie, zwiadowcy klanów.
+
+**Rozdział od siatki pana (O):** *„Pańskie uszy słuchają kupców i dworów. Nasze oczy patrzą na okręty, drogi i obozy. Jedno nie powinno wiedzieć o drugim więcej, niż trzeba. Co nasze oczy zobaczą, idzie do pana. Co pańskie uszy usłyszą o wojsku, przychodzi do nas od pana, bez źródła.”*
+
+**Obsada (E, nowa):**
+- szef oddziału 2;
+- 2 analityków (mapy i księga obcych sił);
+- **zwiadowcy:** 4 posterunki po 3 ludzi, razem ok. 12.
+
+**Razem ok. 15.** Wartę sztabu przenosi się do Dowództwa (ochrona sztabu, ok. 8). **Sztab razem ok. 50 żołnierzy.**

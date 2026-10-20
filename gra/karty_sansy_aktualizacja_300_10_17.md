@@ -132,3 +132,18 @@
 5. *„I Mance. Dwadzieścia tysięcy ludzi milczy od miesiąca. To jest największa rzecz na tej karcie, a nikt o niej nie mówi przy stole.”*
 
 **Pewność karty:** Król, Harrion, Bolton (milczenie), Wyman, Glover i Reed pewne. Odczyty jak oznaczono.
+
+## 7. ESSOS: NOWA KARTA (pan pyta „A karta Essos?”; dotąd były tylko dopiski [LYS] i BRAAVOS z 09-10)
+*Sansa zakłada kartę przy panu: zbiera w jednym miejscu dopiski z 09-10 i dopisuje to, co nowe. Bez siatki i jej teatrów, bez imion ludzi Domu.*
+- **Lys:** wiersze z 09-10 (pożycza stoczniom Lwa, zasiało zdanie „Korona, którą trzyma Tally”, pytało o GP). Do tego lyseńska moneta przy trupie w GP. Pytania o to, kto rządzi Lys, idą przez Braavos i Davosa (~10-25 i później).
+- **Braavos:** poselstwo (jej, matki i Aryi) czeka na słowo Króla. Arsenał pyta o drewno. Bank ma dostać papier Lwa, ale dopiero po Królu. **Jesienny statek przyszedł 10-15, paczka ~10-21.**
+- **Pentos:** linia Domu zamknięta, bo wszystko tam należy do Illyria. **Zboże Illyrii** do Spichlerza Korony idzie w ratach do końca X.
+- **Volantis:** pytanie Korony przez Braavos (kto najmuje statki, Złota Kompania i Myr) ~XI.
+- **Wojna Lys, Myr i Tyrosh o Ziemie Sporne** (plotka). Złota Kompania przy Myr. Stopnie drożeją.
+- **„Srebrna królowa ze smokami” w Zatoce Niewolniczej** (plotka z drugiej ręki, ~VIII). Kto przy niej, w paczce ~10-21.
+
+**Odczyt Sansy (O, po braavosku):**
+1. *„Essos to nie jedno królestwo, tylko dziewięć miast, które się nienawidzą. Dobrze. Z nienawidzącymi się można rozmawiać po kolei.”*
+2. *„Lys i Braavos to dwie strony jednej monety. Co jest złe dla Lys, jest dobre dla Braavos, i odwrotnie. Nie trzeba ich godzić, tylko wiedzieć, po której stronie monety stoimy.”*
+3. *„Illyrio. W Przystani mówili o nim, że karmi wszystkich i nikt nie wie, dlaczego. Bierzemy od niego zboże, to dobrze. Tylko niech nikt nie pyta, czego on chce. Kto pyta Illyria, czego chce, ten już mu coś obiecał.”*
+4. Najdłużej przy plotce o smokach, a potem ciszej: *„Jeśli to prawda, to za kilka lat to będzie jedyna karta, która się liczy. Wtedy wszystko, co tu mamy, Lew, Róża i Lys, będzie małe. I wtedy trzeba będzie wiedzieć, czy ona pamięta, kto zabił jej brata. Robert, nie Starkowie. Ale ojciec…”* Urywa. *„Ojciec był przy Robercie.”*

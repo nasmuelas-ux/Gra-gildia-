@@ -16527,7 +16527,7 @@
    "kanal": "osobiscie, WF",
    "wraca": "300-10-17",
    "zamyka": "lekcja odbyta",
-   "status": "otwarte ### 10-17 cz.1 rzut 36: Arya 15/17, Sansa 15/17 (gra/braavoski_lekcja_25_300_10_17.md); cz.2 do slowa pana."
+   "status": "zamkniete 300-10-17 ### Lekcja odbyta (rzuty 36, 80). Zadanie na 26 - rozmowy. ### POPRZEDNIO: byl-otw ### 10-17 cz.1 rzut 36: Arya 15/17, Sansa 15/17 (gra/braavoski_lekcja_25_300_10_17.md); cz.2 do slowa pana."
   },
   {
    "data": "300-10-14",
@@ -16653,6 +16653,15 @@
    "kanal": "kruk WF-Fosa 10-16; na miejscu",
    "wraca": "300-10-27",
    "zamyka": "pierwsza wymiana w ksiedze Fosy",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-17",
+   "co": "BRAAVOSKI - DYNAMIKA JEZYKA (slowo pana 10-17, zadanie na 26 wt 10-21): ARYA rozmawia po braavosku z TALVEM (przy lekcjach miecza); SANSA rozmawia po braavosku z PANEM (pora - do slowa pana). Na lekcji 26: co z tego wyszlo (rzut). Wlasni - bez rzutu na zgode Talva.",
+   "kto": "ARYA + TALVO ; SANSA + SYMON",
+   "kanal": "osobiscie WF",
+   "wraca": "300-10-21",
+   "zamyka": "lekcja 26 odbyta",
    "status": "otwarte"
   }
  ],

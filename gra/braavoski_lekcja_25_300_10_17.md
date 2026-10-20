@@ -26,3 +26,6 @@
   - Wybuchają śmiechem obie.
 - Sansa przy targowaniu się ani razu nie była „uprzejma”, tylko twarda i wesoła.
 - **Zadanie na 26 (wt 10-21): do słowa pana.**
+- **Słowo pana:** muszą nabrać dynamiki języka. **Arya rozmawia po braavosku z instruktorem** (Talvo, na lekcjach miecza). **Sansa rozmawia po braavosku z panem.** Do lekcji 26 (wt 10-21).
+
+## LEKCJA 25: ZAMKNIĘTA

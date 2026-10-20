@@ -15481,9 +15481,9 @@
    "co": "KAMIENNY BRZEG - DOWOZ ZAPASU PRZED LODEM (slowo pana 09-25, karta IV): ~115 korcy (70 dusz x ~7 tyg., ~1 korzec/os./mies., E) z zapasu Korony przez Dustinport - nie zakup, przesuniecie w Spichlerzu (Orland/Gawen ujmuja w planie na droge 09-26); przewoz lodziami Torrena albo wozami Donnela (E ~1 smok Kasa 3). DREWNO na reszte chat - z wyrebu Dustinportu (Donnel; kadluby maja pierwszenstwo - zasada 8). Wlasni - bez rzutu; droga/woda - pogoda.",
    "kto": "ORLAND ; GAWEN ; DONNEL ; TORREN ; SIGRUN",
    "kanal": "kruk WF-Fosa + jezdziec do Dustinportu",
-   "wraca": "300-10-21",
+   "wraca": "300-11-10",
    "zamyka": "ziarno i drewno na Kamiennym Brzegu przed lodem; Sigrun potwierdza 16 tygodni",
-   "status": "otwarte ### 300-10-15 NIE PRZYSZLO, WIADOMO DLACZEGO: stan w karcie Donnela/kruk Dustinport (od 10-17 kruki do WF w Dustinporcie) ~10-21."
+   "status": "otwarte ### 300-10-15 NIE PRZYSZLO, WIADOMO DLACZEGO: stan w karcie Donnela/kruk Dustinport (od 10-17 kruki do WF w Dustinporcie) ~10-21. ### 10-18 SLOWO PANA: osadnicy Sigrun lowia (sledz - wlasna ryba), a Korona wysyla DRUGA PARTIE ZBOZA MORZEM Z DUSTINPORTU przed lodem: ~350 korcy (70 dusz x ~5 mies. do wiosny, E Orlanda) ze skladu Korony w Dustinporcie; lodz Torrena albo Donnela; wyjscie do ~11-10. Rozkaz szyfrem Korony (wezel Dustinport) kruk WF-Fosa + jezdziec dzis."
   },
   {
    "data": "300-09-25",
@@ -16761,6 +16761,15 @@
    "kanal": "WF / domena",
    "wraca": "300-10-25",
    "zamyka": "uboj wykonany, loj w ksiedze Orlanda",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-18",
+   "co": "MUR - STAN SPIZARNI STRAZY W RACJACH (slowo pana 10-18, prosba Orlanda): Hallis Mollen (posel Korony) przysyla zapas Strazy po skladnikach (zboze, ryba, kiszonka, tluszcz) - Orland dopisze Mur jako osobna rubryke karty i przegrode 'na Mur zima'. Drugi kruk Domu przez Benna dzis. Wlasny - bez rzutu na wykonanie; liczby od Strazy - rzut przy odpowiedzi (czy Straz pokaze ksiegi).",
+   "kto": "SYMON -> HALLIS ; ORLAND",
+   "kanal": "kruk Domu WF-CZ (przez Benna)",
+   "wraca": "300-10-22",
+   "zamyka": "stan spizarni Muru w karcie racji",
    "status": "otwarte"
   }
  ],

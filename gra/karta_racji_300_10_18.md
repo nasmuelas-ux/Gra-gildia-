@@ -36,3 +36,7 @@
   - **pemikan** (~5 t w zapasie, „Mur i wojsko”).
 - **Czego nie ma:** **ile dni zapasu ma sam Mur.** Tego nikt Orlandowi nie podał. Spichlerz nie ma też osobnej przegrody „na Mur zimą”.
 - **Orland (O):** *„Gawen mówi, że Spichlerz karmi dziurę, a Mur to pierwsza dziura zimą. Ale ja nie umiem policzyć dziury, której nie widzę. Niech poseł Hallis przyśle stan spiżarni Straży w racjach, po mojemu: zboże, ryba, kiszonka, tłuszcz. Wtedy dopiszę Mur jako osobną rubrykę i powiem, ile trzymać na niego w przegrodzie.”* **Do słowa pana.**
+
+**Słowo pana 10-18:**
+- **Mur:** pytanie do Hallisa o stan spiżarni Straży w racjach (drugi kruk Domu przez Benna, dziś).
+- **Kamienny Brzeg (Starkport):** osadnicy Sigrun mają się zająć rybołówstwem, a Korona wysyła im **drugą partię zboża morzem z Dustinportu, przed lodem**. Orland liczy ~350 korcy, czyli ~70 dusz na ~5 miesięcy do wiosny (E). Ze składu Korony w Dustinporcie, łodzią Torrena albo Donnela, wyjście do ~11-10.

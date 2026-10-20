@@ -16779,6 +16779,33 @@
    "kanal": "WF",
    "wraca": "300-10-19",
    "zamyka": "slowo pana",
+   "status": "zamkniete 300-10-18 ### SLOWO PANA: ZGODA NA WSZYSTKIE TRZY; wpisac do listy przedsiebiorstw (majatek_funkcyjny_korony cz. C) jako PATRONAT NA WYLACZNOSC (caly wyrob dla Korony, cena ze slupa). Pozycje wykonawcze ponizej. ### POPRZEDNIO: byl-otw"
+  },
+  {
+   "data": "300-10-18",
+   "co": "LOJARNIA KORONY PRZY ZM - PATRONAT NA WYLACZNOSC (slowo pana 10-18): Edric Plug wybiera dwoch rzeznikow ZM, szopa i dwa kotly (~6 E; kwota Gawena), caly loj do Spichlerza po cenie ze slupa; start przed ubojem. Wlasni - bez rzutu; zgoda rzeznikow - rzut przy odpowiedzi.",
+   "kto": "EDRIC PLUG ; GAWEN ; ORLAND",
+   "kanal": "WF / ZM",
+   "wraca": "300-10-25",
+   "zamyka": "lojarnia dziala, pierwszy loj w ksiedze",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-18",
+   "co": "LOWISKA SPOD LODU - PATRONAT NA WYLACZNOSC (slowo pana 10-18): rybacy jeziorni domeny, sieci podlodowe i sanie (~3 E), zadatek od kosza; przewodnik Kessel (Fosa) albo czlowiek Reeda; cala ryba do Konserwy/Spichlerza. Start, gdy lod stanie (E ~XI). Zgoda rybakow - rzut przy odpowiedzi.",
+   "kto": "EDRIC PLUG ; KESSEL/REED ; ORLAND",
+   "kanal": "WF / domena; kruk WF-Fosa (Kessel)",
+   "wraca": "300-11-10",
+   "zamyka": "pierwsze kosze ryby spod lodu",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-18",
+   "co": "TRAN FOKOWY OD KARSTARKA (slowo pana 10-18): Gawen pisze w imieniu Korony do lorda Rickarda o kupno tranu fokowego z Zatoki Fok dla Spichlerza; cena - jego slowo, platnik Kasa 3. Odpowiedz Rickarda - RZUT.",
+   "kto": "GAWEN -> RICKARD KARSTARK",
+   "kanal": "kruk WF-Karhold",
+   "wraca": "300-10-23",
+   "zamyka": "odpowiedz Rickarda (rzut)",
    "status": "otwarte"
   }
  ],

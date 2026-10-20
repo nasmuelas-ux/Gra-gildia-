@@ -1767,6 +1767,20 @@
    "kwota": -4.0,
    "opis": "STROJ DLA KROLOWEJ ROSLIN na uczte powrotu Krola (atelier Tally - Mira): jedwab z BP, futro, praca; wycena Miry (E, wlasna) ~4 smoki; Gawen wpisal 10-16 jako wydatek domu krolewskiego.",
    "zrodlo": "slowo pana 10-15 (placi Korona); wycena Miry 10-16"
+  },
+  {
+   "data": "300-10-25",
+   "kasa": "KASA 3 - SKARB POLNOCY",
+   "kwota": -6.0,
+   "opis": "LOJARNIA KORONY PRZY ZM - patronat na wylacznosc: szopa + 2 kotly (E Orlanda; Gawen potwierdzi)",
+   "zrodlo": "slowo pana 10-18"
+  },
+  {
+   "data": "300-11-10",
+   "kasa": "KASA 3 - SKARB POLNOCY",
+   "kwota": -3.0,
+   "opis": "LOWISKA SPOD LODU - patronat na wylacznosc: sieci podlodowe i sanie (E Orlanda; Gawen potwierdzi)",
+   "zrodlo": "slowo pana 10-18"
   }
  ],
  "_symulacje": {

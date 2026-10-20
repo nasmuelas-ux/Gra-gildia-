@@ -43,6 +43,12 @@
 - **Warsztaty Zimowego Miasta** na umowach rocznych (07-20), m.in.: łuczarze Torm Cisowy i Haldor Cis, dwóch cieśli, garbarz, szewc, tkaczki (`rzemioslo_zimowe_miasto_300_07.md`).
 - **Lecznica Zimowego Miasta** (słowo pana 09-09): patronat Korony (ulga, opał, płótno i kasza z danin), a przy niej **zielarki na umowie rocznej Korony** dla S-7. Prowadzi Wenda Kłos (E). Szczegóły w `zapas_lekow_korony_300_09_09.md`.
 
+- **Bednarnia Konserwy Korony** (słowo pana 10-01): przedsiębiorstwo specjalne pod patronatem, ~31 smoków. Bednarz z rodziną robi tylko dla Konserwy.
+- **⚑ PATRONATY NA WYŁĄCZNOŚĆ (słowo pana 10-18):** Korona daje urządzenia i pierwszeństwo, a przedsiębiorstwo **robi tylko dla Korony**. Cały wyrób idzie do Spichlerza albo Konserwy, po cenie ze słupa.
+  - **Łojarnia Korony przy ZM:** dwóch rzeźników ZM, szopa i dwa kotły (~6, E Orlanda; kwota Gawena). Przetapiają łój z uboju domeny i ze wsi. **Cały łój do Spichlerza.**
+  - **Łowiska spod lodu na jeziorach domeny:** rybacy jeziorni, sieci podlodowe i sanie (~3, E), zadatek od kosza. Przewodnik Kessel albo człowiek lorda Reeda. **Cała ryba do Konserwy i Spichlerza.**
+- **Umowa kupna, nie patronat:** **tran fokowy od lorda Karstarka** (Zatoka Fok), dla Spichlerza.
+
 ## D. W TOKU ZMIANY / PLANOWANE
 - **Dom Starków** (Rodwell) i jego filia w Białym Porcie: według słowa pana z 07-16 **do rozwiązania, majątek do sprzedaży**. Agencja zbożowa nadal działa.
 - **Trakty T3-C** (Cerwyn–Winterfell) i **T1-B** (odgałęzienie do Bliźniaków): płaci Korona, start w VII.

@@ -57,3 +57,27 @@
 
 *Do Domu Tally (Kasa 1) należą: warzelnie, wędzarnia, bednarnia, garbarnia, papiernia Wata, drukarnia i skryptorium Ilaria, bursztyn Marra, atelier Miry i kruki Domu.*
 *Do lenna Fosy (Kasa 2) należą: Gorący Port, grobla, przewłoka, młyn w śluzie, torfiarnie, szklarnie Fosy, lecznica, szkoły Fosy i trzy wielkie spichlerze lenna.*
+
+---
+
+## E. OBRONA KORONY: TRZY GARNIZONY WOJSKA STARKÓW (słowo pana 300-10-13)
+*Podział stałego wojska Korony (do 700 na lądzie) na trzy umocnione miejsca. Koszary trzeba rozbudować, a budowle funkcyjne zaplanować albo wyznaczyć spośród istniejących. Plan przygotowują sztab (oddział 6, inżynieria; oddział 4, logistyka) oraz Gawen (koszt). Na Radę 10-24 idzie zarys, kosztorys później. Podział liczebny według Bryndena (O, E): WF ~350, Starkport ~200, Przystań Wilka ~150.*
+
+| # | gdzie | rola (O Bryndena) | istniejące (z zapisu) | do rozbudowy / wyznaczenia |
+|---|---|---|---|---|
+| 26 | **WINTERFELL** | serce i odwód; sztab; zbrojownia i kuźnia; skąd idzie odsiecz | koszary garnizonu (~280 miejsc przed Skagos), kuźnia, zbrojownia (x1500), Spichlerz, mennica, kruczarnia | **koszary do ~350 + kwatery sztabu**; izba sztabu (sala map); stajnie dla gońców; magazyn racji wojska (z Spichlerza); izba lecznicza garnizonu; plac ćwiczeń zimowy (kryty?) |
+| 27 | **STARKPORT** (Kamienny Brzeg) | zachodni brzeg: Żelaźni, morze Zachodzącego Słońca | palisada, wieża, pomost, komora, szopy (w budowie, etap I); łańcuch ognia | **koszary ~200** (drewno teraz, kamień latem 301); zbrojownia mała; magazyn racji; kuźnia polowa; izba lecznicza; stajnia; przystań dla łodzi Torrena (zimowa szopa) |
+| 28 | **PRZYSTAŃ WILKA** | wschodni brzeg: Zatoka Fok, Skagos, droga morska do BP i Karholdu | baszta (Bors; parter pod dachem), Akademia Wojskowa, Głębokorzeń (budynek planowany), most T3-M (planowany); Korona ma 1/2 (Cerwyn 1/4, Manderly 1/4) | **koszary ~150 + Akademia**; magazyn racji; kuźnia; izba lecznicza; stajnie; pomost wojskowy. ⚑ Przystań jest wspólna: Cerwyna i Manderly'ego **zawiadomić** listem regenta (budowa na części Korony) |
+
+**Budowle funkcyjne w każdym garnizonie (wzorzec Bryndena, O):**
+- koszary;
+- zbrojownia i magazyn broni;
+- magazyn racji (komora z księgą, S-2);
+- kuchnia z piekarnią;
+- kuźnia;
+- stajnia;
+- izba lecznicza (skrzynia S-7, opatrywacz);
+- plac ćwiczeń;
+- wieża albo punkt sygnałowy (łańcuch ognia, rogi);
+- karcer;
+- miejsce modlitwy (gaj albo sept, według ludzi).

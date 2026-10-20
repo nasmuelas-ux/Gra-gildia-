@@ -16474,6 +16474,15 @@
    "wraca": "300-11-05",
    "zamyka": "pierwszy nabor - ilu przyszlo (rzut); dalej do 700",
    "status": "otwarte"
+  },
+  {
+   "data": "300-10-13",
+   "co": "TRZY GARNIZONY WOJSKA STARKOW - WINTERFELL / STARKPORT / PRZYSTAN WILKA (slowo pana 10-13; gra/majatek_funkcyjny_korony_300_07.md cz. E): rozbudowa koszar (WF ~350, Starkport ~200, Przystan ~150 - E Bryndena), budowle funkcyjne zaplanowac albo wyznaczyc (wzorzec: koszary, zbrojownia, magazyn racji, kuchnia-piekarnia, kuznia, stajnia, izba lecznicza, plac, punkt sygnalowy, karcer, miejsce modlitwy). Zarys - sztab (o.6 inzynieria, o.4 logistyka) + Gawen na Rade 10-24; kosztorys pozniej; Przystan Wilka - zawiadomic Cerwyna i Manderly'ego (wspolwlasciciele). Wlasni - bez rzutu; odpowiedz Cerwyna/Manderly'ego - rzut, jesli sprzeciw.",
+   "kto": "RODRIK (szef sztabu) ; o.6 ; o.4 ; GAWEN ; BERON (listy)",
+   "kanal": "osobiscie WF; listy regenta",
+   "wraca": "300-10-24",
+   "zamyka": "zarys na Radzie + listy do wspolwlascicieli",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

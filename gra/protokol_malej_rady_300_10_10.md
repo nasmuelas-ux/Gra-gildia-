@@ -27,12 +27,12 @@ _Posiedzenie zwyczajne, w rytmie co 14 dni. Przewodniczy Namiestnik-regent. Prot
 4. **Pentos:** według Gawena.
    - Drewno do 100 szt. po 115 jeleni, futra po spisie.
    - Przewóz na koszt kupca od BP, zadatek 1/3.
-   - Na czysto za drewno ~47 smoków.
+   - Na czysto za drewno ~49,5 smoka.
 5. **Zboże dla lordów:** według Gawena.
    - Cerwyn i Tallhart ze składu BP.
    - Ryswell i Flint z Reach albo od Illyria.
    - Cena ze słupa, zadatek 1/4, odbiór albo dostawa za opłatą.
-   - Wpływ ~400 smoków.
+   - Wpływ ~420 smoków.
 6. **Pisarze z Braavos:** stawka podniesiona (+1/2) i 2–3 nauczycieli ponad liczbę.
    - **NOWE: szkoła pisarzy Korony dla dorosłych** na zimowe miesiące: 20 miejsc, z tego 5 dla uczących się braavoskiego. Plan na 10-24.
 7. **Człowiek do łupaczy Stannisa:** Dorn Ciosak (E), wyjazd do 10-17. Wraca pierwszym statkiem, który go zabierze (kadłub Wymana albo „Morska Klacz”).

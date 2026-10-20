@@ -3443,3 +3443,5 @@ rzut 9
 300-10-10 | WYNIK | BRAAVOSKI L23 CZ.2 STRACH | RZUT 35
 300-10-10 | PASMA | BILANS KORONY IX - POLOZENIE W PASMIE MODELU (kasa.py KASA 3, IX; zasada 27 - jeden rzut na bilans) | rzut = procent pasma od min do max (1 = min, 100 = max), metoda jak VII/VIII
 300-10-10 | WYNIK | BILANS IX POLOZENIE | RZUT 20
+300-10-10 | PASMA | BILANS HALA IX - POLOZENIE W PASMIE WOLNEJ GOTOWKI (964.60-2778.25; kasa.py skarbce) - nie rzucone 10-05 (przeoczenie GM) | rzut = procent pasma (1 = min, 100 = max); wyplata wspolnikow IX = 40% wolnej (zasada rozruchu Hala 06-19), Symon 1/3
+300-10-10 | WYNIK | BILANS HALA IX POLOZENIE | RZUT 43 wolna 1734.03 wyplata 40% 693.61 Symon 231.2 Nesta 231.2 Hal 115.6 Mira 115.6

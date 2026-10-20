@@ -1746,6 +1746,13 @@
    "kwota": -31,
    "opis": "BEDNARNIA KONSERWY KORONY - warsztat przy Podgrodziu (szopa z piecem ~22, narzedzia ~6, dowoz klepki ~3; E Gawena)",
    "zrodlo": "Mala Rada 300-10-10, kosztorys Gawena, slowo pana"
+  },
+  {
+   "data": "300-10-05",
+   "kasa": "KASA 1 - DOM HANDLOWY TALLY",
+   "kwota": -693.61,
+   "opis": "WYPLATA WSPOLNIKOM - IX (40% wolnej gotowki IX 1734,03; polozenie rzut 43): Symon 231,20, Nesta 231,20, Hal 115,60, Mira 115,60. Dyspozycja stala 07-14 - Hal wykonal po bilansie 10-05; w zapisie przeoczone do 10-10 (GM).",
+   "zrodlo": "dyspozycja stala pana 300-07-14; bilans Hala IX (10-05); polozenie rzut 43 (10-10)"
   }
  ],
  "_symulacje": {
@@ -2142,6 +2149,16 @@
    "zrodlo": "wyrownania wsteczne Ashford+Seagard (moneta), bilans Hala VII; slowo pana 08-06",
    "czesc_b": "po bilansie VIII (~09-05): 40% wolnej gotowki VIII",
    "status": "rozkaz do Hala kruk 08-07; odbior Symona/Miry - faktoria ZM albo BP"
+  },
+  "wyplata_IX_300": {
+   "wolna_gotowka_IX": 1734.03,
+   "wyplata_40proc": 693.61,
+   "Symon": 231.2,
+   "Nesta": 231.2,
+   "Hal": 115.6,
+   "Mira": 115.6,
+   "data": "300-10-05 (wykonanie Hala)",
+   "status": "Nesta i Hal w BP; czesci Symona i Miry przekazem Domu do FAKTORII ZM - woz Domu z BP po sniezycy, do odbioru ~10-12 (E)"
   }
  },
  "_finanse_rodziny": {

@@ -15888,7 +15888,7 @@
    "kanal": "list Domu przez BP",
    "wraca": "300-10-10",
    "zamyka": "warunki Gawena na stole (Mala Rada) i list wyslany",
-   "status": "zamkniete 300-10-10 ### MALA RADA - SLOWO PANA 'tak jak Gawen powie'. WARUNKI GAWENA (E z moca zapisu): DREWNO - I partia do 100 sztuk suchego drewna okretowego spod pokladu, tylko to, czego nie potrzebuje Wzor II (Orland i spis wyrebu); cena 115 jeleni za sztuke (srodek ich pisemnej oferty 110-120); FUTRA - tylko nadwyzka swiadczen ponad zimowe potrzeby Konserwy i garnizonow, ilosc po spisie XI; PRZEWOZ - na koszt kupca od nabrzeza BP; ZADATEK 1/3 przy zamowieniu; cło - zgodnie z taryfa komory BP. WPLYW (E): 100 x 115 = 11 500 jeleni ~ 55 smokow brutto; po dowozie do BP (~8) ~47 netto za drewno; futra - po spisie. 'Dwie pieczecie, dwa glosy': list Domu przez Hala/Obara, pieczec Korony przy towarze Korony. List statkiem; odpowiedz domu ~XI (rzut). ### POPRZEDNIO: byl-otw ### 300-10-03 SLOWO PANA: ZGODA - odpowiadamy; WARUNKI USTALA GAWEN (cena drewna/futer ze slupa i ksiegi Spichlerza, ilosc, przewoz, zadatek). List przez Hala/Obara statkiem; odpowiedz domu ~XI (rzut). ### 300-10-03 SLOWO PANA (dopisek): Gawen liczy tez ILE ZEJDZIE (ilosc drewna i futer, ktore Korona moze oddac bez szkody dla zapasu i zimy) i ILE ZYSKA KORONA - WPLYW NETTO NA KONCU (po koszcie, przewozie, cle, zadatku). Na Mala Rade ~10-10."
+   "status": "zamkniete 300-10-10 ### MALA RADA - SLOWO PANA 'tak jak Gawen powie'. WARUNKI GAWENA (E z moca zapisu): DREWNO - I partia do 100 sztuk suchego drewna okretowego spod pokladu, tylko to, czego nie potrzebuje Wzor II (Orland i spis wyrebu); cena 115 jeleni za sztuke (srodek ich pisemnej oferty 110-120); FUTRA - tylko nadwyzka swiadczen ponad zimowe potrzeby Konserwy i garnizonow, ilosc po spisie XI; PRZEWOZ - na koszt kupca od nabrzeza BP; ZADATEK 1/3 przy zamowieniu; cło - zgodnie z taryfa komory BP. WPLYW (E): 100 x 115 = 11 500 jeleni = 57,5 smoka brutto (1 smok = 200 jeleni); po dowozie do BP (~8) ~49,5 netto za drewno [poprawka 10-10]; futra - po spisie. 'Dwie pieczecie, dwa glosy': list Domu przez Hala/Obara, pieczec Korony przy towarze Korony. List statkiem; odpowiedz domu ~XI (rzut). ### POPRZEDNIO: byl-otw ### 300-10-03 SLOWO PANA: ZGODA - odpowiadamy; WARUNKI USTALA GAWEN (cena drewna/futer ze slupa i ksiegi Spichlerza, ilosc, przewoz, zadatek). List przez Hala/Obara statkiem; odpowiedz domu ~XI (rzut). ### 300-10-03 SLOWO PANA (dopisek): Gawen liczy tez ILE ZEJDZIE (ilosc drewna i futer, ktore Korona moze oddac bez szkody dla zapasu i zimy) i ILE ZYSKA KORONA - WPLYW NETTO NA KONCU (po koszcie, przewozie, cle, zadatku). Na Mala Rade ~10-10."
   },
   {
    "data": "300-10-03",
@@ -15996,7 +15996,7 @@
    "kanal": "Mala Rada",
    "wraca": "300-10-10",
    "zamyka": "slowo pana i listy do lordow",
-   "status": "zamkniete 300-10-10 ### MALA RADA - SLOWO PANA 'tak jak Gawen powie'. PLAN GAWENA: (1) CERWYN 800 i TALLHART 1200 - z niesprzedanego ziarna w skladzie BP (wystawa), cena ze slupa (zyto 29 jel./korzec, owies 21); (2) RYSWELL 600 i FLINT 300 - z dodatkowych 10 000 z Reach, jesli Olenna przyjmie (~10-20); jesli nie - Illyria ~28 jel. z frachtem + marza Korony do ceny slupa; (3) ZADATEK 1/4 przy zamowieniu; (4) ODBIOR wlasnymi wozami ze skladu albo DOSTAWA ZA OPLATA od korca i mili (stawka Gawena z listu 09-26). WPLYW (z cen slupa, jesli caly ladunek zyto): 2 900 x 29 = 84 100 jel. ~ 400 smokow; owies obniza. Listy do lordow - po Radzie, kruki dzis/jutro. Odbior/dostawa - pozycja ~10-20. ### POPRZEDNIO: byl-otw ### 300-10-05 SLOWO PANA: TAK - tak, jak Gawen powie (zrodlo, cena, zadatek, przewoz). Gawen przedstawia na Radzie ~10-10; listy do lordow po Radzie. ### 300-10-05: czesc z niesprzedanego ziarna w skladzie BP (wystawa) - Cerwyn i Tallhart najpierw."
+   "status": "zamkniete 300-10-10 ### MALA RADA - SLOWO PANA 'tak jak Gawen powie'. PLAN GAWENA: (1) CERWYN 800 i TALLHART 1200 - z niesprzedanego ziarna w skladzie BP (wystawa), cena ze slupa (zyto 29 jel./korzec, owies 21); (2) RYSWELL 600 i FLINT 300 - z dodatkowych 10 000 z Reach, jesli Olenna przyjmie (~10-20); jesli nie - Illyria ~28 jel. z frachtem + marza Korony do ceny slupa; (3) ZADATEK 1/4 przy zamowieniu; (4) ODBIOR wlasnymi wozami ze skladu albo DOSTAWA ZA OPLATA od korca i mili (stawka Gawena z listu 09-26). WPLYW (z cen slupa, jesli caly ladunek zyto): 2 900 x 29 = 84 100 jel. = 420,5 smoka (1 smok = 200 jeleni) [poprawka 10-10]; owies obniza. Listy do lordow - po Radzie, kruki dzis/jutro. Odbior/dostawa - pozycja ~10-20. ### POPRZEDNIO: byl-otw ### 300-10-05 SLOWO PANA: TAK - tak, jak Gawen powie (zrodlo, cena, zadatek, przewoz). Gawen przedstawia na Radzie ~10-10; listy do lordow po Radzie. ### 300-10-05: czesc z niesprzedanego ziarna w skladzie BP (wystawa) - Cerwyn i Tallhart najpierw."
   },
   {
    "data": "300-10-05",
@@ -16338,6 +16338,15 @@
    "kanal": "osobiscie, WF/ZM",
    "wraca": "300-10-24",
    "zamyka": "plan szkoly na stole Rady (prowadzacy, miejsce, nabor, koszt)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-10",
+   "co": "WYPLATA IX DLA WSPOLNIKOW DOMU (dyspozycja stala 07-14; 40% wolnej gotowki IX = 693,61; Symon 231,20, Mira 115,60 - przekazem do faktorii ZM). Hal wykonal po bilansie 10-05 (zapis przeoczyl - GM). Odbior osobiscie za kwitem w faktorii ZM; czesc Miry - kufer pod jej imieniem (Mira w WF ~10-12/13). Nastepna: po bilansie X (~11-05).",
+   "kto": "HAL -> faktoria ZM ; SYMON (odbior)",
+   "kanal": "woz Domu BP-ZM",
+   "wraca": "300-10-12",
+   "zamyka": "czesc Symona odebrana (sakiewka), czesc Miry w kufrze",
    "status": "otwarte"
   }
  ],

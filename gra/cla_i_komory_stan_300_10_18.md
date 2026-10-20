@@ -69,3 +69,14 @@
 5. **Łączność:** komory jako **węzły sieci kruków Korony.** Fosa, Dustinport, BP i Kamienny Brzeg już są w etapie I (Ulla Kora). Reszta komór dostanie gołębniki albo kuriera celnego. Szyfr Korony w XI.
 - **Kosztorys całej reformy:** Gawen z Garthem i sztabem **na Radę 10-24**, potem do Króla razem z rachunkiem regencji.
 - **Gawen (O):** *„Komora bez miecza to prośba. Komora z mieczem, ale bez księgi, to rozbój. Trzeba obu, i jeszcze kruka, żeby się dało sprawdzić jedno i drugie.”*
+
+## 7. GŁÓWNA SIEDZIBA SŁUŻBY CELNEJ (słowo pana: „chodzi mi też o główną siedzibę”)
+**Gawen (O, bez rzutu), trzy miejsca do wyboru:**
+- **(A) Zimowe Miasto, przy Skarbie.**
+  - *„Blisko mnie, blisko krukarni Korony przy Bramie Myśliwskiej i blisko Króla. Księgi wszystkich komór w jednym archiwum, rewizja bez jeżdżenia. Ruchu tu nie ma, ale główna siedziba nie musi stać przy ruchu, tylko przy rachunku.”*
+  - Budynek (E): dom przy Targu ZM albo skrzydło przy składzie Korony. Izba Gartha, archiwum ksiąg celnych, izba kurierów, straż.
+- **(B) Fosa.**
+  - *„Tam jest najwięcej ruchu lądem i tam Garth siedzi. Ale to pańskie lenno, panie. Główna siedziba ceł Korony w lennie Namiestnika to dokładnie to zdanie, które Sansa każe zabić.”*
+- **(C) Biały Port.**
+  - *„Najwięcej cła. Ale to miasto Wymana, a my tam jeszcze tylko patrzymy. Siedziba w cudzym porcie to siedziba na łasce gospodarza.”*
+- **Gawen:** *„Ja bym wybrał Zimowe Miasto. Fosa i Biały Port niech mają silne komory, nie siedzibę.”* **Do słowa pana.**

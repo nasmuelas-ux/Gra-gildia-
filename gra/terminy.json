@@ -16483,6 +16483,24 @@
    "wraca": "300-10-24",
    "zamyka": "zarys na Radzie + listy do wspolwlascicieli",
    "status": "otwarte"
+  },
+  {
+   "data": "300-10-14",
+   "co": "TORREN - REKONESANS MORSKI (slowo pana 10-14): czy gdzies widac aktywnosc morska - czyje zagle, ile, gdzie, kierunek. Wlasni - bez rzutu na wykonanie; CO ZOBACZA - pasma i rzut przy odczycie meldunku. Gra/listy_300_10_14_torren_cypel.md.",
+   "kto": "SYMON -> TORREN SOLNY",
+   "kanal": "szyfr Korony (klucz wojskowy), kruk WF-Fosa + jezdziec do Dustinportu",
+   "wraca": "300-10-24",
+   "zamyka": "meldunek Admirala o ruchu na morzu",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-14",
+   "co": "CYPEL - PYTANIE O NAPLYW WOLNYCH LUDZI (slowo pana 10-14): ilu przyszlo, skad, ile ognisk, kto jeszcze idzie. Wlasni (Torgen, Vemund) - bez rzutu na odpowiedz; liczby = stan swiata, rzut przy odczycie jesli zapis ich nie daje. Gra/listy_300_10_14_torren_cypel.md.",
+   "kto": "SYMON -> TORGEN SZARY / VEMUND OD KOTWY",
+   "kanal": "szyfr Korony, kruk WF-Deepwood + jezdziec lancucha Robetta",
+   "wraca": "300-10-20",
+   "zamyka": "odpowiedz z Cypla z liczbami",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

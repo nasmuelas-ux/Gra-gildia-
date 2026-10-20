@@ -67,3 +67,10 @@
   - *„Tak powinno być. Twarz można zdjąć, a robota idzie dalej.”*
   - Zasada 8, rzeczowo: *„Dziesiątki ludzi to dziesiątki pensji, i wszystkie z pańskiej sakiewki, nie z Domu. Dziś to siedem do czternastu smoków miesięcznie. Przy dziesiątkach ludzi będzie to kilka razy tyle. Niech pani Willa i pański pisarz przyniosą liczby, zanim przyjmą ludzi, a nie po.”*
   - *„I niech nikt z tych dziesiątek nie dostaje pieniędzy przez Dom. Inaczej po roku cała siatka będzie w moich księgach, czy tego chcę, czy nie.”*
+
+## 300-10-15, popołudnie, centrala ZM: SPOTKANIE WILLI I ALDWINA (słowo pana 10-14), PAN DOCHODZI POD KONIEC
+- **Spotkanie odbyte**, ludzie własni, bez rzutu. Przykrywka: pisarz Namiestnika po oprawę ksiąg kancelarii (pod pachą ma dwie księgi do oprawy, prawdziwe, E).
+- **Willa podała ustnie imiona szefów teatrów.** Terenowych nie.
+- **Wspólna skrzynka ustalona** (E): szuflada pod pulpitem kopisty na dole, otwierana przy zwykłej robocie. Znak „jest coś”: księga położona grzbietem do okna.
+- **Willa (O):** *„Powtórzył imiona raz, za mną, i więcej ich nie powtarza. Dobrze.”*
+- **Aldwin (O):** *„Pani Willa ma lepszy porządek niż niejeden kapitularz septów. Nie będę go psuł. Będę tylko sprawdzał, czy nikt inny go nie zna.”*

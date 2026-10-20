@@ -2297,6 +2297,12 @@
     "kwota": null,
     "opis": "SPRAWY PRYWATNE PANA (osobna pozycja, niejawna) - wstepnie ~8/mies + ~5 jednorazowo (E); kwota po karcie ~10-18",
     "zrodlo": "slowo pana 300-10-11"
+   },
+   {
+    "data": "301-01-15",
+    "kwota": -15,
+    "opis": "WYWIAD - TEATR KRAINY BURZY (slowo pana 10-17): centrum-przykrywka (E Willi: maly sklad wina/plotna albo przewoznik na Zatoce Rozbitkow, z uchem na Tarth) - start jednorazowo ~15 (E Willi); miesiecznie ~2-3 od otwarcia (E)",
+    "zrodlo": "slowo pana 300-10-17; szacunek Willi"
    }
   ]
  },

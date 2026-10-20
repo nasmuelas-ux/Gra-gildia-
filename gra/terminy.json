@@ -16488,8 +16488,8 @@
    "data": "300-10-14",
    "co": "TORREN - REKONESANS MORSKI (slowo pana 10-14): czy gdzies widac aktywnosc morska - czyje zagle, ile, gdzie, kierunek. Wlasni - bez rzutu na wykonanie; CO ZOBACZA - pasma i rzut przy odczycie meldunku. Gra/listy_300_10_14_torren_cypel.md.",
    "kto": "SYMON -> TORREN SOLNY",
-   "kanal": "szyfr Korony (klucz wojskowy), kruk WF-Fosa + jezdziec do Dustinportu",
-   "wraca": "300-10-24",
+   "kanal": "szyfr Korony (klucz wojskowy), kruk WF-Fosa + jezdziec do Dustinportu; ODPOWIEDZ: kruk Dustinport->WF (klatka z Fosy)",
+   "wraca": "300-10-21",
    "zamyka": "meldunek Admirala o ruchu na morzu",
    "status": "otwarte"
   },
@@ -16500,6 +16500,15 @@
    "kanal": "szyfr Korony, kruk WF-Deepwood + jezdziec lancucha Robetta",
    "wraca": "300-10-20",
    "zamyka": "odpowiedz z Cypla z liczbami",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-14",
+   "co": "KRUKI DO WINTERFELL W DUSTINPORCIE (slowo pana 10-14): Garrick daje 3 kruki z WF (E) jezdzcowi z listem do Torrena; trzyma czlowiek Korony pod przysiega (Donnel / krucznik Ulli Kory); uzupelnianie z kazdym kurierem na zachod, do czasu wezla Dustinport sieci Korony (etap I). Wlasni - bez rzutu.",
+   "kto": "GARRICK (ptaki) ; DONNEL (trzyma) ; ULLA KORA (stale rozwiazanie)",
+   "kanal": "dopisek do paczki WF-Fosa 10-14 + jezdziec",
+   "wraca": "300-10-21",
+   "zamyka": "pierwszy kruk z Dustinportu w WF",
    "status": "otwarte"
   }
  ],

@@ -147,3 +147,17 @@
 2. *„Lys i Braavos to dwie strony jednej monety. Co jest złe dla Lys, jest dobre dla Braavos, i odwrotnie. Nie trzeba ich godzić, tylko wiedzieć, po której stronie monety stoimy.”*
 3. *„Illyrio. W Przystani mówili o nim, że karmi wszystkich i nikt nie wie, dlaczego. Bierzemy od niego zboże, to dobrze. Tylko niech nikt nie pyta, czego on chce. Kto pyta Illyria, czego chce, ten już mu coś obiecał.”*
 4. Najdłużej przy plotce o smokach, a potem ciszej: *„Jeśli to prawda, to za kilka lat to będzie jedyna karta, która się liczy. Wtedy wszystko, co tu mamy, Lew, Róża i Lys, będzie małe. I wtedy trzeba będzie wiedzieć, czy ona pamięta, kto zabił jej brata. Robert, nie Starkowie. Ale ojciec…”* Urywa. *„Ojciec był przy Robercie.”*
+
+## 8. KRAINY BURZY (z Tarthem) i SMOCZA SKAŁA: NOWA KARTA (pan: „Jest jedna kraina, na którą nie patrzymy”)
+**Co jest w zapisie (mało):**
+- Plotka (08-01, statki ze Starego Miasta, ~35 dni): *„lordowie burzy nie wiedzą, komu służą”*. **Koniec Burzy trzyma kasztelan i nikogo nie wpuszcza.**
+- **Stannis na Smoczej Skale kopie czarne szkło** (09-01, żeglarze; pewne). Nie ma ludzi ani złota. Oddał szkło Północy za darmo (299-12). Davos: *„Brakuje nam ludzi, którzy potem powiedzą, że widzieli.”*
+- **Teatrów ani uszu tam nie ma.** *„Wiemy tyle, ile przyniesie kupiec.”* Pytanie „kto trzyma Koniec Burzy” stoi od 08-03 bez odpowiedzi.
+- Joffrey, Tommen i Myrcella to udowodnione bękarty (zapis). Z prawa dziedzicem jelenia jest Stannis.
+
+**Odczyt Sansy (O, po braavosku):**
+1. *„To jest kraina, która z prawa ma pana, a w praktyce go nie ma. Lordowie burzy nie wiedzą, komu służą, bo ten, któremu powinni, siedzi na skale i kopie, a ten, któremu służą, jest bękartem.”*
+2. *„Kasztelan, który nikogo nie wpuszcza, czeka. Na kogo, tego nie wiemy. Na Stannisa, na Lwa, czy na to, kto przyjdzie pierwszy z ludźmi.”*
+3. *„Stannis to jedyny król z Południa, który nam coś dał i nic nie chciał. Nie lubię go, w Przystani mówiono o nim same złe rzeczy. Ale on jedyny patrzy tam, gdzie patrzy Jojen.”*
+4. *„Jeśli lordowie burzy kiedyś pójdą za Stannisem, to Lew będzie miał wroga pod samym nosem, w Przystani. Wtedy nie będzie miał czasu na Wyspy ani na nas.”*
+5. *„Trzeba tam mieć choć jedno ucho. Choćby kupca na Tarth.”* Po chwili, szybko: *„To nie moja sprawa, czyje. Ja tylko mówię, czego nie widać.”*

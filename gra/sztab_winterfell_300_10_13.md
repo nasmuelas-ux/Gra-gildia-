@@ -205,3 +205,54 @@
 ### C. UWAGA BRYNDENA (O): JEDEN CZŁOWIEK, DWA KRZESŁA
 - *„W pokoju to ci sami ludzie: Rodrik jest szefem sztabu i dowódcą skrzydła, ja oddziałem 3 i skrzydłem, Osric oddziałem 1 i skrzydłem. W wojnie tak się nie da. Kto siedzi w sztabie, ten zostaje przy wodzu. Kto dowodzi skrzydłem, ten jedzie ze skrzydłem.”*
 - **Wniosek:** rozpiska wojenna musi mieć dla każdego krzesła **dwa nazwiska**: pierwsze na pokój, drugie na wojnę. Brakuje dziś głównie **kapitanów hufców** (2–3) i **oficerów funkcyjnych oddziałów 2, 4, 5 i 6**. Ich daje Akademia, ale nie od razu.
+
+---
+
+## VIII. FLOTA (10-13, uzupełnienie pana; propozycja Bryndena O, liczby z zapisu albo E)
+
+### A. W sztabie: ODDZIAŁ 7, MORSKI
+- **Szef:** **Admirał.** *Propozycja: Torren Solny* (dziś admirał eskadry w Dustinporcie). Na wojnie Admirał płynie z flotą, a w sztabie zostaje jego zastępca (dwa krzesła, jak w części VII).
+- **Zakres:**
+  - okręty Korony i ich załogi;
+  - plan użycia flot lordów na wezwanie;
+  - przeprawy i desanty;
+  - straż brzegu od strony wody;
+  - stocznie i kadłuby na pochylniach;
+  - lodmani.
+- **Obsada (E):** Admirał + zastępca + 2 oficerów (plany, księga okrętów i załóg) · 1 pisarz (cywil).
+- **Współpraca:**
+  - z oddziałem 2 (rozpoznanie morskie: posterunki zachodni i wschodni, rybacy, kapitanowie);
+  - z oddziałem 4 (zaopatrzenie portów i okrętów);
+  - z oddziałem 5 (sygnały morskie: flagi, ognie, rogi);
+  - z oddziałem 6 (szkutnicy, przeprawy).
+
+### B. Miara floty (jedna dla wszystkich)
+| jednostka | skład | dowodzi |
+|---|---|---|
+| **okręt / łódź** | jedna jednostka | kapitan albo szyper |
+| **eskadra** | 3–8 okrętów | dowódca eskadry |
+| **flota** | kilka eskadr | Admirał, a przy flocie lorda: lord i chorągiewny Korony na pokładzie |
+
+### C. Trzy rodzaje sił, jak na lądzie
+| rodzaj | co jest (z zapisu) |
+|---|---|
+| **flota stała Korony** | eskadra Torrena: ~6 długich łodzi (4 w Dustinporcie, 2 w GP) i 2 kadłuby na brzegu (na wodę wiosną); **Kra** (Wzór II, lekki wojenny, dar Wymana), wodowanie wiosną 301 |
+| **floty wasali** | Manderly: 10 okrętów i 2 transportowce przy Królu oraz 4 galery w BP; Karstark: łodzie Karholdu; Mormont: 6 łodzi (kurs na Cypel); Flint z Palca: łodzie na znak |
+| **łodzie ruszenia** | rybacy na wezwanie: przewóz, zwiad, ratunek, bez walki |
+| **flota lenna Fosy** (pańska) | 2 okręty wojenne lenna zamówione w Dustinporcie (stan w zapisie do sprawdzenia); 10 łodzi płaskodennych Jastrzębi |
+
+### D. Oficerowie
+- **Liniowi:**
+  - Admirał;
+  - dowódcy eskadr (*dziś: Torren, a przy GP 2 łodzie jego kapitanów*);
+  - kapitanowie i szyprzy.
+- **Funkcyjni:**
+  - zastępca Admirała w sztabie;
+  - oficerowie planów;
+  - **lodmani i nawigatorzy** (księga lodmanów GP);
+  - szkutnik-mistrz (Dustinport, BP);
+  - chorągiewni Korony na okrętach lordów.
+
+### E. Uwaga Bryndena (O)
+- *„Na Stopniach wygrywał ten, kto miał łodzie we właściwym miejscu, a nie ten, kto miał ich najwięcej. Nam okręty są potrzebne do przewozu i do oczu. Do bitwy na pełnym morzu na razie nie mamy czym iść, i dobrze, że nie musimy.”*
+- Model floty Korony („kto buduje i płaci”) czeka na Króla (badanie pana z 08-24, karta Lucana).

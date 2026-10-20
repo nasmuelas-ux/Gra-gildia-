@@ -16743,6 +16743,24 @@
    "kanal": "WF",
    "wraca": "300-10-19",
    "zamyka": "slowo pana",
+   "status": "zamkniete 300-10-18 ### SLOWO PANA: (a) TRAN przez Hala z BP + (c) WCZESNIEJSZY UBOJ czesci bydla domeny. (b) - nie. Dwie pozycje wykonawcze. ### POPRZEDNIO: byl-otw"
+  },
+  {
+   "data": "300-10-18",
+   "co": "TRAN Z BIALEGO PORTU DLA KORONY (slowo pana 10-18, waskie gardlo tluszczu ~22 dni): Hal kupuje tran w BP dla Spichlerza Korony (ilosc - Orland: pokryc ~30 dni do uboju, E), cena i kwota z ksiegi Hala (zasada 43), platnik Kasa 3 (Gawen). Transport: woz Domu / sanie traktem BP-WF. Wlasni - bez rzutu; podaz w BP - rzut, jesli Hal zglosi brak.",
+   "kto": "HAL ; GAWEN ; ORLAND",
+   "kanal": "kruk WF-BP (szyfr Korony do faktora/Hala)",
+   "wraca": "300-10-25",
+   "zamyka": "tran w skladzie WF/ZM, kwota w Kasie 3",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-18",
+   "co": "WCZESNIEJSZY UBOJ CZESCI BYDLA DOMENY (slowo pana 10-18): Edric Plug wybiera sztuki, ktore nie przezyja zimy na sianie; loj do Spichlerza (tluszcz), mieso do Konserwy (wedzarnie, solenie). Wlasni - bez rzutu; ile sztuk - Edric (E).",
+   "kto": "EDRIC PLUG ; ORLAND ; Konserwa",
+   "kanal": "WF / domena",
+   "wraca": "300-10-25",
+   "zamyka": "uboj wykonany, loj w ksiedze Orlanda",
    "status": "otwarte"
   }
  ],

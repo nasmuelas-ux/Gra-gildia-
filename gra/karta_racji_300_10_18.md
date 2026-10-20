@@ -18,3 +18,11 @@
 **Co jeszcze przyjdzie w X (Z):** reszta beczki zimowej (~250), Illyria 20 000 korcy (rata 10-30), dalsze statki Reach do GP (~do 10-25), czynsz domeny w zbożu ~2 000 korcy.
 
 **Od słowa pana 10-18: karta racji CO TYDZIEŃ** (wcześniej co 14 dni). Następna 10-25.
+
+**Słowo pana 10-18:** (a) tran przez Hala z BP, (c) wcześniejszy ubój części bydła domeny. Propozycja (b) odpada.
+
+**Pytanie pana: czy wyliczenia obejmują Kamienny Brzeg?** Orland (z zapisu i E):
+- **Garnizon Kamiennego Brzegu** (46 ludzi Corwina i Ulrica) **jest w ~1 275 stałych gębach** (zapas w racjach, 09-03).
+- **Osadnicy Sigrun (~70 dusz) nie są w gębach.** Dostali osobno 115 korcy z zapasu Korony przez Dustinport (09-25), co ma wystarczyć na ~7 tygodni, czyli **do ~połowy XI**. W karcie te 115 korcy jest już odjęte.
+- **Ryba i tłuszcz** na brzegu: rybacy mają swój śledź (E). Zboża mają tylko tyle, ile poszło.
+- **Orland (O):** *„Brzeg liczę dwa razy: garnizon w gębach, osadników osobno. Kłopot jest jeden: po połowie listopada osadnicy Sigrun nie mają z czego żyć, a w grudniu łodzią z Dustinportu już się tam może nie dać dopłynąć. Druga partia musi pójść przed lodem.”* Pozycja „Kamienny Brzeg, dowóz zapasu przed lodem” (09-25) jest w toku. Ile i kiedy w drugiej partii, do słowa pana.

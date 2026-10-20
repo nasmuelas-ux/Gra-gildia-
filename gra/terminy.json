@@ -15022,9 +15022,9 @@
    "co": "CZLOWIEK Z MURU DO LUPACZY STANNISA (slowo pana 09-18, prosba Davosa): list do Aemona/Clydasa - Mur wskazuje; wsiada na kadlub Wymana przy Wschodniej Strazniy ~XI. Odpowiedz Muru - RZUT.",
    "kto": "SYMON -> AEMON/CLYDAS",
    "kanal": "kruk WF-Czarny Zamek 09-19",
-   "wraca": "300-10-10",
+   "wraca": "300-10-17",
    "zamyka": "imie czlowieka z Muru",
-   "status": "otwarte ### 300-10-01 ODPOWIEDZ MURU (CLYDAS za Aemona) - RZUT 27 (prog 45; pasmo 25-49): bedzie ktos, ale POZNIEJ (~XII) - 'z tych, co znaja Wschodnia Straznice, nikt nie moze teraz zejsc' (O). Kadlub Wymana przy Wschodniej Straznicy ~XI - NIE ZGRA SIE. Do slowa pana: czekac do XII, inny statek, czy inny czlowiek. ### 300-10-01 SLOWO PANA: 'A moze ktos ze strazy?' - zamiast brata Nocnej Strazy ktos z NASZEJ strazy (Korona) do nauki lupania smoczego szkla u ludzi Stannisa; Rodrik wskazuje czlowieka z rekami do kamienia; Hal pyta kapitana Wymana, gdzie kadlub moze go wziac (BP czy Wschodnia Straznica). Clydas - czlowiek Muru w XII zostaje jako drugi (list pana). ### 300-10-05 TRIAZ: Hal pyta kapitana Wymana - odpowiedz ~10-08. ### 300-10-08 KAPITAN WYMANA (kruk Hala 10-08) - RZUT 43 (30-69): wezmie czlowieka Korony Z BP przy wyjsciu kadluba (~10-25, E); z powrotem - nie obiecuje. Rodrik ma wskazac czlowieka i wyslac do BP przed ~10-23. Imie - Rodrik, Mala Rada ~10-10."
+   "status": "otwarte ### 300-10-01 ODPOWIEDZ MURU (CLYDAS za Aemona) - RZUT 27 (prog 45; pasmo 25-49): bedzie ktos, ale POZNIEJ (~XII) - 'z tych, co znaja Wschodnia Straznice, nikt nie moze teraz zejsc' (O). Kadlub Wymana przy Wschodniej Straznicy ~XI - NIE ZGRA SIE. Do slowa pana: czekac do XII, inny statek, czy inny czlowiek. ### 300-10-01 SLOWO PANA: 'A moze ktos ze strazy?' - zamiast brata Nocnej Strazy ktos z NASZEJ strazy (Korona) do nauki lupania smoczego szkla u ludzi Stannisa; Rodrik wskazuje czlowieka z rekami do kamienia; Hal pyta kapitana Wymana, gdzie kadlub moze go wziac (BP czy Wschodnia Straznica). Clydas - czlowiek Muru w XII zostaje jako drugi (list pana). ### 300-10-05 TRIAZ: Hal pyta kapitana Wymana - odpowiedz ~10-08. ### 300-10-08 KAPITAN WYMANA (kruk Hala 10-08) - RZUT 43 (30-69): wezmie czlowieka Korony Z BP przy wyjsciu kadluba (~10-25, E); z powrotem - nie obiecuje. Rodrik ma wskazac czlowieka i wyslac do BP przed ~10-23. Imie - Rodrik, Mala Rada ~10-10. ### 300-10-10 MALA RADA: RODRIK wskazuje DORNA CIOSAKA (E, z garnizonu WF, syn kamieniarza, ~30, 'rece do kamienia, glowa do liczenia'). Wyjazd z WF do 10-17, w BP przed ~10-23. POWROT - PAN: 'Wroci z poselstwem kosci?' - odczyt Rodrika i Gawena (O): poselstwo wraca z Dorne przez Waskie Morze ~XII/I; 'Morska Klacz' moze zawinac po niego tylko, jesli Smocza Skala jest po drodze i Stannis pozwoli - to nie pewne; pewniejszy jest nastepny kurs kadluba Wymana po szklo. USTALENIE: wraca PIERWSZYM, ktory bedzie mogl - kadlub Wymana albo Morska Klacz (Hal pisze do kapitana Jorunda przy nastepnej poczcie)."
   },
   {
    "data": "300-09-18",
@@ -16111,9 +16111,9 @@
    "co": "PODWYZKA PENSJI SLUZBY ZAMKU WINTERFELL O 50% (slowo regenta 10-07, po konsultacji z lady Catelyn): dla CALEJ sluzby zamku rowno (rada Catelyn: 'zeby nikt nie wiedzial, ze przez jednego chlopca'); od X. Koszt - RACHUNEK RODWELLA (Dom Starkow) i GAWENA - kwoty nie zgaduje sie (zasada 43); kasa - Dom Starkow / Korona wg Rodwella. Ogloszenie - ochmistrzyni i Rodrik. Garnizon - zold Korony osobno (bez zmian, chyba ze pan powie inaczej).",
    "kto": "RODWELL ; GAWEN ; RODRIK",
    "kanal": "osobiscie WF",
-   "wraca": "300-10-10",
+   "wraca": "300-10-14",
    "zamyka": "rachunek kosztu na Radzie, ogloszenie sluzbie",
-   "status": "otwarte"
+   "status": "otwarte ### 300-10-10 MALA RADA - SLOWO PANA: PLACI KORONA (Kasa 3). Pan: 'nie ma czegos takiego jak kasa Domu Starkow' - utrzymanie zamku WF idzie z Korony (fakt swiata, slowo gracza). Ogloszenie wg rady Catelyn: wszystkim rowno, jako dodatek na zime, przy najblizszej wyplacie (Rodwell + ochmistrzyni). KWOTA: lista plac sluzby zamku nie jest w zapisie - Rodwell sklada liste, Gawen wpisuje linie do Kasy 3 (zasada 43)."
   },
   {
    "data": "300-10-07",
@@ -16194,7 +16194,7 @@
    "kanal": "kruki WF -> lordowie",
    "wraca": "300-10-10",
    "zamyka": "listy wyslane i rozkaz u ser Edwyle'a; pobor w drodze do domow",
-   "status": "otwarte ### 300-10-08 (pierwotnie: przedluzenie + dosylka do 100) - ZASTAPIONE korekta pana: rozpuscic."
+   "status": "zamkniete 300-10-10 ### MALA RADA - SLOWO PANA: (b) TAK - dziesieciu z Dreadfortu odeslanych PIERWSZYCH, osobna droga (Rodrik); (c) TAK - ochotnicy moga zimowac w Dustinporcie na zoldzie Korony (Brynden). List do lordow i rozkaz do ser Edwyle'a opieczetowane; kruki dzis po poludniu (WF-Fosa + jezdziec; lordowie bezposrednio). ### POPRZEDNIO: byl-otw ### 300-10-08 (pierwotnie: przedluzenie + dosylka do 100) - ZASTAPIONE korekta pana: rozpuscic."
   },
   {
    "data": "300-10-08",
@@ -16284,6 +16284,24 @@
    "kanal": "kruk WF-Fosa + jezdziec",
    "wraca": "300-10-10",
    "zamyka": "slowo pana",
+   "status": "zamkniete 300-10-10 ### MALA RADA - SLOWO PANA: TAK - 2 lodzie na brzeg pod szope, 2 na warcie do lodu; smola i plotno z Kasy 3 (kwota z ksiegi Donnela - zasada 43). Rozkaz z krukiem dzis. ### POPRZEDNIO: byl-otw"
+  },
+  {
+   "data": "300-10-10",
+   "co": "POBOR WSCHODU - ROZPUSZCZENIE W TOKU (rozkaz 10-10): Dreadfort pierwszy, osobna droga; reszta do domow przed sniegiem, zold do dnia wyjazdu; ochotnicy na zime w Dustinporcie (zold Korony) - lista od ser Edwyle'a. Wlasni - bez rzutu; odzew lordow na list - bez rzutu (to spelnienie obietnicy).",
+   "kto": "SER EDWYLE ; TORREN/DONNEL ; GAWEN",
+   "kanal": "kruk WF-Fosa + jezdziec",
+   "wraca": "300-10-20",
+   "zamyka": "meldunek: kto poszedl, kto zostal na zime; zold rozliczony",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-10",
+   "co": "ROGI LANCUCHA OGNIA - DOWOZ PRZED NASTEPNA ZAMIECIA (zaplacone 09-25, nie dotarly do wszystkich punktow). SLOWO PANA 10-10: JEDNA LODZ TORRENA (z dwoch na warcie) rozwozi rogi do punktow przy brzegu; punkty w glebi - jazda Glovera. Wlasni - bez rzutu.",
+   "kto": "TORREN ; ROBETT GLOVER",
+   "kanal": "kruk WF-Fosa + jezdziec; kruk WF-Deepwood",
+   "wraca": "300-10-17",
+   "zamyka": "karta lancucha: rogi na wszystkich punktach",
    "status": "otwarte"
   }
  ],

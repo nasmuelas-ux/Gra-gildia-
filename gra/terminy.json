@@ -16807,6 +16807,15 @@
    "wraca": "300-10-23",
    "zamyka": "odpowiedz Rickarda (rzut)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-10-18",
+   "co": "WEZWANIE GARTHA DO WINTERFELL (slowo pana 10-18; Garth - szef sluzby komor Korony pod Gawenem, baza: ksiega bramy Fosy; ostatnio 'w objezdzie' komor - BP, Dustinport, przystanie): kruk WF-Fosa dzis + jezdziec, jesli w objezdzie. Przyjazd - E: z Fosy ~7-8 dni traktem (~10-26), z dalszej komory pozniej. Wlasny - bez rzutu.",
+   "kto": "SYMON -> GARTH (przez Garricka)",
+   "kanal": "kruk WF-Fosa + jezdziec",
+   "wraca": "300-10-26",
+   "zamyka": "Garth w WF",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

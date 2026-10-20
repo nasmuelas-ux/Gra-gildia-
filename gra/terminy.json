@@ -14907,7 +14907,7 @@
    "kanal": "osobiscie - Willa po przyjezdzie do ZM (~09-25)",
    "wraca": "300-10-12",
    "zamyka": "meldunek (rzut)",
-   "status": "otwarte ### 09-17 SLOWO PANA: BEZ Lucana i kontrwywiadu - sprawdza WILLA (po przyjezdzie ~09-25, obserwacja po cichu); meldunek ~10-10 (rzut). ### 09-25 ZLECENIE USTNE PANA (izba Willi): WSZYSCY - Gawen, Edric Plug, Beron; po cichu, bez wiedzy sprawdzanych; metoda Willi: tablica przeciekow (papier), potem obserwacja cudzymi rekami. ### 300-10-10: POZA RADA (wywiad/Dom) - meldunki Willi na spotkaniu w ZM; dzien do slowa pana (trakt odkopywany)."
+   "status": "zamkniete 300-10-11 ### MELDUNEK WILLI (gra/meldunek_willi_300_10_11.md) - RZUT 38: NIC PEWNEGO; tablica przeciekow 3 tyg. bez wyplywu; Willa prosi o miesiac wiecej. Nowa pozycja: tablica do ~11-11. ### POPRZEDNIO: byl-otw ### 09-17 SLOWO PANA: BEZ Lucana i kontrwywiadu - sprawdza WILLA (po przyjezdzie ~09-25, obserwacja po cichu); meldunek ~10-10 (rzut). ### 09-25 ZLECENIE USTNE PANA (izba Willi): WSZYSCY - Gawen, Edric Plug, Beron; po cichu, bez wiedzy sprawdzanych; metoda Willi: tablica przeciekow (papier), potem obserwacja cudzymi rekami. ### 300-10-10: POZA RADA (wywiad/Dom) - meldunki Willi na spotkaniu w ZM; dzien do slowa pana (trakt odkopywany)."
   },
   {
    "data": "300-09-16",
@@ -14934,7 +14934,7 @@
    "kanal": "osobiscie ZM",
    "wraca": "300-10-12",
    "zamyka": "meldunek Willi o obu (rzut)",
-   "status": "otwarte ### 09-25 ZLECENIE USTNE PANA: 'wszystkich, ZWLASZCZA LUCANA' - Lucan pierwszy. ALDWIN sprawdzany jako PISARZ PANA (Willa nie wie, ze to szef kontrwywiadu - slowo pana 09-25: imie dopiero po sprawdzeniu przez pana). Sprawdzani nie wiedza. Rownolegle Sten (Lucan/Aldwin, meldunek 10-01). ### 300-10-10: POZA RADA (wywiad/Dom) - meldunki Willi na spotkaniu w ZM; dzien do slowa pana (trakt odkopywany)."
+   "status": "zamkniete 300-10-11 ### MELDUNEK WILLI - RZUT 37: NIC PEWNEGO. Lucan - ten sam dom w dolnym miescie co u Stena, nie weszla; 'pisarz pana' - czysty z zewnatrz, listow nie czytala. Do slowa pana: dalej, glebiej, czy dosc. ### POPRZEDNIO: byl-otw ### 09-25 ZLECENIE USTNE PANA: 'wszystkich, ZWLASZCZA LUCANA' - Lucan pierwszy. ALDWIN sprawdzany jako PISARZ PANA (Willa nie wie, ze to szef kontrwywiadu - slowo pana 09-25: imie dopiero po sprawdzeniu przez pana). Sprawdzani nie wiedza. Rownolegle Sten (Lucan/Aldwin, meldunek 10-01). ### 300-10-10: POZA RADA (wywiad/Dom) - meldunki Willi na spotkaniu w ZM; dzien do slowa pana (trakt odkopywany)."
   },
   {
    "data": "300-09-17",
@@ -15672,7 +15672,7 @@
    "kanal": "ksiegi Domu w ZM; list do Lymana szyfrem Domu",
    "wraca": "300-10-12",
    "zamyka": "meldunek Willi: dokad garnizon (rzut)",
-   "status": "otwarte ### 300-10-10: POZA RADA (wywiad/Dom) - meldunki Willi na spotkaniu w ZM; dzien do slowa pana (trakt odkopywany)."
+   "status": "zamkniete 300-10-11 ### MELDUNEK WILLI - RZUT 40: 3 najete statki na poludnie do Duskendale, dalej do KP (przewoznicy); liczby brak. Willa: 'poszli tam, gdzie Lew ma tron. Na zime.' ### POPRZEDNIO: byl-otw ### 300-10-10: POZA RADA (wywiad/Dom) - meldunki Willi na spotkaniu w ZM; dzien do slowa pana (trakt odkopywany)."
   },
   {
    "data": "300-09-28",
@@ -15976,9 +15976,9 @@
    "co": "TORVALD - COMIESIECZNA SAKIEWKA DO DOMU PRZY ULICZCE POWROZNIKOW W BP (meldunek Stena 10-05, rzut 6): czyj dom, za co. Prawda - RZUT przy dzialaniu (pasma przed rzutem). Do slowa pana: zapytac wprost, sprawdzic dalej (Willa/kontrwywiad), czy odlozyc oferte szefa bezpieczenstwa.",
    "kto": "WILLA (przez Aldwina)",
    "kanal": "osobiscie",
-   "wraca": "300-10-12",
+   "wraca": "300-10-11",
    "zamyka": "meldunek Willi: czyj dom i za co",
-   "status": "otwarte ### 300-10-05 SLOWO PANA: NIECH WILLA GO SPRAWDZI (czyj dom przy Uliczce Powroznikow, za co). Kartka pana przez Aldwina do rak wlasnych. Oferta szefa bezpieczenstwa - wstrzymana do wyniku. Wynik - RZUT przy meldunku Willi (pasma przed rzutem)."
+   "status": "otwarte ### 300-10-05 SLOWO PANA: NIECH WILLA GO SPRAWDZI (czyj dom przy Uliczce Powroznikow, za co). Kartka pana przez Aldwina do rak wlasnych. Oferta szefa bezpieczenstwa - wstrzymana do wyniku. Wynik - RZUT przy meldunku Willi (pasma przed rzutem). ### 300-10-11 MELDUNEK WILLI - RZUT 14: dom wdowy z dwojgiem dzieci (ksiegi cechu sieciarzy, E); Torvald raz w miesiacu, krotko; do wdowy zachodza ludzie z portu - Willa PODEJRZEWA SKRZYNKE KONTAKTOWA, bez dowodu; 'na szefa bezpieczenstwa Domu bym go teraz nie brala'. Do slowa pana."
   },
   {
    "data": "300-10-05",
@@ -16356,6 +16356,15 @@
    "kanal": "osobiscie, WF",
    "wraca": "300-10-14",
    "zamyka": "lekcja 25 HV odbyta",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-11",
+   "co": "SPRAWDZENIE MALEJ RADY - TABLICA PRZECIEKOW DALEJ (Willa, miesiac wiecej). Po cichu. Wynik - rzut przy meldunku.",
+   "kto": "WILLA",
+   "kanal": "osobiscie ZM",
+   "wraca": "300-11-11",
+   "zamyka": "meldunek Willi (rzut)",
    "status": "otwarte"
   }
  ],

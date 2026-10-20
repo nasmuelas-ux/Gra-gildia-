@@ -393,3 +393,11 @@ Posłaniec: **Benno** (E), pisarz placówki Domu na Czarnym Zamku. Był u Aemona
 ## 300-10-01: LUCAN, wieczory w dolnym mieście (rzut prawdy 6)
 - **PRAWDA:** Lucan chodzi do bednarza od beczki zimowej grać w kości i wypytuje go o beczki. Nic więcej się za tym nie kryje.
 - Symon czytał go rzutem 13 (mylny odczyt): wydaje mu się, że Lucan coś pomija. **To fałszywe podejrzenie.** Jeśli Willa albo Sten pójdą za Lucanem, znajdą bednarza i kości.
+
+## 300-10-11: MAŁA RADA (Gawen, Edric Pług, Beron). Rzut prawdy 64
+- **PRAWDA:** wszyscy trzej są czyści. Nikt nie przecieka, nie ma też niedyskrecji. Lys znało rozkład ładunku w GP z innej drogi: barkarz, ludzie przy pomoście albo kancelaria Fosy, co rozstrzygnie kanarek GP.
+- Willa odczytała to rzutem 38: „nic pewnego”. Fałszywego alarmu nie ma, ale nie ma też pewności.
+
+## 300-10-11: TORVALD, sakiewka do domu przy Uliczce Powroźników (BP). Rzut prawdy 10
+- **PRAWDA (E z mocą zapisu):** to dom **wdowy po Hagenie (E), towarzyszu Torvalda z wojny**, który zginął pod Wodospadem (E) i osłonił Torvalda. Wdowa ma dwoje dzieci. Torvald co miesiąc nosi jej część swojej zapłaty, od roku, i nikomu o tym nie mówi, bo się wstydzi, że Hagen zginął za niego. **Nic więcej.**
+- **Willa odczytała to rzutem 14, MYLNIE:** podejrzewa skrzynkę kontaktową. Do wdowy zachodzą czasem ludzie z portu, ale to krewni jej męża, rybacy. Jeśli pan albo Willa pójdą głębiej (rozmowa z Torvaldem, z wdową), wyjdzie prawda.

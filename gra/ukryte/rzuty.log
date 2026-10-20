@@ -3449,3 +3449,10 @@ rzut 9
 300-10-10 | WYNIK | LEKCJA HV 24 | RZUT 43
 300-10-11 | SEN | RZUT 38
 300-10-11 | POGODA | RZUT 20
+300-10-11 | PASMA | PRAWDA (ukryta) - MALA RADA: GAWEN, EDRIC PLUG, BERON - czy ktos przecieka (tlo: Lys znalo rozklad GP - zrodlo wg Willi to barkarz/pomost/kancelaria Fosy, nie Rada) | 1-80 wszyscy czysci; 81-95 jeden ma drobna niedyskrecje (gada przy piwie/przy zonie o sprawach Skarbu, bez zlej woli) - kto: 81-85 Gawen, 86-90 Edric, 91-95 Beron; 96-100 jeden jest prawdziwym przeciekiem (kto - kolejny rzut)
+300-10-11 | PASMA | WILLA - ODCZYT SPRAWDZENIA MALEJ RADY (obserwacja cudzymi rekami, tablica przeciekow) | <20 mylny odczyt (podejrzenie bez podstaw albo przeoczenie prawdy), 20-49 nic pewnego, 50-79 trafny odczyt prawdy w zarysie, 80+ trafny i z dowodem
+300-10-11 | PASMA | WILLA - ODCZYT SPRAWDZENIA LUCANA (prawda ustalona 10-01: kosci u bednarza, nic wiecej) i 'PISARZA PANA' ALDWINA (prawda: czysty; listy do septona Hollisa - pan wie od 09-16) | <20 mylny (podejrzenie), 20-49 nic pewnego, 50-79 trafnie: Lucan - kosci u bednarza; Aldwin - czysty + listy do Hollisa, 80+ jak 50-79 i Willa sama przedstawia wniosek: obaj do zaufania
+300-10-11 | PASMA | PRAWDA (ukryta) - TORVALD: comiesieczna sakiewka do domu przy Uliczce Powroznikow w BP | 1-60 niewinne (utrzymuje wdowe/dzieci towarzysza z wojny albo matke), 61-85 prywatne, ale dajace dzwignie (dlug, kobieta, dziecko z nieprawego loza), 86-100 placi komus za milczenie/jest szantazowany
+300-10-11 | PASMA | WILLA - ODCZYT TORVALDA | <20 mylny, 20-49 tylko adres i kto mieszka (bez sensu), 50-79 trafnie w zarysie, 80+ trafnie z dowodem
+300-10-11 | PASMA | WILLA - GARNIZON LWA Z MAIDENPOOL - DOKAD ODPLYNAL (ksiegi Lymana, list szyfrem Domu) | <25 brak wpisu, 25-74 na poludnie: Duskendale i dalej KP (statki kupieckie najete), 75+ jak wyzej + liczba (~300), statki i plotka o rozkazie (wzmocnic KP na zime)
+300-10-11 | WYNIKI | PRAWDA RADA 64 | WILLA RADA 38 | WILLA LUCAN-ALDWIN 37 | PRAWDA TORVALD 10 | WILLA TORVALD 14 | WILLA MAIDENPOOL 40

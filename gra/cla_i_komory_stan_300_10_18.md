@@ -80,3 +80,9 @@
 - **(C) Biały Port.**
   - *„Najwięcej cła. Ale to miasto Wymana, a my tam jeszcze tylko patrzymy. Siedziba w cudzym porcie to siedziba na łasce gospodarza.”*
 - **Gawen:** *„Ja bym wybrał Zimowe Miasto. Fosa i Biały Port niech mają silne komory, nie siedzibę.”* **Do słowa pana.**
+
+## 8. SŁOWO PANA 10-18 (cd.)
+- **Główna siedziba służby celnej: Zimowe Miasto, przy Skarbie.** Budynek do wyznaczenia i rozbudowy. Gawen wskazuje miejsce na Radę 10-24. Wpis do majątku funkcyjnego Korony (cz. D, planowane).
+- **Bolton, zanotować:** **za niezapłacone cło zapłacą.** Cło z Boltonsgate liczy się **od dnia, w którym przystań przyjęła pierwszy statek** (najpóźniej VIII, flota Króla). To należność Korony do rozliczenia przy nakazie Króla.
+- **Komora w Białym Porcie obserwuje Boltonsgate.** Osmund notuje każdy statek, który przyszedł z Boltonsgate albo tam płynie: kapitan, ładunek, ile (z ksiąg portu i od kapitanów). To podstawa do policzenia zaległego cła. **Gawen (O):** *„Tylko z ksiąg i z tego, co kapitan sam powie. Nie z podglądania. Celnik, który podgląda, przestaje być celnikiem.”*
+- **Bolton, zanotować: nie odpowiada na listy Korony.** Dwa listy Korony bez odpowiedzi przed 09-27 (Lucan, księga milczenia). Trzeci, jawny, 10-15, odpowiedź do ~10-19. Daty z księgi milczenia dopisze **Beron**. Wpis do rachunku regencji (rozdział 4) i na stół Króla.

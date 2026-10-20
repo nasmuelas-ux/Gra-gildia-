@@ -16833,6 +16833,24 @@
    "kanal": "WF; kruk do Gartha",
    "wraca": "300-10-24",
    "zamyka": "kosztorys reformy na Radzie",
+   "status": "otwarte ### 10-18 SLOWO PANA: GLOWNA SIEDZIBA - Zimowe Miasto przy Skarbie (budynek do wyznaczenia i rozbudowy; Gawen wskaze na Rade)."
+  },
+  {
+   "data": "300-10-18",
+   "co": "BOLTONSGATE - ZALEGLE CLO KORONY (slowo pana 10-18: 'za niezaplacone clo zaplaca'): naleznosc liczona od pierwszego statku w przystani (najpozniej VIII); KOMORA BP (Osmund) obserwuje ruch BP<->Boltonsgate z ksiag portu i od kapitanow (kapitan, ladunek, ile) - podstawa wyliczenia; do nakazu Krola (komora z umowy nadania 04-29). Wlasni - bez rzutu; skala ruchu - rzut przy pierwszym zestawieniu Osmunda.",
+   "kto": "GAWEN ; OSMUND KRESKA (komora BP)",
+   "kanal": "szyfr Korony do faktora BP (klucz jest)",
+   "wraca": "300-11-05",
+   "zamyka": "pierwsze zestawienie Osmunda; nakaz Krola",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-18",
+   "co": "BOLTON NIE ODPOWIADA NA LISTY KORONY - WPIS DO REJESTRU (slowo pana 10-18): dwa listy bez odpowiedzi przed 09-27, trzeci 10-15 (do ~10-19); Beron dopisuje daty z ksiegi milczenia; do rachunku regencji (rozdz. 4) i na stol Krola.",
+   "kto": "BERON ; GAWEN",
+   "kanal": "WF",
+   "wraca": "300-10-24",
+   "zamyka": "wpis z datami w rachunku regencji",
    "status": "otwarte"
   }
  ],

@@ -56,6 +56,9 @@
 - **Misje handlowe** (Braavos, Riverrun): planowane, decyzja na Radzie 07-26.
 - **Młyny, kamieniołomy i lasy domeny** są w spisie Rodwella (299-08-28). **Korona ich nie prowadzi**, idą przez czynsze.
 
+- **Główna siedziba służby celnej Korony** (słowo pana 10-18): Zimowe Miasto, przy Skarbie. Budynek do wyznaczenia i rozbudowy: izba szefa celników, archiwum ksiąg celnych, izba kurierów, straż. Miejsce wskaże Gawen na Radę 10-24.
+- **Komory celne w każdym punkcie handlu zewnętrznego** (reforma 10-18): siedziba (waga, skład, izba pisarza i straży, znak Korony), straż komory 3–5. Kosztorys na Radę 10-24.
+
 ## CZEGO KORONA NIE MA (w zapisie brak)
 - własnego młyna, tartaku, papierni, drukarni ani lecznicy Korony;
 - warsztatu machin (v3 wymienia go jako strategiczny, ale nic nie stoi);

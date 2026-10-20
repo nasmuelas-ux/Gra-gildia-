@@ -80,3 +80,20 @@
 2. *„Ciocia Lysa zawsze się bała. Mama mówi, że od dziecka. Kto się boi, ten zamyka drzwi i oddaje klucze temu, kto obiecuje, że będzie pilnował.”*
 3. *„I mówią, że znowu nosi.”* (plotka z naszych źródeł, 09-10) *„Kobieta, która tyle razy straciła dziecko, nie myśli o zbożu. Myśli tylko o tym jednym.”*
 4. Najciszej, we wspólnej: *„Albo jest jeszcze coś, czego nie wiemy. Mama dostała od niej list w zeszłym roku: że to Lannisterowie. Ciocia była tego taka pewna. Ktoś, kto jest taki pewny i nic z tym nie robi…”* Urywa. *„Nie wiem. Zapytałabym mamę, ale nie chcę jej tego robić teraz, kiedy Robb wraca.”*
+
+## 5. WYSPY (Greyjoy, Pyke)
+**Nowe od 08-27 (z zapisu):**
+- **Napad na Gorący Port 09-11/12:** trzy łodzie (langskipy), bez znaków, **z lyseńską monetą przy trupie**. Nie flota. Na zewnątrz: „piraci bez znaków”.
+- **Balon** nie wychodzi z Morskiej Wieży od wiosny i kaszle (pogłoska 08-19). **Pyke milczy** (z naszych źródeł, 09-10).
+- **Theon (09-03, rzut 20, odczyt pewny siebie i płaski):** Wyspy tej jesieni nie przyjdą, bo patrzą na Lwa. Czarny kadłub *„to nie Wrone Oko”*, tylko przemalowany kupiec z Lys z valyriańskim złotem. **O ojcu ani słowa.**
+- **List Theona do Ashy** poszedł za zgodą pana (09-03). Odpowiedź nie przed końcem X.
+- **Ubezpieczyciele** podnieśli składkę na zachodni brzeg o ¼ od X.
+- **Na morzu nic** od 09-12 (łańcuch ognia, 10-17). Rekonesans Torrena w drodze (~10-21).
+
+**Odczyt Sansy (O, po braavosku):**
+1. *„Theon mówi o wszystkim, tylko nie o ojcu. Kiedy syn nie mówi o ojcu, to znaczy, że ojciec jest słaby albo że syn się go boi. Albo jedno i drugie.”*
+2. *„Czarny kadłub z valyriańskim złotem to nie kupiec. Kupiec nie wozi złota, które każdy rozpozna. Ktoś chce, żeby go widziano, i ten ktoś chce Wysp.”* (jej domysł z 09-10, ten sam)
+3. *„Kiedy Balon umrze, będzie wiec. Na wiecu wygrywa ten, kto przyjdzie z czymś w rękach. Złoto. Statki. Albo obietnica łupu. Obietnica łupu to my.”*
+4. *„Gorący Port to była próba. Trzy łodzie, żeby zobaczyć, kto się obudzi i jak szybko.”*
+
+**Pewność karty:** napad pewny. Balon to pogłoska. Czarny kadłub i wiec to odczyt.

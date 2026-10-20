@@ -28,4 +28,5 @@ Symon (słowo gracza): jest uchem Korony, więc powinna wiedzieć. Wyodrębnił 
 - Sama stawia zaporę: *„Niech siatka nie wie o mnie, a ja nie chcę wiedzieć, kim są. Jeśli ucho i siatka się poznają, to będzie jedno krzesło, nie dwa. A wtedy jedna zdrada zabierze oba.”*
 - Przypomina regułę Króla: krzesła ucha zamawiać nie wolno, dotyczy to także siatki.
 - Pyta: *„Czy Robb wie?”*
-- Co do Królestwa: *„Dobrze. Ale to musi powiedzieć Robb, nie pan. Lordowie przyjmą od Króla ucho, które słucha obcych. Od Namiestnika nie przyjmą niczego, co słucha.”*
+- ~~Co do Królestwa: „to musi ogłosić Robb… lordowie przyjmą…”~~ **VOID (słowo gracza 10-11: wywiadu się nie ogłasza; to bez sensu).** Podleganie Królestwu = pod władzą Króla, po cichu, bez ogłaszania.
+- Pan: Król jeszcze nie wie, pan powie mu po powrocie. Sansa kiwa głową: *„Dobrze. Wtedy, kiedy będzie sam.”*

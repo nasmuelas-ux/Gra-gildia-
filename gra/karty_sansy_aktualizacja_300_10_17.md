@@ -46,3 +46,17 @@
 3. *„Jonelle. Najpierw mama, potem Robb, na końcu Edmure. Jak Edmure usłyszy pierwszy, powie »tak« tylko po to, żeby było jego.”*
 
 **Pewność karty:** wymiana i Maidenpool pewne. Lordowie Dorzecza to odczyt.
+
+## 4. DOLINA (Arryn / Baelish)
+**Nowe od 08-27 (z zapisu):** pewnego nic.
+- **Pytania w drodze** (bez źródeł):
+  - na czyje imię jest w Banku złoto za zboże Doliny: Baelisha czy Domu Arrynów (~11-15);
+  - **czyja pieczęć stoi na kontraktach zbożowych Doliny**: sokół Arrynów czy przedrzeźniacz Baelisha (~10-28).
+- Stare wiersze stoją. Lew kupuje zboże od Baelisha. Dreadfort sprzedaje przez kantor, który kupuje na statki Baelisha.
+
+**Odczyt Sansy (O, po braavosku; tu mówi wolniej, ostrożniej):**
+1. *„Lord Baelish był w Przystani, kiedy ja tam byłam. Uśmiechał się do każdego tak samo. Nigdy nie wiedziałam, czy do mnie, czy do tego, co stało za mną.”*
+2. *„Jeśli na kontraktach jest przedrzeźniacz, a nie sokół, to Dolina należy do niego, a ciocia Lysa tylko tam mieszka. Wtedy to on sprzedaje zboże Lwu, nie Arrynowie.”*
+3. *„Tego człowieka nie pytać o nic wprost. On odpowiada na pytanie, którego nikt nie zadał.”*
+
+**Pewność karty:** brak nowych faktów. Dwa pytania w drodze.

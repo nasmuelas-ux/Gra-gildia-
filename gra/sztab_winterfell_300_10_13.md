@@ -87,3 +87,17 @@
 - **zwiadowcy:** 4 posterunki po 3 ludzi, razem ok. 12.
 
 **Razem ok. 15.** Wartę sztabu przenosi się do Dowództwa (ochrona sztabu, ok. 8). **Sztab razem ok. 50 żołnierzy.**
+
+## ODDZIAŁ 2: KOREKTA PANA (2), 10-13
+**Słowo pana:** wojsko patrzy też na wrogów, więc o ruchach wojsk, także tych, o których mówią kupcy, Korona ma się dowiadywać od wojska. **Wywiad wojskowy to oficerowie operacyjni i wykonawczy oraz własne oczy i uszy.**
+
+**Obsada (E, Brynden):**
+- szef;
+- **2–3 oficerów operacyjnych:** analiza, księga obcych sił, mapy;
+- **3–4 oficerów wykonawczych:** prowadzą źródła wojskowe (kupcy, woźnice, rybacy, kapitanowie, ludzie przy przeprawach);
+- **źródła:** płatne, liczba według potrzeb;
+- **zwiadowcy:** 4 posterunki, ok. 12 ludzi.
+
+**Razem ok. 20 żołnierzy** plus źródła. Koszt w budżecie wojska jako „rozpoznanie” (Gawen).
+
+**Zasada przy siatce pana (Brynden, O):** jedno źródło ma jednego prowadzącego. Jeśli kupiec mówi już ludziom pana, wojsko go nie werbuje drugi raz. Kto prowadzi kogo, rozstrzyga pan.

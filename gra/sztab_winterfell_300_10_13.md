@@ -175,3 +175,33 @@
 1. **Szef sztabu:** ser Rodrik?
 2. **Szefowie oddziałów:** według propozycji (1 Osric, 3 Brynden), a 2, 4, 5 i 6 wskażą Rodrik i Brynden spośród sierżantów, weteranów i absolwentów Akademii. Imiona na Radę 10-24.
 3. **Rozpiska wojenna i kosztorys sztabu** (Gawen) na Radę 10-24.
+
+---
+
+## VII. PODZIAŁ OFICERÓW: LINIOWI (dowodzą w polu) I FUNKCYJNI (sztab) (10-13, słowo pana; uwagi Bryndena O)
+
+### A. OFICEROWIE LINIOWI: dowodzą oddziałami w polu
+| szczebel | kto dziś (z zapisu) | potrzeba (E) |
+|---|---|---|
+| **dowódcy skrzydeł i straży** | Rodrik, Osric, Brynden; na morzu Torren | 3 na lądzie + 1 na morzu |
+| **kapitanowie hufców** | Brenn Kamieniec, Torvin, Hendry | 5–6 |
+| **setnicy** | Ottar Rudy, Walton Szram, Carrac Kość | ≥10 |
+| **dziesiętnicy** | Osgood Długi, Benjen Sowa + ok. 30 sierżantów garnizonu WF | 50+ (na 550 ludzi) |
+| **dowódcy posterunków i straży stałych** | Corwin i Ulric (Kamienny Brzeg), Torgen (Cypel), Robett Glover (łańcuch ognia), ser Wendel Rowan, ser Alyn (Zimowa Straż) | jak jest |
+
+### B. OFICEROWIE FUNKCYJNI: sztab
+| funkcja | ilu | kto dziś |
+|---|---|---|
+| **szef sztabu** | 1 | *prop. Rodrik* |
+| **adiutant** | 1 | — |
+| **szefowie oddziałów 1–6** | 6 | *prop. Osric (1), Brynden (3); 2, 4, 5, 6: wskażą Rodrik i Brynden* |
+| **oficerowie operacyjni** (o.2 analiza; o.3 plany i mapy) | 4–5 | — |
+| **oficerowie wykonawczy** (o.2, prowadzą źródła) | 3–4 | — |
+| **kwatermistrz i podoficerowie taboru** (o.4) | 3 | — |
+| **podoficerowie łączności** (o.5, nad sygnalistami i gońcami) | 2 | — |
+| **podoficerowie inżynierii** (o.6) | 2 | — |
+| **chorągiewni przy lordach** (w polu, ale funkcyjni: rozkazy, mapa, rogi) | 1 na każdą chorągiew lorda | — |
+
+### C. UWAGA BRYNDENA (O): JEDEN CZŁOWIEK, DWA KRZESŁA
+- *„W pokoju to ci sami ludzie: Rodrik jest szefem sztabu i dowódcą skrzydła, ja oddziałem 3 i skrzydłem, Osric oddziałem 1 i skrzydłem. W wojnie tak się nie da. Kto siedzi w sztabie, ten zostaje przy wodzu. Kto dowodzi skrzydłem, ten jedzie ze skrzydłem.”*
+- **Wniosek:** rozpiska wojenna musi mieć dla każdego krzesła **dwa nazwiska**: pierwsze na pokój, drugie na wojnę. Brakuje dziś głównie **kapitanów hufców** (2–3) i **oficerów funkcyjnych oddziałów 2, 4, 5 i 6**. Ich daje Akademia, ale nie od razu.

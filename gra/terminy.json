@@ -12909,7 +12909,7 @@
    "kanal": "kruk WF-BP + statek BP-Braavos i z powrotem (~48 dni)",
    "wraca": "300-10-10",
    "zamyka": "odpowiedz Nesty: ilu, kiedy statkiem",
-   "status": "otwarte ### 300-10-08 ODPOWIEDZ NESTY (statkiem do BP, kruk Hala 10-08) - RZUT 3 (pasmo <25): tylko 3-4 chetnych i dopiero WIOSNA (O Nesty: 'Pisarz, ktory umie, ma prace w Braavos; zima na Polnocy straszy ich bardziej niz stawka'). Do slowa pana: przyjac 3-4 na wiosne, szukac gdzie indziej (Stare Miasto/Pentos/Lys - placowki), czy podniesc stawke. Mala Rada ~10-10."
+   "status": "zamkniete 300-10-10 ### MALA RADA - SLOWO PANA: PODNIESC STAWKE + wziac KILKU DODATKOWYCH JAKO NAUCZYCIELI (dla szkoly pisarzy Korony). Gawen (O): stawka Glebokorzenia +1/2 zamiast +1/4, przejazd i zimowe odzienie Korony; 2-3 nauczycieli ponad liczbe. Nowy list do Nesty przez Hala statkiem. ### POPRZEDNIO: byl-otw ### 300-10-08 ODPOWIEDZ NESTY (statkiem do BP, kruk Hala 10-08) - RZUT 3 (pasmo <25): tylko 3-4 chetnych i dopiero WIOSNA (O Nesty: 'Pisarz, ktory umie, ma prace w Braavos; zima na Polnocy straszy ich bardziej niz stawka'). Do slowa pana: przyjac 3-4 na wiosne, szukac gdzie indziej (Stare Miasto/Pentos/Lys - placowki), czy podniesc stawke. Mala Rada ~10-10."
   },
   {
    "data": "300-08-21",
@@ -16320,6 +16320,24 @@
    "kanal": "statek BP-Pentos",
    "wraca": "300-11-25",
    "zamyka": "odpowiedz domu (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-10",
+   "co": "NESTA - PISARZE Z BRAAVOS, DRUGIE PODEJSCIE (slowo pana 10-10): stawka Glebokorzenia +1/2 (bylo +1/4), przejazd BP i zimowe odzienie z Kasy 3, kontrakt roczny; dodatkowo 2-3 PISARZY-NAUCZYCIELI dla szkoly pisarzy Korony. List przez Hala statkiem do Braavos. Odzew - RZUT przy odpowiedzi Nesty.",
+   "kto": "THEOMORE -> HAL -> NESTA ; GAWEN (Kasa 3)",
+   "kanal": "kruk WF-BP + statek BP-Braavos",
+   "wraca": "300-11-25",
+   "zamyka": "odpowiedz Nesty: ilu, kiedy (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-10",
+   "co": "SZKOLA PISARZY KORONY DLA DOROSLYCH - MIESIACE ZIMOWE (slowo pana 10-10, Mala Rada): 20 miejsc, z tego 5 dla pisarzy uczacych sie braavoskiego. Do Rady 10-24: kto prowadzi (propozycje: Luwin - nadzor, Owen - litery, Beron/izba uczniowska - rachunek i kancelaria; braavoski - Ferrego Lanthas od XII, potem pisarze-nauczyciele z Braavos), gdzie (szkola ZM wieczorami, E), nabor (kto moze przyjsc), koszt (Gawen, Kasa 3). Wlasni - bez rzutu; odzew ludzi na nabor - rzut.",
+   "kto": "LUWIN ; GAWEN ; EDRIC (miejsce, ZM) ; OWEN ; BERON",
+   "kanal": "osobiscie, WF/ZM",
+   "wraca": "300-10-24",
+   "zamyka": "plan szkoly na stole Rady (prowadzacy, miejsce, nabor, koszt)",
    "status": "otwarte"
   }
  ],

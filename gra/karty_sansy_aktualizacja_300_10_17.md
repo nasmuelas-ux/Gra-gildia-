@@ -97,3 +97,12 @@
 4. *„Gorący Port to była próba. Trzy łodzie, żeby zobaczyć, kto się obudzi i jak szybko.”*
 
 **Pewność karty:** napad pewny. Balon to pogłoska. Czarny kadłub i wiec to odczyt.
+
+**Pytanie pana: „A kto się obudził?”**
+*Z zapisu, co ruszyło po GP:* 50 ludzi Starków do GP (potem 48), Jastrzębie, dwa okręty Torrena przy ujściu, przymus lodmański, kanarek w GP, łańcuch ognia z rogami, list pana do Wymana (urząd portowy BP), Lys zgłoszony eskorcie Redwyne'ów i Olennie.
+
+**Odczyt Sansy (O, po braavosku):**
+1. *„My. Szybko i głośno. W dwa tygodnie było widać ludzi, okręty, ogień na brzegu i lodmanów. To dobrze dla ludzi w GP. Ale ten, kto pytał, dostał odpowiedź: ile, gdzie i jak szybko.”*
+2. *„Obudził się też lord Wyman, bo pan do niego napisał, i Olenna, bo pan jej powiedział o Lys. To akurat dobrze. Im więcej oczu na ujściu, tym mniej jedna zdrada może zrobić.”*
+3. *„Kto się nie obudził? Bolton. Ani słowa o GP, ani wtedy, ani teraz.”*
+4. *„Następnym razem, jak ktoś zapuka, niech zobaczy mniej, niż jest. Pokazać jeden ogień, nie trzy.”*

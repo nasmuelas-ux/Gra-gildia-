@@ -16618,6 +16618,15 @@
    "wraca": "300-10-16",
    "zamyka": "slowo pana + rozmowa Reeda z Jojenem (rzut)",
    "status": "otwarte ### SLOWO PANA 10-15: porozmawia z Jojenem (jutro, przed ojcem - prosba Reeda); pan zastrzega: 'oni i tak zrobia, co chca'. Potem Reed mowi synowi (rzut na wole Jojena)."
+  },
+  {
+   "data": "300-10-15",
+   "co": "LIST PANA DO BENNA (placowka Domu na Czarnym Zamku; slowo pana 10-15 wieczor): (1) jakie nastroje w Strazy; (2) co dzieje sie za Murem; (3) jakie frakcje sa w Strazy i kto im przewodzi. Szyfr Domu (E: klucz placowki), kruk Domu WF->placowka CZ rano 10-16. Odpowiedz: wlasny czlowiek, bez rzutu na wykonanie; TRAFNOSC TEGO, CO BENNO WIE I ZDOLA USTALIC - pasma i rzut przy odczycie.",
+   "kto": "SYMON -> BENNO (placowka Domu, Czarny Zamek)",
+   "kanal": "kruk Domu WF-CZ (szyfr Domu) i z powrotem",
+   "wraca": "300-10-18",
+   "zamyka": "meldunek Benna (rzut przy odczycie)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

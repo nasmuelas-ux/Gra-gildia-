@@ -137,7 +137,7 @@
 104. **Konsulat Korony w Riverrun** — konsul Jonelle Cerwyn, notariusz Północy, krucznik; weksle i wymiana waluty jako osobny pakiet — 08-10 — Król: „nie teraz”.
 105. **Poselstwo do Braavos** — lady Catelyn z Sansą i Aryą (09-04) + zimowy list Króla do Morskiego Lorda i Banku (szkic, 09-10) — czeka na Króla.
 106. **Chleb dla Krzesła z Morskiego Kamienia** — stała oferta zboża dla Pyke, kimkolwiek będzie władca, sprzedawane jednym kanałem, zapłata także kadłubami — 09-10 — szkic, czeka na Króla.
-107. **Potwierdzenia regencji** — Bertram Wolny (faktor Cailin), Garth jako szef celników Korony (10-18), setnicy i dziesiętnicy Akademii, przysięga Edrica Pługa, urząd Królowej przy rodzinach poboru, krzesło łączności w Małej Radzie — czeka na Króla.
+107. **Potwierdzenia regencji** — Bertram Wolny (faktor Cailin), setnicy i dziesiętnicy Akademii, przysięga Edrica Pługa, urząd Królowej przy rodzinach poboru, krzesło łączności w Małej Radzie — czeka na Króla.
 108. **Model floty Korony** — badanie regenta (kto buduje i płaci; wzór Braavos) — 08-24 — czeka na Króla.
 109. **Odpowiedź Cerwynowi** („trzecie sięgnięcie” Korony) — przez Króla, po liście Berona — 08-29 — czeka na Króla.
 110. **Łańcuchy nauki Głębokorzenia** — paragraf czeka na Króla — 09-06 — czeka na Króla (do sprawdzenia).

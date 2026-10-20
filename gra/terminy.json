@@ -16815,7 +16815,16 @@
    "kanal": "kruk WF-Fosa + jezdziec",
    "wraca": "300-10-26",
    "zamyka": "Garth w WF",
-   "status": "otwarte ### 10-18 VOID (blad GM): 'nowa nominacja' - Garth jest szefem sluzby komor od 04-21."
+   "status": "zamkniete 300-10-18 ### SLOWO PANA: Garth NIE musi przyjezdzac - kruk nie polecial (odwolany tego samego popoludnia); Gawen pisze do Gartha po stan komor na papierze. ### POPRZEDNIO: byl-otw ### 10-18 VOID (blad GM): 'nowa nominacja' - Garth jest szefem sluzby komor od 04-21."
+  },
+  {
+   "data": "300-10-18",
+   "co": "CLA I KOMORY - STAN NA PAPIERZE OD GARTHA (Gawen pisze 10-18; gra/cla_i_komory_stan_300_10_18.md): ludzie, ruch, dziury kazdej komory - do rachunku regencji (rozdz. 2 i 4) i na stol Krola: myto na drogach domeny (regale), komora w Starkporcie, komora BP - pobierac czy patrzec. Wlasni - bez rzutu.",
+   "kto": "GAWEN -> GARTH",
+   "kanal": "kruk WF-Fosa + jezdziec (Garth w objezdzie)",
+   "wraca": "300-10-26",
+   "zamyka": "karta komor od Gartha u Gawena",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

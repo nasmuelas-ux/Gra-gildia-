@@ -106,3 +106,29 @@
 2. *„Obudził się też lord Wyman, bo pan do niego napisał, i Olenna, bo pan jej powiedział o Lys. To akurat dobrze. Im więcej oczu na ujściu, tym mniej jedna zdrada może zrobić.”*
 3. *„Kto się nie obudził? Bolton. Ani słowa o GP, ani wtedy, ani teraz.”*
 4. *„Następnym razem, jak ktoś zapuka, niech zobaczy mniej, niż jest. Pokazać jeden ogień, nie trzy.”*
+
+## 6. PÓŁNOC
+**Nowe od 08-27 (z zapisu; bez daru Brana, monety Dreadfortu, tajnej księgi, znaków wojny i siatki):**
+- **Król** żyje (drugi zwiad, 10-15). Przysięga tylko z Kingshouse, reszta Skagos milczy. Wraca przez Karhold lądem, ~10-26/28.
+- **Karstark:** Harrion wolny (09-25), na Fosie ~10-15. Rickard „bardzo ciepło i czynem”: łodzie i 15 ludzi do zwiadu.
+- **Bolton:** wobec Namiestnika milczy od lata. Odpowiedział tylko w sprawie łodzi-płóz (przez maestra). Ani słowa o GP. Trzeci list (10-15): „Król żyje i wraca”. Odpowiedź ~10-19.
+- **Manderly:** taryfa przewłoki przyjęta (24 jelenie za wóz). Cztery galery gotowe. Dossier o Lys w drodze do Wymana.
+- **Glover:** łańcuch ognia stoi, rogi przy brzegu 7 z 9. Pomiar granicy Cypla w toku.
+- **Mormont:** Maege odmówiła budowy 100 łodzi bez racji. Korona daje racje rodzinom budowniczych.
+- **Dustin:** łodzie-płozy na tak, plus 6 własnych na jej koszt.
+- **Umber:** łodzie na tak, bez kart testu.
+- **Cerwyn:** z Królem na Skagos. Trakty zimowe na tak.
+- **Reed:** w Winterfell. Wymiana soli i zboża przez Fosę na zimę. Wyjazd 10-19.
+- **Pobór wschodu rozpuszczony** (10-10), do domów przed śniegiem.
+- **Mur:** Aemon lepiej (10-17). **Mance** milczy od 09-05, przysięga bez dnia.
+- **W Winterfell:** służba +50%, szkoła pisarzy dla dorosłych na zimę, Skrzynia Zimowa Korony.
+- **Septon z Barrowton:** *„Dom je karmi”*, powie to z ambony.
+
+**Odczyt Sansy (O, po braavosku; przy tej karcie najdłużej):**
+1. *„Najbliżej jest teraz Karstark. Dostał syna od Korony, a nie od Lwa. Ludzie dają najwięcej temu, kto im oddał dziecko.”*
+2. *„Bolton nie milczy. Bolton czeka. Jak Robb wróci z połową przysięgi ze Skagos, Bolton zapyta przy wszystkich, ile kosztowała wyprawa i co z niej mamy. Trzeba mieć odpowiedź, zanim zapyta.”*
+3. *„Lord Wyman jest szybki, bo zarabia. Dopóki zarabia, jest nasz. To nie jest złe, tylko trzeba pamiętać.”*
+4. *„Najważniejsze, panie: w dniu, w którym Robb wjedzie przez bramę, zdanie »Korona, którą trzyma Tally« musi umrzeć. Niech wszyscy widzą, że pan oddaje Północ czystą, z rachunkiem, i staje krok za nim.”* Patrzy na pana uważnie. *„Nie dlatego, że pan by jej nie oddał. Dlatego, że ludzie muszą to zobaczyć.”*
+5. *„I Mance. Dwadzieścia tysięcy ludzi milczy od miesiąca. To jest największa rzecz na tej karcie, a nikt o niej nie mówi przy stole.”*
+
+**Pewność karty:** Król, Harrion, Bolton (milczenie), Wyman, Glover i Reed pewne. Odczyty jak oznaczono.

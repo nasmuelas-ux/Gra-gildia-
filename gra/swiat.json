@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 10,
-  "dzien": 14,
+  "dzien": 15,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "rano",
  "sezon": "zima (300)",
- "pogoda": "RZUT 52 (300-10-14): PRZECIETNIE - pochmurno, mroz, bez opadu; kruki lataja; trakt odkopany (E).",
- "dzien_tygodnia_nr": 2,
+ "pogoda": "RZUT 81 (300-10-15): DOBRZE - slonce, mroz, bezwietrznie; kruki lataja; trakty przejezdne (E).",
+ "dzien_tygodnia_nr": 3,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

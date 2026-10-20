@@ -50,3 +50,9 @@ Ramsay i jego dwudziestu to **osobny wątek**, nie wchodzi do tego rzutu.
   - okręt Króla cały;
   - naprawy, pogoda i mgły;
   - powrót do Karholdu ~10-01–05.
+
+---
+## 300-10-15: DRUGI ZWIAD (rzut 89, pasma w rzuty.log)
+- Zwiad dotarł do Kingshouse 10-12 i wylądował 10-13. Król przeczytał list regenta i odpisał trzy listy (regent, Catelyn, Roslin), które poszły krukami z klatki WF 10-14.
+- Flota wychodzi 10-15 razem ze zwiadem. **Karhold ~10-17/18, dalej lądem do WF (E ~8–10 dni: ~10-26/28).**
+- Opóźnienie względem planu ~10-01–05: mgły i naprawy steru Delfina. Cieśle zwiadu pomogli przy sterze.

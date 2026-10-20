@@ -16393,6 +16393,15 @@
    "wraca": "300-10-14",
    "zamyka": "oboje wiedza",
    "status": "otwarte"
+  },
+  {
+   "data": "300-10-11",
+   "co": "KONTRWYWIAD - LISTA TEATROW WYWIADU DLA SZEFA (slowo pana 10-11): pan przekazuje osobiscie, ustnie albo kartka do spalenia; nacisk: Polnoc. Wlasni - bez rzutu.",
+   "kto": "SYMON -> SZEF KONTRWYWIADU",
+   "kanal": "osobiscie, WF",
+   "wraca": "300-10-14",
+   "zamyka": "lista przekazana",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

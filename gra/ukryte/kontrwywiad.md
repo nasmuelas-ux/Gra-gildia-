@@ -74,3 +74,6 @@
 - **Wspólna skrzynka ustalona** (E): szuflada pod pulpitem kopisty na dole, otwierana przy zwykłej robocie. Znak „jest coś”: księga położona grzbietem do okna.
 - **Willa (O):** *„Powtórzył imiona raz, za mną, i więcej ich nie powtarza. Dobrze.”*
 - **Aldwin (O):** *„Pani Willa ma lepszy porządek niż niejeden kapitularz septów. Nie będę go psuł. Będę tylko sprawdzał, czy nikt inny go nie zna.”*
+- **Pan dziękuje im obojgu:** *„Potraktujcie to jako misję waszego życia. Budujecie tarczę dla Północy.”*
+- **Willa (O):** *„Tarcza, której nikt nie widzi. Dobrze, tylko takie się nie łamią.”* Po chwili, sucho: *„Na całe życie to długo. Zacznę od zimy.”*
+- **Aldwin (O):** kreśli palcem mały znak na piersi, odruch skryby Wiary. *„Jest taki psalm o murze, którego nikt nie widzi. Mój mistrz mówił, że to o modlitwie. Teraz myślę, że nie tylko.”*

@@ -24,3 +24,6 @@
   Dalej nic nie ma. Powiedziała, że nie znalazła słowa. Pan nie wie, czy chodzi o słowo, czy o coś innego.
 
 ## CZĘŚĆ 2: do słowa pana
+- **Pan pyta Sansę, jakiego słowa szukała. RZUT 37 (próg 35): mówi, bez wyjaśnień.**
+  - Sansa odpowiada we wspólnej mowie, cicho: *„Uprzejma.”* (O)
+  - Nic nie dodaje. Arya patrzy na nią z boku i też milczy.

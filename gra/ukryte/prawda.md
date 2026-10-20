@@ -430,3 +430,8 @@ Posłaniec: **Benno** (E), pisarz placówki Domu na Czarnym Zamku. Był u Aemona
 - Wierzy, że sen i tak się spełni, *„tylko później”*. Nie kłóci się i nie prosi.
 - O Meerze (O): *„Meera pojedzie, gdzie ja.”*
 - To nadal zielony sen, a nie fakt świata. Wyjazd zależy od Reeda: przed głębokim śniegiem, przez Przesmyk i Fosę.
+- **Pan pyta: „Co dokładnie jeszcze widzisz?” RZUT 87 (próg 45).** Jojen mówi o trzech obrazach (O; wszystkie to zielone sny, a nie fakty świata):
+  1. **wilk ze skrzydłami, przykuty łańcuchami do ziemi;**
+  2. **drzewo pod wzgórzem za Murem, które rośnie przez kości.** *„Ktoś tam czeka. Długo.”*
+  3. **kruk o trzech oczach, który woła, „ale nie mnie”.** Tu Jojen milknie, przestraszony, że powiedział za dużo.
+- Jojen nie mówi, kogo woła kruk. Nie mówi też, kto jest wilkiem.

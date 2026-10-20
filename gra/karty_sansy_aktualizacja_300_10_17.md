@@ -48,7 +48,12 @@
 **Pewność karty:** wymiana i Maidenpool pewne. Lordowie Dorzecza to odczyt.
 
 ## 4. DOLINA (Arryn / Baelish)
-**Nowe od 08-27 (z zapisu):** pewnego nic.
+**Nowe od 08-27 (z zapisu):**
+- ~~pewnego nic~~ **VOID (zasada 1, błąd GM, poprawka w tej samej rozmowie):** jest wiersz z 09-18 (z naszych źródeł, nasłuch Mewiego Grodu, rzut 88).
+  - **Zboże Doliny idzie do Królewskiej Przystani za złoto Lannisterów.**
+  - **Co miesiąc statek do Braavos, a złoto leży w Banku na imię Baelisha.** Papier wraca.
+  - Pisarze są z Przystani.
+  - Potwierdzenie z Banku (Nesta) dopiero ~11-15.
 - **Pytania w drodze** (bez źródeł):
   - na czyje imię jest w Banku złoto za zboże Doliny: Baelisha czy Domu Arrynów (~11-15);
   - **czyja pieczęć stoi na kontraktach zbożowych Doliny**: sokół Arrynów czy przedrzeźniacz Baelisha (~10-28).
@@ -59,4 +64,11 @@
 2. *„Jeśli na kontraktach jest przedrzeźniacz, a nie sokół, to Dolina należy do niego, a ciocia Lysa tylko tam mieszka. Wtedy to on sprzedaje zboże Lwu, nie Arrynowie.”*
 3. *„Tego człowieka nie pytać o nic wprost. On odpowiada na pytanie, którego nikt nie zadał.”*
 
-**Pewność karty:** brak nowych faktów. Dwa pytania w drodze.
+**Pewność karty:** zboże do KP za złoto Lwa prawdopodobne, konto na imię Baelisha prawdopodobne (nasłuch). Pieczęć na kontraktach w drodze.
+
+**Pytanie pana: „Wysłałem mu przedrzeźniacza. Jak on to odczytał?”** (z zapisu: posążek z atelier, dopisek tylko *„Od Namiestnika Króla Północy”*; doręczony 06-05; przyjął osobiście, obejrzał, uśmiechnął się, **nic w zamian**)
+
+**Odczyt Sansy (O, po braavosku; to odczyt, nie wiedza):**
+1. *„Przeczytał to tak: »Wiem, kim jesteś. Wiem, że twój ptak udaje cudze głosy.« Pan mu nie napisał nic więcej, a on lubi ludzi, którzy nie piszą za dużo.”*
+2. *„Uśmiechnął się, bo lubi, kiedy ktoś go widzi. To dla niego komplement, nie groźba. Nie odpisał, bo każde słowo byłoby przyznaniem, że zrozumiał.”*
+3. *„Teraz wie, że Północ na niego patrzy. Będzie ostrożniejszy, ale też ciekawszy. A ciekawy Baelish przyjdzie sam, kiedyś, z jakimś prezentem. Wtedy trzeba będzie liczyć, co kosztuje.”*

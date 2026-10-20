@@ -15,3 +15,14 @@
 - *Blady* i *spokojny* siedzą u obu, czyli słowa ze scenki z 10-14 się trzymają.
 
 ## CZĘŚĆ 2: do słowa pana
+**Słowo pana: dialog powszechny** (wymyślił pan). Temat (E): przybysz w Braavos. Powitanie, pytanie o drogę do mostu i do gospody, cena izby, podziękowanie. Role na zmianę.
+
+**RZUT 80 (próg 40): PŁYNNIE.**
+- Obie zagrały obie role. Nowe słowa wzięły z kontekstu: *most*, *izba*, *ile*, *dziękuję*, *za drogo*.
+- **Same dopisały targowanie się:**
+  - Arya jako gospodarz: *„Izba: trzy srebrne. Z oknem: cztery.”*
+  - Sansa jako przybysz, z dobrym akcentem i dworskim uśmiechem: *„Dwie. Okno mam w domu.”*
+  - Arya: *„Trzy, ale z kotem.”*
+  - Wybuchają śmiechem obie.
+- Sansa przy targowaniu się ani razu nie była „uprzejma”, tylko twarda i wesoła.
+- **Zadanie na 26 (wt 10-21): do słowa pana.**

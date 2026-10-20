@@ -35,3 +35,10 @@
 - Scenka trwa krótko, bo po trzech wymianach Sansa nie ma już nic na tabliczce.
 - Arya parska sama ze swojego kota. Sansa uśmiecha się półgębkiem i nic więcej.
 - **Słowa bez zmian:** drżeć i kolano siedzą, *blady* i *spokojny* nie padły ani razu.
+- **Pan wchodzi w scenkę i sam używa słów *blady* i *spokojny*. RZUT 85 (próg 35): ZNAKOMICIE.**
+  - Oba słowa wchodzą u obu dziewcząt, bo od razu odbijają je w scenie.
+  - **Arya**, wciąż za stołem (O): *„Klient jest blady! Klient też boi się kota!”*
+  - **Sansa improwizuje**, pierwszy raz bez tabliczki (O): *„Proszę być spokojnym, panie kupcze. To mój kot.”* Mówi to z dobrym akcentem.
+  - **Arya wybucha śmiechem i przewraca się na bok.** Sansa się śmieje, z ręką przy ustach, ale się śmieje.
+  - **Słowa: 4 z 4.**
+- **Zadanie na 25 (pt 10-17): do słowa pana.**

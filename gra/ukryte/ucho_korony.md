@@ -19,3 +19,13 @@ Symon pyta Króla, czy Sansa może przyjrzeć się sprawie „zgodnie ze swoją 
 - dostaje tylko **fakty jawne**: słupy, wyrwanie trzeciej nocy, ślady od Dreadfortu, list Boltona „nie ruszy”, jutrzejsze orzeczenie z terenu;
 - **nic o świadku, kamieniu i synu** (Sansa o nich nie wie, 07-09);
 - jeśli sama przyniesie coś jako ucho, przyjąć wolno.
+
+## 300-10-11 wczesne popołudnie: Symon mówi jej o siatce
+Symon (słowo gracza): jest uchem Korony, więc powinna wiedzieć. Wyodrębnił wywiad i kontrwywiad z Domu i przeorganizowuje je na zewnątrz. **Docelowo chce, żeby to podlegało Królestwu.** Imion nie podał.
+
+**SANSA (O):**
+- Przyjmuje wiadomość, bez pytań o ludzi.
+- Sama stawia zaporę: *„Niech siatka nie wie o mnie, a ja nie chcę wiedzieć, kim są. Jeśli ucho i siatka się poznają, to będzie jedno krzesło, nie dwa. A wtedy jedna zdrada zabierze oba.”*
+- Przypomina regułę Króla: krzesła ucha zamawiać nie wolno, dotyczy to także siatki.
+- Pyta: *„Czy Robb wie?”*
+- Co do Królestwa: *„Dobrze. Ale to musi powiedzieć Robb, nie pan. Lordowie przyjmą od Króla ucho, które słucha obcych. Od Namiestnika nie przyjmą niczego, co słucha.”*

@@ -1,103 +1,177 @@
-# SZTAB WINTERFELL: PROJEKT NAMIESTNIKA (300-10-13, baszta Bryndena) I UWAGI BRYNDENA
-*Struktura według słowa pana. Uwagi i propozycje obsady to O Bryndena, do słowa pana. Imiona z zapisu.*
+# SZTAB WINTERFELL: ROZPISKA CAŁOŚCI (projekt Namiestnika, 300-10-13, baszta Bryndena)
+*Struktura według słowa pana. Obsada liczbowa to szacunek Bryndena (O, liczby E). Imiona pochodzą z zapisu. Szefowie oddziałów to wyłącznie **żołnierze** (słowo pana); cywile pracują pod nimi jako specjaliści. Wersja scalona, zastępuje wcześniejsze dopiski z tego dnia.*
 
-## STRUKTURA (słowo pana)
-**DOWÓDZTWO:** Głównodowodzący. W tej roli Król, a pod jego nieobecność Namiestnik-regent (akt regencji).
+---
 
-| oddział | zakres | propozycja obsady (Brynden, O) |
+## I. DOWÓDZTWO
+- **Głównodowodzący:** Król, a pod jego nieobecność Namiestnik-regent (akt regencji 08-01).
+- **Szef sztabu:** utrzymuje sześć oddziałów razem i dowodzi, kiedy Namiestnika nie ma. *Propozycja Bryndena: ser Rodrik (Pierwszy Miecz). Do słowa pana.*
+- **Przy dowództwie:**
+  - adiutant;
+  - 2 gońców;
+  - **warta sztabu** (ok. 8).
+- **Rada wojenna:** szefowie oddziałów raz w tygodniu przy mapie.
+
+| | żołnierze | cywile |
 |---|---|---|
-| **1. Organizacja i ewidencja** | rozpiska wojenna, rezerwa Korony, spisy, kursy | **Osric** (Marszałek Chorągwi, już prowadzi spis rezerwy), do jego powrotu Rodrik |
-| **2. Wywiad i ochrona** (wojskowy wywiad i kontrwywiad) | zwiad, jeńcy, mapy, „co widać z brzegu”, ochrona sztabu | *do słowa pana* (Brynden: „mały i nie na papierze”) |
-| **3. Operacyjny** (walka i manewr) | wojsko stałe, wojsko wasali, ruszenie; podział: dziesiątka, setka, hufiec, skrzydło/straż, armia | **Brynden** |
-| **4. Logistyka i zapas** | tabor, racje (Racja Północna), Spichlerz, zbrojownia | **Orland Korzec** (Spichlerz) z **Gawenem** (Skarb), **Orwyl** (arsenał) |
-| **5. Łączność i poczta** | kruki, rogi, łańcuch ognia, gońcy, szyfr wojskowy | **Luwin** (kruki), **Robett Glover** (łańcuch ognia) |
-| **6. Inżynieria i machiny** | mosty, tarany, umocnienia, przeprawy | **Orbelo** (mistrz robót zamku Fosy) albo cieśla zamkowy WF. Rysunki: Weylin |
+| Dowództwo | ok. 12 | — |
 
-**Rozpiska wojenna** (część oddziału 1):
-- **dziesiętnicy:** z Akademii, po każdym kursie;
-- **setnicy:** Ottar Rudy, Walton Szram, Carrac Kość, a potrzeba ≥10;
-- **kapitanowie hufców:** Brenn Kamieniec (po Dorne), Torvin (GP), Hendry (Fosa);
-- **dowódcy skrzydeł i straży:** Rodrik, Osric, Brynden; na morzu Torren;
-- **funkcje:**
+---
+
+## II. ODDZIAŁY
+
+### Oddział 1: Organizacja i ewidencja
+- **Zakres:**
+  - rozpiska wojenna (każde nazwisko ma swoje miejsce na wojnę);
+  - rezerwa Korony;
+  - spisy i kursy;
+  - żołd na papierze.
+- **Obsada:** szef + 1 podoficer · 2 pisarzy (cywile).
+- *Propozycja: Osric (Marszałek Chorągwi, prowadzi spis rezerwy), do jego powrotu Rodrik.*
+
+### Oddział 2: Wywiad i ochrona wojskowa (w czasie pokoju i wojny)
+- **Zakres:**
+  - **obce siły** przy granicach i na wodach Północy:
+    - Żelaźni;
+    - Lew w Dorzeczu i KP;
+    - Skagos i Zatoka Fok;
+    - Mur i to, co za nim;
+    - Stannis i jego ładunki;
+  - **ruchy wojsk także ze słów kupców,** bo wojsko patrzy na wroga (słowo pana);
+  - księga obcych sił („kto, ile, gdzie, od kiedy”), mapy, drogi i przeprawy;
+  - kontrwywiad wojskowy: ochrona sztabu, rozkazów i ludzi.
+- **Rozpoznanie stałe, 4 posterunki:**
+  1. Przesmyk i Fosa (z Reedami, księga przybyszów);
+  2. zachodni brzeg (łańcuch ognia, eskadra Torrena);
+  3. wschodni brzeg i Zatoka Fok (Karhold, Karport);
+  4. Dar i Mur (Czarny Zamek).
+- **Obsada:**
+  - szef;
+  - **2–3 oficerów operacyjnych** (analiza, księga, mapy);
+  - **3–4 oficerów wykonawczych** (prowadzą źródła: kupców, woźniców, rybaków, kapitanów, przewoźników);
+  - **zwiadowcy** ok. 12;
+  - **źródła płatne** według potrzeb.
+- **Zasada:** jedno źródło, jeden prowadzący. Jeśli źródło jest już u ludzi pana, wojsko go nie werbuje. Kto prowadzi kogo, rozstrzyga pan. Koszt idzie w budżecie wojska jako „rozpoznanie” (Gawen).
+- *Szef: do słowa pana.*
+
+### Oddział 3: Operacyjny (walka i manewr)
+- **Zakres:** plany i manewr. Prowadzi trzy rodzaje sił:
+  - **wojsko stałe Korony** (garnizony, straż brzegu i ognia, Akademia), czyli kręgosłup;
+  - **wojsko wasali** (drużyny domowe lordów), na wezwanie;
+  - **ruszenie** (chłopi ze wsi pod sołtysami), na wezwanie.
+- **Jedna miara dla wszystkich:**
+
+  | jednostka | skład | dowodzi |
+  |---|---|---|
+  | **dziesiątka** | 10 | dziesiętnik |
+  | **setka** | 100 | setnik |
+  | **hufiec** | 500–1000 | kapitan |
+  | **skrzydło / straż** | kilka hufców | dowódca |
+  | **armia** | straż przednia, środek, straż tylna, konni na skrzydłach, **tabor** osobno | wódz |
+
+- **Chorągiew lorda w strukturze** (np. 4 000):
+  - lord dowodzi swoim hufcem albo skrzydłem;
+  - jego ludzie są dzieleni na setki z jego setnikami, a przy każdej setce stoi sierżant Akademii jako drugi;
+  - przy lordzie jest **chorągiewny** Korony;
+  - tabor i racje z jednej ręki;
+  - sygnały wspólne.
+- **W pokoju sztab dowodzi tylko wojskiem Korony.** Chorągwie lordów wchodzą do struktury na wezwanie, według planu.
+- **Obsada:** szef + 2 oficerów · 1 rysownik map (cywil).
+- *Propozycja: Brynden.*
+
+### Oddział 4: Logistyka i zapas
+- **Zakres:**
+  - tabor;
+  - racje (Racja Północna);
+  - Spichlerz;
+  - zbrojownia i arsenał;
+  - kwatery.
+- **Obsada:** szef (kwatermistrz, żołnierz) + 2 podoficerów · 3–4 cywilów: magazynierzy, pisarz racji, ludzie Orlanda. **Specjaliści:** Orland (Spichlerz), Gawen (Skarb), Orwyl (arsenał).
+- *Szef: wskażą Rodrik i Brynden.*
+
+### Oddział 5: Łączność i poczta
+- **Zakres:**
+  - kruki;
+  - rogi i chorągiewki (sygnały wspólne);
+  - łańcuch ognia;
+  - gońcy konni;
+  - szyfr wojskowy.
+- **Obsada:** szef + 6 sygnalistów + 4 gońców konnych · 1 kruczarz (cywil, od Luwina). **Specjaliści:** Luwin (kruki), Robett Glover (łańcuch ognia).
+- *Szef: wskażą Rodrik i Brynden.*
+
+### Oddział 6: Inżynieria i machiny
+- **Zakres:**
+  - mosty i przeprawy;
+  - tarany i machiny;
+  - umocnienia.
+- **Obsada:** szef + 2 podoficerów · cieśle i kowale (cywile) na wezwanie. **Specjaliści:** Orbelo (mistrz robót Fosy), cieśla zamkowy WF, Weylin (rysunki).
+- *Szef: wskażą Rodrik i Brynden.*
+
+---
+
+## III. SZTAB W LICZBACH (pokój; E)
+| część | żołnierze | cywile |
+|---|---|---|
+| Dowództwo (z wartą) | ~12 | — |
+| 1. Organizacja i ewidencja | 2 | 2 |
+| 2. Wywiad i ochrona | ~20 (+ źródła) | — |
+| 3. Operacyjny | 3 | 1 |
+| 4. Logistyka i zapas | 3 | 3–4 |
+| 5. Łączność i poczta | 11 | 1 |
+| 6. Inżynieria i machiny | 3 | na wezwanie |
+| **RAZEM** | **~54** | **~8** (+ rzemieślnicy) |
+
+---
+
+## IV. ROZPISKA WOJENNA (część oddziału 1)
+- **Dziesiętnicy:** z Akademii, po każdym kursie. Dziś Osgood Długi i Benjen Sowa. Grupa II kończy ~11-01.
+- **Setnicy:** Ottar Rudy, Walton Szram, Carrac Kość. **Potrzeba ≥10.**
+- **Kapitanowie hufców:** Brenn Kamieniec (po Dorne), Torvin (GP), Hendry (Fosa).
+- **Dowódcy skrzydeł i straży:** Rodrik, Osric, Brynden; na morzu Torren.
+- **Funkcje:**
   - chorągiewni przy lordach;
   - tabor i racje;
   - zwiad;
   - sygnaliści;
-  - opatrywacze;
+  - opatrywacze (kurs Luwina);
   - cieśle.
 
-## UWAGI BRYNDENA (O)
-1. *„Dobre. Lepsze niż to, co miał Hoster w Riverrun.”*
-2. **Ludzie, nie nazwy.** Sześć oddziałów obsadza dziś pięciu tych samych ludzi. Na początek każdy oddział to jeden człowiek i jeden pisarz. Rośnie w miarę potrzeb.
-3. **Szef sztabu.** Ktoś musi trzymać wszystkie sześć oddziałów razem, kiedy pan jest w drodze. Propozycja: **ser Rodrik**, jako Pierwszy Miecz. *„To odpowiedź na moje pytanie, kto dowodzi, gdy pana nie ma.”*
-4. **W pokoju sztab dowodzi tylko wojskiem Korony.** Chorągwie lordów wchodzą do struktury dopiero na wezwanie (plan na papierze, sierżanci przy setkach).
-5. **Rada wojenna,** raz w tygodniu przy mapie, to po prostu posiedzenie szefów oddziałów.
+---
 
-## SŁOWO PANA 10-13: SZEFOWIE ODDZIAŁÓW TO MUSZĄ BYĆ ŻOŁNIERZE
-- Propozycje obsady oddziałów 4–6 (Orland, Gawen, Orwyl, Luwin, Orbelo) **odpadają jako szefowie.** Cywile zostają przy oddziałach jako specjaliści i wykonawcy pod żołnierzem.
-- **Brynden (O):** *„Słusznie. Rozkaz wydaje ten, kto za niego ginie. Maester ma liczyć kruki, a nie decydować, który poleci pierwszy.”* Żołnierzy z głową do liczenia jest jednak mało. Rodrik zna każdego sierżanta w garnizonie. Brynden proponuje: **Rodrik i Brynden wskażą szefów oddziałów 1, 2 i 4–6 spośród sierżantów, weteranów i absolwentów Akademii.** Imiona na Radę 10-24, potrzebna zgoda pana.
+## V. WOJSKO STARKÓW I KORONY DZIŚ (10-13, z zapisu)
+**~550 ludzi na lądzie** plus załogi Torrena (liczby brak w zapisie), w ośmiu miejscach:
 
-## OBSADA LICZBOWA: SZACUNEK BRYNDENA (10-13; O, liczby E, czas pokoju, sztab w WF)
-| część | żołnierze | cywile |
-|---|---|---|
-| Dowództwo: szef sztabu, adiutant, 2 gońcy | 4 | — |
-| 1. Organizacja i ewidencja | szef + 1 podoficer | 2 pisarzy (rozpiska, spisy, żołd) |
-| 2. Wywiad i ochrona | szef + 2 (zwiad, jeńcy) + warta sztabu ~8 | — |
-| 3. Operacyjny | szef + 2 oficerów | 1 rysownik map |
-| 4. Logistyka i zapas | szef (kwatermistrz) + 2 podoficerów | 3–4 (magazynierzy, pisarz racji; ludzie Orlanda) |
-| 5. Łączność i poczta | szef + 6 sygnalistów + 4 gońców konnych | 1 kruczarz (od Luwina) |
-| 6. Inżynieria i machiny | szef + 2 podoficerów | cieśle i kowale na wezwanie |
-| **SZTAB RAZEM** | **~38** | **~8** (+ rzemieślnicy na wezwanie) |
+| miejsce | ludzie |
+|---|---|
+| WF | 174 |
+| Zimowa Straż | 6 (+8 przy Królu) |
+| Skagos (z Królem) | 120 |
+| Osric, w drodze | 50 |
+| GP | 48 |
+| poselstwo | 11 |
+| ser Wendel | ~10 |
+| Cypel | 20 |
+| Kamienny Brzeg | 46 |
+| łańcuch ognia | ~40 |
+| Akademia II | 9 |
 
-**CYWILE DLA CAŁEGO WOJSKA (~550):**
-- **W pokoju** ~1 cywil na 8–10 żołnierzy, czyli **55–70**:
+**Głowy, które umieją rozkazać:** 12 dowódców, 3 setników, 2 dziesiętników, ~30 sierżantów.
+
+**Cywile dla wojska:**
+- **pokój:** ~1 na 8–10 żołnierzy, czyli **55–70**:
   - kucharze;
   - kowale i płatnerz;
   - rymarz i szewc;
   - praczki;
   - magazynierzy;
   - pisarze żołdu;
-  - opatrywacze (część z kursu Luwina);
+  - opatrywacze;
   - stajenni.
-- **Na wojnie** tabor rośnie do 1 cywila na 4–5 ludzi, bo dochodzą woźnice, kucharze w polu, kowale polowi i cieśle.
-- **Koszt** liczy Gawen. Brynden (O): *„Cywil kosztuje mniej niż żołnierz, ale jeść chce tak samo.”*
+- **wojna:** tabor do 1 na 4–5.
 
-## ODDZIAŁ 2: KOREKTA PANA (10-13). WYWIAD I ROZPOZNANIE NA CZAS POKOJU, NIE TYLKO WOJNY
-**Zakres (Brynden, O):** obce siły przy granicach i na wodach Północy w czasie pokoju.
-- Żelaźni: okręty i langskipy przy zachodnim brzegu.
-- Lew: garnizony w Dorzeczu i w KP, ruchy przy Przesmyku.
-- Skagos i Zatoka Fok.
-- Za Murem: wolni ludzie, Stannis na Smoczej Skale i jego ładunki.
-- Wybrzeże Dorzecza.
-- Mapy, księga obcych sił („kto, ile, gdzie, od kiedy”), drogi i przeprawy.
+---
 
-**Rozpoznanie stałe:** posterunki z ludźmi, którzy patrzą i liczą.
-1. **Przesmyk i Fosa:** razem z Reedami, księga przybyszów przy bramie.
-2. **Zachodni brzeg:** razem z łańcuchem ognia Robetta i eskadrą Torrena.
-3. **Wschodni brzeg i Zatoka Fok:** Karhold i Karport.
-4. **Dar i Mur:** przez Czarny Zamek.
-
-Źródła na co dzień: kupcy i rybacy z pytaniami zadawanymi wprost, kapitanowie, zwiadowcy klanów.
-
-**Rozdział od siatki pana (O):** *„Pańskie uszy słuchają kupców i dworów. Nasze oczy patrzą na okręty, drogi i obozy. Jedno nie powinno wiedzieć o drugim więcej, niż trzeba. Co nasze oczy zobaczą, idzie do pana. Co pańskie uszy usłyszą o wojsku, przychodzi do nas od pana, bez źródła.”*
-
-**Obsada (E, nowa):**
-- szef oddziału 2;
-- 2 analityków (mapy i księga obcych sił);
-- **zwiadowcy:** 4 posterunki po 3 ludzi, razem ok. 12.
-
-**Razem ok. 15.** Wartę sztabu przenosi się do Dowództwa (ochrona sztabu, ok. 8). **Sztab razem ok. 50 żołnierzy.**
-
-## ODDZIAŁ 2: KOREKTA PANA (2), 10-13
-**Słowo pana:** wojsko patrzy też na wrogów, więc o ruchach wojsk, także tych, o których mówią kupcy, Korona ma się dowiadywać od wojska. **Wywiad wojskowy to oficerowie operacyjni i wykonawczy oraz własne oczy i uszy.**
-
-**Obsada (E, Brynden):**
-- szef;
-- **2–3 oficerów operacyjnych:** analiza, księga obcych sił, mapy;
-- **3–4 oficerów wykonawczych:** prowadzą źródła wojskowe (kupcy, woźnice, rybacy, kapitanowie, ludzie przy przeprawach);
-- **źródła:** płatne, liczba według potrzeb;
-- **zwiadowcy:** 4 posterunki, ok. 12 ludzi.
-
-**Razem ok. 20 żołnierzy** plus źródła. Koszt w budżecie wojska jako „rozpoznanie” (Gawen).
-
-**Zasada przy siatce pana (Brynden, O):** jedno źródło ma jednego prowadzącego. Jeśli kupiec mówi już ludziom pana, wojsko go nie werbuje drugi raz. Kto prowadzi kogo, rozstrzyga pan.
+## VI. DO SŁOWA PANA
+1. **Szef sztabu:** ser Rodrik?
+2. **Szefowie oddziałów:** według propozycji (1 Osric, 3 Brynden), a 2, 4, 5 i 6 wskażą Rodrik i Brynden spośród sierżantów, weteranów i absolwentów Akademii. Imiona na Radę 10-24.
+3. **Rozpiska wojenna i kosztorys sztabu** (Gawen) na Radę 10-24.

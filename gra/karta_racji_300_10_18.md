@@ -40,3 +40,14 @@
 **Słowo pana 10-18:**
 - **Mur:** pytanie do Hallisa o stan spiżarni Straży w racjach (drugi kruk Domu przez Benna, dziś).
 - **Kamienny Brzeg (Starkport):** osadnicy Sigrun mają się zająć rybołówstwem, a Korona wysyła im **drugą partię zboża morzem z Dustinportu, przed lodem**. Orland liczy ~350 korcy, czyli ~70 dusz na ~5 miesięcy do wiosny (E). Ze składu Korony w Dustinporcie, łodzią Torrena albo Donnela, wyjście do ~11-10.
+
+**Pytanie pana: czy jakiś brak da się pokryć patronatem? Czy coś jest potrzebne?** Orland (O, z Gawenem na kartce; koszty to E Orlanda, kwoty do potwierdzenia przez Gawena, zasada 43):
+1. **Łojarnia Korony przy Zimowym Mieście** (na tłuszcz, najważniejsze).
+   - Patronat nad dwoma rzeźnikami ZM: Korona daje szopę i dwa kotły, oni przetapiają łój z uboju domeny i ze wsi. Spichlerz bierze łój po cenie ze słupa, resztę sprzedają sami.
+   - ~6 smoków jednorazowo, potem nic. *„Łój z uboju bez kotła się psuje albo idzie na świece. Z kotłem idzie do beczki.”*
+2. **Łowiska spod lodu na jeziorach domeny** (ryba zimą).
+   - Patronat nad rybakami jeziornymi: sieci podlodowe i sanie z beczką. Sposób krannogów, przewodnik od Kessela albo od lorda Reeda.
+   - ~3 smoki na sieci, zadatek od kosza ryby. *„Zimą ryba jest pod lodem, a chłop siedzi w chacie. Szkoda.”*
+3. **Tran z fok** (Zatoka Fok, wschodni brzeg). To nie patronat, tylko kupno u Karstarka. Rickard jest teraz ciepły. Orland zaznacza tylko, że *„tran fokowy jest lepszy od wielorybiego i nikt go od nas nie kupuje”*.
+- **Czego nie trzeba:** beczek (bednarnia Konserwy działa), soli (sól z Essos i druga panew), zboża.
+- **Do słowa pana:** 1, 2 i 3.

@@ -21,3 +21,20 @@
 
 ## CZEGO PAN NIE WIDZI (rzut 21 przy odczycie 09-16; E z mocą zapisu)
 - Aldwin **raz na kilka miesięcy pisze do swojego dawnego mistrza**, septona Hollisa ze Śnieżnego Septu w Białym Porcie. Listy są osobiste i nie ma w nich nic o sprawach pana. **Nikomu tego nie zgłosił**, bo nie uważał, że trzeba. To kanał spoza siatki. Wyjdzie na jaw przy sprawdzeniu albo przy przypadku. **09-16: Aldwin SAM powiedział o tym panu** przy zleceniu Torvalda, proponując Hollisa jako drogę do BP.
+
+## 300-10-14, przed południem: pan wręcza Aldwinowi LISTĘ TEATRÓW (słowo pana z 10-11)
+**Treść** (z zapisu: ustrój 09-16/09-25 i kalendarz Willi; bez imion szefów i bez adresów przykrywek):
+1. **Centrala:** Zimowe Miasto.
+2. **Północ:** centrum w Cailin; placówki w Białym Porcie, Boltonsgate i Karporcie.
+3. **Zachód i Pyke:** Seagard.
+4. **Essos:** Braavos i Pentos.
+5. **Dolina:** Mewi Gród (ludzie w drodze).
+6. **Dorne:** Deskowe Miasto (ludzie w drodze).
+7. **Śpią do wiosny:** Królewska Przystań (centrum od zera) i Stare Miasto.
+8. **Południe (Ashford):** może czekać.
+
+**Aldwin, bez rzutu** (własny człowiek; słowa to O):
+- Czyta listę dwa razy i oddaje ją panu: *„Zapamiętałem. Papier niech pan spali sam, przy mnie.”*
+- O priorytecie: *„Północ najpierw, jak pan mówił. Z tej listy na zimę biorę Biały Port i Cailin, bo tam wyciekło. Reszta to na razie tylko nazwy, póki nie wiem, kto tam siedzi.”*
+- Pyta: *„Kiedy pani Willa się o mnie dowie? Bez niej teatry są dla mnie ślepe. Nie chcę sprawdzać ludzi, których szefowa nie wie, że ktoś patrzy.”*
+- **Imion szefów teatrów nie dostał.** Poda je Willa, kiedy pan jej powie, kto jest szefem kontrwywiadu.

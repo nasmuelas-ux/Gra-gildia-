@@ -16338,7 +16338,7 @@
    "kanal": "osobiscie, WF/ZM",
    "wraca": "300-10-24",
    "zamyka": "plan szkoly na stole Rady (prowadzacy, miejsce, nabor, koszt)",
-   "status": "otwarte"
+   "status": "otwarte ### 300-10-13 PAN pyta MIRE o pomysl (slowo pana: 'nie zaplanowalem tego'). MIRA (O) proponuje: SAMA prowadzi (nabor, plan, nauczyciele) - jest w WF na zime; wieczory w szkole ZM; litery - Owen (jesli zechce) albo nauczyciel z seminarium Fosy; rachunek i kancelaria - najlepsi z izby uczniowskiej Berona; braavoski - Ferrego od XII; nabor: dorosli z ZM i domeny, ktorzy umieja cos liczyc - pierwszenstwo wdowy z listy Krolowej i ludzie Konserwy. Do slowa pana."
   },
   {
    "data": "300-10-10",
@@ -16428,6 +16428,15 @@
    "kanal": "osobiscie",
    "wraca": "300-10-20",
    "zamyka": "meldunek: droga woznicy i adresat",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-13",
+   "co": "STRAZ PRZY DRZWIACH KOMNAT TALLYCH TAKZE W DZIEN (prosba Miry, slowo pana 10-13 'jasne'): jeden z przybocznej przy drzwiach od switu do zmierzchu, zmiana co 4 godziny. Wlasni - bez rzutu.",
+   "kto": "STEN",
+   "kanal": "osobiscie, WF",
+   "wraca": "300-10-14",
+   "zamyka": "straz dzienna stoi",
    "status": "otwarte"
   }
  ],

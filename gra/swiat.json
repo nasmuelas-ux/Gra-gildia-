@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 10,
-  "dzien": 17,
+  "dzien": 18,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "rano",
  "sezon": "zima (300)",
- "pogoda": "RZUT 28 (300-10-17): SLABO - pochmurno, drobny snieg, porywisty wiatr z polnocnego wschodu; kruki lataja z opoznieniem; trakty sliskie (E).",
- "dzien_tygodnia_nr": 5,
+ "pogoda": "RZUT 100 (300-10-18): ZNAKOMICIE - slonce, bezwietrznie, siarczysty mroz, snieg skrzy sie; kruki lataja; trakty ubite (E).",
+ "dzien_tygodnia_nr": 6,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

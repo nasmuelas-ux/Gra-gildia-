@@ -16383,7 +16383,7 @@
    "kanal": "osobiscie, WF",
    "wraca": "300-10-18",
    "zamyka": "karta na stole pana, slowo pana o kwotach",
-   "status": "otwarte ### 10-14 SLOWO PANA: model jak wywiad - wlasne CENTRA OPERACYJNE (analiza, sprawdzanie, nabor); Aldwin dopisze koszt i ludzi pierwszego centrum (Polnoc) do karty. Pytanie Aldwina: centrum pod jednym dachem z Willa (centrala ZM, slowo 09-25) czy osobno - do slowa pana. ### 10-14 SLOWO PANA: JEDNO CENTRUM (centrala ZM, wspolna z Willa - osobne izby/ksiegi), PLACOWKI LOKALNE OSOBNO (wlasne przykrywki, bez zwiazku z placowkami wywiadu); Aldwin: pierwsza BP, druga Cailin - koszt w karcie."
+   "status": "otwarte ### 10-14 SLOWO PANA: model jak wywiad - wlasne CENTRA OPERACYJNE (analiza, sprawdzanie, nabor); Aldwin dopisze koszt i ludzi pierwszego centrum (Polnoc) do karty. Pytanie Aldwina: centrum pod jednym dachem z Willa (centrala ZM, slowo 09-25) czy osobno - do slowa pana. ### 10-14 SLOWO PANA: JEDNO CENTRUM (centrala ZM, wspolna z Willa - osobne izby/ksiegi), PLACOWKI LOKALNE OSOBNO (wlasne przykrywki, bez zwiazku z placowkami wywiadu); Aldwin: pierwsza BP, druga Cailin - koszt w karcie. ### 10-18: KARTA ALDWINA NA STOLE PANA (plik ukryty kontrwywiad.md) - do slowa pana."
   },
   {
    "data": "300-10-11",
@@ -16545,7 +16545,7 @@
    "kanal": "szyfr Domu do rak Hendry'ego, kruk WF-Fosa (rano 10-15); meldunek kruk Fosa-WF",
    "wraca": "300-10-18",
    "zamyka": "meldunek Hendry'ego z przesluchania (rzut)",
-   "status": "otwarte"
+   "status": "zamkniete 300-10-18 ### HENDRY (rzut 55): Alyn wyjasnil wszystko (szwagier - papier Wata; probki; brudnopis dla dokladnosci); Hendry: czysty, ale brudnopis spalic, papier do probek kupowac - do slowa pana. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-10-14",
@@ -16581,7 +16581,7 @@
    "kanal": "kruk Karhold-WF; trakt",
    "wraca": "300-10-18",
    "zamyka": "Krol w Karholdzie (kruk)",
-   "status": "otwarte"
+   "status": "zamkniete 300-10-18 ### RICKARD (rzut 50): flota w Karholdzie 10-17; Krol zdrow; ladem ~10-20; dopisek Krola: WF ~10-28, nie wychodzic naprzeciw. Nowa pozycja: przyjecie Krola. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-10-15",
@@ -16626,7 +16626,7 @@
    "kanal": "kruk Domu WF-CZ (szyfr Domu) i z powrotem",
    "wraca": "300-10-18",
    "zamyka": "meldunek Benna (rzut przy odczycie)",
-   "status": "otwarte"
+   "status": "zamkniete 300-10-18 ### BENNO (rzut 21): ogolnie - nastroje ponure, zwiadowcy krocej, frakcje bez imion (Wieza Cieni / Wschodnia Straznica / stara gwardia / ci z poludnia); kto zabiega o glosy - nie wie. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-10-16",
@@ -16689,6 +16689,24 @@
    "kanal": "osobiscie, WF",
    "wraca": "300-10-21",
    "zamyka": "lekcja 27 HV odbyta",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-18",
+   "co": "PRZYJECIE KROLA W WINTERFELL (~10-28; Krol ladem z Karholdu ~10-20; dopisek Krola: 'nie wychodz mi naprzeciw, trzymaj dom'): brama, pieczec regencji (gest pana - plan z Mira 10-17), rachunek Korony na pismie (Gawen), uczta (Catelyn; stroj Roslin), sprawy 'Krol pierwszy'. Do slowa pana.",
+   "kto": "SYMON ; CATELYN ; GAWEN ; RODRIK",
+   "kanal": "osobiscie WF",
+   "wraca": "300-10-24",
+   "zamyka": "plan przyjecia gotowy (Rada 10-24)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-18",
+   "co": "FOSA - BRUDNOPIS ALYNA SKROBKA (prosba Hendry'ego 10-18): spalic brudnopis rady; papier do probek szwagier ma kupowac, nie dostawac. Do slowa pana.",
+   "kto": "SYMON -> HENDRY ; GARRICK",
+   "kanal": "kruk Domu WF-Fosa (szyfr)",
+   "wraca": "300-10-19",
+   "zamyka": "slowo pana",
    "status": "otwarte"
   }
  ],

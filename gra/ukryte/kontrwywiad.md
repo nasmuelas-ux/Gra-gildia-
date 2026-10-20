@@ -77,3 +77,9 @@
 - **Pan dziękuje im obojgu:** *„Potraktujcie to jako misję waszego życia. Budujecie tarczę dla Północy.”*
 - **Willa (O):** *„Tarcza, której nikt nie widzi. Dobrze, tylko takie się nie łamią.”* Po chwili, sucho: *„Na całe życie to długo. Zacznę od zimy.”*
 - **Aldwin (O):** kreśli palcem mały znak na piersi, odruch skryby Wiary. *„Jest taki psalm o murze, którego nikt nie widzi. Mój mistrz mówił, że to o modlitwie. Teraz myślę, że nie tylko.”*
+
+## 300-10-18: KARTA POTRZEB ALDWINA (w kancelarii, do rąk pana; własny, bez rzutu; liczby to E Aldwina)
+**Miesięcznie ~12:** szef 3, dwóch analityków po 1, czterech terenowych/łączników po ~0,75 (razem 3), fundusz spraw 3.
+**Jednorazowo ~25:** izba w centrali ZM, skrzynia i zamki ~5; placówka BP (przykrywka: mały skład papieru i świec przy porcie) ~12; placówka Cailin (przykrywka: pisarz do wynajęcia przy rynku) ~8.
+**Kolejność:** centrala od razu, BP w XI, Cailin w XII.
+**Aldwin (O):** *„To dwa razy tyle, ile mówiłem tydzień temu, bo pan kazał robić placówki osobno. Taniej się da, ale wtedy placówki będą pod jednym dachem z panią Willą, a pan tego nie chciał.”* **Do słowa pana.**

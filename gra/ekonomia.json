@@ -2166,7 +2166,8 @@
    "Mira": 115.6,
    "data": "300-10-05 (wykonanie Hala)",
    "status": "Nesta i Hal w BP; SYMON 231,20 ODEBRANE 10-14 w faktorii ZM za kwitem; MIRA 115,60 - kufer pod jej imieniem w faktorii ZM, do jej odbioru"
-  }
+  },
+  "_akcje_lucana_reguła_300_10_14": "SLOWO PANA 10-14: AKCJE SPECJALNE LUCANA = DRUGA SAKWA DOMU (osobna ksiega akcji Hala, Kasa 1) - NIE wchodza do wolnej gotowki ani do wyplat wspolnikow; koszty i zyski zostaja w tej sakwie i 'niech rosnie'. Wyplata IX (bez -79 akcji IX) - bez korekty. 10% Lucana z (A)(B) kwartalnie - bez zmian. Co dalej z sakwa (wyplata/reinwestycja) - kiedys, slowem pana."
  },
  "_finanse_rodziny": {
   "_opis": "FINANSE RODZINY TALLY (slowo pana 300-07-14, za zgoda Miry).",

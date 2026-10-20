@@ -16446,7 +16446,7 @@
    "kanal": "osobiscie, WF",
    "wraca": "300-10-13",
    "zamyka": "slowo pana: rozpiska zlecona albo nie",
-   "status": "otwarte ### 300-10-13 SLOWO PANA: PRZEORGANIZOWAC - SZTAB WINTERFELL (gra/sztab_winterfell_300_10_13.md): Dowodztwo (Krol/Namiestnik) + 6 oddzialow: 1 Organizacja i ewidencja, 2 Wywiad i ochrona (wojskowe), 3 Operacyjny (wojsko stale/wasali/ruszenie; dziesiatka-setka-hufiec-skrzydlo-armia), 4 Logistyka i zapas, 5 Lacznosc i poczta, 6 Inzynieria i machiny; rozpiska wojenna wg Bryndena. Uwagi i propozycje obsady Bryndena (O) - do slowa pana: szef sztabu (prop. Rodrik), obsada oddzialow, oddzial 2."
+   "status": "zamkniete 300-10-13 ### SLOWO PANA: SER RODRIK - SZEF SZTABU; ROZPISKA WOJENNA (z dwoma nazwiskami na krzeslo) + szefowie oddzialow 1-7 (wskazanie Rodrik/Brynden) + kosztorys sztabu (Gawen) - NA RADE 10-24. ### POPRZEDNIO: byl-otw ### 300-10-13 SLOWO PANA: PRZEORGANIZOWAC - SZTAB WINTERFELL (gra/sztab_winterfell_300_10_13.md): Dowodztwo (Krol/Namiestnik) + 6 oddzialow: 1 Organizacja i ewidencja, 2 Wywiad i ochrona (wojskowe), 3 Operacyjny (wojsko stale/wasali/ruszenie; dziesiatka-setka-hufiec-skrzydlo-armia), 4 Logistyka i zapas, 5 Lacznosc i poczta, 6 Inzynieria i machiny; rozpiska wojenna wg Bryndena. Uwagi i propozycje obsady Bryndena (O) - do slowa pana: szef sztabu (prop. Rodrik), obsada oddzialow, oddzial 2."
   },
   {
    "data": "300-10-13",
@@ -16455,6 +16455,24 @@
    "kanal": "poslaniec/szyfr przez Fose + jezdziec",
    "wraca": "300-10-25",
    "zamyka": "ksiega zalog na stole pana",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-13",
+   "co": "SZTAB WINTERFELL - USTANOWIENIE (slowo pana 10-13; gra/sztab_winterfell_300_10_13.md): szef sztabu SER RODRIK; rozpiska wojenna, szefowie oddzialow 1-7 i kosztorys - Rodrik + Brynden (+ Osric po powrocie), Gawen; na Rade 10-24. Wlasni - bez rzutu.",
+   "kto": "RODRIK ; BRYNDEN ; GAWEN",
+   "kanal": "osobiscie, WF",
+   "wraca": "300-10-24",
+   "zamyka": "rozpiska i obsada na stole Rady, slowo pana",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-13",
+   "co": "WOJSKO STALE KORONY - ZWIEKSZENIE DO 700 NA LADZIE (slowo pana 10-13): ok. +150 ponad ~550; WERBUNEK WETERANOW Z WOJNY - sciagnac od rodzin za zold (40 miedziakow/dzien + wikt; E zold +150 ~ 9 smokow/mies, Gawen liczy calosc z wiktem i bronia). Prowadzi oddzial 1 (do powrotu Osrica - Rodrik), probe robia sierzanci Akademii. Heroldzi w ZM, Barrowton, przy septach i karczmach; lordowie zawiadomieni listem regenta (bez zgody na kazdego - ochotnicy z wlasnej woli). Kwatery - koszary WF (przed Skagos ~280 miejsc). Odzew - RZUT przy pierwszym naborze.",
+   "kto": "RODRIK (o.1) ; BRYNDEN ; GAWEN ; BERON (list)",
+   "kanal": "heroldzi, listy regenta",
+   "wraca": "300-11-05",
+   "zamyka": "pierwszy nabor - ilu przyszlo (rzut); dalej do 700",
    "status": "otwarte"
   }
  ],

@@ -16735,6 +16735,15 @@
    "wraca": "300-10-24",
    "zamyka": "szkic na Radzie; potem czysty odpis ~10-27",
    "status": "otwarte"
+  },
+  {
+   "data": "300-10-18",
+   "co": "TLUSZCZ - WASKIE GARDLO RACJI (~22 dni; karta Orlanda 10-18): (a) tran z BP przez Hala, (b) racja tluszczu na pol poza strazą/drwalami/praca na mrozie, (c) wczesniejszy uboj czesci bydla domeny (Edric Plug). Do slowa pana.",
+   "kto": "SYMON ; ORLAND ; GAWEN ; EDRIC PLUG ; HAL",
+   "kanal": "WF",
+   "wraca": "300-10-19",
+   "zamyka": "slowo pana",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [
@@ -16890,13 +16899,14 @@
    "kto": "ORLAND KORZEC + GAWEN",
    "kanal": "Winterfell / kruk z Fosy",
    "rytm": {
-    "co_dni": 14,
-    "start": "300-04-11"
+    "co_dni": 7,
+    "start": "300-10-18"
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-10-13",
+   "ostatnio_odebrane": "300-10-18",
    "zrodlo": "terminarz_budow_300_04.md",
-   "uwaga_0915": "SLOWO PANA 09-15: karta Spichlerza ZAWSZE W RACJACH (Racja Polnocna, skladniki + waskie gardlo), od dzis."
+   "uwaga_0915": "SLOWO PANA 09-15: karta Spichlerza ZAWSZE W RACJACH (Racja Polnocna, skladniki + waskie gardlo), od dzis.",
+   "uwaga_1018": "SLOWO PANA 10-18: karta racji CO TYDZIEN (cykliczne raporty), w racjach, z waskim gardlem. Pierwsza poza cyklem 10-18 (gra/karta_racji_300_10_18.md)."
   },
   {
    "id": "KARTA_THEONA",

@@ -424,3 +424,9 @@ Posłaniec: **Benno** (E), pisarz placówki Domu na Czarnym Zamku. Był u Aemona
 - **Wola Jojena** to osobna sprawa (rzut, kiedy ojciec mu powie). Meera nie wie.
 - **Słowo pana:** porozmawia z Jojenem, ale obawia się, że dzieci i tak zrobią, co chcą zrobić.
 - **Reed (O):** *„Wiem. Meera też. Ona pójdzie za nim wszędzie, nawet tam, gdzie ja nie mogę.”* Prosi, żeby pan rozmawiał z Jojenem **jutro, przed nim**, bo sam powie synowi po rozmowie z panem.
+
+## 300-10-16: JOJEN SŁYSZY OD PANA, ŻE OJCIEC CHCE GO ZABRAĆ DO SZAREJ WODY (galeria nad gajem; RZUT 18, pasma w rzuty.log)
+- **Jojen przyjmuje spokojnie i pojedzie z ojcem.** Słowa (O): *„Na bagnach woda kręci się w kółko. Ale w końcu zawsze spływa tam, gdzie ma spłynąć.”*
+- Wierzy, że sen i tak się spełni, *„tylko później”*. Nie kłóci się i nie prosi.
+- O Meerze (O): *„Meera pojedzie, gdzie ja.”*
+- To nadal zielony sen, a nie fakt świata. Wyjazd zależy od Reeda: przed głębokim śniegiem, przez Przesmyk i Fosę.

@@ -16617,7 +16617,7 @@
    "kanal": "osobiscie WF",
    "wraca": "300-10-16",
    "zamyka": "slowo pana + rozmowa Reeda z Jojenem (rzut)",
-   "status": "otwarte ### SLOWO PANA 10-15: porozmawia z Jojenem (jutro, przed ojcem - prosba Reeda); pan zastrzega: 'oni i tak zrobia, co chca'. Potem Reed mowi synowi (rzut na wole Jojena)."
+   "status": "zamkniete 300-10-16 ### Pan powiedzial Jojenowi (galeria, rano). JOJEN (rzut 18): przyjmuje spokojnie, pojedzie z ojcem; Meera z nim. Nowa pozycja: wyjazd Reedow. ### POPRZEDNIO: byl-otw ### SLOWO PANA 10-15: porozmawia z Jojenem (jutro, przed ojcem - prosba Reeda); pan zastrzega: 'oni i tak zrobia, co chca'. Potem Reed mowi synowi (rzut na wole Jojena)."
   },
   {
    "data": "300-10-15",
@@ -16626,6 +16626,15 @@
    "kanal": "kruk Domu WF-CZ (szyfr Domu) i z powrotem",
    "wraca": "300-10-18",
    "zamyka": "meldunek Benna (rzut przy odczycie)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-16",
+   "co": "WYJAZD REEDOW DO SZAREJ WODY (Howland, Jojen, Meera; Jojen zgodny - rzut 18): przed glebokim sniegiem, przez Przesmyk i Fose. Termin - slowo Reeda; przejazd przez lenno Fosy (gosciniec, eskorta, lodz Jastrzebi) - do slowa pana.",
+   "kto": "HOWLAND REED ; SYMON (Fosa: Garrick, Hendry)",
+   "kanal": "osobiscie WF; kruk WF-Fosa",
+   "wraca": "300-10-18",
+   "zamyka": "Reedowie wyjechali / data ustalona",
    "status": "otwarte"
   }
  ],

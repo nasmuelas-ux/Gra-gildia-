@@ -53,3 +53,5 @@
 - *„Mówiłam panu 10-11, co widziałam: czysty, na ile widać z zewnątrz. Listów nie czytałam. Teraz nie muszę. To on będzie czytał cudze.”*
 - O współpracy (zgodnie ze słowem pana z 09-17: mają współpracować): *„Wspólna skrzynka tu, w centrali, osobne izby. Jedno pytanie: ile on ma dostać ode mnie? Imiona szefów teatrów? Terenowych na pewno nie, terenowych nie znam nawet ja.”* **Do słowa pana.**
 - *„Kiedy chce pan, żebyśmy się poznali? Wolę, żeby to było tu i za pańskim słowem, a nie przypadkiem na schodach.”*
+- **SŁOWO PANA:** Aldwin dostaje od Willi **imiona szefów teatrów**. Terenowych nie dostaje. **Spotkanie Willi z Aldwinem jutro (10-15) tutaj, w centrali.**
+- **Willa (O):** *„Imiona podam mu ustnie, nie na papierze. Jutro po południu, kiedy czeladnik pójdzie po papier, będzie pusto. Niech przyjdzie jako pisarz po oprawę ksiąg kancelarii, to nikogo nie zdziwi.”*

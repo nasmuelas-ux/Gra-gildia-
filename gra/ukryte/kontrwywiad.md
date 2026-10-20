@@ -38,3 +38,9 @@
 - O priorytecie: *„Północ najpierw, jak pan mówił. Z tej listy na zimę biorę Biały Port i Cailin, bo tam wyciekło. Reszta to na razie tylko nazwy, póki nie wiem, kto tam siedzi.”*
 - Pyta: *„Kiedy pani Willa się o mnie dowie? Bez niej teatry są dla mnie ślepe. Nie chcę sprawdzać ludzi, których szefowa nie wie, że ktoś patrzy.”*
 - **Imion szefów teatrów nie dostał.** Poda je Willa, kiedy pan jej powie, kto jest szefem kontrwywiadu.
+- **Pan pali kartkę przy Aldwinie.** Mówi, że Willa dowie się dziś.
+- **SŁOWO PANA (sugestia, modelem wywiadu):** kontrwywiad powołuje własne **centra operacyjne**. Tam analizuje, sprawdza i zatrudnia.
+- **ALDWIN (bez rzutu; O):**
+  - *„Tak. Tak samo jak u pani Willi: w centrum tylko ja i ci, którzy składają obraz. Ci, którzy chodzą i patrzą, nie wiedzą, gdzie ono jest.”*
+  - Jedno pytanie, bo dotyczy wcześniejszego słowa pana (09-25: centrala w ZM, Willa i kontrwywiad pod jednym dachem, osobne izby): *„Czy moje centrum ma być pod tym samym dachem co pani Willa, czy osobno? Pod jednym dachem łatwiej o wspólną skrzynkę. Osobno, jak jedno spłonie, drugie stoi.”* **Do słowa pana.**
+  - Kolejność (O): najpierw jedno centrum na Północy, potem następne tam, gdzie wyciekło (Biały Port, Cailin). Koszt i ludzi dopisze do karty potrzeb (~10-18).

@@ -16122,7 +16122,7 @@
    "kanal": "osobiscie, WF",
    "wraca": "300-10-10",
    "zamyka": "lekcja odbyta",
-   "status": "otwarte ### 300-10-07 SLOWO PANA: ZGODA - lekcja pt 10-10; powtorka: sztych, rownowaga; zadanie: ARYA - jedno pytanie po braavosku do Talva i odpowiedz na lekcje; SANSA - 3 zdania 'krok to krok' (taniec dworski a taniec wody). Forma czesci nowej - do slowa pana przy lekcji. ### 300-10-10 CZESC 1 - RZUT 68 DOBRZE: rownowaga obie, sztych Arya (Sansa po przykladzie); Arya-Talvo: 'Czy mistrz wody sie boi?' - 'Kazdy sie boi. Mistrz wie, kiedy sie bac, a kiedy juz nie ma czasu.'; Sansa 3 zdania czysto (gra/braavoski_lekcja_23_300_10_10.md). Reszta lekcji - do slowa pana."
+   "status": "zamkniete 300-10-10 ### LEKCJA 23 ODBYTA: cz.1 zadanie RZUT 68 dobrze; cz.2 temat pana 'STRACH' (od zdania Talva) RZUT 35 dobrze na krawedzi - 8/12 slow (bez: drzec, blady, kolano, spokojny); Arya o strachu tylko przez miecz, Sansa ogolnie i milknie; pan nie naciska. ### POPRZEDNIO: byl-otw ### 300-10-07 SLOWO PANA: ZGODA - lekcja pt 10-10; powtorka: sztych, rownowaga; zadanie: ARYA - jedno pytanie po braavosku do Talva i odpowiedz na lekcje; SANSA - 3 zdania 'krok to krok' (taniec dworski a taniec wody). Forma czesci nowej - do slowa pana przy lekcji. ### 300-10-10 CZESC 1 - RZUT 68 DOBRZE: rownowaga obie, sztych Arya (Sansa po przykladzie); Arya-Talvo: 'Czy mistrz wody sie boi?' - 'Kazdy sie boi. Mistrz wie, kiedy sie bac, a kiedy juz nie ma czasu.'; Sansa 3 zdania czysto (gra/braavoski_lekcja_23_300_10_10.md). Reszta lekcji - do slowa pana."
   },
   {
    "data": "300-10-07",
@@ -16257,6 +16257,15 @@
    "kanal": "osobiscie, WF",
    "wraca": "300-10-13",
    "zamyka": "nauka odbyta",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-10",
+   "co": "BRAAVOSKI - LEKCJA 24 (wt 10-14): forma, temat i zadanie - do slowa pana. Do powtorki: drzec, blady, kolano, spokojny. Propozycja GM (O): zadanie lekkie - kazda przeklada zdanie Talva na wlasne slowa + jedno zdanie 'Kiedy sie boje, ...' (bez naciskania, mozna o kims z bajki).",
+   "kto": "SYMON, SANSA, ARYA",
+   "kanal": "osobiscie, WF",
+   "wraca": "300-10-14",
+   "zamyka": "lekcja odbyta",
    "status": "otwarte"
   }
  ],

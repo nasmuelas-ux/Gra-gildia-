@@ -12,3 +12,21 @@
   2. *„W tańcu wody tańczy się dla tego, który atakuje.”*
   3. *„W obu krok musi być na czas, bo inaczej ktoś się przewróci.”*
 - Arya przy trzecim zdaniu (O): *„To jest dobre.”* Mówi to po braavosku i bez złośliwości.
+
+## CZĘŚĆ 2: TEMAT „STRACH” (słowo pana, od zdania Talva). RZUT 35 (próg 35): DOBRZE, na samej krawędzi
+*Bez przygotowanego tekstu. Pan prowadzi rozmowę z głowy. Słowa to E.*
+
+**Słowa (12):**
+| grupa | słowa |
+|---|---|
+| 1. Strach | strach, drżeć, blady, krzyczeć |
+| 2. Ciało | serce, oddech, ręka, kolano |
+| 3. Przeciw strachowi | odwaga, zostać, spokojny, cisza |
+
+- **Weszło 8 z 12.** Nie weszły: drżeć, blady, kolano, spokojny.
+- **Rozmowa idzie ciężko, ale idzie.** Obie mówią po braavosku, tylko ostrożnie.
+- **Arya:** o strachu mówi tylko przez miecz: *„Kiedy ręka drży, sztych idzie źle.”* O niczym innym nie chce.
+- **Sansa:** mówi ogólnie, jakby o kimś obcym: *„Ludzie boją się ciszy na dworze bardziej niż krzyku.”* Potem milknie i patrzy w okno. Pan nie naciska.
+- Lekcja kończy się spokojnie, bez kłótni. Obie wychodzą razem.
+
+## LEKCJA 23: ZAMKNIĘTA. Zadanie na 24 (wt 10-14): do słowa pana

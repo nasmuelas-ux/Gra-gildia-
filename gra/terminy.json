@@ -15571,9 +15571,9 @@
    "co": "SZYFROWANIE LISTOW WEWNETRZNYCH KORONY (slowo pana 09-25, rada Luwina): (1) szyfr Korony TYLKO do wezlow z czlowiekiem Korony pod przysiega - Dustinport, Kamienny Brzeg, Przystan Wilka, Cypel, faktor Krolewski w BP ORAZ KOMORY CELNE; do lordow i ich maestrow - listy jawne; przewoznik - siec krukow Korony (Ulla Kora), krucznicy z przysiega, bez lancucha; (2) OSOBNY KLUCZ WOJSKOWY w kancelarii Namiestnika; (3) LUWIN uklada metode i uczy pisarzy wezlow, kluczy NIE trzyma. Klucze z reki do reki, zmiana co kwartal (zasada 09-25). Wlasni - bez rzutu.",
    "kto": "LUWIN (metoda, nauka) ; kancelaria Namiestnika (klucz wojskowy) ; pisarze wezlow i komor",
    "kanal": "WF; klucze kurierem z reki do reki",
-   "wraca": "300-10-17",
+   "wraca": "300-11-20",
    "zamyka": "metoda gotowa, pierwsi pisarze nauczeni, klucze wreczone",
-   "status": "otwarte ### 300-10-15 w toku (Luwin, wlasny) - stan przy lekcji HV 10-17. ### 300-10-17 stan przy lekcji HV dzis wieczorem."
+   "status": "otwarte ### 300-10-15 w toku (Luwin, wlasny) - stan przy lekcji HV 10-17. ### 300-10-17 stan przy lekcji HV dzis wieczorem. ### 10-17 LUWIN: metoda gotowa; nauczeni pisarz kancelarii WF i faktor krolewski BP, klucze wreczone; reszta wezlow - kurier z reki do reki w XI."
   },
   {
    "data": "300-09-26",
@@ -16554,7 +16554,7 @@
    "kanal": "osobiscie, WF",
    "wraca": "300-10-17",
    "zamyka": "lekcja 26 HV odbyta",
-   "status": "otwarte"
+   "status": "zamkniete 300-10-17 ### Lekcja 26 odbyta (gra/hv_lekcja_26_300_10_17.md): zadanie 6/6; nowy material rzut 47. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-10-15",

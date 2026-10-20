@@ -16334,11 +16334,11 @@
   {
    "data": "300-10-10",
    "co": "SZKOLA PISARZY KORONY DLA DOROSLYCH - MIESIACE ZIMOWE (slowo pana 10-10, Mala Rada): 20 miejsc, z tego 5 dla pisarzy uczacych sie braavoskiego. Do Rady 10-24: kto prowadzi (propozycje: Luwin - nadzor, Owen - litery, Beron/izba uczniowska - rachunek i kancelaria; braavoski - Ferrego Lanthas od XII, potem pisarze-nauczyciele z Braavos), gdzie (szkola ZM wieczorami, E), nabor (kto moze przyjsc), koszt (Gawen, Kasa 3). Wlasni - bez rzutu; odzew ludzi na nabor - rzut.",
-   "kto": "LUWIN ; GAWEN ; EDRIC (miejsce, ZM) ; OWEN ; BERON",
+   "kto": "MIRA (prowadzi) ; OWEN ; BERON ; GAWEN ; EDRIC",
    "kanal": "osobiscie, WF/ZM",
    "wraca": "300-10-24",
    "zamyka": "plan szkoly na stole Rady (prowadzacy, miejsce, nabor, koszt)",
-   "status": "otwarte ### 300-10-13 PAN pyta MIRE o pomysl (slowo pana: 'nie zaplanowalem tego'). MIRA (O) proponuje: SAMA prowadzi (nabor, plan, nauczyciele) - jest w WF na zime; wieczory w szkole ZM; litery - Owen (jesli zechce) albo nauczyciel z seminarium Fosy; rachunek i kancelaria - najlepsi z izby uczniowskiej Berona; braavoski - Ferrego od XII; nabor: dorosli z ZM i domeny, ktorzy umieja cos liczyc - pierwszenstwo wdowy z listy Krolowej i ludzie Konserwy. Do slowa pana."
+   "status": "otwarte ### 300-10-13 PAN pyta MIRE o pomysl (slowo pana: 'nie zaplanowalem tego'). MIRA (O) proponuje: SAMA prowadzi (nabor, plan, nauczyciele) - jest w WF na zime; wieczory w szkole ZM; litery - Owen (jesli zechce) albo nauczyciel z seminarium Fosy; rachunek i kancelaria - najlepsi z izby uczniowskiej Berona; braavoski - Ferrego od XII; nabor: dorosli z ZM i domeny, ktorzy umieja cos liczyc - pierwszenstwo wdowy z listy Krolowej i ludzie Konserwy. Do slowa pana. ### 300-10-13 SLOWO PANA: 'wedle twoich wytycznych' - SZKOLE PROWADZI MIRA wg swojego planu (wieczory w szkole ZM; litery - Owen albo nauczyciel z seminarium Fosy; rachunek - izba Berona; braavoski - Ferrego od XII; nabor - pierwszenstwo wdowy z listy Krolowej i ludzie Konserwy). Start - pierwsze wieczory XI (E). Owen - Mira pyta go sama (wola Owena - rzut przy rozmowie). Koszt (swiece, opal, place nauczycieli) - Gawen na Rade 10-24."
   },
   {
    "data": "300-10-10",
@@ -16437,7 +16437,7 @@
    "kanal": "osobiscie, WF",
    "wraca": "300-10-14",
    "zamyka": "straz dzienna stoi",
-   "status": "otwarte"
+   "status": "zamkniete 300-10-13 ### SLOWO GRACZA (fakt swiata): SZARE PLASZCZE pilnuja komnat NON STOP zgodnie z ich wytycznymi - osobnej strazy dziennej nie trzeba. ### POPRZEDNIO: byl-otw"
   }
  ],
  "_dopiski_300_03_18": [

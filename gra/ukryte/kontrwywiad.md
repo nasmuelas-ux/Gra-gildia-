@@ -55,3 +55,10 @@
 - *„Kiedy chce pan, żebyśmy się poznali? Wolę, żeby to było tu i za pańskim słowem, a nie przypadkiem na schodach.”*
 - **SŁOWO PANA:** Aldwin dostaje od Willi **imiona szefów teatrów**. Terenowych nie dostaje. **Spotkanie Willi z Aldwinem jutro (10-15) tutaj, w centrali.**
 - **Willa (O):** *„Imiona podam mu ustnie, nie na papierze. Jutro po południu, kiedy czeladnik pójdzie po papier, będzie pusto. Niech przyjdzie jako pisarz po oprawę ksiąg kancelarii, to nikogo nie zdziwi.”*
+
+## 300-10-14, popołudnie, ZM (izby Lucana): PAN MÓWI LUCANOWI, ŻE ALDWIN JEST SZEFEM KONTRWYWIADU
+**Lucan (bez rzutu; O):**
+- *„Pisarz, który otwiera pańskie listy.”* Kiwa głową powoli. *„Dobry wybór na takie miejsce. Ma powód, żeby wszystko czytać, i nikt się nie dziwi.”*
+- *„Rozumiem, że będzie sprawdzał też mnie. Niech sprawdza. Wolę, żeby ktoś to robił porządnie, niż żeby pan musiał zgadywać.”*
+- O Domu: *„Ode mnie dostanie, czego będzie chciał z ksiąg Domu, ale tylko za pańskim słowem i tylko przez pana albo przez skrzynkę u Willi. Nie chcę, żeby pisarz pana bywał u mnie w izbie. To by zauważono.”*
+- **Willa i Lucan wiedzą.** Pozycja zamknięta.

@@ -15562,9 +15562,9 @@
    "co": "ZDOLNOSC SABOTAZU (slowo pana 09-25): mala osobna grupa, nigdy z teatru, ktory slucha w tym samym miejscu; dziala wylacznie na ustne slowo pana (jak eliminacja); uzywac rzadko. Willa - zasady i pierwszy kandydat na prowadzacego. Koszt od sprawy (sakiewka).",
    "kto": "WILLA ; SYMON",
    "kanal": "osobiscie ZM",
-   "wraca": "300-10-12",
+   "wraca": "300-11-28",
    "zamyka": "zasady i prowadzacy grupy",
-   "status": "otwarte ### 300-10-10: POZA RADA (wywiad/Dom) - meldunki Willi na spotkaniu w ZM; dzien do slowa pana (trakt odkopywany)."
+   "status": "otwarte ### 300-10-10: POZA RADA (wywiad/Dom) - meldunki Willi na spotkaniu w ZM; dzien do slowa pana (trakt odkopywany). ### 300-10-11 SLOWO PANA: W KAZDYM CENTRUM OPERACYJNYM ktos, kto potrafi (a) podburzyc wiesniakow, (b) zorganizowac grupe dywersyjna itd. WILLA (O): zgoda; dzialanie TYLKO na slowo pana; zasada z 09-25 zostaje - czlowiek 'obok', nie z komorki, ktora slucha; tacy ludzie to rzadkosc (dawni zolnierze, kaznodzieje, przemytnicy) - nabor do wiosny, lista na stol pana; koszt E w sakiewce."
   },
   {
    "data": "300-09-25",
@@ -15976,9 +15976,9 @@
    "co": "TORVALD - COMIESIECZNA SAKIEWKA DO DOMU PRZY ULICZCE POWROZNIKOW W BP (meldunek Stena 10-05, rzut 6): czyj dom, za co. Prawda - RZUT przy dzialaniu (pasma przed rzutem). Do slowa pana: zapytac wprost, sprawdzic dalej (Willa/kontrwywiad), czy odlozyc oferte szefa bezpieczenstwa.",
    "kto": "WILLA (przez Aldwina)",
    "kanal": "osobiscie",
-   "wraca": "300-10-11",
+   "wraca": "300-10-14",
    "zamyka": "meldunek Willi: czyj dom i za co",
-   "status": "otwarte ### 300-10-05 SLOWO PANA: NIECH WILLA GO SPRAWDZI (czyj dom przy Uliczce Powroznikow, za co). Kartka pana przez Aldwina do rak wlasnych. Oferta szefa bezpieczenstwa - wstrzymana do wyniku. Wynik - RZUT przy meldunku Willi (pasma przed rzutem). ### 300-10-11 MELDUNEK WILLI - RZUT 14: dom wdowy z dwojgiem dzieci (ksiegi cechu sieciarzy, E); Torvald raz w miesiacu, krotko; do wdowy zachodza ludzie z portu - Willa PODEJRZEWA SKRZYNKE KONTAKTOWA, bez dowodu; 'na szefa bezpieczenstwa Domu bym go teraz nie brala'. Do slowa pana."
+   "status": "otwarte ### 300-10-05 SLOWO PANA: NIECH WILLA GO SPRAWDZI (czyj dom przy Uliczce Powroznikow, za co). Kartka pana przez Aldwina do rak wlasnych. Oferta szefa bezpieczenstwa - wstrzymana do wyniku. Wynik - RZUT przy meldunku Willi (pasma przed rzutem). ### 300-10-11 MELDUNEK WILLI - RZUT 14: dom wdowy z dwojgiem dzieci (ksiegi cechu sieciarzy, E); Torvald raz w miesiacu, krotko; do wdowy zachodza ludzie z portu - Willa PODEJRZEWA SKRZYNKE KONTAKTOWA, bez dowodu; 'na szefa bezpieczenstwa Domu bym go teraz nie brala'. Do slowa pana. ### 300-10-11 SLOWO PANA: 'SAM POROZMAWIAM.' Torvald jest w BP - zaproszenie do WF listem przez Hala ('w sprawie Domu', bez powodu); oferta szefa bezpieczenstwa wstrzymana do rozmowy. Przyjazd - wola Torvalda (rzut przy odpowiedzi ~10-14), w WF ~10-18..20 (E)."
   },
   {
    "data": "300-10-05",
@@ -16365,6 +16365,15 @@
    "kanal": "osobiscie ZM",
    "wraca": "300-11-11",
    "zamyka": "meldunek Willi (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-11",
+   "co": "PAN - ROZMOWA Z PISARZEM (ALDWINEM) - slowo pana 10-11 po meldunku Willi (sprawdzenie 'pisarza pana': nic pewnego). Pan sam, w WF. Takze: jego rownolegle sprawdzenie Torvalda przez Hollisa (zlecenie 09-16) - stan.",
+   "kto": "SYMON -> ALDWIN",
+   "kanal": "osobiscie, WF",
+   "wraca": "300-10-11",
+   "zamyka": "rozmowa odbyta",
    "status": "otwarte"
   }
  ],

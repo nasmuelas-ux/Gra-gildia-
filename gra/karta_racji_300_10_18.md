@@ -26,3 +26,13 @@
 - **Osadnicy Sigrun (~70 dusz) nie są w gębach.** Dostali osobno 115 korcy z zapasu Korony przez Dustinport (09-25), co ma wystarczyć na ~7 tygodni, czyli **do ~połowy XI**. W karcie te 115 korcy jest już odjęte.
 - **Ryba i tłuszcz** na brzegu: rybacy mają swój śledź (E). Zboża mają tylko tyle, ile poszło.
 - **Orland (O):** *„Brzeg liczę dwa razy: garnizon w gębach, osadników osobno. Kłopot jest jeden: po połowie listopada osadnicy Sigrun nie mają z czego żyć, a w grudniu łodzią z Dustinportu już się tam może nie dać dopłynąć. Druga partia musi pójść przed lodem.”* Pozycja „Kamienny Brzeg, dowóz zapasu przed lodem” (09-25) jest w toku. Ile i kiedy w drugiej partii, do słowa pana.
+
+**Pytanie pana: czy Spichlerz uwzględnia Mur?** Orland (z zapisu i E):
+- **Ludzi Straży (~524, ~340 zdatnych) nie ma w ~1 275 gębach Korony.** Straż ma własne spiżarnie, a Korona ją wspiera.
+- **Co Korona daje Murowi (Z):**
+  - **zboże w naturze z danin lordów** („zboże na Mur nie do spieniężania”), kolumnami od lata (Umber 06-20). Benno 10-18: *„zboże Korony dochodzi”*;
+  - **żyto ozime dla Daru** (40 korcy, 09-19);
+  - **beczki zimowe:** Straż zamówiła i płaci, 75 w XII i 75 w I kosztem Spichlerza (Spichlerz 800 → ~580);
+  - **pemikan** (~5 t w zapasie, „Mur i wojsko”).
+- **Czego nie ma:** **ile dni zapasu ma sam Mur.** Tego nikt Orlandowi nie podał. Spichlerz nie ma też osobnej przegrody „na Mur zimą”.
+- **Orland (O):** *„Gawen mówi, że Spichlerz karmi dziurę, a Mur to pierwsza dziura zimą. Ale ja nie umiem policzyć dziury, której nie widzę. Niech poseł Hallis przyśle stan spiżarni Straży w racjach, po mojemu: zboże, ryba, kiszonka, tłuszcz. Wtedy dopiszę Mur jako osobną rubrykę i powiem, ile trzymać na niego w przegrodzie.”* **Do słowa pana.**

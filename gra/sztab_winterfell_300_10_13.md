@@ -36,3 +36,28 @@
 ## SŁOWO PANA 10-13: SZEFOWIE ODDZIAŁÓW TO MUSZĄ BYĆ ŻOŁNIERZE
 - Propozycje obsady oddziałów 4–6 (Orland, Gawen, Orwyl, Luwin, Orbelo) **odpadają jako szefowie.** Cywile zostają przy oddziałach jako specjaliści i wykonawcy pod żołnierzem.
 - **Brynden (O):** *„Słusznie. Rozkaz wydaje ten, kto za niego ginie. Maester ma liczyć kruki, a nie decydować, który poleci pierwszy.”* Żołnierzy z głową do liczenia jest jednak mało. Rodrik zna każdego sierżanta w garnizonie. Brynden proponuje: **Rodrik i Brynden wskażą szefów oddziałów 1, 2 i 4–6 spośród sierżantów, weteranów i absolwentów Akademii.** Imiona na Radę 10-24, potrzebna zgoda pana.
+
+## OBSADA LICZBOWA: SZACUNEK BRYNDENA (10-13; O, liczby E, czas pokoju, sztab w WF)
+| część | żołnierze | cywile |
+|---|---|---|
+| Dowództwo: szef sztabu, adiutant, 2 gońcy | 4 | — |
+| 1. Organizacja i ewidencja | szef + 1 podoficer | 2 pisarzy (rozpiska, spisy, żołd) |
+| 2. Wywiad i ochrona | szef + 2 (zwiad, jeńcy) + warta sztabu ~8 | — |
+| 3. Operacyjny | szef + 2 oficerów | 1 rysownik map |
+| 4. Logistyka i zapas | szef (kwatermistrz) + 2 podoficerów | 3–4 (magazynierzy, pisarz racji; ludzie Orlanda) |
+| 5. Łączność i poczta | szef + 6 sygnalistów + 4 gońców konnych | 1 kruczarz (od Luwina) |
+| 6. Inżynieria i machiny | szef + 2 podoficerów | cieśle i kowale na wezwanie |
+| **SZTAB RAZEM** | **~38** | **~8** (+ rzemieślnicy na wezwanie) |
+
+**CYWILE DLA CAŁEGO WOJSKA (~550):**
+- **W pokoju** ~1 cywil na 8–10 żołnierzy, czyli **55–70**:
+  - kucharze;
+  - kowale i płatnerz;
+  - rymarz i szewc;
+  - praczki;
+  - magazynierzy;
+  - pisarze żołdu;
+  - opatrywacze (część z kursu Luwina);
+  - stajenni.
+- **Na wojnie** tabor rośnie do 1 cywila na 4–5 ludzi, bo dochodzą woźnice, kucharze w polu, kowale polowi i cieśle.
+- **Koszt** liczy Gawen. Brynden (O): *„Cywil kosztuje mniej niż żołnierz, ale jeść chce tak samo.”*

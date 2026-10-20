@@ -16825,6 +16825,15 @@
    "wraca": "300-10-26",
    "zamyka": "karta komor od Gartha u Gawena",
    "status": "otwarte"
+  },
+  {
+   "data": "300-10-18",
+   "co": "REFORMA SLUZBY CELNEJ KORONY (slowo pana 10-18; gra/cla_i_komory_stan_300_10_18.md cz. 6): (1) mapa wszystkich punktow handlu zewnetrznego, takze zachod; (2) zbrojni celnicy - 'straz komory' 3-5 przy komorze z garnizonow (sztab/Rodrik), w barwach Korony; (3) siedziby komor (do majatku funkcyjnego); (4) jedna ksiega celna, kwit z odcinkiem, meldunek miesieczny, rewizja kwartalna; (5) komory jako wezly sieci krukow Korony (Ulla Kora) + golebniki/kurier celny, szyfr w XI. KOSZTORYS - Gawen + Garth + sztab na Rade 10-24; potem do Krola. Boltonsgate - komora z nakazu Krola (umowa z nadania 04-29). Wlasni - bez rzutu.",
+   "kto": "GAWEN ; GARTH ; RODRIK (sztab) ; ULLA KORA",
+   "kanal": "WF; kruk do Gartha",
+   "wraca": "300-10-24",
+   "zamyka": "kosztorys reformy na Radzie",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

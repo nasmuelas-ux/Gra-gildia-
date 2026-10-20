@@ -44,3 +44,28 @@
 - **Propozycja, do słowa pana:**
   - **(a)** pytanie do Króla w rachunku regencji: komora w Boltonsgate od dziś, bez czekania na „otwarcie portu”, bo przystań już działa;
   - **(b)** jeszcze przed Królem posłać pisarza komory z listem Korony. Gawen ostrzega: *„Lord Bolton może go nie wpuścić. A wtedy mamy odmowę na piśmie przed powrotem Króla. Wolałbym, żeby to Król zapytał.”*
+
+## 6. SŁOWO PANA 10-18
+- **Boltonsgate: (a).** Komorę nakazuje Król. *„Taka była umowa”*: komora Korony przy nadaniu z 04-29. Pytanie do rachunku regencji.
+- **REFORMA SŁUŻBY CELNEJ (słowo pana):**
+  1. **Mapa wszystkich punktów handlu zewnętrznego**, także na zachodzie.
+  2. **Zbrojni celnicy.** Komora ma być widoczna jako siła Korony.
+  3. **Siedziby komór.**
+  4. **Sprawniejsza administracja.**
+  5. **Własna sieć łączności.**
+
+**Gawen (O, bez rzutu), jak to rozpisze:**
+1. **Mapa punktów.** Garth w swojej karcie (~10-26), do tego kasztelanowie brzegu i Orland ze składów. Wstępna lista Gawena z zapisu i E:
+   - **zachód:** Dustinport (jest), Kamienny Brzeg i Starkport (nie ma; port w budowie), Cypel Morskiego Smoka (przystań Vemunda, handel z wolnymi ludźmi), Palec Flintów i Wyspa Niedźwiedzia (przystanie lordów; *„do sprawdzenia, czy przybija tam obcy statek”*), ujście Gorączki i Gorący Port (zboże z Reach; pod komorą Fosy);
+   - **wschód:** Biały Port (jest, ale patrzy), Karport (jest), Boltonsgate (Król), Przystań Wilka (bez komory);
+   - **lądem:** Fosa i Przesmyk (jest), odnoga do Bliźniąt (szlaban Freya; myto, nie cło), Mur i Cypel (wymiana z wolnymi ludźmi).
+2. **Zbrojni celnicy: „straż komory”.** Ludzi daje sztab (Rodrik, Oddział 1), z garnizonów, **3–5 przy każdej komorze**, w barwach Korony, a nie w szarych płaszczach (te są pańskie). Żołd liczy Gawen ze sztabem. Zasada Gawena: *„Celnik pisze, zbrojny stoi. Nigdy jeden człowiek do obu, bo zbrojny, który pisze, zaczyna liczyć dla siebie.”*
+3. **Siedziby:** budynek komory w każdym punkcie, czyli waga, skład pod kluczem, izba pisarza, izba straży i znak Korony nad drzwiami. Tam, gdzie się da, w budowlach już stojących. Wpisać do majątku funkcyjnego Korony.
+4. **Administracja:**
+   - jedna księga celna dla wszystkich komór (ten sam wzór, numerowana, szyta);
+   - kwit z odcinkiem;
+   - meldunek miesięczny do Skarbu;
+   - rewizja raz na kwartał przez Gartha albo człowieka z izby uczniowskiej.
+5. **Łączność:** komory jako **węzły sieci kruków Korony.** Fosa, Dustinport, BP i Kamienny Brzeg już są w etapie I (Ulla Kora). Reszta komór dostanie gołębniki albo kuriera celnego. Szyfr Korony w XI.
+- **Kosztorys całej reformy:** Gawen z Garthem i sztabem **na Radę 10-24**, potem do Króla razem z rachunkiem regencji.
+- **Gawen (O):** *„Komora bez miecza to prośba. Komora z mieczem, ale bez księgi, to rozbój. Trzeba obu, i jeszcze kruka, żeby się dało sprawdzić jedno i drugie.”*

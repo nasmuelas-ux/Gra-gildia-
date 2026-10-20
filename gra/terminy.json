@@ -11197,9 +11197,9 @@
    "co": "POMYSL (pan, 07-30): ZWIAZAC THEONA GREYJOYA Z POLNOCA PRZEZ MALZENSTWO. Odczyt Catelyn: sens, jesli Theon nie siadzie na Pyke (inaczej corka lorda to zakladniczka na wyspach); domy mozliwe - Gloverowie albo Tallhartowie (corki male - zareczyny, nie slub); NIE Mormontowie ani Umberowie; Theon musi chciec ('tylko to, co wyglada jak wybor'); zapytac Robba. NIC NIE POSTANOWIONE - pomysl zachowany. Okazja: Theon w Winterfell ~08-07.",
    "kto": "KROL (rozmowa z Theonem ~08-07) ; SYMON (pomysl) - po IX",
    "kanal": "osobiscie",
-   "wraca": "300-10-13",
+   "wraca": "300-10-24",
    "zamyka": "rozmowa z Krolem o Theonie albo pomysl odlozony",
-   "status": "otwarte ### 07-31 KROL (rzut 30 - jedna konsekwencja): TAK co do kierunku, NIE TERAZ - zareczyny syna Balona z corka lorda zachodu w roku, gdy zelazni licza brzeg, Pyke przeczyta jako zabranie syna na zawsze (moze przyspieszyc uderzenie); po jesieni (koniec IX). ~08-07 KROL rozmawia z Theonem SAM, jak przyjaciel, bez propozycji - wybada, czego Theon chce. ### 08-07 RANEK: KROL W DRODZE (barka do BP 08-06, potem morze) - rozmowa Krola z Theonem w WF NIE MOZE SIE ODBYC. Pomysl stoi (po IX); czy pan przejmuje rozmowe \"jak przyjaciel\" bez propozycji - do slowa pana. ### 08-07 SLOWO PANA: rozmowe CELOWA z Theonem (czego chce, przyszlosc) prowadzi KROL - po powrocie; pan rozmawia z Theonem tylko ogolnie, jak sie ma. OBIETNICA 300-02-17 (obietnica wiadomosci: \"jesli bedzie rzecz, ktorej nie wolno mi powiedziec - powiem, ze jest i ze nie wolno\") - w mocy. ### 08-07 PRZY TARCZACH: pan do Theona - \"Nic nie jest postanowione. Zastanawialismy sie z Robbem, czy nie jestes samotny.\" Theon czyta to jako mozliwy ozenek; prosi: jesli kiedys - wiedziec PIERWSZY i moc powiedziec NIE. Obietnica z 02-17 dotrzymana. ### 300-09-30 Krol na Skagos - rozmowa po powrocie Krola (zwiad ~10-08)."
+   "status": "otwarte ### 07-31 KROL (rzut 30 - jedna konsekwencja): TAK co do kierunku, NIE TERAZ - zareczyny syna Balona z corka lorda zachodu w roku, gdy zelazni licza brzeg, Pyke przeczyta jako zabranie syna na zawsze (moze przyspieszyc uderzenie); po jesieni (koniec IX). ~08-07 KROL rozmawia z Theonem SAM, jak przyjaciel, bez propozycji - wybada, czego Theon chce. ### 08-07 RANEK: KROL W DRODZE (barka do BP 08-06, potem morze) - rozmowa Krola z Theonem w WF NIE MOZE SIE ODBYC. Pomysl stoi (po IX); czy pan przejmuje rozmowe \"jak przyjaciel\" bez propozycji - do slowa pana. ### 08-07 SLOWO PANA: rozmowe CELOWA z Theonem (czego chce, przyszlosc) prowadzi KROL - po powrocie; pan rozmawia z Theonem tylko ogolnie, jak sie ma. OBIETNICA 300-02-17 (obietnica wiadomosci: \"jesli bedzie rzecz, ktorej nie wolno mi powiedziec - powiem, ze jest i ze nie wolno\") - w mocy. ### 08-07 PRZY TARCZACH: pan do Theona - \"Nic nie jest postanowione. Zastanawialismy sie z Robbem, czy nie jestes samotny.\" Theon czyta to jako mozliwy ozenek; prosi: jesli kiedys - wiedziec PIERWSZY i moc powiedziec NIE. Obietnica z 02-17 dotrzymana. ### 300-09-30 Krol na Skagos - rozmowa po powrocie Krola (zwiad ~10-08). ### 300-10-13: rozmowa z Krolem po powrocie."
   },
   {
    "data": "300-07-30",
@@ -11674,9 +11674,9 @@
    "co": "KSIEGA MILCZENIA (slowo pana 08-03, rada Sansy; gra/ksiega_milczenia.md): Beron - czesc Korony, przeglad CO PONIEDZIALEK, zmiany rytmu do pana; Lucan - czesc Domu; Willa - rubryka POSLANCY POLUDNIA od karty 09-01 (liczyc poslancow, nie czytac listow). Cykl tygodniowy - po kazdym przegladzie: python3 gra/dzien.py odebrane ID DATA.",
    "kto": "BERON ; LUCAN ; WILLA",
    "kanal": "kancelaria WF; kruk WF-Fosa 08-04",
-   "wraca": "300-10-13",
+   "wraca": "300-10-20",
    "zamyka": "cykl staly - nie zamyka sie (filar); kazdy poniedzialek przeglad",
-   "status": "otwarte - cykl ### 08-11: przeglad poniedzialkowy Berona: bez zmian rytmu - Dolina milczy jak dotad (Gulltown odlozone), Dreadfort - bez odpowiedzi na pytanie Krola (~08-14). Nastepny przeglad 08-18. ### 08-18 przeglad Berona: bez zmian rytmu; Dolina milczy; Dreadfort - odpowiedzial list Krola. Nastepny 08-25. ### 08-25 (poczta_300_08_25.md): przeglad Berona 08-25: rytm bez zmian; Dolina milczy; Dreadfort - tylko listy Krola. Nastepny 09-01. ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych). ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe. ### 09-10: przeglad Berona 09-08 - rytm bez zmian; Dolina milczy; Dreadfort: listy Krola + chlodny list Roose'a (09-05). Nastepny 09-15. ### 09-15 przeglad Berona (ksiega_milczenia.md): Dustin blizej (szybciej, cieplej), Mormont dalej (ton ostrzejszy), Bolton szybciej tam, gdzie tanio (karty lodzi przez jego maestra - nowa droga pisma); Edmure cieplej do siostry; Dolina, Tyrion, Mance - bez zmian. Nastepny 09-22. ### 09-22 przeglad Berona (ksiega_milczenia.md): Krol - 28 dni ciszy; Wyman szybko dla Korony, chlodno dla Domu; Aemon cieplej; Davos w rytmie; BOLTON MILCZY w tygodniu wiesci o flocie syna (sygnal). Nastepny 09-29. ### 300-09-29 TRIAZ: PRZEGLAD ODBYTY (ksiega_milczenia.md, 09-29): Bolton - listy nic, karty maestra jak zawsze; Aemon gorzej; Wyman zawsze z warunkiem. Nastepny 10-06. ### 300-10-06 PRZEGLAD BERONA (gra/poczta_300_10_06.md D): Bolton - milczy wobec Namiestnika, Walda odpisala Krolowej; karty lodzi IX/VIII - rzut 56, zwykla roznica; Aemon lepiej; Wyman szybko z warunkami. Nastepny 10-13."
+   "status": "otwarte - cykl ### 08-11: przeglad poniedzialkowy Berona: bez zmian rytmu - Dolina milczy jak dotad (Gulltown odlozone), Dreadfort - bez odpowiedzi na pytanie Krola (~08-14). Nastepny przeglad 08-18. ### 08-18 przeglad Berona: bez zmian rytmu; Dolina milczy; Dreadfort - odpowiedzial list Krola. Nastepny 08-25. ### 08-25 (poczta_300_08_25.md): przeglad Berona 08-25: rytm bez zmian; Dolina milczy; Dreadfort - tylko listy Krola. Nastepny 09-01. ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych). ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe. ### 09-10: przeglad Berona 09-08 - rytm bez zmian; Dolina milczy; Dreadfort: listy Krola + chlodny list Roose'a (09-05). Nastepny 09-15. ### 09-15 przeglad Berona (ksiega_milczenia.md): Dustin blizej (szybciej, cieplej), Mormont dalej (ton ostrzejszy), Bolton szybciej tam, gdzie tanio (karty lodzi przez jego maestra - nowa droga pisma); Edmure cieplej do siostry; Dolina, Tyrion, Mance - bez zmian. Nastepny 09-22. ### 09-22 przeglad Berona (ksiega_milczenia.md): Krol - 28 dni ciszy; Wyman szybko dla Korony, chlodno dla Domu; Aemon cieplej; Davos w rytmie; BOLTON MILCZY w tygodniu wiesci o flocie syna (sygnal). Nastepny 09-29. ### 300-09-29 TRIAZ: PRZEGLAD ODBYTY (ksiega_milczenia.md, 09-29): Bolton - listy nic, karty maestra jak zawsze; Aemon gorzej; Wyman zawsze z warunkiem. Nastepny 10-06. ### 300-10-06 PRZEGLAD BERONA (gra/poczta_300_10_06.md D): Bolton - milczy wobec Namiestnika, Walda odpisala Krolowej; karty lodzi IX/VIII - rzut 56, zwykla roznica; Aemon lepiej; Wyman szybko z warunkami. Nastepny 10-13. ### 300-10-13 PRZEGLAD BERONA (wlasni): Bolton - milczy wobec Namiestnika, karty lodzi maestra jak zawsze; Aemon lepiej (cykl 79); Wyman szybko; Rickard cieplo i czynem (lodzie, 15 ludzi); Krol - 37 dni ciszy wlasnej reki. Nastepny 10-20."
   },
   {
    "data": "300-08-03",
@@ -13042,9 +13042,9 @@
    "co": "MODEL FLOTY KORONY - BADANIE (slowo pana 08-24: 'zbadam to, to pytanie o model dla Korony'): krol buduje i placi / lord wystawia (Manderly) / kapitan-wlasciciel (wzor Torrena) / najemne zagle / model Braavos (Arsenal - rezerwa kadlubow, Morski Lord). Zrodla: BRYNDEN (Stopnie, osobiscie), NESTA (jak Braavos placi i obsadza flote Morskiego Lorda - list statkiem), TORREN i MAEGE (ludzie i kadluby zachodu), LUCAN (koszt). Wlasna praca pana - bez rzutu; odpowiedzi obcych - przy wiesci.",
    "kto": "SYMON ; BRYNDEN ; NESTA ; TORREN ; MAEGE ; LUCAN",
    "kanal": "osobiscie WF; list do Nesty statkiem; kruki",
-   "wraca": "300-10-13",
+   "wraca": "300-10-24",
    "zamyka": "karta 'model floty Korony' na stole pana - do Krola po powrocie",
-   "status": "otwarte ### 09-10: czesci Bryndena (okrety wojenne, zalogi) i Torrena (Dustinport, ciesle) sa u Lucana na pismie (E); brak czesci NESTY (Braavos - jak Arsenal i Morski Lord placa za flote) - statek ~09-15 przez Hala; MAEGE - przy odpowiedzi o 100 lodziach (~10-15) tylko dopisek. Lucan sklada karte ~09-20. ### 300-09-20 TRIAZ: Lucan sklada karte bez czesci Nesty (Braavos - nie bylo w liscie 09-18); karta na stole pana przy nastepnej rozmowie (~09-23). ### 300-09-23 ZBIORCZY 09-22 (gra/zbiorczy_garricka_300_09_22.md): w toku, bez nowej decyzji; nastepny zbiorczy ~09-30. ### 300-09-30 Karta dla Krola po powrocie; bez zmian."
+   "status": "otwarte ### 09-10: czesci Bryndena (okrety wojenne, zalogi) i Torrena (Dustinport, ciesle) sa u Lucana na pismie (E); brak czesci NESTY (Braavos - jak Arsenal i Morski Lord placa za flote) - statek ~09-15 przez Hala; MAEGE - przy odpowiedzi o 100 lodziach (~10-15) tylko dopisek. Lucan sklada karte ~09-20. ### 300-09-20 TRIAZ: Lucan sklada karte bez czesci Nesty (Braavos - nie bylo w liscie 09-18); karta na stole pana przy nastepnej rozmowie (~09-23). ### 300-09-23 ZBIORCZY 09-22 (gra/zbiorczy_garricka_300_09_22.md): w toku, bez nowej decyzji; nastepny zbiorczy ~09-30. ### 300-09-30 Karta dla Krola po powrocie; bez zmian. ### 300-10-13: karta dla Krola po powrocie."
   },
   {
    "data": "300-08-25",
@@ -15292,9 +15292,9 @@
    "co": "REZIM INFORMACJI - OGLOSZENIE NA MALEJ RADZIE (~09-26) (slowo regenta 09-22; gra/mala_rada_korony.md): posiedzenia tajne dla wybranych; odpowiedzialnosc obecnych za rozejscie sie; ruchy wojsk tylko w waskim gronie. Beron - zapis w protokole i lista obecnych; Rodrik, Brynden - przy stole i na placu bez rozmow o ruchach. Reakcja czlonkow - przy Radzie (O).",
    "kto": "SYMON (regent) ; BERON ; RODRIK ; BRYNDEN",
    "kanal": "Mala Rada ~09-26; ustnie dzis Rodrik/Brynden",
-   "wraca": "300-10-13",
+   "wraca": "300-10-24",
    "zamyka": "ogloszone na Radzie, w protokole",
-   "status": "otwarte ### 09-26 SLOWO PANA (na Radzie): NIE OGLASZAC DZIS - 'zeby nikogo nie ploszyc' (kanarek w toku); przesuniete - termin do slowa pana (E: po wyniku kanarka ~10-13)."
+   "status": "otwarte ### 09-26 SLOWO PANA (na Radzie): NIE OGLASZAC DZIS - 'zeby nikogo nie ploszyc' (kanarek w toku); przesuniete - termin do slowa pana (E: po wyniku kanarka ~10-13). ### 300-10-13: kanarek zamkniety (cisza). Do slowa pana: oglosic na Radzie 10-24."
   },
   {
    "data": "300-09-22",
@@ -15330,7 +15330,7 @@
    "kanal": "meldunek Willi",
    "wraca": "300-10-13",
    "zamyka": "meldunek: ktory wariant (rzut)",
-   "status": "otwarte ### 09-25 WILLA ZNA PLAN KANARKA (od pana). Obserwacja przy Rybnej 10-03..10-11 przez jej ludzi w BP (teatr Polnoc, Merel) - patrzacy NIE wiedza, ktory wariant jest ktory; zestawia analityk (Willa). Urzad portowy Wymana - nie pytany przez Wille (O: 'Wyman ma wlasne oczy w porcie - jego ludzie moga byc w ktoryms wierszu'). ### 09-25 SLOWO PANA: o wariancie D Willa dowie sie dopiero z wyniku (zna A, B, C; o D tylko, ze istnieje). Patrzacy obejmuja wszystkie noce 10-03..10-11."
+   "status": "zamkniete 300-10-13 ### WYNIK (gra/meldunki_300_10_13.md 1) - ODCZYT 71: CISZA NA WSZYSTKICH NOCACH 10-03..10-11 - zaden wariant (A/B/C/D) nie wyplynal. Willa: tą droga do Lys nic nie poszlo; przeciek GP po stronie Fosy (kanarek GP ~10-25). ### POPRZEDNIO: byl-otw ### 09-25 WILLA ZNA PLAN KANARKA (od pana). Obserwacja przy Rybnej 10-03..10-11 przez jej ludzi w BP (teatr Polnoc, Merel) - patrzacy NIE wiedza, ktory wariant jest ktory; zestawia analityk (Willa). Urzad portowy Wymana - nie pytany przez Wille (O: 'Wyman ma wlasne oczy w porcie - jego ludzie moga byc w ktoryms wierszu'). ### 09-25 SLOWO PANA: o wariancie D Willa dowie sie dopiero z wyniku (zna A, B, C; o D tylko, ze istnieje). Patrzacy obejmuja wszystkie noce 10-03..10-11."
   },
   {
    "data": "300-09-23",
@@ -15544,9 +15544,9 @@
    "co": "REZIM INFORMACJI - ROZSZERZENIE (slowo pana 09-25, rada Willi): poczta wojskowa i wywiadu POZA kancelaria Berona (wojskowa - kancelaria Namiestnika, pieczec pana; wywiad - kanal Willi); wojsko i wywiad nigdy otwartym tekstem krukiem w calym kraju; palic brudnopisy; szyfry co kwartal z reki do reki; jeden czlowiek - jeden kawalek. Ogloszenie na Malej Radzie 09-26 (razem z rezimem z 09-22). Wlasni - bez rzutu.",
    "kto": "SYMON ; MALA RADA ; HARMON (kancelaria Namiestnika)",
    "kanal": "Mala Rada WF",
-   "wraca": "300-10-13",
+   "wraca": "300-10-24",
    "zamyka": "ogloszone na Malej Radzie",
-   "status": "otwarte ### 09-26 SLOWO PANA (na Radzie): NIE OGLASZAC DZIS - 'zeby nikogo nie ploszyc' (kanarek w toku); przesuniete - termin do slowa pana (E: po wyniku kanarka ~10-13)."
+   "status": "otwarte ### 09-26 SLOWO PANA (na Radzie): NIE OGLASZAC DZIS - 'zeby nikogo nie ploszyc' (kanarek w toku); przesuniete - termin do slowa pana (E: po wyniku kanarka ~10-13). ### 300-10-13: jw. - do slowa pana (Rada 10-24)."
   },
   {
    "data": "300-09-25",
@@ -15724,9 +15724,9 @@
    "co": "DOSSIER LYS DLA WYMANA (slowo pana 09-29; gra/dossier_lys_dla_wymana_300_09_29.md): poslaniec do rak wlasnych, wyjazd z WF ~10-12 - PO KANARKU (noce 10-04..10-10, wynik ~10-13); pelne dossier (6 punktow, bez zrodel, bez Baelisha i Dreadfortu); w BP ~10-17. Odpowiedz Wymana - RZUT (jego decyzja w jego porcie).",
    "kto": "SYMON -> WYMAN (poslaniec)",
    "kanal": "poslaniec WF-BP do rak wlasnych",
-   "wraca": "300-10-13",
+   "wraca": "300-10-15",
    "zamyka": "poslaniec wyruszyl (potem odpowiedz Wymana - rzut)",
-   "status": "otwarte ### 300-10-12: wyjazd poslanca PO KANARKU (wynik ~10-13) - wg warunku."
+   "status": "otwarte ### 300-10-12: wyjazd poslanca PO KANARKU (wynik ~10-13) - wg warunku. ### 300-10-13: kanarek - cisza (rzut 71); warunek spelniony - poslaniec moze ruszyc; ZAMIEC (pogoda 12) - wyjazd, gdy trakt pusci (~10-14/15)."
   },
   {
    "data": "300-09-29",
@@ -15771,7 +15771,7 @@
    "kanal": "osobiscie, WF",
    "wraca": "300-10-13",
    "zamyka": "spis wozow prowadzony + lista poreczen 30 slug",
-   "status": "otwarte ### 300-10-07 MELDUNEK RODRIKA - RZUT 46: 26 z 30 nowych slug ma poreczenie; 4 BEZ - przybysze z Dorzecza po wojnie (E: dwie kobiety do kuchni, wyrostek do stajni, starszy czlowiek od drewna - ten sam, co dal miedziaka Gilowi?, E - do sprawdzenia przez Stena); spis wozow na bramie prowadzony od 09-30. Kruczarnia na koniec. Rodrik proponuje: czterech bez poreczenia - z dala od komnat, kuchni panskiej i kruczarni, do czasu az ktos za nich poreczy. Do slowa pana. ### 300-10-07 SLOWO PANA: ZGODA na propozycje Rodrika - czterech bez poreczenia z dala od komnat, kuchni panskiej i kruczarni do czasu poreczenia. Wykonanie po cichu, jako zwykle przesuniecie na zime (Rodrik: kobiety do kuchni czeladnej, wyrostek do stajni zewnetrznej, czlowiek od drewna do drwalni przy murze zewnetrznym - 'drewno trzeba blizej murow na zime'). Sten: obserwacja czlowieka od drewna trwa - przesuniecie nie moze wygladac na kare. Kruczarnia na koniec poreczen. ### 300-10-07 SLOWO PANA (korekta wykonania): PRZESUNIECIE CZWORGA WSTRZYMANE - Rodrik robi je dopiero PO obserwacji (meldunek Stena ~10-12) i po dodatkowej obserwacji pozostalej trojki; teraz czlowiek od drewna moglby sie sploszyc. Do tego czasu czworo zostaje, gdzie jest; kruczarnia jak dotad (Tym przy krukach, obcy nie wchodza). ### 300-10-12: przesuniecie czworga - po meldunku Stena (powrot 10-12 wieczorem) - ~10-13."
+   "status": "otwarte ### 300-10-07 MELDUNEK RODRIKA - RZUT 46: 26 z 30 nowych slug ma poreczenie; 4 BEZ - przybysze z Dorzecza po wojnie (E: dwie kobiety do kuchni, wyrostek do stajni, starszy czlowiek od drewna - ten sam, co dal miedziaka Gilowi?, E - do sprawdzenia przez Stena); spis wozow na bramie prowadzony od 09-30. Kruczarnia na koniec. Rodrik proponuje: czterech bez poreczenia - z dala od komnat, kuchni panskiej i kruczarni, do czasu az ktos za nich poreczy. Do slowa pana. ### 300-10-07 SLOWO PANA: ZGODA na propozycje Rodrika - czterech bez poreczenia z dala od komnat, kuchni panskiej i kruczarni do czasu poreczenia. Wykonanie po cichu, jako zwykle przesuniecie na zime (Rodrik: kobiety do kuchni czeladnej, wyrostek do stajni zewnetrznej, czlowiek od drewna do drwalni przy murze zewnetrznym - 'drewno trzeba blizej murow na zime'). Sten: obserwacja czlowieka od drewna trwa - przesuniecie nie moze wygladac na kare. Kruczarnia na koniec poreczen. ### 300-10-07 SLOWO PANA (korekta wykonania): PRZESUNIECIE CZWORGA WSTRZYMANE - Rodrik robi je dopiero PO obserwacji (meldunek Stena ~10-12) i po dodatkowej obserwacji pozostalej trojki; teraz czlowiek od drewna moglby sie sploszyc. Do tego czasu czworo zostaje, gdzie jest; kruczarnia jak dotad (Tym przy krukach, obcy nie wchodza). ### 300-10-12: przesuniecie czworga - po meldunku Stena (powrot 10-12 wieczorem) - ~10-13. ### 300-10-13: trojka bez poreczenia czysta (Sten); czlowiek od drewna - informator (nowa pozycja); przesuniecie czworga - do slowa pana razem z decyzja o nim."
   },
   {
    "data": "300-09-30",
@@ -15789,7 +15789,7 @@
    "kanal": "osobiscie, WF",
    "wraca": "300-10-13",
    "zamyka": "meldunek Stena: kto i po co",
-   "status": "otwarte ### 300-10-01 SLOWO PANA: OBSERWACJA Gila i czlowieka od drewna - STEN (ludzie przybocznej) + RHONA; nie ruszac, nie pytac wiecej. Meldunek ~10-08 (RZUT przy meldunku, pasma przed rzutem). ### 300-10-07: czlowiek od drewna = ten sam co pytal Tyma o kruki (Tym 10-07); obserwacja Sten+Aldwin - wspolna z operacja 'CZLOWIEK OD DREWNA' (~10-12). ### 300-10-12: wspolny meldunek po powrocie Stena ~10-13."
+   "status": "zamkniete 300-10-13 ### MELDUNEK 10-13: Gil mowil czlowiekowi od drewna, kiedy pan wychodzi i wraca do komnat - za miedziaka, myslac, ze to zabawa. Dalej - w pozycji 'CZLOWIEK OD DREWNA - INFORMATOR'. ### POPRZEDNIO: byl-otw ### 300-10-01 SLOWO PANA: OBSERWACJA Gila i czlowieka od drewna - STEN (ludzie przybocznej) + RHONA; nie ruszac, nie pytac wiecej. Meldunek ~10-08 (RZUT przy meldunku, pasma przed rzutem). ### 300-10-07: czlowiek od drewna = ten sam co pytal Tyma o kruki (Tym 10-07); obserwacja Sten+Aldwin - wspolna z operacja 'CZLOWIEK OD DREWNA' (~10-12). ### 300-10-12: wspolny meldunek po powrocie Stena ~10-13."
   },
   {
    "data": "300-10-01",
@@ -16057,9 +16057,9 @@
    "co": "ARYA - POZNAWANIE KLAMSTWA: czesciowo Talvo; INNI NAUCZYCIELE DO WERYFIKACJI (slowo Namiestnika 10-06) - kandydaci i ich sprawdzenie (Sten / kontrwywiad). Do slowa pana.",
    "kto": "SYMON ; STEN",
    "kanal": "osobiscie",
-   "wraca": "300-10-13",
+   "wraca": "300-10-20",
    "zamyka": "kandydaci sprawdzeni",
-   "status": "otwarte"
+   "status": "otwarte ### 300-10-13: kandydaci do weryfikacji - wciaz do slowa pana (np. Owen? Willa? Talvo)."
   },
   {
    "data": "300-10-06",
@@ -16095,7 +16095,7 @@
    "kanal": "osobiscie",
    "wraca": "300-10-13",
    "zamyka": "meldunek Stena i Aldwina: kim jest i dla kogo pyta",
-   "status": "otwarte ### 300-10-07 SLOWO PANA: OBSERWACJA - STEN (zamek: z kim gada, gdzie chodzi, co nosi) + ALDWIN (kontrwywiad: kim jest, skad przyszedl, kto go przyjal latem, czy pisze/ktos pisze do niego). Nie ruszac, nie pytac. Tym i Gil - zachowuja sie jak dotad (Tym moze mu odpowiadac, ale Sten wie, co). Meldunek ~10-12 (RZUT przy meldunku, pasma przed rzutem). ### 300-10-07 SLOWO PANA: obserwacja ROZSZERZONA na pozostala trojke bez poreczenia (dwie kobiety z kuchni, wyrostek ze stajni) - Sten (ludzie przybocznej). Przesuniecie czworga przez Rodrika dopiero po meldunku ~10-12, zeby nie sploszyc. ### 300-10-11: STEN wyjezdza po Mire - obserwacje w zamku przejmuje na te dni 'drugi po Stenie' z przybocznej + ALDWIN; meldunek wspolny po powrocie Stena (~10-13)."
+   "status": "zamkniete 300-10-13 ### MELDUNEK STENA I ALDWINA (meldunki_300_10_13.md 2) - ODCZYT 67: LICZY (karb w drwalni: kruki, wozy, ludzie), co 6-7 dni rozmowa z woznica od chrustu z ZM ('ruda broda') jadacym na poludnie; Gil mu mowi, kiedy pan wychodzi/wraca. Dla kogo - nieznane. Trojka bez poreczenia - czysta. Aldwin: nie ruszac, najpierw woznica i droga. DO SLOWA PANA. ### POPRZEDNIO: byl-otw ### 300-10-07 SLOWO PANA: OBSERWACJA - STEN (zamek: z kim gada, gdzie chodzi, co nosi) + ALDWIN (kontrwywiad: kim jest, skad przyszedl, kto go przyjal latem, czy pisze/ktos pisze do niego). Nie ruszac, nie pytac. Tym i Gil - zachowuja sie jak dotad (Tym moze mu odpowiadac, ale Sten wie, co). Meldunek ~10-12 (RZUT przy meldunku, pasma przed rzutem). ### 300-10-07 SLOWO PANA: obserwacja ROZSZERZONA na pozostala trojke bez poreczenia (dwie kobiety z kuchni, wyrostek ze stajni) - Sten (ludzie przybocznej). Przesuniecie czworga przez Rodrika dopiero po meldunku ~10-12, zeby nie sploszyc. ### 300-10-11: STEN wyjezdza po Mire - obserwacje w zamku przejmuje na te dni 'drugi po Stenie' z przybocznej + ALDWIN; meldunek wspolny po powrocie Stena (~10-13)."
   },
   {
    "data": "300-10-07",
@@ -16210,9 +16210,9 @@
    "co": "DRUGI ZWIAD NA SKAGOS (slowo regenta 10-08): 'Srebrna Foka' (kpt. Harlen Wydma) + LODZIE KARHOLDU (ludzie znajacy wode) + KLATKI KRUKOW (Karhold i WF); LADUJA 10-15 ZBROJNYCH KARSTARKA z LEKAMI i KILKOMA CIESLAMI (do napraw) - wizyta, nie desant (zasada Krola: nikt nie laduje sila). Niosa LIST REGENTA DO KROLA do rak. Kruk WF->Karhold 10-08. Wyjscie z Karholdu - gdy mgla pozwoli (E ~10-10); Kingshouse 1-2 dni. Wynik (co zastana, czy widza Krola) - RZUT przy meldunku, pasma przed rzutem.",
    "kto": "SYMON (regent) -> RICKARD KARSTARK ; KAPITAN WYMANA ; LUWIN (kruki, leki)",
    "kanal": "kruk WF-Karhold; lodzie; kruk Skagos/Karhold-WF",
-   "wraca": "300-10-13",
+   "wraca": "300-10-15",
    "zamyka": "meldunek drugiego zwiadu (rzut)",
-   "status": "otwarte"
+   "status": "otwarte ### 300-10-13: zwiad wyszedl z Karholdu ~10-11/12 (Rickard); Kingshouse 1-2 dni; meldunek krukiem - zamiec 10-13 trzyma kruki - ~10-15."
   },
   {
    "data": "300-10-08",
@@ -16255,9 +16255,9 @@
    "co": "OWEN - NAUKA SIEDMIU (stala: pon. i czw. po 1 h; Sansa, Arya, Bran). Nastepna pon. 10-13. Wlasni - rzut tylko przy zmianie/sporze.",
    "kto": "OWEN ; SANSA, ARYA, BRAN",
    "kanal": "osobiscie, WF",
-   "wraca": "300-10-13",
+   "wraca": "300-10-16",
    "zamyka": "nauka odbyta",
-   "status": "otwarte"
+   "status": "otwarte ### 300-10-13: nauka w bibliotece (zamiec nie przeszkadza) - wlasni, bez rzutu; nastepna czw. 10-16."
   },
   {
    "data": "300-10-10",
@@ -16345,9 +16345,9 @@
    "co": "WYPLATA IX DLA WSPOLNIKOW DOMU (dyspozycja stala 07-14; 40% wolnej gotowki IX = 693,61; Symon 231,20, Mira 115,60 - przekazem do faktorii ZM). Hal wykonal po bilansie 10-05 (zapis przeoczyl - GM). Odbior osobiscie za kwitem w faktorii ZM; czesc Miry - kufer pod jej imieniem (Mira w WF ~10-12/13). Nastepna: po bilansie X (~11-05).",
    "kto": "HAL -> faktoria ZM ; SYMON (odbior)",
    "kanal": "woz Domu BP-ZM",
-   "wraca": "300-10-12",
+   "wraca": "300-10-14",
    "zamyka": "czesc Symona odebrana (sakiewka), czesc Miry w kufrze",
-   "status": "otwarte ### 300-10-12: woz Domu z BP dojechal do faktorii ZM w nocy po sniezycy (E) - przekaz do odbioru za kwitem od dzis."
+   "status": "otwarte ### 300-10-12: woz Domu z BP dojechal do faktorii ZM w nocy po sniezycy (E) - przekaz do odbioru za kwitem od dzis. ### 300-10-13: nie odebrane 10-12 (pan w WF); czeka w faktorii; zamiec - odbior przy nastepnej wizycie w ZM."
   },
   {
    "data": "300-10-10",
@@ -16409,6 +16409,15 @@
    "kto": "SYMON ; LUWIN ; GARRICK",
    "kanal": "kruk WF-Fosa",
    "wraca": "300-10-14",
+   "zamyka": "slowo pana",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-13",
+   "co": "CZLOWIEK OD DREWNA - INFORMATOR (liczy i przekazuje woznicy od chrustu z ZM, 'ruda broda'). Do slowa pana: zabrac teraz / zostawic i isc droga (woznica, dokad jedzie) / karmic falszywymi liczbami. Gil - co z chlopcem.",
+   "kto": "SYMON -> STEN ; ALDWIN",
+   "kanal": "osobiscie, WF",
+   "wraca": "300-10-13",
    "zamyka": "slowo pana",
    "status": "otwarte"
   }
@@ -16570,7 +16579,7 @@
     "start": "300-04-11"
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-09-29",
+   "ostatnio_odebrane": "300-10-13",
    "zrodlo": "terminarz_budow_300_04.md",
    "uwaga_0915": "SLOWO PANA 09-15: karta Spichlerza ZAWSZE W RACJACH (Racja Polnocna, skladniki + waskie gardlo), od dzis."
   },

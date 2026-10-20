@@ -401,3 +401,11 @@ Posłaniec: **Benno** (E), pisarz placówki Domu na Czarnym Zamku. Był u Aemona
 ## 300-10-11: TORVALD, sakiewka do domu przy Uliczce Powroźników (BP). Rzut prawdy 10
 - **PRAWDA (E z mocą zapisu):** to dom **wdowy po Hagenie (E), towarzyszu Torvalda z wojny**, który zginął pod Wodospadem (E) i osłonił Torvalda. Wdowa ma dwoje dzieci. Torvald co miesiąc nosi jej część swojej zapłaty, od roku, i nikomu o tym nie mówi, bo się wstydzi, że Hagen zginął za niego. **Nic więcej.**
 - **Willa odczytała to rzutem 14, MYLNIE:** podejrzewa skrzynkę kontaktową. Do wdowy zachodzą czasem ludzie z portu, ale to krewni jej męża, rybacy. Jeśli pan albo Willa pójdą głębiej (rozmowa z Torvaldem, z wdową), wyjdzie prawda.
+
+## 300-10-13: KANAREK „RYBNA”. Prawda: rzut 73
+- **PRAWDA:** żaden z wariantów (A: kruczarnia, B: wysoki stół, C: kancelaria, D: Mała Rada) **nie wypłynął.** Przy Rybnej w noce 10-03..10-11 nikt nie przyszedł po „srebro”. Kanały Winterfell **tym** kanarkiem nie przeciekły. Lys albo nie łowi srebra Korony, albo nie ma w WF słuchacza, który by mu to podał. Ludzie Willi (odczyt 71) **trafnie** meldują ciszę na wszystkich nocach.
+
+## 300-10-13: CZŁOWIEK OD DREWNA. Prawda: rzut 89 (obca strona), czyj: 22, czyli LANNISTER
+- **PRAWDA (E z mocą zapisu):** uśpione ucho **ludzi Tywina.** Przyszedł latem z uciekinierami z Dorzecza, bez poręczenia. Czytać nie umie. Liczy na karbie: kruki, wozy, ludzi przy bramie, kto przyjeżdża do skrzydła Tallych. Raz na 6–7 dni przekazuje to ustnie **woźnicy od chrustu z ZM** (E, bez imienia: „woźnica z rudą brodą”). Woźnica jeździ traktem na południe, a dalej idzie to przez Przesmyk do kogoś w Dorzeczu (E). Srebra przy Rybnej nie ruszał, bo to nie jego zadanie: on tylko liczy.
+- Miedziak dla Gila był za to, żeby chłopiec mówił mu, kiedy pan wychodzi z komnat i kiedy wraca.
+- **Odczyt Stena i Aldwina (67), trafny w zarysie:** wiedzą, że liczy (karb w drwalni) i że rozmawia z woźnicą z rudą brodą. Nie wiedzą, dla kogo.

@@ -435,3 +435,4 @@ Posłaniec: **Benno** (E), pisarz placówki Domu na Czarnym Zamku. Był u Aemona
   2. **drzewo pod wzgórzem za Murem, które rośnie przez kości.** *„Ktoś tam czeka. Długo.”*
   3. **kruk o trzech oczach, który woła, „ale nie mnie”.** Tu Jojen milknie, przestraszony, że powiedział za dużo.
 - Jojen nie mówi, kogo woła kruk. Nie mówi też, kto jest wilkiem.
+- **Pan za nim na schodach: „Czy to musisz być ty i Bran?” RZUT 18 (próg 45):** Jojen nie odpowiada. Zatrzymuje się na moment i mówi (O): *„Nie mówiłem o Branie.”* Potem schodzi. Ani nie potwierdza, ani nie zaprzecza.

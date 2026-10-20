@@ -13566,7 +13566,7 @@
    "kanal": "na miejscu",
    "wraca": "300-10-10",
    "zamyka": "pierwsza wplata wpisana w bilans",
-   "status": "otwarte"
+   "status": "zamkniete 300-10-10 ### MALA RADA - SLOWO PANA: wariant B (Gawen) - PIERWSZA WPLATA 504,32 (1/5 z operacji + czynszu - zdarzen IX; korekta wsteczna liczona osobno). Dwa klucze: Gawen i Luwin. Kolejne wplaty przy kazdym bilansie (cykl BILANS_KORONY). ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-09-02",
@@ -15600,7 +15600,7 @@
    "kanal": "kruki (od 09-27)",
    "wraca": "300-10-10",
    "zamyka": "lordowie potwierdzaja odbior albo pozostawienie do wiosny",
-   "status": "otwarte ### 300-10-05 TRIAZ: przeglad na Malej Radzie ~10-10."
+   "status": "otwarte ### 300-10-05 TRIAZ: przeglad na Malej Radzie ~10-10. ### 300-10-10 MALA RADA: listy do lordow z planem Gawena (zrodla, cena slupa, zadatek 1/4, odbior lub dostawa) - kruki dzis/jutro; odzew - rzut przy odpowiedziach ~10-20."
   },
   {
    "data": "300-09-26",
@@ -15861,7 +15861,7 @@
    "kanal": "osobiscie, ZM/domena",
    "wraca": "300-10-10",
    "zamyka": "bednarz przy warsztacie, kosztorys przyjety, pierwsze beczki tylko dla Konserwy",
-   "status": "otwarte ### 300-10-05 EDRIC U BEDNARZA (ZM, E: mistrz Jory Klepka z dwoma synami, nie robi dla Domu) - RZUT 21 (prog 35): ZGODA Z WARUNKIEM - od XII: do konca XI konczy zamowienie kupcow BP (beczki na sledzia). Warsztat przy Podgrodziu stawiaja w XI (kosztorys Gawena na Rade 10-10). Do XII - zadatek Korony dla bednarzy ZM (b) jedyna ulga."
+   "status": "zamkniete 300-10-10 ### MALA RADA - SLOWO PANA 'tak jak Gawen powie'. KOSZTORYS GAWENA (E z moca zapisu): szopa z piecem do giecia klepki przy Podgrodziu ~22, narzedzia (kozly, obreczniki, heble, swidry) ~6, klepka debowa na zime z wyrebu Korony w Wilczym Lesie (drewno wlasne) - dowoz ~3, razem ~31 smokow, Kasa 3, w XI. Cena od beczki: TA SAMA, co Dom placi bednarzom ZM (rowno, bez podbijania rynku); zadatek 1/4 z gory, jak przy beczce zimowej 08-27. Klauzula o uczniu - TAK (pierwszy aneks). Jory Klepka od XII. Nowa pozycja: budowa warsztatu XI. ### POPRZEDNIO: byl-otw ### 300-10-05 EDRIC U BEDNARZA (ZM, E: mistrz Jory Klepka z dwoma synami, nie robi dla Domu) - RZUT 21 (prog 35): ZGODA Z WARUNKIEM - od XII: do konca XI konczy zamowienie kupcow BP (beczki na sledzia). Warsztat przy Podgrodziu stawiaja w XI (kosztorys Gawena na Rade 10-10). Do XII - zadatek Korony dla bednarzy ZM (b) jedyna ulga."
   },
   {
    "data": "300-10-01",
@@ -15888,7 +15888,7 @@
    "kanal": "list Domu przez BP",
    "wraca": "300-10-10",
    "zamyka": "warunki Gawena na stole (Mala Rada) i list wyslany",
-   "status": "otwarte ### 300-10-03 SLOWO PANA: ZGODA - odpowiadamy; WARUNKI USTALA GAWEN (cena drewna/futer ze slupa i ksiegi Spichlerza, ilosc, przewoz, zadatek). List przez Hala/Obara statkiem; odpowiedz domu ~XI (rzut). ### 300-10-03 SLOWO PANA (dopisek): Gawen liczy tez ILE ZEJDZIE (ilosc drewna i futer, ktore Korona moze oddac bez szkody dla zapasu i zimy) i ILE ZYSKA KORONA - WPLYW NETTO NA KONCU (po koszcie, przewozie, cle, zadatku). Na Mala Rade ~10-10."
+   "status": "zamkniete 300-10-10 ### MALA RADA - SLOWO PANA 'tak jak Gawen powie'. WARUNKI GAWENA (E z moca zapisu): DREWNO - I partia do 100 sztuk suchego drewna okretowego spod pokladu, tylko to, czego nie potrzebuje Wzor II (Orland i spis wyrebu); cena 115 jeleni za sztuke (srodek ich pisemnej oferty 110-120); FUTRA - tylko nadwyzka swiadczen ponad zimowe potrzeby Konserwy i garnizonow, ilosc po spisie XI; PRZEWOZ - na koszt kupca od nabrzeza BP; ZADATEK 1/3 przy zamowieniu; cło - zgodnie z taryfa komory BP. WPLYW (E): 100 x 115 = 11 500 jeleni ~ 55 smokow brutto; po dowozie do BP (~8) ~47 netto za drewno; futra - po spisie. 'Dwie pieczecie, dwa glosy': list Domu przez Hala/Obara, pieczec Korony przy towarze Korony. List statkiem; odpowiedz domu ~XI (rzut). ### POPRZEDNIO: byl-otw ### 300-10-03 SLOWO PANA: ZGODA - odpowiadamy; WARUNKI USTALA GAWEN (cena drewna/futer ze slupa i ksiegi Spichlerza, ilosc, przewoz, zadatek). List przez Hala/Obara statkiem; odpowiedz domu ~XI (rzut). ### 300-10-03 SLOWO PANA (dopisek): Gawen liczy tez ILE ZEJDZIE (ilosc drewna i futer, ktore Korona moze oddac bez szkody dla zapasu i zimy) i ILE ZYSKA KORONA - WPLYW NETTO NA KONCU (po koszcie, przewozie, cle, zadatku). Na Mala Rade ~10-10."
   },
   {
    "data": "300-10-03",
@@ -15996,7 +15996,7 @@
    "kanal": "Mala Rada",
    "wraca": "300-10-10",
    "zamyka": "slowo pana i listy do lordow",
-   "status": "otwarte ### 300-10-05 SLOWO PANA: TAK - tak, jak Gawen powie (zrodlo, cena, zadatek, przewoz). Gawen przedstawia na Radzie ~10-10; listy do lordow po Radzie. ### 300-10-05: czesc z niesprzedanego ziarna w skladzie BP (wystawa) - Cerwyn i Tallhart najpierw."
+   "status": "zamkniete 300-10-10 ### MALA RADA - SLOWO PANA 'tak jak Gawen powie'. PLAN GAWENA: (1) CERWYN 800 i TALLHART 1200 - z niesprzedanego ziarna w skladzie BP (wystawa), cena ze slupa (zyto 29 jel./korzec, owies 21); (2) RYSWELL 600 i FLINT 300 - z dodatkowych 10 000 z Reach, jesli Olenna przyjmie (~10-20); jesli nie - Illyria ~28 jel. z frachtem + marza Korony do ceny slupa; (3) ZADATEK 1/4 przy zamowieniu; (4) ODBIOR wlasnymi wozami ze skladu albo DOSTAWA ZA OPLATA od korca i mili (stawka Gawena z listu 09-26). WPLYW (z cen slupa, jesli caly ladunek zyto): 2 900 x 29 = 84 100 jel. ~ 400 smokow; owies obniza. Listy do lordow - po Radzie, kruki dzis/jutro. Odbior/dostawa - pozycja ~10-20. ### POPRZEDNIO: byl-otw ### 300-10-05 SLOWO PANA: TAK - tak, jak Gawen powie (zrodlo, cena, zadatek, przewoz). Gawen przedstawia na Radzie ~10-10; listy do lordow po Radzie. ### 300-10-05: czesc z niesprzedanego ziarna w skladzie BP (wystawa) - Cerwyn i Tallhart najpierw."
   },
   {
    "data": "300-10-05",
@@ -16302,6 +16302,24 @@
    "kanal": "kruk WF-Fosa + jezdziec; kruk WF-Deepwood",
    "wraca": "300-10-17",
    "zamyka": "karta lancucha: rogi na wszystkich punktach",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-10",
+   "co": "BEDNARNIA KONSERWY KORONY - BUDOWA WARSZTATU (XI) przy Podgrodziu wg kosztorysu Gawena (~31, Kasa 3); Jory Klepka z synami od XII; umowa z cena od beczki jak u Domu, zadatek 1/4, klauzula o uczniu. Wlasni - bez rzutu.",
+   "kto": "EDRIC ; GAWEN ; ciesle ZM",
+   "kanal": "na miejscu, ZM",
+   "wraca": "300-11-30",
+   "zamyka": "warsztat stoi, umowa z Jorym podpisana",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-10",
+   "co": "PENTOS - ODPOWIEDZ DOMU HANDLOWEGO NA WARUNKI KORONY (drewno do 100 szt. po 115 jel., futra po spisie, przewoz kupca od BP, zadatek 1/3). List przez Hala/Obara statkiem. Wola obca - RZUT przy odpowiedzi.",
+   "kto": "HAL / OBARO -> dom handlowy (Pentos)",
+   "kanal": "statek BP-Pentos",
+   "wraca": "300-11-25",
+   "zamyka": "odpowiedz domu (rzut)",
    "status": "otwarte"
   }
  ],

@@ -1732,6 +1732,20 @@
    "kwota": -12,
    "opis": "GOLEBNIKI KORONY - 6 wezlow x ~2 (kosztorys Ulli Kory; golebie z BP przez Torsena; proby wiosna) (E)",
    "zrodlo": "slowo pana 300-10-06; gra/poczta_300_10_06.md B"
+  },
+  {
+   "data": "300-10-10",
+   "kasa": "KASA 3 - SKARB POLNOCY",
+   "kwota": -504.32,
+   "opis": "SKRZYNIA ZIMOWA KORONY - pierwsza wplata (1/5 z operacji + czynszu - zdarzen IX, wariant B Gawena; korekta wsteczna osobno). ODKLAD, nie wydatek - nietykalna poza kleska i wojna; klucze Gawen + Luwin.",
+   "zrodlo": "Mala Rada 300-10-10, slowo pana"
+  },
+  {
+   "data": "300-11-15",
+   "kasa": "KASA 3 - SKARB POLNOCY",
+   "kwota": -31,
+   "opis": "BEDNARNIA KONSERWY KORONY - warsztat przy Podgrodziu (szopa z piecem ~22, narzedzia ~6, dowoz klepki ~3; E Gawena)",
+   "zrodlo": "Mala Rada 300-10-10, kosztorys Gawena, slowo pana"
   }
  ],
  "_symulacje": {

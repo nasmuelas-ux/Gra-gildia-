@@ -72,3 +72,11 @@
 1. *„Przeczytał to tak: »Wiem, kim jesteś. Wiem, że twój ptak udaje cudze głosy.« Pan mu nie napisał nic więcej, a on lubi ludzi, którzy nie piszą za dużo.”*
 2. *„Uśmiechnął się, bo lubi, kiedy ktoś go widzi. To dla niego komplement, nie groźba. Nie odpisał, bo każde słowo byłoby przyznaniem, że zrozumiał.”*
 3. *„Teraz wie, że Północ na niego patrzy. Będzie ostrożniejszy, ale też ciekawszy. A ciekawy Baelish przyjdzie sam, kiedyś, z jakimś prezentem. Wtedy trzeba będzie liczyć, co kosztuje.”*
+
+**Pytanie pana: „Dlaczego ciotka, która wie, że jej męża zamordowali Lannisterowie, zgadza się sprzedawać im zboże?”**
+
+**Odczyt Sansy (O, po braavosku, potem chwilami we wspólnej; to odczyt, nie wiedza):**
+1. *„Może się nie zgadza. Może nie wie. Jeśli na kontraktach jest przedrzeźniacz, to podpisuje on, a ona siedzi w Orlim Gnieździe i patrzy w chmury.”*
+2. *„Ciocia Lysa zawsze się bała. Mama mówi, że od dziecka. Kto się boi, ten zamyka drzwi i oddaje klucze temu, kto obiecuje, że będzie pilnował.”*
+3. *„I mówią, że znowu nosi.”* (plotka z naszych źródeł, 09-10) *„Kobieta, która tyle razy straciła dziecko, nie myśli o zbożu. Myśli tylko o tym jednym.”*
+4. Najciszej, we wspólnej: *„Albo jest jeszcze coś, czego nie wiemy. Mama dostała od niej list w zeszłym roku: że to Lannisterowie. Ciocia była tego taka pewna. Ktoś, kto jest taki pewny i nic z tym nie robi…”* Urywa. *„Nie wiem. Zapytałabym mamę, ale nie chcę jej tego robić teraz, kiedy Robb wraca.”*

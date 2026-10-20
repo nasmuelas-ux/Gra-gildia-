@@ -422,3 +422,5 @@ Posłaniec: **Benno** (E), pisarz placówki Domu na Czarnym Zamku. Był u Aemona
 - **Pan mówi Reedowi, co Jojen powiedział jemu** (07-27: droga na północ, na niej kończy się to, co Jojen widzi; 09-30: śni ją coraz częściej, „jest blisko”).
 - **REED, RZUT 8 (próg 40):** chce **zabrać Jojena do Szarej Wody**, wbrew śnowi. *„Jeśli droga zaczyna się w Winterfell, to niech go w Winterfell nie będzie.”* Prosi pana o pomoc: ma przemówić Jojenowi albo przynajmniej nie stawać na drodze. Wyjazd chce zrobić przed głębokim śniegiem, przez Przesmyk i Fosę.
 - **Wola Jojena** to osobna sprawa (rzut, kiedy ojciec mu powie). Meera nie wie.
+- **Słowo pana:** porozmawia z Jojenem, ale obawia się, że dzieci i tak zrobią, co chcą zrobić.
+- **Reed (O):** *„Wiem. Meera też. Ona pójdzie za nim wszędzie, nawet tam, gdzie ja nie mogę.”* Prosi, żeby pan rozmawiał z Jojenem **jutro, przed nim**, bo sam powie synowi po rozmowie z panem.

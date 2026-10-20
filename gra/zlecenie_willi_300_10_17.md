@@ -16,3 +16,16 @@
 - *„Dobre pytania. Ktoś, kto je układał, patrzy na mapę, nie na stół.”* Nie pyta, kto.
 - *„Pierwsze zrobię najpierw, bo ma datę: powrót Króla.”*
 - *„Za drugie i piąte trzeba będzie zapłacić więcej niż zwykle. Koniec Burzy i Dreadfort to miejsca, gdzie się nie pyta za darmo.”* Ile, poda w karcie.
+
+## DOPISANE (słowo pana, ta sama rozmowa)
+| # | pytanie | kto szuka (Willa) | termin (E) |
+|---|---|---|---|
+| 9 | Co się stało z kobietą z Tarthu (gwardia Renly'ego, zniknęła w noc jego śmierci) | ucho na Tarth (teatr Krainy Burzy, 301). Wcześniej tylko plotka z Dorzecza | 301 |
+| 10 | **Beric Dondarrion i czerwony kapłan** (Thoros z Myr): co robią i gdzie | Dorzecze: Rozdroże (słyszy, nie pyta) i ludzie Lymana przy Kompanii | ~XI |
+
+**Willa (O) o pkt 10, co wiadomo dziś (plotka, nie wiedza):**
+- *„Lord Błyskawica. Mówią, że zginął kilka razy i za każdym razem wstał. Ludzie we wsiach nad Tridentem tak mówią, a ludzie we wsiach dużo mówią, kiedy się boją.”*
+- *„Kapłan jest przy nim. Czerwony, z Myr. Pije, ale modli się do ognia, i podobno ogień mu odpowiada.”*
+- *„Wieszają ludzi Lwa, którzy zostali po wojnie i rabują. Wieszają też naszych, jak rabują. Chłopi ich karmią i chowają. Chorągwi nie mają, mówią, że służą królowi, który nie żyje.”*
+- *„Gdzie dokładnie są, nie wie nikt. To jest cała ich siła.”*
+- Odczyt: *„Jeśli Kompania ma odbudowywać Dorzecze, prędzej czy później spotka się z nimi na drodze. Lepiej wiedzieć wcześniej, czy to wróg, czy ktoś, kto pilnuje tej samej drogi.”*

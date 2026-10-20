@@ -1,5 +1,5 @@
 # KONTRWYWIAD: SZEF (niejawne; plik ukryty)
-**ALDWIN.** Wskazał pan 300-09-16, późnym popołudniem w komnacie Namiestnika.
+**ALDWIN.** Wskazał pan 300-09-16, późnym popołudniem w komnacie Namiestnika. ⚠ **NIEOFICJALNIE** (słowo gracza 10-11): Aldwin NIE WIE, że jest szefem kontrwywiadu, i nie wie o siatce ani o Willi. Zna tylko zlecenia: Torvald przez Hollisa (09-16), obserwacja człowieka od drewna (10-07). 10-11: rozmowa kwalifikacyjna pana.
 
 - **Kim jest (zapis):**
   - pisarz Namiestnika od 299-05-24 (rekrutacja, rzut 58), wcześniej skryba Wiary;

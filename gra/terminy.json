@@ -16383,7 +16383,7 @@
    "kanal": "osobiscie, WF",
    "wraca": "300-10-18",
    "zamyka": "karta na stole pana, slowo pana o kwotach",
-   "status": "otwarte ### 10-14 SLOWO PANA: model jak wywiad - wlasne CENTRA OPERACYJNE (analiza, sprawdzanie, nabor); Aldwin dopisze koszt i ludzi pierwszego centrum (Polnoc) do karty. Pytanie Aldwina: centrum pod jednym dachem z Willa (centrala ZM, slowo 09-25) czy osobno - do slowa pana. ### 10-14 SLOWO PANA: JEDNO CENTRUM (centrala ZM, wspolna z Willa - osobne izby/ksiegi), PLACOWKI LOKALNE OSOBNO (wlasne przykrywki, bez zwiazku z placowkami wywiadu); Aldwin: pierwsza BP, druga Cailin - koszt w karcie. ### 10-18: KARTA ALDWINA NA STOLE PANA (plik ukryty kontrwywiad.md) - do slowa pana."
+   "status": "zamkniete 300-10-18 ### SLOWO PANA: ZGODA - ~12/mies od 11-01 + ~25 jednorazowo (centrala ZM ~5 teraz, BP ~12 w XI, Cailin ~8 w XII); sakiewka pana. ### POPRZEDNIO: byl-otw ### 10-14 SLOWO PANA: model jak wywiad - wlasne CENTRA OPERACYJNE (analiza, sprawdzanie, nabor); Aldwin dopisze koszt i ludzi pierwszego centrum (Polnoc) do karty. Pytanie Aldwina: centrum pod jednym dachem z Willa (centrala ZM, slowo 09-25) czy osobno - do slowa pana. ### 10-14 SLOWO PANA: JEDNO CENTRUM (centrala ZM, wspolna z Willa - osobne izby/ksiegi), PLACOWKI LOKALNE OSOBNO (wlasne przykrywki, bez zwiazku z placowkami wywiadu); Aldwin: pierwsza BP, druga Cailin - koszt w karcie. ### 10-18: KARTA ALDWINA NA STOLE PANA (plik ukryty kontrwywiad.md) - do slowa pana."
   },
   {
    "data": "300-10-11",
@@ -16707,6 +16707,15 @@
    "kanal": "kruk Domu WF-Fosa (szyfr)",
    "wraca": "300-10-19",
    "zamyka": "slowo pana",
+   "status": "zamkniete 300-10-18 ### SLOWO PANA: TAK - brudnopis spalic (przy Hendrym i Garricku); papier do probek szwagier kupuje. Kruk Domu (szyfr) do Hendry'ego dzis. ### POPRZEDNIO: byl-otw"
+  },
+  {
+   "data": "300-10-18",
+   "co": "FRAKCJE STRAZY - PYTANIE DO HALLISA MOLLENA (slowo pana 10-18: 'do czlowieka Korony na Murze'; z zapisu: po stronie Muru sprawy Korony prowadzi Hallis - brat Strazy, prowadzi sprawy bez tytulu): jakie frakcje w Strazy, kto im przewodzi, kto i czym zabiega o glosy na Lorda Dowodce; co za Murem. Kruk Domu przez Benna do rak Hallisa (szyfru Hallis nie ma - list zapieczetowany). Hallis sam jest czescia Strazy - odpowiedz z wnetrza; RZUT przy odpowiedzi (jego wola i trafnosc).",
+   "kto": "SYMON -> HALLIS MOLLEN (przez Benna)",
+   "kanal": "kruk Domu WF-CZ",
+   "wraca": "300-10-22",
+   "zamyka": "odpowiedz Hallisa (rzut)",
    "status": "otwarte"
   }
  ],

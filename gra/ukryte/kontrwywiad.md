@@ -83,3 +83,4 @@
 **Jednorazowo ~25:** izba w centrali ZM, skrzynia i zamki ~5; placówka BP (przykrywka: mały skład papieru i świec przy porcie) ~12; placówka Cailin (przykrywka: pisarz do wynajęcia przy rynku) ~8.
 **Kolejność:** centrala od razu, BP w XI, Cailin w XII.
 **Aldwin (O):** *„To dwa razy tyle, ile mówiłem tydzień temu, bo pan kazał robić placówki osobno. Taniej się da, ale wtedy placówki będą pod jednym dachem z panią Willą, a pan tego nie chciał.”* **Do słowa pana.**
+- **10-18 SŁOWO PANA: ZGODA na kartę.** ~12 miesięcznie od 11-01. Jednorazowo: centrala ~5 (zapłacone dziś z ręki do ręki w kancelarii), BP ~12 (XI), Cailin ~8 (XII). Sakiewka pana. Aldwin (O): *„Dziękuję, panie. Rachunek będzie co miesiąc, na jednej kartce, w skrzynce.”*

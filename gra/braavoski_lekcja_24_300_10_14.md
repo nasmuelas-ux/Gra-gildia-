@@ -41,4 +41,6 @@
   - **Sansa improwizuje**, pierwszy raz bez tabliczki (O): *„Proszę być spokojnym, panie kupcze. To mój kot.”* Mówi to z dobrym akcentem.
   - **Arya wybucha śmiechem i przewraca się na bok.** Sansa się śmieje, z ręką przy ustach, ale się śmieje.
   - **Słowa: 4 z 4.**
-- **Zadanie na 25 (pt 10-17): do słowa pana.**
+- **Zadanie na 25 (pt 10-17), słowo pana: POWTÓRKA SŁÓW.** Dwanaście słów tematu „strach” oraz słowa z lekcji 22–23: bać się, uciekać, wdowa, sztych, równowaga. Obie dziewczęta.
+
+## LEKCJA 24: ZAMKNIĘTA

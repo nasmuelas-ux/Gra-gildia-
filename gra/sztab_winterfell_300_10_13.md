@@ -32,3 +32,7 @@
 3. **Szef sztabu.** Ktoś musi trzymać wszystkie sześć oddziałów razem, kiedy pan jest w drodze. Propozycja: **ser Rodrik**, jako Pierwszy Miecz. *„To odpowiedź na moje pytanie, kto dowodzi, gdy pana nie ma.”*
 4. **W pokoju sztab dowodzi tylko wojskiem Korony.** Chorągwie lordów wchodzą do struktury dopiero na wezwanie (plan na papierze, sierżanci przy setkach).
 5. **Rada wojenna,** raz w tygodniu przy mapie, to po prostu posiedzenie szefów oddziałów.
+
+## SŁOWO PANA 10-13: SZEFOWIE ODDZIAŁÓW TO MUSZĄ BYĆ ŻOŁNIERZE
+- Propozycje obsady oddziałów 4–6 (Orland, Gawen, Orwyl, Luwin, Orbelo) **odpadają jako szefowie.** Cywile zostają przy oddziałach jako specjaliści i wykonawcy pod żołnierzem.
+- **Brynden (O):** *„Słusznie. Rozkaz wydaje ten, kto za niego ginie. Maester ma liczyć kruki, a nie decydować, który poleci pierwszy.”* Żołnierzy z głową do liczenia jest jednak mało. Rodrik zna każdego sierżanta w garnizonie. Brynden proponuje: **Rodrik i Brynden wskażą szefów oddziałów 1, 2 i 4–6 spośród sierżantów, weteranów i absolwentów Akademii.** Imiona na Radę 10-24, potrzebna zgoda pana.

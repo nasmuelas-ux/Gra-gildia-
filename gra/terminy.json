@@ -16590,7 +16590,7 @@
    "kanal": "kruk WF-Dreadfort (wieza maestra), w poludnie",
    "wraca": "300-10-19",
    "zamyka": "odpowiedz Boltona albo milczenie (rzut)",
-   "status": "otwarte"
+   "status": "zamkniete 300-10-19 ### BOLTON (rzut 81) - odpowiedz wlasna reka (gra/poczta_300_10_19.md): radosc z powrotu Krola; prosba - syn i jego dwudziestu do Dreadfortu przed glebokim sniegiem 'z tym, co im sie nalezy'. Pierwszy list do Namiestnika od lata; o dwoch poprzednich - nic. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-10-15",
@@ -16851,6 +16851,15 @@
    "kanal": "WF",
    "wraca": "300-10-24",
    "zamyka": "wpis z datami w rachunku regencji",
+   "status": "otwarte ### 10-19: na trzeci list (10-15) ODPOWIEDZIAL (rzut 81) - wlasna reka; dwoch poprzednich nie wspomina. Wpis z datami: dwa bez odpowiedzi, trzeci z odpowiedzia."
+  },
+  {
+   "data": "300-10-19",
+   "co": "BOLTON - PROSBA: RAMSAY I JEGO DWUDZIESTU DO DREADFORTU PRZED GLEBOKIM SNIEGIEM 'Z TYM, CO IM SIE NALEZY' (list 10-19): sprawa Krola (ludzie przy wyprawie Krola; zold/lup) - na stol Krola przy powrocie; odpowiedz regenta (czy w ogole) - do slowa pana.",
+   "kto": "KROL ; SYMON",
+   "kanal": "osobiscie / kruk WF-Dreadfort",
+   "wraca": "300-10-28",
+   "zamyka": "slowo Krola",
    "status": "otwarte"
   }
  ],
@@ -17038,7 +17047,7 @@
     "start": "300-05-01"
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-10-17",
+   "ostatnio_odebrane": "300-10-19",
    "zrodlo": "terminy (AEMON CHORY)",
    "rzut": "tak - stan zdrowia (sprawa zewnetrzna)"
   },
@@ -17141,7 +17150,7 @@
     "start": "300-08-23"
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-10-05",
+   "ostatnio_odebrane": "300-10-19",
    "zrodlo": "poczta_300_08_13_seagard_flint.md",
    "uwaga_0822": "slowo pana 08-22: pisac rzadziej - co 14 dni, przy ruchu od razu (ludzie Mallistera pytaja o kruki, rzut 18)"
   },

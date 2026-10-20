@@ -16717,6 +16717,15 @@
    "wraca": "300-10-22",
    "zamyka": "odpowiedz Hallisa (rzut)",
    "status": "otwarte ### 10-18 KOREKTA GM: Hallis to posel Korony, nie brat Strazy (zapis obsady) - VOID zastrzezenia o 'odpowiedzi z wnetrza'."
+  },
+  {
+   "data": "300-10-18",
+   "co": "LIST PANA DO MAESTRA WYSTANA (Czarny Zamek, przy Aemonie od 05-26; wczesniej Fosa - spis flory z Nina; czlowiek Cytadeli): osobiscie - jak sie ma i jak ocenia sytuacje. Kruk WF-CZ (wieza maestra; Luwin wysyla). Odpowiedz - wola obca (Cytadela pierwsza): RZUT przy odpowiedzi (otwartosc i trafnosc).",
+   "kto": "SYMON -> WYSTAN",
+   "kanal": "kruk WF-Czarny Zamek",
+   "wraca": "300-10-21",
+   "zamyka": "odpowiedz Wystana (rzut)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

@@ -46,3 +46,10 @@
   - Kolejność (O): najpierw jedno centrum na Północy, potem następne tam, gdzie wyciekło (Biały Port, Cailin). Koszt i ludzi dopisze do karty potrzeb (~10-18).
 - **SŁOWO PANA 10-14:** jedno centrum, czyli centrala w ZM, wspólna z Willą (osobne izby i księgi, jak 09-25). **Placówki lokalne kontrwywiadu stoją osobno**, każda pod własną przykrywką i bez związku z placówkami wywiadu.
 - **ALDWIN (O):** *„Rozumiem. Głowa w jednym miejscu, ręce rozdzielone. Pierwsza placówka w Białym Porcie, druga w Cailin. Rachunek przyniosę z kartą.”*
+
+## 300-10-14, popołudnie, ZM (izba nad zakładem kopisty): PAN MÓWI WILLI, ŻE ALDWIN JEST SZEFEM KONTRWYWIADU
+**Willa (bez rzutu, własna doradczyni; O):**
+- *„Pisarz pana. Czyli dlatego miałam go sprawdzić w zeszłym tygodniu.”* Krótka pauza. *„Dobrze. Nikt by go nie wziął za kogoś więcej niż pisarza. To jest zaleta.”*
+- *„Mówiłam panu 10-11, co widziałam: czysty, na ile widać z zewnątrz. Listów nie czytałam. Teraz nie muszę. To on będzie czytał cudze.”*
+- O współpracy (zgodnie ze słowem pana z 09-17: mają współpracować): *„Wspólna skrzynka tu, w centrali, osobne izby. Jedno pytanie: ile on ma dostać ode mnie? Imiona szefów teatrów? Terenowych na pewno nie, terenowych nie znam nawet ja.”* **Do słowa pana.**
+- *„Kiedy chce pan, żebyśmy się poznali? Wolę, żeby to było tu i za pańskim słowem, a nie przypadkiem na schodach.”*

@@ -409,3 +409,7 @@ Posłaniec: **Benno** (E), pisarz placówki Domu na Czarnym Zamku. Był u Aemona
 - **PRAWDA (E z mocą zapisu):** uśpione ucho **ludzi Tywina.** Przyszedł latem z uciekinierami z Dorzecza, bez poręczenia. Czytać nie umie. Liczy na karbie: kruki, wozy, ludzi przy bramie, kto przyjeżdża do skrzydła Tallych. Raz na 6–7 dni przekazuje to ustnie **woźnicy od chrustu z ZM** (E, bez imienia: „woźnica z rudą brodą”). Woźnica jeździ traktem na południe, a dalej idzie to przez Przesmyk do kogoś w Dorzeczu (E). Srebra przy Rybnej nie ruszał, bo to nie jego zadanie: on tylko liczy.
 - Miedziak dla Gila był za to, żeby chłopiec mówił mu, kiedy pan wychodzi z komnat i kiedy wraca.
 - **Odczyt Stena i Aldwina (67), trafny w zarysie:** wiedzą, że liczy (karb w drwalni) i że rozmawia z woźnicą z rudą brodą. Nie wiedzą, dla kogo.
+
+## 300-10-14: FOSA, kluczowi ludzie (rada lenna, kancelaria, krucznicy). Prawda: rzut 34
+- **PRAWDA:** wszyscy kluczowi są czyści. Przeciek rozkładu GP poszedł niżej, przez barkarzy albo ludzi przy pomoście. Który krąg, rozstrzygnie kanarek GP ok. 10-25.
+- **Hendry odczytał to rzutem 1, MYLNIE:** podejrzewa **Alyna Skrobka**, sekretarza rady lenna (protokół). Alyn pisze wszystko, dwa razy widziano go w Cailin z kupcem z BP, a do tego bierze papier i atrament z kancelarii. **Prawda:** kupiec to brat jego żony, który sprzedaje papier Wata i atrament. Alyn kupuje u niego dla kancelarii taniej, za kwitem w księdze Gerrika (E). Niewinny.

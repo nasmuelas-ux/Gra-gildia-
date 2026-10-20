@@ -27,3 +27,11 @@
 - **Pan pyta Sansę, jakiego słowa szukała. RZUT 37 (próg 35): mówi, bez wyjaśnień.**
   - Sansa odpowiada we wspólnej mowie, cicho: *„Uprzejma.”* (O)
   - Nic nie dodaje. Arya patrzy na nią z boku i też milczy.
+
+## CZĘŚĆ 2: ŚMIESZNA SCENKA (słowo pana). RZUT 24 (próg 35): KRÓTKO I NIEŚMIAŁO
+*Temat (E): targ rybny w Braavos. Kupiec boi się własnego kota, przychodzi klientka. W scenie mają paść słowa strachu.*
+- **Arya gra kupca.** Kuli się za stołem i trzęsie kolanami: *„Kolano drży! Kot! Kot!”* Gra całym ciałem, ale słów ma mało.
+- **Sansa gra klientkę.** Czyta kwestie z tabliczki, sztywno i grzecznie: *„Dzień dobry. Ile kosztuje ryba?”*
+- Scenka trwa krótko, bo po trzech wymianach Sansa nie ma już nic na tabliczce.
+- Arya parska sama ze swojego kota. Sansa uśmiecha się półgębkiem i nic więcej.
+- **Słowa bez zmian:** drżeć i kolano siedzą, *blady* i *spokojny* nie padły ani razu.

@@ -16518,7 +16518,7 @@
    "kanal": "poslaniec do rak wlasnych, trakt WF-Fosa",
    "wraca": "300-10-17",
    "zamyka": "slowo pana",
-   "status": "otwarte"
+   "status": "zamkniete 300-10-14 ### SLOWO PANA (wieczor): NIE odsuwac od protokolu - HENDRY ma SZCZERZE POROZMAWIAC z Alynem i GO PRZESLUCHAC. List szyfrem do rak Hendry'ego. Nowa pozycja. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-10-14",
@@ -16536,6 +16536,15 @@
    "kanal": "osobiscie, ZM",
    "wraca": "300-10-15",
    "zamyka": "spotkanie odbyte, imiona przekazane",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-14",
+   "co": "ALYN SKROBEK - SZCZERA ROZMOWA I PRZESLUCHANIE (slowo pana 10-14 wieczor, odpowiedz na prosbe Hendry'ego): Hendry rozmawia z Alynem wprost i przesluchuje go (spotkania z kupcem z BP, papier i atrament z kancelarii, notatki poza protokolem). Prosba o odsuniecie od protokolu - nie udzielona (pan nie rozstrzygnal). Hendry wykonuje - wlasny, bez rzutu; CO ALYN POWIE I JAK HENDRY ODCZYTA - pasma i rzut przy meldunku.",
+   "kto": "SYMON -> HENDRY (Alyn Skrobek)",
+   "kanal": "szyfr Domu do rak Hendry'ego, kruk WF-Fosa (rano 10-15); meldunek kruk Fosa-WF",
+   "wraca": "300-10-18",
+   "zamyka": "meldunek Hendry'ego z przesluchania (rzut)",
    "status": "otwarte"
   }
  ],

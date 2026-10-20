@@ -30,3 +30,15 @@ Symon (słowo gracza): jest uchem Korony, więc powinna wiedzieć. Wyodrębnił 
 - Pyta: *„Czy Robb wie?”*
 - ~~Co do Królestwa: „to musi ogłosić Robb… lordowie przyjmą…”~~ **VOID (słowo gracza 10-11: wywiadu się nie ogłasza; to bez sensu).** Podleganie Królestwu = pod władzą Króla, po cichu, bez ogłaszania.
 - Pan: Król jeszcze nie wie, pan powie mu po powrocie. Sansa kiwa głową: *„Dobrze. Wtedy, kiedy będzie sam.”*
+
+## 300-10-17, solar, po kartach (rozmowa po braavosku): pan pyta, jakie pytania ucho Korony chciałoby mieć rozstrzygnięte
+**Sansa (O), najpierw zastrzeżenie:** *„To nie jest zamówienie. Krzesła ucha nie wolno zamawiać, i ucho też niczego nie zamawia. To są białe plamy na moich kartach. Kto na nie odpowie, nie chcę wiedzieć.”*
+**Pytania Sansy (jej kolejność):**
+1. *„Czy zdanie »Korona, którą trzyma Tally« jeszcze krąży, i gdzie. W BP, w Barrowton, przy Dreadforcie? Przed powrotem Robba to najważniejsze.”*
+2. *„Komu pisze Bolton, skoro nie pisze do nas.”*
+3. *„Czy Balon żyje. I kto jest przy nim, kiedy kaszle.”*
+4. *„Kto w Lys podpisuje weksle stoczni Lwa. Imię.”*
+5. *„Kto trzyma Koniec Burzy i na kogo czeka.”*
+6. *„Gdzie są Tommen i Myrcella. I gdzie jest Jaime.”* Ciszej: *„Jaime jest panu winien. Taki dług ma wartość tylko wtedy, kiedy się wie, gdzie jest dłużnik.”*
+7. *„Ile ognisk ma Mance i dlaczego milczy.”*
+8. *„Czy srebrna królowa w ogóle istnieje.”*

@@ -15769,9 +15769,9 @@
    "co": "BRAMA I SLUZBA ZAMKU WF - SPIS WOZOW I PORECZENIE (propozycje Rodrika z meldunku 09-30, ZGODA PANA 'zgodnie z calosci'): (1) brama - od dzis kazdy woz z ZM spisany (kto, co, do kogo), woznica nie wychodzi poza dziedziniec kuchenny bez straznika; (2) poreczenie - kazdy nowy sluga od dzis + wstecz ~30 przyjetych od wiosny (kto za nim reczy); KRUCZARNIA NA KONIEC, zeby nie sploszyc (trop Stena/Willi). W ramie rezimu informacji (ogloszenie ~10-13).",
    "kto": "SER RODRIK",
    "kanal": "osobiscie, WF",
-   "wraca": "300-10-13",
+   "wraca": "300-10-20",
    "zamyka": "spis wozow prowadzony + lista poreczen 30 slug",
-   "status": "otwarte ### 300-10-07 MELDUNEK RODRIKA - RZUT 46: 26 z 30 nowych slug ma poreczenie; 4 BEZ - przybysze z Dorzecza po wojnie (E: dwie kobiety do kuchni, wyrostek do stajni, starszy czlowiek od drewna - ten sam, co dal miedziaka Gilowi?, E - do sprawdzenia przez Stena); spis wozow na bramie prowadzony od 09-30. Kruczarnia na koniec. Rodrik proponuje: czterech bez poreczenia - z dala od komnat, kuchni panskiej i kruczarni, do czasu az ktos za nich poreczy. Do slowa pana. ### 300-10-07 SLOWO PANA: ZGODA na propozycje Rodrika - czterech bez poreczenia z dala od komnat, kuchni panskiej i kruczarni do czasu poreczenia. Wykonanie po cichu, jako zwykle przesuniecie na zime (Rodrik: kobiety do kuchni czeladnej, wyrostek do stajni zewnetrznej, czlowiek od drewna do drwalni przy murze zewnetrznym - 'drewno trzeba blizej murow na zime'). Sten: obserwacja czlowieka od drewna trwa - przesuniecie nie moze wygladac na kare. Kruczarnia na koniec poreczen. ### 300-10-07 SLOWO PANA (korekta wykonania): PRZESUNIECIE CZWORGA WSTRZYMANE - Rodrik robi je dopiero PO obserwacji (meldunek Stena ~10-12) i po dodatkowej obserwacji pozostalej trojki; teraz czlowiek od drewna moglby sie sploszyc. Do tego czasu czworo zostaje, gdzie jest; kruczarnia jak dotad (Tym przy krukach, obcy nie wchodza). ### 300-10-12: przesuniecie czworga - po meldunku Stena (powrot 10-12 wieczorem) - ~10-13. ### 300-10-13: trojka bez poreczenia czysta (Sten); czlowiek od drewna - informator (nowa pozycja); przesuniecie czworga - do slowa pana razem z decyzja o nim."
+   "status": "otwarte ### 300-10-07 MELDUNEK RODRIKA - RZUT 46: 26 z 30 nowych slug ma poreczenie; 4 BEZ - przybysze z Dorzecza po wojnie (E: dwie kobiety do kuchni, wyrostek do stajni, starszy czlowiek od drewna - ten sam, co dal miedziaka Gilowi?, E - do sprawdzenia przez Stena); spis wozow na bramie prowadzony od 09-30. Kruczarnia na koniec. Rodrik proponuje: czterech bez poreczenia - z dala od komnat, kuchni panskiej i kruczarni, do czasu az ktos za nich poreczy. Do slowa pana. ### 300-10-07 SLOWO PANA: ZGODA na propozycje Rodrika - czterech bez poreczenia z dala od komnat, kuchni panskiej i kruczarni do czasu poreczenia. Wykonanie po cichu, jako zwykle przesuniecie na zime (Rodrik: kobiety do kuchni czeladnej, wyrostek do stajni zewnetrznej, czlowiek od drewna do drwalni przy murze zewnetrznym - 'drewno trzeba blizej murow na zime'). Sten: obserwacja czlowieka od drewna trwa - przesuniecie nie moze wygladac na kare. Kruczarnia na koniec poreczen. ### 300-10-07 SLOWO PANA (korekta wykonania): PRZESUNIECIE CZWORGA WSTRZYMANE - Rodrik robi je dopiero PO obserwacji (meldunek Stena ~10-12) i po dodatkowej obserwacji pozostalej trojki; teraz czlowiek od drewna moglby sie sploszyc. Do tego czasu czworo zostaje, gdzie jest; kruczarnia jak dotad (Tym przy krukach, obcy nie wchodza). ### 300-10-12: przesuniecie czworga - po meldunku Stena (powrot 10-12 wieczorem) - ~10-13. ### 300-10-13: trojka bez poreczenia czysta (Sten); czlowiek od drewna - informator (nowa pozycja); przesuniecie czworga - do slowa pana razem z decyzja o nim. ### 300-10-13 SLOWO PANA: przesuniecie czworga - ZOSTAWIC DO ROZSTRZYGNIECIA (po obserwacji drogi woznicy)."
   },
   {
    "data": "300-09-30",
@@ -16419,6 +16419,15 @@
    "kanal": "osobiscie, WF",
    "wraca": "300-10-13",
    "zamyka": "slowo pana",
+   "status": "zamkniete 300-10-13 ### SLOWO PANA: (1) OBSERWOWAC, ODCZYTAC, JAK SIE KOMUNIKUJE; ISC ZA WOZNICA; (2) Gil - nic na razie; (3) przesuniecie czworga - zostawic do rozstrzygniecia. Nowa operacja ponizej. ### POPRZEDNIO: byl-otw"
+  },
+  {
+   "data": "300-10-13",
+   "co": "WOZNICA OD CHRUSTU Z ZM ('ruda broda') - ISC ZA NIM (slowo pana 10-13): dokad jedzie, z kim mowi na poludniu, co przekazuje; czlowiek od drewna - obserwacja dalej (karb, rytm, sposob przekazu); nie ruszac, nie sploszyc. Wykonawcy: ALDWIN (prowadzi), STEN (zamek), na trakcie - ludzie Aldwina albo przybocznej w cywilu. Wynik - RZUT przy meldunku (pasma przed rzutem). Nastepne spotkanie przy drwalni wg rytmu ~10-17..19 (E).",
+   "kto": "ALDWIN ; STEN",
+   "kanal": "osobiscie",
+   "wraca": "300-10-20",
+   "zamyka": "meldunek: droga woznicy i adresat",
    "status": "otwarte"
   }
  ],

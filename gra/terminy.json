@@ -16633,9 +16633,9 @@
    "co": "WYJAZD REEDOW DO SZAREJ WODY (Howland, Jojen, Meera; Jojen zgodny - rzut 18): przed glebokim sniegiem, przez Przesmyk i Fose. Termin - slowo Reeda; przejazd przez lenno Fosy (gosciniec, eskorta, lodz Jastrzebi) - do slowa pana.",
    "kto": "HOWLAND REED ; SYMON (Fosa: Garrick, Hendry)",
    "kanal": "osobiscie WF; kruk WF-Fosa",
-   "wraca": "300-10-18",
+   "wraca": "300-10-19",
    "zamyka": "Reedowie wyjechali / data ustalona",
-   "status": "otwarte"
+   "status": "otwarte ### 10-16 SLOWO PANA: wyjazd 10-19 o swicie (slowo Reeda); na Fosie ESKORTA JASTRZEBI przez lenno i Przesmyk do granicy Reedow; GARRICK przyjmuje Reedow na Fosie (E: Fosa ~10-29/30). Rozkaz krukiem WF-Fosa dzis."
   },
   {
    "data": "300-10-16",
@@ -16644,6 +16644,15 @@
    "kanal": "osobiscie WF; kruk WF-Fosa",
    "wraca": "300-10-18",
    "zamyka": "slowo pana: zgoda/warunki",
+   "status": "zamkniete 300-10-16 ### SLOWO PANA: ZGODA - wymiana przez Fose; GARRICK ustala ilosci; zboza dosc, brakuje innych racji (tluszcz, ryba - waskie gardlo) - wiec od krannogow ryba, wegorze, zaby, torf. Nowa pozycja wykonawcza. ### POPRZEDNIO: byl-otw"
+  },
+  {
+   "data": "300-10-16",
+   "co": "FOSA - WYMIANA Z KRANNOGAMI NA ZIME (slowo pana 10-16): sol i zboze lenna za rybe, wegorze, zaby, torf (racje poza zbozem - waskie gardlo). GARRICK ustala ilosci i miare z czlowiekiem Reeda; ksiega wymiany w kancelarii Fosy; przez lodzie przy grobli. Wlasni - bez rzutu; wola krannogow - jest (prosba Reeda).",
+   "kto": "GARRICK ; WARRYN ; KESSEL (lodzie) ; czlowiek Reeda",
+   "kanal": "kruk WF-Fosa 10-16; na miejscu",
+   "wraca": "300-10-27",
+   "zamyka": "pierwsza wymiana w ksiedze Fosy",
    "status": "otwarte"
   }
  ],

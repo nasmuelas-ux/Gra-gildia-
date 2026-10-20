@@ -44,3 +44,5 @@
   - *„Tak. Tak samo jak u pani Willi: w centrum tylko ja i ci, którzy składają obraz. Ci, którzy chodzą i patrzą, nie wiedzą, gdzie ono jest.”*
   - Jedno pytanie, bo dotyczy wcześniejszego słowa pana (09-25: centrala w ZM, Willa i kontrwywiad pod jednym dachem, osobne izby): *„Czy moje centrum ma być pod tym samym dachem co pani Willa, czy osobno? Pod jednym dachem łatwiej o wspólną skrzynkę. Osobno, jak jedno spłonie, drugie stoi.”* **Do słowa pana.**
   - Kolejność (O): najpierw jedno centrum na Północy, potem następne tam, gdzie wyciekło (Biały Port, Cailin). Koszt i ludzi dopisze do karty potrzeb (~10-18).
+- **SŁOWO PANA 10-14:** jedno centrum, czyli centrala w ZM, wspólna z Willą (osobne izby i księgi, jak 09-25). **Placówki lokalne kontrwywiadu stoją osobno**, każda pod własną przykrywką i bez związku z placówkami wywiadu.
+- **ALDWIN (O):** *„Rozumiem. Głowa w jednym miejscu, ręce rozdzielone. Pierwsza placówka w Białym Porcie, druga w Cailin. Rachunek przyniosę z kartą.”*

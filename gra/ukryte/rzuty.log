@@ -3459,3 +3459,8 @@ rzut 9
 300-10-11 | PASMA | SARRA (zajazd pod Brama, patrycjat ZM) - CO SLYCHAC W MIESCIE (pierwsza rozmowa z panem przy sniadaniu; 'wie, kto z kim pije') | prog 40 | <20 grzecznie i nic (ostroznosc wobec Namiestnika), 20-39 ogolne (pogoda, ceny, chrust, Krol), 40-74 ogolne + jedna rzecz uzyteczna, 75+ ogolne + rzecz cenna i Sarra daje do zrozumienia, ze moze mowic czesciej
 300-10-11 | WYNIK | SARRA - CO SLYCHAC | RZUT 7
 300-10-11 | VOID | RZUT 7 (Sarra - co slychac) - pytanie wycofane przez gracza przed odpowiedzia; zastapione: 'jak interes sie kreci' (rozmowa o wlasnym interesie - bez rzutu, O)
+300-10-12 | PASMA | CYTADELA - KONKLAWE: MAESTER DLA GORACEGO PORTU (list pana 09-10; precedens Orwyn 94; zakres: leczenie, pogoda, szkola, bez krukow) | prog 45 | <25 odmowa (brak wolnego maestra na Polnoc zima), 25-44 zgoda, ale dopiero wiosna 301, 45-79 zgoda - maester statkiem Redwyne'ow ~XI, 80+ zgoda + maester z lancuchem leczenia i pogody, z imieniem, ~XI
+300-10-12 | PASMA | AEMON - STAN (cykl tygodniowy; 10-05 przytomny, lepiej niz w IX) | <20 gorzej, 20-59 bez zmian, 60+ lepiej
+300-10-12 | WYNIKI | SEN 17 | POGODA 75 | CYTADELA 14 | AEMON 79
+300-10-12 | SEN | RZUT 17 | zle
+300-10-12 | POGODA | RZUT 75 | dobrze - slonce, mroz

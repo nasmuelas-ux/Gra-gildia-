@@ -12009,7 +12009,7 @@
    "kanal": "karta Torrena",
    "wraca": "300-10-12",
    "zamyka": "pierwsza notatka w karcie Torrena po przybyciu kolumny",
-   "status": "otwarte ### 09-05 (poczta_300_09_05.md): pierwsza notatka: dziesieciu z Dreadfortu trzyma sie razem, osobno od ludzi Barbrey; rozkazy bez sporu - 'cisza, ale nie spokoj'. ### 300-10-05 TRIAZ: karta Torrena (Dustinport) ~10-12."
+   "status": "zamkniete 300-10-12 ### Pobor rozpuszczany (rozkaz 10-10) - notatki tygodniowe o kolumnie zbedne; stan w pozycji 'POBOR WSCHODU - ROZPUSZCZENIE W TOKU' (~10-20). ### POPRZEDNIO: byl-otw ### 09-05 (poczta_300_09_05.md): pierwsza notatka: dziesieciu z Dreadfortu trzyma sie razem, osobno od ludzi Barbrey; rozkazy bez sporu - 'cisza, ale nie spokoj'. ### 300-10-05 TRIAZ: karta Torrena (Dustinport) ~10-12."
   },
   {
    "data": "300-08-07",
@@ -14475,7 +14475,7 @@
    "kanal": "kruk WF -> Stare Miasto (lancuch maesterski)",
    "wraca": "300-10-12",
    "zamyka": "odpowiedz Konklawe (rzut) - imie maestra albo odmowa",
-   "status": "otwarte ### 09-10 SLOWO PANA (przed wylotem kruka): POPRAWKA LISTU wg karty Glebokorzenia pkt 4 - maester GP: leczenie (lecznica przy porcie), pogoda i sztormy, nauka/szkola; BEZ krukow, pieczeci i ksiag - krukarnie GP i ksiege lodmanow trzyma czlowiek Glebokorzenia (krucznik sieci Korony). ### 300-10-10: z Cytadeli nic po sniezycy; ~10-12."
+   "status": "zamkniete 300-10-12 ### ODPOWIEDZ KONKLAWE (lancuch maesterski przez Luwina, kruk 10-12) - RZUT 14: ODMOWA - 'Cytadela nie ma wolnego lancucha na Polnoc przed zima; wiosna - mozna pisac ponownie' (O, seneszal). Do slowa pana: wiosna ponownie / Orwyn albo Edmund z Fosy dorywczo w GP / inna droga. ### POPRZEDNIO: byl-otw ### 09-10 SLOWO PANA (przed wylotem kruka): POPRAWKA LISTU wg karty Glebokorzenia pkt 4 - maester GP: leczenie (lecznica przy porcie), pogoda i sztormy, nauka/szkola; BEZ krukow, pieczeci i ksiag - krukarnie GP i ksiege lodmanow trzyma czlowiek Glebokorzenia (krucznik sieci Korony). ### 300-10-10: z Cytadeli nic po sniezycy; ~10-12."
   },
   {
    "data": "300-09-10",
@@ -14617,9 +14617,9 @@
    "co": "SZEF BEZPIECZENSTWA DOMU TALLY (slowo pana 09-13: 'zatrudniam szefa bezpieczenstwa Domu - on bedzie zarzadzal jego bezpieczenstwem'): nowy urzad Domu (Kasa 1), pod panem; zakres: kantory i placowki (BP, Braavos, Pentos, Seagard...), ladunki i skarbczyki, ludzie Domu, ochrona przed trucizna/kradzieza/podstepem (Lys); wspolpraca: STEN (przyboczna - osoba pana i rodu), WILLA (wywiad - firewall: szef dostaje od niej tylko ostrzezenia), HAL (kantor). Sam najmuje ludzi lokalnie wedlug potrzeby, w budzecie. KANDYDACI (Sten, E): (1) Gerold Popiol, (2) Torvald Siwek - b. sierzant strazy portu BP, (3) Ysilla z Braavos - b. strazniczka skarbca domu Prestayn (przez Neste). Wybor - slowo pana; zgoda kandydata - RZUT przy rozmowie/liscie.",
    "kto": "SYMON ; STEN (kandydaci)",
    "kanal": "WF",
-   "wraca": "300-10-12",
+   "wraca": "300-10-20",
    "zamyka": "WERYFIKACJA 4-STOPNIOWA (stala zasada 09-16): Willa (rzut ~09-25) -> kontrwywiad (rzut ~09-28) -> Sten -> pan -> oferta Hala -> zgoda Torvalda (rzut)",
-   "status": "otwarte ### 09-13 SLOWO PANA: TORVALD SIWEK - ale NAJPIERW sprawdzenie przez Wille (po cichu); potem oferta przez Hala w BP + slowo grzecznosci do Wymana. ### 09-16 STALA ZASADA: weryfikacja kluczowych - Willa, kontrwywiad, Sten, pan (po kolei). ### 300-10-05 TRIAZ: przeglad na Malej Radzie ~10-10. ### 300-10-10: POZA RADA (wywiad/Dom) - meldunki Willi na spotkaniu w ZM; dzien do slowa pana (trakt odkopywany)."
+   "status": "otwarte ### 09-13 SLOWO PANA: TORVALD SIWEK - ale NAJPIERW sprawdzenie przez Wille (po cichu); potem oferta przez Hala w BP + slowo grzecznosci do Wymana. ### 09-16 STALA ZASADA: weryfikacja kluczowych - Willa, kontrwywiad, Sten, pan (po kolei). ### 300-10-05 TRIAZ: przeglad na Malej Radzie ~10-10. ### 300-10-10: POZA RADA (wywiad/Dom) - meldunki Willi na spotkaniu w ZM; dzien do slowa pana (trakt odkopywany). ### 300-10-12: wstrzymane do rozmowy pana z Torvaldem (slowo 10-11) - pozycja Torvalda."
   },
   {
    "data": "300-09-13",
@@ -15384,7 +15384,7 @@
    "kanal": "trakt Fosa-WF",
    "wraca": "300-10-12",
    "zamyka": "Mira w WF",
-   "status": "otwarte ### 300-10-08: wg zbiorczego 10-06 Mira wyjechala z Fosy 10-05 z Dagonem i oddzialem II - w WF ~10-12. ### 300-10-09: SNIEZYCA na trakcie - Mira z Dagonem i oddzialem II w drodze (wyjazd z Fosy 10-05); przeczekaja w zajezdzie/strazy na trakcie (E); przyjazd moze sie przesunac o dzien-dwa. ### 300-10-11 SLOWO PANA: STEN wyjezdza naprzeciw Miry - zamiast karety SANIE (rada Stena: 'kareta w tym sniegu siadzie na osiach'), futra, cegly do grzania, 4 ludzi przybocznej; traktem krolewskim na poludnie do miejsca, gdzie Mira przeczekala sniezyce. Wlasni - bez rzutu. Powrot z Mira ~10-12 wieczorem albo 10-13 (droga)."
+   "status": "otwarte ### 300-10-08: wg zbiorczego 10-06 Mira wyjechala z Fosy 10-05 z Dagonem i oddzialem II - w WF ~10-12. ### 300-10-09: SNIEZYCA na trakcie - Mira z Dagonem i oddzialem II w drodze (wyjazd z Fosy 10-05); przeczekaja w zajezdzie/strazy na trakcie (E); przyjazd moze sie przesunac o dzien-dwa. ### 300-10-11 SLOWO PANA: STEN wyjezdza naprzeciw Miry - zamiast karety SANIE (rada Stena: 'kareta w tym sniegu siadzie na osiach'), futra, cegly do grzania, 4 ludzi przybocznej; traktem krolewskim na poludnie do miejsca, gdzie Mira przeczekala sniezyce. Wlasni - bez rzutu. Powrot z Mira ~10-12 wieczorem albo 10-13 (droga). ### 300-10-12: pogoda dobra (75) - Sten z saniami spotkal Mire na trakcie (E: zajazd przy brodzie na Bialym Nozu - ? bez nazwy, E 'zajazd na trakcie'); POWROT DO WF DZIS O ZMIERZCHU (E)."
   },
   {
    "data": "300-09-24",
@@ -15501,16 +15501,16 @@
    "kanal": "osobiscie ZM",
    "wraca": "300-10-12",
    "zamyka": "lista kandydatow na stole pana",
-   "status": "otwarte ### 09-25 SLOWO PANA: DWA RODZAJE - CENTRUM OPERACYJNE (ciche, nie karczma; kupione z sakiewki) i USZY (karczma, przewoznik, laznia, kowal, pralnia; czesto oplacony czlowiek zamiast zakupu). Kandydaci: 1 centrum + 2-3 uszy na teatr. ### 09-25 SLOWO PANA: kontrwywiad raportuje WPROST DO PANA; wspolna skrzynka w ZM. CENTRALA W ZM - przedsiebiorstwo-przykrywka (Willa: kopista/introligator, E), siedza tam Willa i kontrwywiad, osobne izby i ksiegi. Willa wyprowadza sie znad skladu Domu po zakupie. Kandydat na centrale ZM - w tej samej liscie. ### 09-25 SLOWO PANA: siedziby zatwierdzone (centrala ZM; Polnoc - Cailin I BIALY PORT (dwie placowki); Zachod - Seagard; Essos - Braavos I PENTOS; Poludnie - STARE MIASTO; KP - KP). Raporty kazdej placowki osobno i w roznych terminach. Kandydaci w tej liscie. ### 300-10-10: POZA RADA (wywiad/Dom) - meldunki Willi na spotkaniu w ZM; dzien do slowa pana (trakt odkopywany)."
+   "status": "zamkniete 300-10-12 ### MELDUNEK WILLI 10-11 (gra/meldunek_willi_300_10_11.md): wykonane - kandydaci/klucz gotowe; golebniki Fosa i BP w XI. ### POPRZEDNIO: byl-otw ### 09-25 SLOWO PANA: DWA RODZAJE - CENTRUM OPERACYJNE (ciche, nie karczma; kupione z sakiewki) i USZY (karczma, przewoznik, laznia, kowal, pralnia; czesto oplacony czlowiek zamiast zakupu). Kandydaci: 1 centrum + 2-3 uszy na teatr. ### 09-25 SLOWO PANA: kontrwywiad raportuje WPROST DO PANA; wspolna skrzynka w ZM. CENTRALA W ZM - przedsiebiorstwo-przykrywka (Willa: kopista/introligator, E), siedza tam Willa i kontrwywiad, osobne izby i ksiegi. Willa wyprowadza sie znad skladu Domu po zakupie. Kandydat na centrale ZM - w tej samej liscie. ### 09-25 SLOWO PANA: siedziby zatwierdzone (centrala ZM; Polnoc - Cailin I BIALY PORT (dwie placowki); Zachod - Seagard; Essos - Braavos I PENTOS; Poludnie - STARE MIASTO; KP - KP). Raporty kazdej placowki osobno i w roznych terminach. Kandydaci w tej liscie. ### 300-10-10: POZA RADA (wywiad/Dom) - meldunki Willi na spotkaniu w ZM; dzien do slowa pana (trakt odkopywany)."
   },
   {
    "data": "300-09-25",
    "co": "CENTRUM OPERACYJNE WYWIADU W KROLEWSKIEJ PRZYSTANI (slowo pana 09-25): niezaleznie od obecnej siatki (bez Derona, bez placowek Domu); jeden czlowiek nie z Polnocy (akcent), maly interes-przykrywka, sen do wiosny; lacznosc statkiem przez Braavos albo kupcem przez Rozdroze, nie krukiem. Willa przynosi plan i kandydata. Ryzyko: siatka Varysa (O).",
    "kto": "WILLA ; SYMON",
    "kanal": "osobiscie ZM",
-   "wraca": "300-10-12",
+   "wraca": "301-03-01",
    "zamyka": "plan i kandydat na stole pana",
-   "status": "otwarte ### 300-10-10: POZA RADA (wywiad/Dom) - meldunki Willi na spotkaniu w ZM; dzien do slowa pana (trakt odkopywany)."
+   "status": "otwarte ### 300-10-10: POZA RADA (wywiad/Dom) - meldunki Willi na spotkaniu w ZM; dzien do slowa pana (trakt odkopywany). ### 300-10-12: stan wg meldunku Willi 10-11 (KP - kandydat, wyjazd wiosna; szkola - 4 uczniow; placowki - Boltonsgate/Karport obsadzone, Mewi Grod/Deskowe w drodze); przeglad nastepny."
   },
   {
    "data": "300-09-25",
@@ -15537,7 +15537,7 @@
    "kanal": "osobiscie ZM",
    "wraca": "300-10-12",
    "zamyka": "klucz ulozony i wreczony; golebniki w kosztorysie przykrywek",
-   "status": "otwarte ### 300-10-10: POZA RADA (wywiad/Dom) - meldunki Willi na spotkaniu w ZM; dzien do slowa pana (trakt odkopywany)."
+   "status": "zamkniete 300-10-12 ### MELDUNEK WILLI 10-11 (gra/meldunek_willi_300_10_11.md): wykonane - kandydaci/klucz gotowe; golebniki Fosa i BP w XI. ### POPRZEDNIO: byl-otw ### 300-10-10: POZA RADA (wywiad/Dom) - meldunki Willi na spotkaniu w ZM; dzien do slowa pana (trakt odkopywany)."
   },
   {
    "data": "300-09-25",
@@ -15553,9 +15553,9 @@
    "co": "SZKOLA WYWIADU W ZM (slowo pana 09-25): przykrywka - szkola pisarzy i rachmistrzow przy centrali (kopista-introligator); uczniowie spoza Korpusu Korony i spoza Domu; najlepsi dalej (analitycy). Willa - plan, nauczyciele, nabor; koszt E ~1-2/mies (do slowa pana).",
    "kto": "WILLA",
    "kanal": "osobiscie ZM",
-   "wraca": "300-10-12",
+   "wraca": "300-11-28",
    "zamyka": "plan szkoly na stole pana",
-   "status": "otwarte ### 300-10-10: POZA RADA (wywiad/Dom) - meldunki Willi na spotkaniu w ZM; dzien do slowa pana (trakt odkopywany)."
+   "status": "otwarte ### 300-10-10: POZA RADA (wywiad/Dom) - meldunki Willi na spotkaniu w ZM; dzien do slowa pana (trakt odkopywany). ### 300-10-12: stan wg meldunku Willi 10-11 (KP - kandydat, wyjazd wiosna; szkola - 4 uczniow; placowki - Boltonsgate/Karport obsadzone, Mewi Grod/Deskowe w drodze); przeglad nastepny."
   },
   {
    "data": "300-09-25",
@@ -15724,9 +15724,9 @@
    "co": "DOSSIER LYS DLA WYMANA (slowo pana 09-29; gra/dossier_lys_dla_wymana_300_09_29.md): poslaniec do rak wlasnych, wyjazd z WF ~10-12 - PO KANARKU (noce 10-04..10-10, wynik ~10-13); pelne dossier (6 punktow, bez zrodel, bez Baelisha i Dreadfortu); w BP ~10-17. Odpowiedz Wymana - RZUT (jego decyzja w jego porcie).",
    "kto": "SYMON -> WYMAN (poslaniec)",
    "kanal": "poslaniec WF-BP do rak wlasnych",
-   "wraca": "300-10-12",
+   "wraca": "300-10-13",
    "zamyka": "poslaniec wyruszyl (potem odpowiedz Wymana - rzut)",
-   "status": "otwarte"
+   "status": "otwarte ### 300-10-12: wyjazd poslanca PO KANARKU (wynik ~10-13) - wg warunku."
   },
   {
    "data": "300-09-29",
@@ -15769,9 +15769,9 @@
    "co": "BRAMA I SLUZBA ZAMKU WF - SPIS WOZOW I PORECZENIE (propozycje Rodrika z meldunku 09-30, ZGODA PANA 'zgodnie z calosci'): (1) brama - od dzis kazdy woz z ZM spisany (kto, co, do kogo), woznica nie wychodzi poza dziedziniec kuchenny bez straznika; (2) poreczenie - kazdy nowy sluga od dzis + wstecz ~30 przyjetych od wiosny (kto za nim reczy); KRUCZARNIA NA KONIEC, zeby nie sploszyc (trop Stena/Willi). W ramie rezimu informacji (ogloszenie ~10-13).",
    "kto": "SER RODRIK",
    "kanal": "osobiscie, WF",
-   "wraca": "300-10-12",
+   "wraca": "300-10-13",
    "zamyka": "spis wozow prowadzony + lista poreczen 30 slug",
-   "status": "otwarte ### 300-10-07 MELDUNEK RODRIKA - RZUT 46: 26 z 30 nowych slug ma poreczenie; 4 BEZ - przybysze z Dorzecza po wojnie (E: dwie kobiety do kuchni, wyrostek do stajni, starszy czlowiek od drewna - ten sam, co dal miedziaka Gilowi?, E - do sprawdzenia przez Stena); spis wozow na bramie prowadzony od 09-30. Kruczarnia na koniec. Rodrik proponuje: czterech bez poreczenia - z dala od komnat, kuchni panskiej i kruczarni, do czasu az ktos za nich poreczy. Do slowa pana. ### 300-10-07 SLOWO PANA: ZGODA na propozycje Rodrika - czterech bez poreczenia z dala od komnat, kuchni panskiej i kruczarni do czasu poreczenia. Wykonanie po cichu, jako zwykle przesuniecie na zime (Rodrik: kobiety do kuchni czeladnej, wyrostek do stajni zewnetrznej, czlowiek od drewna do drwalni przy murze zewnetrznym - 'drewno trzeba blizej murow na zime'). Sten: obserwacja czlowieka od drewna trwa - przesuniecie nie moze wygladac na kare. Kruczarnia na koniec poreczen. ### 300-10-07 SLOWO PANA (korekta wykonania): PRZESUNIECIE CZWORGA WSTRZYMANE - Rodrik robi je dopiero PO obserwacji (meldunek Stena ~10-12) i po dodatkowej obserwacji pozostalej trojki; teraz czlowiek od drewna moglby sie sploszyc. Do tego czasu czworo zostaje, gdzie jest; kruczarnia jak dotad (Tym przy krukach, obcy nie wchodza)."
+   "status": "otwarte ### 300-10-07 MELDUNEK RODRIKA - RZUT 46: 26 z 30 nowych slug ma poreczenie; 4 BEZ - przybysze z Dorzecza po wojnie (E: dwie kobiety do kuchni, wyrostek do stajni, starszy czlowiek od drewna - ten sam, co dal miedziaka Gilowi?, E - do sprawdzenia przez Stena); spis wozow na bramie prowadzony od 09-30. Kruczarnia na koniec. Rodrik proponuje: czterech bez poreczenia - z dala od komnat, kuchni panskiej i kruczarni, do czasu az ktos za nich poreczy. Do slowa pana. ### 300-10-07 SLOWO PANA: ZGODA na propozycje Rodrika - czterech bez poreczenia z dala od komnat, kuchni panskiej i kruczarni do czasu poreczenia. Wykonanie po cichu, jako zwykle przesuniecie na zime (Rodrik: kobiety do kuchni czeladnej, wyrostek do stajni zewnetrznej, czlowiek od drewna do drwalni przy murze zewnetrznym - 'drewno trzeba blizej murow na zime'). Sten: obserwacja czlowieka od drewna trwa - przesuniecie nie moze wygladac na kare. Kruczarnia na koniec poreczen. ### 300-10-07 SLOWO PANA (korekta wykonania): PRZESUNIECIE CZWORGA WSTRZYMANE - Rodrik robi je dopiero PO obserwacji (meldunek Stena ~10-12) i po dodatkowej obserwacji pozostalej trojki; teraz czlowiek od drewna moglby sie sploszyc. Do tego czasu czworo zostaje, gdzie jest; kruczarnia jak dotad (Tym przy krukach, obcy nie wchodza). ### 300-10-12: przesuniecie czworga - po meldunku Stena (powrot 10-12 wieczorem) - ~10-13."
   },
   {
    "data": "300-09-30",
@@ -15787,9 +15787,9 @@
    "co": "TROP GIL OD SWIEC (meldunek Stena i Rhony 10-01): chlopiec ~9 l. nosi swiece do skrzydla Tallych czesciej niz trzeba; miedziak od czlowieka od drewna (E, nowy od lata). Odczyt, nie prawda (prawda - RZUT przy dzialaniu, pasma przed rzutem). DO SLOWA PANA.",
    "kto": "SYMON -> STEN / RHONA / ALDWIN",
    "kanal": "osobiscie, WF",
-   "wraca": "300-10-12",
+   "wraca": "300-10-13",
    "zamyka": "meldunek Stena: kto i po co",
-   "status": "otwarte ### 300-10-01 SLOWO PANA: OBSERWACJA Gila i czlowieka od drewna - STEN (ludzie przybocznej) + RHONA; nie ruszac, nie pytac wiecej. Meldunek ~10-08 (RZUT przy meldunku, pasma przed rzutem). ### 300-10-07: czlowiek od drewna = ten sam co pytal Tyma o kruki (Tym 10-07); obserwacja Sten+Aldwin - wspolna z operacja 'CZLOWIEK OD DREWNA' (~10-12)."
+   "status": "otwarte ### 300-10-01 SLOWO PANA: OBSERWACJA Gila i czlowieka od drewna - STEN (ludzie przybocznej) + RHONA; nie ruszac, nie pytac wiecej. Meldunek ~10-08 (RZUT przy meldunku, pasma przed rzutem). ### 300-10-07: czlowiek od drewna = ten sam co pytal Tyma o kruki (Tym 10-07); obserwacja Sten+Aldwin - wspolna z operacja 'CZLOWIEK OD DREWNA' (~10-12). ### 300-10-12: wspolny meldunek po powrocie Stena ~10-13."
   },
   {
    "data": "300-10-01",
@@ -15879,7 +15879,7 @@
    "kanal": "osobiscie, domena",
    "wraca": "300-10-12",
    "zamyka": "drugie odwiedziny odbyte (rzut)",
-   "status": "otwarte ### 300-10-09: SNIEZYCA - wyjazd do Glebokich Lak ODLOZONY (trakty zawiane). Rzut odwiedzin wykonany rano (95, w logu) - wazny przy odwiedzinach; pierwszy pogodny dzien. ### 300-10-11: pogoda 20 (drobny snieg z wiatrem) - nie 'pogodny dzien'; Roslin czeka (wola Krolowej, warunek z 10-09). Rzut 95 nadal wazny."
+   "status": "otwarte ### 300-10-09: SNIEZYCA - wyjazd do Glebokich Lak ODLOZONY (trakty zawiane). Rzut odwiedzin wykonany rano (95, w logu) - wazny przy odwiedzinach; pierwszy pogodny dzien. ### 300-10-11: pogoda 20 (drobny snieg z wiatrem) - nie 'pogodny dzien'; Roslin czeka (wola Krolowej, warunek z 10-09). Rzut 95 nadal wazny. ### 300-10-12: POGODNY DZIEN (75) - Krolowa jedzie dzis saniami po nabozenstwie (eskorta jak ustalona); rzut 95 - wynik przy powrocie."
   },
   {
    "data": "300-10-03",
@@ -15940,9 +15940,9 @@
    "co": "WYWIAD - ROZBUDOWA (slowo pana 10-03; gra/wywiad_jedna_kartka_300_09_17.md): (A) kartoteka z indeksem, jedna miara, kalendarz swiata, mapy KUPIC; papiery Korony - nie, Willa pyta pana; (B) nowe placowki: MEWI GROD (16., wiosna), DESKOWE MIASTO (24., wiosna, pod Poludniem), KARPORT (4., od XII, pod Polnoca), BOLTONSGATE (8., od XI/XII, pod Polnoca); morze - bez floty, wlasne dojscia; LORDOWIE POLNOCY - wywiad patrzy (cicho, fakty, bez dzialania bez slowa pana, osobna teczka); STOL SZYFROW - specjalisci (Braavos, potem Pentos/Myr), dwoch analitykow (wojsko, logistyka). Stan - na stronie Willi 28. Kandydaci - przy liscie przykrywek ~10-10.",
    "kto": "WILLA",
    "kanal": "osobiscie ZM",
-   "wraca": "300-10-12",
+   "wraca": "300-11-28",
    "zamyka": "kandydaci i przykrywki dla nowych placowek + pierwsi analitycy",
-   "status": "otwarte ### 300-10-10: POZA RADA (wywiad/Dom) - meldunki Willi na spotkaniu w ZM; dzien do slowa pana (trakt odkopywany)."
+   "status": "otwarte ### 300-10-10: POZA RADA (wywiad/Dom) - meldunki Willi na spotkaniu w ZM; dzien do slowa pana (trakt odkopywany). ### 300-10-12: stan wg meldunku Willi 10-11 (KP - kandydat, wyjazd wiosna; szkola - 4 uczniow; placowki - Boltonsgate/Karport obsadzone, Mewi Grod/Deskowe w drodze); przeglad nastepny."
   },
   {
    "data": "300-10-03",
@@ -16158,7 +16158,7 @@
    "kanal": "osobiscie, sept WF",
    "wraca": "300-10-12",
    "zamyka": "pierwsze wspolne nabozenstwo odbyte",
-   "status": "otwarte"
+   "status": "zamkniete 300-10-12 ### 300-10-12 SIODMY DZIEN: Chayle sie zgodzil (O: 'burczal, potem sie zgodzil' - jak przewidzial Owen); pierwsze wspolne nabozenstwo rano w sepcie WF - lady Catelyn i krolowa Roslin z Eddardem; Owen czyta, Chayle blogoslawi. Wlasni/zyczliwi - bez rzutu. Dalej co siodmy dzien. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-10-08",
@@ -16185,7 +16185,7 @@
    "kanal": "osobiscie, WF/ZM",
    "wraca": "300-10-12",
    "zamyka": "warta stoi od pierwszej nocy - meldunek Edrica",
-   "status": "otwarte"
+   "status": "zamkniete 300-10-12 ### MELDUNEK EDRICA (ustnie po nabozenstwie): warta stoi od nocy 10-09/10 - czterech ze strazy miejskiej na zmiane przy bramie miasta, kocioł z ogniem i budka (E); bez zdarzen; opal z targu drzewnego. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-10-08",
@@ -16230,7 +16230,7 @@
    "kanal": "WF/ZM",
    "wraca": "300-10-12",
    "zamyka": "odpowiedz Edrica: jest robota / od kiedy",
-   "status": "otwarte"
+   "status": "zamkniete 300-10-12 ### EDRIC (O): jest robota w Konserwie od XI (przy beczce, od beczki z udzialem); obie wpisane do rubryki; Roslin pisze im sama. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-10-09",
@@ -16347,7 +16347,7 @@
    "kanal": "woz Domu BP-ZM",
    "wraca": "300-10-12",
    "zamyka": "czesc Symona odebrana (sakiewka), czesc Miry w kufrze",
-   "status": "otwarte"
+   "status": "otwarte ### 300-10-12: woz Domu z BP dojechal do faktorii ZM w nocy po sniezycy (E) - przekaz do odbioru za kwitem od dzis."
   },
   {
    "data": "300-10-10",
@@ -16401,6 +16401,15 @@
    "kanal": "osobiscie, WF",
    "wraca": "300-10-14",
    "zamyka": "lista przekazana",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-12",
+   "co": "GORACY PORT - LECZENIE I POGODA BEZ MAESTRA (Konklawe odmowilo 10-12, rzut 14). Do slowa pana: pisac ponownie wiosna; tymczasem Orwyn/Edmund z Fosy dorywczo; lecznica GP - zielarka/opatrywacz z kursu.",
+   "kto": "SYMON ; LUWIN ; GARRICK",
+   "kanal": "kruk WF-Fosa",
+   "wraca": "300-10-14",
+   "zamyka": "slowo pana",
    "status": "otwarte"
   }
  ],
@@ -16587,7 +16596,7 @@
     "start": "300-05-01"
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-10-05",
+   "ostatnio_odebrane": "300-10-12",
    "zrodlo": "terminy (AEMON CHORY)",
    "rzut": "tak - stan zdrowia (sprawa zewnetrzna)"
   },

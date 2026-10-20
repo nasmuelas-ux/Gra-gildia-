@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 10,
-  "dzien": 11,
+  "dzien": 12,
   "era": "AC"
  },
- "pora": "noc",
+ "pora": "rano",
  "sezon": "zima (300)",
- "pogoda": "RZUT 20 (300-10-11): ZLE - szaro, drobny snieg z przenikliwym wiatrem od polnocy, mroz; kruki lataja, ale nisko i pozno; trakty odkopane po sniezycy, przejezdne saniami (E).",
- "dzien_tygodnia_nr": 6,
+ "pogoda": "RZUT 75 (300-10-12): DOBRZE - czyste niebo, slonce na sniegu, mroz, bez wiatru; kruki od switu; trakty przejezdne saniami i wozem (E).",
+ "dzien_tygodnia_nr": 7,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

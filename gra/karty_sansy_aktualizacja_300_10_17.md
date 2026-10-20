@@ -15,3 +15,18 @@
 4. *„Papier Lwa to nóż. Jak go pokażecie Bankowi, Lew się odwróci i zobaczy, kto trzyma nóż. Najpierw Robb.”*
 
 **Pewność karty:** wyjście z Dorzecza pewne. Cel garnizonu prawdopodobny. Cel floty to odczyt.
+
+## 2. REACH (Tyrellowie, Olenna)
+**Nowe od 08-27 (z zapisu):**
+- **Zboże:** raty Reach przez Gorący Port idą w X. Ostatnie statki ~10-25 (pewne). Słowo pana 09-04: **dokupić ponad kontrakt** (Gawen liczy, częściowo za towar, nie za drewno okrętowe).
+- **Lys a pomost GP:** dwaj kapitanowie z Lys pytali w BP o głębokość ujścia i o pomost. Powiedziano o tym eskorcie Redwyne'ów i Olennie, kanałem zbożowym (09-10). **Odpowiedź Olenny ~10-20.**
+- **Cytadela** (Stare Miasto) **odmówiła maestra dla GP** (10-12, rzut 14). Brak wolnego maestra na Północ na zimę.
+- **Dustinport jako drugi port** i **szkic kontraktu na trzy lata** czekają. To droga morska na południe, ~75 dni (przegląd z bilansem X).
+- Z naszych źródeł: w Reach mówią, że *„Północ kupuje jak przed długą zimą”*. Zboże tanieje po żniwach.
+
+**Odczyt Sansy (O, po braavosku):**
+1. *„Olenna sprzedaje nam zboże, bo chce, żeby Lew patrzył na nas, nie na nią. Ale nie lubi, kiedy ktoś obcy mierzy głębokość jej portu. Lys pod jej pomostem to dla niej dobra wiadomość od nas.”*
+2. *„Cytadela mówi »nie«, bo maesterowie piszą do maesterów. Ktoś w Starym Mieście nie chce, żeby Północ miała maestra, który nie jest od Cytadeli, tylko od nas.”* Po chwili: *„Albo naprawdę nie mają. Nie wiem. To odczyt.”*
+3. *„Tania cena teraz to droga cena zimą. Olenna to wie. Kupić teraz, ile się da.”*
+
+**Pewność karty:** zboże pewne. Lys pewne. Cytadela: odmowa pewna, powód to odczyt.

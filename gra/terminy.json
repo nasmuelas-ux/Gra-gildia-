@@ -16591,6 +16591,15 @@
    "wraca": "300-10-19",
    "zamyka": "odpowiedz Boltona albo milczenie (rzut)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-10-15",
+   "co": "LIST PANA DO CLYDASA - PYTANIE O ZDROWIE AEMONA (slowo pana 10-15; ostatni cykl 10-12 rzut 79 - lepiej). Kruk WF-Czarny Zamek w poludnie (Luwin). Odpowiedz - stan zdrowia: RZUT przy odpowiedzi (sprawa zewnetrzna; pasma przed rzutem); laczy sie z cyklem AEMON_STAN (10-19).",
+   "kto": "SYMON -> CLYDAS",
+   "kanal": "kruk WF-Czarny Zamek",
+   "wraca": "300-10-17",
+   "zamyka": "odpowiedz Clydasa (rzut)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

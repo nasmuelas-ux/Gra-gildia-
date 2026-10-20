@@ -1760,6 +1760,13 @@
    "kwota": -2.25,
    "opis": "SLUZBA ZAMKU WF - DODATEK ZIMOWY +50% (112 osob; place ~4,5/mies wg listy Rodwella, E) - pierwszy miesiac X; dalej co miesiac do odwolania",
    "zrodlo": "slowo regenta 10-07, Mala Rada 10-10 (Korona placi), lista Rodwella 10-14"
+  },
+  {
+   "data": "300-10-22",
+   "kasa": "KASA 3 - SKARB POLNOCY",
+   "kwota": -4.0,
+   "opis": "STROJ DLA KROLOWEJ ROSLIN na uczte powrotu Krola (atelier Tally - Mira): jedwab z BP, futro, praca; wycena Miry (E, wlasna) ~4 smoki; Gawen wpisal 10-16 jako wydatek domu krolewskiego.",
+   "zrodlo": "slowo pana 10-15 (placi Korona); wycena Miry 10-16"
   }
  ],
  "_symulacje": {

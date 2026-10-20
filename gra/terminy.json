@@ -14473,9 +14473,9 @@
    "co": "CYTADELA - MAESTER DLA GORACEGO PORTU (list pana 09-10, lancuchem maesterskim przez Luwina): port lenna Fosy - kruki (krukarnia GP), lecznica przy porcie, pogoda i sztormy, ksiega lodmanow (przymus od ~09-15), pomoc szkole. Utrzymanie - lenno (Kasa 2; E: izba, wikt, ~3 smoki/rok stypendium). Precedens: Orwyn (Konklawe 05-17, rzut 94). Jesli tak - przyjazd statkami Redwyne'ow (Stare Miasto - Reach) X-XI. Odpowiedz Konklawe - RZUT. Ostroznosc (Lucan 05-19): kruki Cytadeli siadaja tez w KP u Pycelle'a.",
    "kto": "SYMON (lord Fosy) -> LUWIN -> CYTADELA (Seneszal / Konklawe)",
    "kanal": "kruk WF -> Stare Miasto (lancuch maesterski)",
-   "wraca": "300-10-10",
+   "wraca": "300-10-12",
    "zamyka": "odpowiedz Konklawe (rzut) - imie maestra albo odmowa",
-   "status": "otwarte ### 09-10 SLOWO PANA (przed wylotem kruka): POPRAWKA LISTU wg karty Glebokorzenia pkt 4 - maester GP: leczenie (lecznica przy porcie), pogoda i sztormy, nauka/szkola; BEZ krukow, pieczeci i ksiag - krukarnie GP i ksiege lodmanow trzyma czlowiek Glebokorzenia (krucznik sieci Korony)."
+   "status": "otwarte ### 09-10 SLOWO PANA (przed wylotem kruka): POPRAWKA LISTU wg karty Glebokorzenia pkt 4 - maester GP: leczenie (lecznica przy porcie), pogoda i sztormy, nauka/szkola; BEZ krukow, pieczeci i ksiag - krukarnie GP i ksiege lodmanow trzyma czlowiek Glebokorzenia (krucznik sieci Korony). ### 300-10-10: z Cytadeli nic po sniezycy; ~10-12."
   },
   {
    "data": "300-09-10",
@@ -15627,7 +15627,7 @@
    "kanal": "kruk WF-Fosa (szyfr) + jezdziec",
    "wraca": "300-10-10",
    "zamyka": "dwie oceny (Donnel, Torren) na stole pana",
-   "status": "otwarte ### 300-10-09: SNIEZYCA - kruk z Fosy stoi; oceny Donnela i Torrena ~10-10 (wlasni, bez rzutu)."
+   "status": "zamkniete 300-10-10 ### OCENY (gra/poczta_300_10_10.md B): Torren - eskadra 4+2, 2 kadluby na brzegu; propozycja zimowa (2 lodzie na brzeg, 2 na warcie) + smola i plotno (Kasa 3) - DO SLOWA PANA; Donnel - zapas do wiosny jest; pyta o pobor po IX (rozkaz rozpuszczenia w szkicu). ### POPRZEDNIO: byl-otw ### 300-10-09: SNIEZYCA - kruk z Fosy stoi; oceny Donnela i Torrena ~10-10 (wlasni, bez rzutu)."
   },
   {
    "data": "300-09-27",
@@ -15708,7 +15708,7 @@
    "kanal": "WF-BP traktem; statek BP-Sloneczna Wlocznia",
    "wraca": "300-10-10",
    "zamyka": "poselstwo na wodzie (wyplyniecie z BP)",
-   "status": "otwarte ### 09-29 LIST DO OBERYNA (z prosba o zrozumienie - okno pogody) i DARY zatwierdzone (gra/list_do_oberyna_300_09_29.md); bursztyn - Hal na statek w BP. ### 09-29 SNIADANIE - RODRIK: dowodca - BRENN KAMIENIEC (E, sierzant gwardii domowej WF, ~40, sluzyl z Martynem Casselem); dziesieciu wybierze dzis z garnizonu. ### 300-10-01 RANO: POSELSTWO WYJEZDZA Z WF - Brenn Kamieniec + 10, choragiew wilka; z nimi list do Oberyna (pieczec Namiestnika), laska dla Dorana (srebrna obrecz, gotowa), zielnik, futro snieznego lisa, plotno dla Starfall; trumny/plotna i strawa wg kosztorysu. SER HARWOOD - odpowiedz Barbrey ~10-02; jesli zgoda - jedzie z Barrowton prosto do BP (~10-06) i dolacza przy statku. BP ~10-06. ### 300-10-01 STALA ZASADA (kruki na kazda wyprawe): poselstwo bierze klatki z kruczarni BP przy statku (Hal/Torsen) - kartka pana do Hala dzis z poczta Domu. ### 300-10-02: Harwood + 2 ludzi Dustinow do BP ~10-06 (zgoda Barbrey, rzut 94); choragiew Dustinow na trumne Willama i list Barbrey do Oberyna. ### 300-10-06 POSELSTWO W BP (wlasni, bez rzutu; pogoda dobra): Brenn + 10 doszli ~10-06 rano; ser Harwood + 2 ludzi Dustinow juz czekaja; statek 'Morska Klacz' (kpt. Jorund Sol) - zaladunek, klatki z krukami BP (Hal/Torsen); wyplyniecie ~10-08 z odplywem. Dorne ~XI. ### 300-10-08: wyplyniecie z BP z porannym odplywem (wlasni, bez rzutu); pogoda 98 - morze spokojne. Potwierdzenie krukiem Hala ~10-09. ### 300-10-09: SNIEZYCA - kruk Hala z BP stoi; potwierdzenie ~10-10."
+   "status": "zamkniete 300-10-10 ### POTWIERDZENIE HALA: Morska Klacz wyplynela 10-08 z porannym odplywem; morze spokojne. Wiesc z Dorne ~XI - nowa pozycja. ### POPRZEDNIO: byl-otw ### 09-29 LIST DO OBERYNA (z prosba o zrozumienie - okno pogody) i DARY zatwierdzone (gra/list_do_oberyna_300_09_29.md); bursztyn - Hal na statek w BP. ### 09-29 SNIADANIE - RODRIK: dowodca - BRENN KAMIENIEC (E, sierzant gwardii domowej WF, ~40, sluzyl z Martynem Casselem); dziesieciu wybierze dzis z garnizonu. ### 300-10-01 RANO: POSELSTWO WYJEZDZA Z WF - Brenn Kamieniec + 10, choragiew wilka; z nimi list do Oberyna (pieczec Namiestnika), laska dla Dorana (srebrna obrecz, gotowa), zielnik, futro snieznego lisa, plotno dla Starfall; trumny/plotna i strawa wg kosztorysu. SER HARWOOD - odpowiedz Barbrey ~10-02; jesli zgoda - jedzie z Barrowton prosto do BP (~10-06) i dolacza przy statku. BP ~10-06. ### 300-10-01 STALA ZASADA (kruki na kazda wyprawe): poselstwo bierze klatki z kruczarni BP przy statku (Hal/Torsen) - kartka pana do Hala dzis z poczta Domu. ### 300-10-02: Harwood + 2 ludzi Dustinow do BP ~10-06 (zgoda Barbrey, rzut 94); choragiew Dustinow na trumne Willama i list Barbrey do Oberyna. ### 300-10-06 POSELSTWO W BP (wlasni, bez rzutu; pogoda dobra): Brenn + 10 doszli ~10-06 rano; ser Harwood + 2 ludzi Dustinow juz czekaja; statek 'Morska Klacz' (kpt. Jorund Sol) - zaladunek, klatki z krukami BP (Hal/Torsen); wyplyniecie ~10-08 z odplywem. Dorne ~XI. ### 300-10-08: wyplyniecie z BP z porannym odplywem (wlasni, bez rzutu); pogoda 98 - morze spokojne. Potwierdzenie krukiem Hala ~10-09. ### 300-10-09: SNIEZYCA - kruk Hala z BP stoi; potwierdzenie ~10-10."
   },
   {
    "data": "300-09-29",
@@ -16221,7 +16221,7 @@
    "kanal": "kruk Karhold-WF",
    "wraca": "300-10-10",
    "zamyka": "odpowiedz Rickarda (rzut)",
-   "status": "otwarte ### 300-10-09: SNIEZYCA (pogoda 5) - KRUKI STOJA (zasada 34). Rzut odpowiedzi wykonany rano (66, w logu) - tresc przy przylocie kruka ~10-10."
+   "status": "zamkniete 300-10-10 ### ODPOWIEDZ RICKARDA (gra/poczta_300_10_10.md A) - RZUT 66 TAK, WYKONUJE: 3 lodzie, 15 zbrojnych pod sierzantem, leki maestra Karholdu wg listy Luwina, 3 ciesle, klatki krukow; wyjscie ~10-11/12 gdy mgla zejdzie; 'pierwszy na piasek - czlowiek z wilkiem'. ### POPRZEDNIO: byl-otw ### 300-10-09: SNIEZYCA (pogoda 5) - KRUKI STOJA (zasada 34). Rzut odpowiedzi wykonany rano (66, w logu) - tresc przy przylocie kruka ~10-10."
   },
   {
    "data": "300-10-08",
@@ -16266,6 +16266,24 @@
    "kanal": "osobiscie, WF",
    "wraca": "300-10-14",
    "zamyka": "lekcja odbyta",
+   "status": "otwarte ### 300-10-10 'NEXT' - propozycja GM przyjeta: powtorka drzec, blady, kolano, spokojny; zadanie - zdanie Talva wlasnymi slowami + jedno 'Kiedy sie boje, ...' (bez naciskania, moze byc o kims z bajki)."
+  },
+  {
+   "data": "300-10-10",
+   "co": "POSELSTWO KOSCI - PRZYJECIE W DORNE (Sloneczna Wlocznia, list do Oberyna, osmiu poleglych). Wiesc ~XI (kruki z BP na statku). RZUT na miejscu - przy wiesci.",
+   "kto": "BRENN KAMIENIEC ; SER HARWOOD",
+   "kanal": "kruk z Dorne/BP",
+   "wraca": "300-11-10",
+   "zamyka": "wiesc z Dorne (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-10",
+   "co": "TORREN - EKSADRA NA ZIME (propozycja z oceny 10-10): 2 lodzie na brzeg pod szope, 2 na warcie przy ujsciu do lodu; smola i plotno (Kasa 3, kosztorys u Donnela). Do slowa pana.",
+   "kto": "SYMON -> TORREN ; DONNEL ; GAWEN",
+   "kanal": "kruk WF-Fosa + jezdziec",
+   "wraca": "300-10-10",
+   "zamyka": "slowo pana",
    "status": "otwarte"
   }
  ],
@@ -16610,7 +16628,7 @@
     "start": "300-09-26"
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-10-03",
+   "ostatnio_odebrane": "300-10-10",
    "zrodlo": "rozkaz Namiestnika 300-09-15/16 (ALARM 36)"
   },
   {

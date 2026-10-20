@@ -62,3 +62,8 @@
 - *„Rozumiem, że będzie sprawdzał też mnie. Niech sprawdza. Wolę, żeby ktoś to robił porządnie, niż żeby pan musiał zgadywać.”*
 - O Domu: *„Ode mnie dostanie, czego będzie chciał z ksiąg Domu, ale tylko za pańskim słowem i tylko przez pana albo przez skrzynkę u Willi. Nie chcę, żeby pisarz pana bywał u mnie w izbie. To by zauważono.”*
 - **Willa i Lucan wiedzą.** Pozycja zamknięta.
+- **SŁOWO PANA (do Lucana):** Lucan i Willa to tylko twarze. Pod nimi będą dziesiątki ludzi, którzy wykonują realną pracę.
+- **Lucan (O):**
+  - *„Tak powinno być. Twarz można zdjąć, a robota idzie dalej.”*
+  - Zasada 8, rzeczowo: *„Dziesiątki ludzi to dziesiątki pensji, i wszystkie z pańskiej sakiewki, nie z Domu. Dziś to siedem do czternastu smoków miesięcznie. Przy dziesiątkach ludzi będzie to kilka razy tyle. Niech pani Willa i pański pisarz przyniosą liczby, zanim przyjmą ludzi, a nie po.”*
+  - *„I niech nikt z tych dziesiątek nie dostaje pieniędzy przez Dom. Inaczej po roku cała siatka będzie w moich księgach, czy tego chcę, czy nie.”*

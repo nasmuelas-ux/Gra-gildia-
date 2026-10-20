@@ -3441,3 +3441,5 @@ rzut 9
 300-10-10 | WYNIK | BRAAVOSKI L23 CZ.1 | RZUT 68
 300-10-10 | PASMA | BRAAVOSKI LEKCJA 23 - CZESC 2: TEMAT 'STRACH' (od zdania Talva; pan prowadzi z glowy) | prog 35 (45 -5 temat z pytania Aryi, -5 swieze dobre zadanie, +0 bez tekstu wyrownane temat bliski obu) | <20 zle (temat za ciezki - Sansa milknie, Arya ucieka w miecz/wspolna mowe), 20-34 slabo, 35-74 dobrze, 75+ znakomicie (obie mowia o wlasnym strachu po braavosku, bez naciskania)
 300-10-10 | WYNIK | BRAAVOSKI L23 CZ.2 STRACH | RZUT 35
+300-10-10 | PASMA | BILANS KORONY IX - POLOZENIE W PASMIE MODELU (kasa.py KASA 3, IX; zasada 27 - jeden rzut na bilans) | rzut = procent pasma od min do max (1 = min, 100 = max), metoda jak VII/VIII
+300-10-10 | WYNIK | BILANS IX POLOZENIE | RZUT 20

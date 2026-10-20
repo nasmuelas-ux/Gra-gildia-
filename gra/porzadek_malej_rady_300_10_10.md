@@ -21,7 +21,7 @@ Pierwsza wpłata do Skrzyni Zimowej (1/5 nadwyżki IX). Drugi klucz ma Luwin.
 6. **Pisarze z Braavos:** przyjąć 3–4 na wiosnę, szukać przez placówki gdzie indziej albo podnieść stawkę.
 7. **Człowiek Korony do łupaczy Stannisa:** imię wskazuje Rodrik. Musi być w BP przed ~10-23, czyli wyjechać z WF ~10-17. Jak wróci?
 8. **Eskadra Torrena na zimę:** 2 łodzie na brzeg, 2 na warcie, smoła i płótno.
-9. **Rogi łańcucha ognia** jako sygnał zapasowy w zamieci (propozycja Robetta z 09-19, ponowiona 10-10).
+9. **Rogi łańcucha ognia** (zapłacone 09-25): doszły jeszcze nie wszędzie. Kto i kiedy dowiezie je przed następną zamiecią?
 
 ## 4. MELDUNKI (idą według rozkazu)
 - Spichlerz: ~580 beczek (Orland, przeliczenie racji).

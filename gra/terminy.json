@@ -16447,6 +16447,15 @@
    "wraca": "300-10-13",
    "zamyka": "slowo pana: rozpiska zlecona albo nie",
    "status": "otwarte ### 300-10-13 SLOWO PANA: PRZEORGANIZOWAC - SZTAB WINTERFELL (gra/sztab_winterfell_300_10_13.md): Dowodztwo (Krol/Namiestnik) + 6 oddzialow: 1 Organizacja i ewidencja, 2 Wywiad i ochrona (wojskowe), 3 Operacyjny (wojsko stale/wasali/ruszenie; dziesiatka-setka-hufiec-skrzydlo-armia), 4 Logistyka i zapas, 5 Lacznosc i poczta, 6 Inzynieria i machiny; rozpiska wojenna wg Bryndena. Uwagi i propozycje obsady Bryndena (O) - do slowa pana: szef sztabu (prop. Rodrik), obsada oddzialow, oddzial 2."
+  },
+  {
+   "data": "300-10-13",
+   "co": "TORREN - KSIEGA ZALOG ESKADRY (pytanie pana 10-13: ilu mamy zolnierzy morskich - w zapisie brak liczby): imiennie, na ktorym kadlubie, kto wioslarz, kto do walki, kto szyper; ilu zimuje przy lodziach. List Namiestnika (sprawy wojska - szyfr/poslaniec, nie otwartym tekstem). Wlasni - bez rzutu.",
+   "kto": "SYMON -> TORREN (Donnel - ksiega)",
+   "kanal": "poslaniec/szyfr przez Fose + jezdziec",
+   "wraca": "300-10-25",
+   "zamyka": "ksiega zalog na stole pana",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

@@ -413,3 +413,9 @@ Posłaniec: **Benno** (E), pisarz placówki Domu na Czarnym Zamku. Był u Aemona
 ## 300-10-14: FOSA, kluczowi ludzie (rada lenna, kancelaria, krucznicy). Prawda: rzut 34
 - **PRAWDA:** wszyscy kluczowi są czyści. Przeciek rozkładu GP poszedł niżej, przez barkarzy albo ludzi przy pomoście. Który krąg, rozstrzygnie kanarek GP ok. 10-25.
 - **Hendry odczytał to rzutem 1, MYLNIE:** podejrzewa **Alyna Skrobka**, sekretarza rady lenna (protokół). Alyn pisze wszystko, dwa razy widziano go w Cailin z kupcem z BP, a do tego bierze papier i atrament z kancelarii. **Prawda:** kupiec to brat jego żony, który sprzedaje papier Wata i atrament. Alyn kupuje u niego dla kancelarii taniej, za kwitem w księdze Gerrika (E). Niewinny.
+
+## 300-10-15: HOWLAND REED O SNACH JOJENA (gaj, sam na sam z panem; RZUT 79, pasma w rzuty.log)
+- Reed mówi otwarciej. **Zielone sny Jojena dotąd się spełniały**, choć nie zawsze tak, jak się myślało. **Boi się drogi na północ.**
+- **Przyznaje, że przyjechał też dlatego.** Jojen napisał do niego przez Meerę (E: list w IX), że *„droga zaczyna się w Winterfell”* i że *„nie idzie nią sam”*. Kto idzie z nim, tego Jojen nie napisał, a Reed nie pytał.
+- **Reed pyta pana, co Jojen powiedział jemu.** Obietnica pana z 07-27 (nic Meerze) nie dotyczy ojca, ale to pan decyduje, co powie.
+- To nadal zielony sen, a nie fakt świata.

@@ -6546,7 +6546,7 @@
   {
    "id": "dziennik",
    "status": "otwarty",
-   "_dziennik_nota": 33
+   "_dziennik_nota": 34
   },
   {
    "id": "pobor_wschodu",
@@ -6570,6 +6570,11 @@
   },
   {
    "id": "skup_papierow_lwa",
+   "status": "otwarty",
+   "_dziennik_nota": 1
+  },
+  {
+   "id": "korona_trzymana_przez_tally",
    "status": "otwarty",
    "_dziennik_nota": 1
   }

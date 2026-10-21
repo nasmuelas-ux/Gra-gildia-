@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 10,
-  "dzien": 24,
+  "dzien": 25,
   "era": "AC"
  },
  "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 15 (300-10-24): zle - snieg z polnocnym wiatrem od nocy, zawieje na dziedzincu; kruki z opoznieniem, przychodzace dopiero po poludniu.",
- "dzien_tygodnia_nr": 5,
+ "pogoda": "RZUT 91 (300-10-25): znakomicie - mroz zelzal, niebo czyste, slonce na swiezym sniegu, bezwietrznie; kruki od switu, trakty przetarte.",
+ "dzien_tygodnia_nr": 6,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

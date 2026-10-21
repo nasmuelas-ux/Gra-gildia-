@@ -440,3 +440,7 @@ Posłaniec: **Benno** (E), pisarz placówki Domu na Czarnym Zamku. Był u Aemona
 ## 300-10-16: BRAN, PYTANIE PANA O NOWE SNY (jego komnata; RZUT 35, pasma w rzuty.log)
 - Bran przypomina tylko umowę: sen jest (ten ze szkłem, 08-04/05, i może coś jeszcze), ale **Robb usłyszy go pierwszy.** Nic więcej nie mówi.
 - Zerka przy tym na okno, w stronę gaju. Nie potwierdza i nie zaprzecza, że śnią mu się nowe rzeczy.
+
+## 300-10-20: WOŹNICA, DALSZE OGNIWO (ustalone przed rzutem odczytu, rzuty.log)
+- Rudobrody woźnica wiezie chrust z ZM do zajazdu Ody przy brodzie (T3-C). Tam oddaje karb i słowo **kupcowi win z Dorzecza, człowiekowi Lannisterów**, który zimuje w zajeździe. Kupiec co dwa tygodnie wysyła pacholka na południe: Rozdroże, potem KP.
+- Odczyt Stena i Aldwina (rzut 85): trafny, łącznie z pacholkiem.

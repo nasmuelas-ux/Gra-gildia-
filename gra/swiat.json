@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 10,
-  "dzien": 19,
+  "dzien": 20,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "rano",
  "sezon": "zima (300)",
- "pogoda": "RZUT 52 (300-10-19): PRZECIETNIE - pochmurno, mroz, bez opadu; kruki lataja; trakty ubite (E).",
- "dzien_tygodnia_nr": 7,
+ "pogoda": "RZUT 26 (300-10-20): SLABO - snieg z wiatrem z polnocy, zawieje na traktach; kruki z opoznieniem (E).",
+ "dzien_tygodnia_nr": 1,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

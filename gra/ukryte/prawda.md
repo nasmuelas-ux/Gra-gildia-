@@ -449,3 +449,8 @@ Posłaniec: **Benno** (E), pisarz placówki Domu na Czarnym Zamku. Był u Aemona
 ## 300-10-22: MUR. Frakcje i milczenie dzikich (Hallis, rzut 93: trafnie)
 - **Frakcje (prawda = meldunek Hallisa):** Mallister (Wieża Cieni), Pyke (Wschodnia Strażnica), Marsh (klucze spichlerza, zarządcy), Slynt z Thorne'em (frakcja KP; dwa kruki do KP przez Clydasa). Wybór nie jest zwołany.
 - **Dzicy:** ciągną na wschód, ku Mroźnemu Brzegowi. Palą zmarłych, bo widzieli umarłych, którzy wstają. Mance nie trzyma wszystkich wodzów, czeka na lód i nie poda liczby, dopóki nie wie, ilu dojdzie. To prawda, nie podstęp.
+
+## 300-10-22: HARRION O NIEWOLI W MAIDENPOOL (rzut 81, to, co widział i słyszał, jest prawdziwe)
+- **Widział:** latem dwa razy przyjeżdżał do kapitana garnizonu Lwa w Maidenpool człowiek w barwach Freyów (dwie wieże na płaszczu). Pili razem, rozmawiali bez świadków.
+- **Słyszał:** oficerowie garnizonu przy wodzie mówili: *„Na wiosnę wrócimy na rzekę. Tym razem nie sami.”*
+- **PRAWDA ŚWIATA (E z mocą zapisu):** lord Walder Frey się asekuruje. Jego ludzie rozmawiają z Lwem o tym, co będzie, jeśli rozejm pęknie. **Nic nie jest podpisane.** Milczenie Freyów wobec Korony (pozycja na Radę) ma to samo źródło: Bliźniaki czekają, kto będzie silniejszy wiosną.

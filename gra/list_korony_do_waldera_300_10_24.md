@@ -9,7 +9,9 @@
 >
 > **Co stoi na drodze.** Na pismo Korony o dalszej budowie traktu ku Seagardowi nie było odpowiedzi. A na odnodze stanął wasz szlaban i myto, którego z Koroną nie uzgodniono. Droga, która ma być wspólna, zaczęła się od jednostronnego cła.
 >
-> **Co zatem Korona czyni.** Dopóki rzecz nie jest uzgodniona na równi, Korona będzie wolała Przesmyk. Od pierwszego dnia listopada Korona kładzie własne myto na swój towar idący waszym traktem i prowadzi ładunek jedną drogą. Wasz szlaban stoi dalej — tylko że na drodze, którą Korona przestaje obsyłać, myto nie liczy nic.
+> **Gdzie leży rzecz.** Przesmyk jest jedyną bramą między Północą a Dorzeczem, a trzyma go Fosa Cailin. Dopiero za Przesmykiem trakt rozdziela się na dwoje: trakt Królewski jedną stroną, odnoga ku Bliźniętom drugą. Wasz most i wasze myto stoją na odnodze — nie na bramie. O tym, którą odnogą idzie towar Korony, rozstrzyga się przy Przesmyku, nie przy Bliźniętach.
+>
+> **Co zatem Korona czyni.** Dopóki rzecz nie jest uzgodniona na równi, Korona poprowadzi swój towar traktem Królewskim. Od pierwszego dnia listopada Korona kładzie własne myto na swój ładunek idący odnogą ku Bliźniętom i prowadzi go jedną drogą. Wasz szlaban stoi dalej — tylko że na odnodze, której Korona przestaje obsyłać, myto nie liczy nic.
 >
 > **Co pozostaje otwarte.** Współpraca jest możliwa i Korona jej chce — ale na równych zasadach: jedna uzgodniona stawka, jedna księga, jedna droga budowana wspólnie. Rachunek leży przed Wami. Policzcie go sami.
 >

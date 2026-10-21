@@ -17075,7 +17075,7 @@
    "kanal": "na miejscu",
    "wraca": "300-10-23",
    "zamyka": "kosztorys miesieczny Szeptu Poludnia w rekach pana (szyfrem albo ustnie u Willi)",
-   "status": "otwarte",
+   "status": "zrobione ### 300-10-23 przed poludniem: kosztorys u pana - start ~25, ~6-7/mies; do slowa pana.",
    "co": "KOSZTORYS SZEPTU POLUDNIA: stala, rozproszona akcja co miesiac w KP, Starym Miescie, Krainach Burzy, Gulltown i Lannisporcie; placa wylacznie za powielanie plotek (szumowiny, zebracy, pijacy); kurierzy z doskoku, bez sladu do zleceniodawcy. Finanse: sakiewka pana (rama 09-17)."
   },
   {
@@ -17130,6 +17130,15 @@
    "kanal": "kruk Winterfell-Fosa",
    "wraca": "300-10-25",
    "zamyka": "rozkaz na Fosie (potwierdzenie w zbiorczym ~10-27)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-23",
+   "co": "SZEPT POLUDNIA - ZATWIERDZENIE (start ~25 smokow, ~6-7/mies, sakiewka pana; pierwszy obieg ~XII, KP i Krainy Burzy wiosna).",
+   "kto": "pan -> WILLA",
+   "kanal": "na miejscu",
+   "wraca": "300-10-23",
+   "zamyka": "slowo pana",
    "status": "otwarte"
   }
  ],

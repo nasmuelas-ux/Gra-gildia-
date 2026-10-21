@@ -17167,6 +17167,15 @@
    "wraca": "300-11-10",
    "zamyka": "imie albo miejsce za Rozdrozem (rzut)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-10-24",
+   "co": "FREYOWIE PRZED KROLEM (slowo pana 10-24, rada Rodrika): list lady Catelyn do lorda Waldera - handel Kompanii przez Bliznieta, myto, slub Edmure'a. Odpowiedz Waldera - RZUT.",
+   "kto": "CATELYN -> WALDER FREY",
+   "kanal": "kruk WF-Bliznieta",
+   "wraca": "300-11-03",
+   "zamyka": "odpowiedz lorda Waldera (rzut)",
+   "status": "otwarte ### list - Catelyn pisze po obiedzie 10-24"
   }
  ],
  "_dopiski_300_03_18": [

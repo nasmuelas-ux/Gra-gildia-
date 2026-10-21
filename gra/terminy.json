@@ -17059,6 +17059,24 @@
    "wraca": "300-10-24",
    "zamyka": "OPERACJA I: rozpiska na przeglad 10-24; filar zyje dalej",
    "status": "otwarte ### 10-22 PAN DOPISUJE TROP: WROBLE i WIARA WOJUJACA (Owen 10-19; pytanie u Willi pkt 11). Catelyn (O): wiara jej ojcow - nie narzedzie; jesli Wiara znow wezmie miecz, pierwszy zadrzy tron w Przystani, nie my; ostroznie z Bialym Portem (Wyman, Siedmiu). Rodrik (O): wrog naszego wroga, ale miecz Wiary nie ma pana - tnie w obie strony. Do rozpiski 'pierwszego ruchu' jako obserwacja, nie dzialanie. ### 10-22 PAN DOPISUJE: (5) ROZLAMY W RODZINIE LANNISTEROW - TYRION 'interesujaca postac' (z zapisu: w 299 widzial sens wymiany; list Brana 04-21 bez odpowiedzi; Cersei vs Margaery; Tywin realna wladza; Jaime boi sie o Tommena i Myrcelle); (6) OFENSYWA INFORMACYJNA: Joffrey, Tommen i Myrcella to dzieci Jaime'a (w zapisie: 'udowodnione bekarty') - stale podnosic. Catelyn (O): Tyrion - pojmala go kiedys na goscincu; 'najmadrzejszy z nich i najbardziej znienawidzony przez wlasnego ojca - jesli gdzies jest pekniecie, to tam'; ofensywa - prawda powtarzana jest bronia, ale Robb zawarl rozejm - to jego slowo. Rodrik (O): slowa ida dalej niz wojsko i nic nie kosztuja; ale Lew odpowie tym samym - o czym powie? Do Krola. ### 10-22 SLOWO PANA: (6) bekarty Jaime'a - NIE glosem Krola, tylko zeby LUDZIE MOWILI (szept; 'Lew juz cos o nas mowi'); wykonanie - wywiad (osobno, do rozmowy pana z Willa; nie na przeglad, nie w papierach sztabu). (7) JOFFREY - MARGAERY TYRELL: relacja do dzialania. Catelyn (O): Margaery to dzwignia Olenny; Olenna nie odda wnuczki okrutnikowi na cale zycie; Sansa zna Joffreya najlepiej. Rodrik (O): Reach placi za Lwa - jesli Roza zabierze sakiewke, stocznie w Lannisporcie staja. Kanal do Olenny juz jest (zboze, dab)."
+  },
+  {
+   "data": "300-10-22",
+   "kto": "STEN (osobiscie, w przebraniu, kaptur)",
+   "kanal": "na miejscu",
+   "wraca": "300-10-22",
+   "zamyka": "depesza w rekach Willi w Zimowym Miescie, odczytana i spalona przy Stenie",
+   "status": "zrobione ### 10-22 wieczorem: doreczona do introligatorni w ZM, spalona w piecu przy Stenie.",
+   "co": "DEPESZA SZYFROWANA DO WILLI - OPERACJA SZEPT POLUDNIA (sprawa: stan_poludnia_hollow_tron_299_07; wykonanie pkt (6) i (7) slowa pana z solaru 10-22). Sten niesie po zmroku z Winterfell do ZM."
+  },
+  {
+   "data": "300-10-22",
+   "kto": "WILLA (ZM)",
+   "kanal": "na miejscu",
+   "wraca": "300-10-23",
+   "zamyka": "kosztorys miesieczny Szeptu Poludnia w rekach pana (szyfrem albo ustnie u Willi)",
+   "status": "otwarte",
+   "co": "KOSZTORYS SZEPTU POLUDNIA: stala, rozproszona akcja co miesiac w KP, Starym Miescie, Krainach Burzy, Gulltown i Lannisporcie; placa wylacznie za powielanie plotek (szumowiny, zebracy, pijacy); kurierzy z doskoku, bez sladu do zleceniodawcy. Finanse: sakiewka pana (rama 09-17)."
   }
  ],
  "_dopiski_300_03_18": [

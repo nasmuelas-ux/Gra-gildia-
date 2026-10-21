@@ -16959,7 +16959,16 @@
    "kanal": "kruk WF-Czarny Zamek",
    "wraca": "300-10-22",
    "zamyka": "decyzja pana o dostawie albo swiadome odlozenie",
-   "status": "otwarte"
+   "status": "zamkniete 300-10-21 ### SLOWO PANA: wyslac na Mur KISZONKE i TRAN do wiez -> operacja MUR-KISZONKA-TRAN ### POPRZEDNIO: byl-otw"
+  },
+  {
+   "data": "300-10-21",
+   "co": "MUR - KISZONKA I TRAN DO WIEZ (slowo pana 10-21, prosba Wystana - gnilec w Wiezy Cieni). (1) KISZONKA: Orland wydaje z Konserwy Korony ~20 beczek (E) - kapusta, rzepa, zurawina; woz Korony WF->Czarny Zamek Krolewskim Traktem (~10 dni zima, E), z eskorta; w CZ ~11-01. Karta racji: kiszonka ~170->~150 beczek, ~33->~29 dni (E Orlanda). (2) TRAN: zapasu w Spichlerzu dzis NIE MA (zakup u Hala w BP w toku - slowo 10-18; tran fokowy od Rickarda ~10-23) - PIERWSZA PARTIA tranu idzie na Mur do wiez, zanim cokolwiek do domeny. (3) Kruk do Hallisa i Wystana: co idzie i kiedy; rozdzial na wieze - Straz (Wystan: najpierw wieze, potem CZ). Wlasni Korony - bez rzutu; Kasa 3. Droga/pogoda - zasada 34.",
+   "kto": "ORLAND KORZEC (Spichlerz/Konserwa) ; GAWEN (Kasa 3) ; ser Rodrik (eskorta) ; HAL (tran)",
+   "kanal": "woz Korony Krolewskim Traktem; kruk WF-CZ",
+   "wraca": "300-11-01",
+   "zamyka": "kiszonka w CZ i tran wyslany",
+   "status": "otwarte ### 10-21 rozkaz pana; woz z kiszonka rusza 10-22 rano (E)."
   }
  ],
  "_dopiski_300_03_18": [

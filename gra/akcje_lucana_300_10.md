@@ -33,3 +33,8 @@
 - **10% Lucana:** naliczenie kwartalne na koniec XII. Za IV kwartał przewiduje zero albo mało.
 
 **Do słowa pana:** (A) dokup śledzia na ~40 nowych beczek albo zapis na wiosnę; (C) reszta nakładu obrazkowego po kosztach do szkół i sołtysów.
+
+## SŁOWO PANA (10-20, kancelaria WF)
+- **(A) Zgoda na dokup śledzia.** ~40 nowych beczek po 47 przyjęte; Edric Solny dokupuje śledzia w Białym Porcie (~¼ drożej). Stan dokupu i dostaw: rozliczenie XI (11-20).
+- **(C) Zgoda.** Reszta nakładu (~730, głównie obrazkowy) po kosztach do szkół i do sołtysów domeny; rozwóz razem z wysyłką zamówień w XI.
+- Kanał: goniec do ZM dziś (E); Lucan dalej krukiem Domu do Edrica w BP.

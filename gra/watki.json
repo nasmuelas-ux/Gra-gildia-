@@ -6546,7 +6546,7 @@
   {
    "id": "dziennik",
    "status": "otwarty",
-   "_dziennik_nota": 26
+   "_dziennik_nota": 27
   },
   {
    "id": "pobor_wschodu",
@@ -6566,7 +6566,7 @@
   {
    "id": "uderzyc_pierwsi_300_10_22",
    "status": "otwarty",
-   "_dziennik_nota": 4
+   "_dziennik_nota": 5
   }
  ]
 }

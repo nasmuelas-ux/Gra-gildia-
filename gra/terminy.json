@@ -17170,12 +17170,12 @@
   },
   {
    "data": "300-10-24",
-   "co": "FREYOWIE PRZED KROLEM (slowo pana 10-24, korekta: FAKTAMI NIE GROZBA; bez slubu Edmure'a - Edmure jeszcze nie wie): list lady Catelyn do lorda Waldera - LICZBY handlu Kompanii przez Bliznieta i myta z mostu, dokad moze urosnac; alternatywa Przesmyku jako liczba, nie grozba. Odpowiedz Waldera - RZUT.",
-   "kto": "CATELYN -> WALDER FREY",
+   "co": "FREYOWIE - PISMO KORONY DO WALDERA (slowo pana 10-24): kancelaria Korony, podpis KORONA POLNOCY; wyliczenie zyskow obecnych i z pelnego traktu Seagard-Bliznieta-Przesmyk; wobec szlabanu Freya bez uzgodnienia - od 1.11 Korona klada wlasne myto na swoj towar traktem Freya i prowadzi caly ladunek Przesmykiem; wspolpraca na rownych zasadach. Faktem, nie grozba. (gra/list_korony_do_waldera_300_10_24.md) Odpowiedz Waldera - RZUT.",
+   "kto": "KORONA POLNOCY (kancelaria, Beron) -> WALDER FREY",
    "kanal": "kruk WF-Bliznieta",
    "wraca": "300-11-03",
    "zamyka": "odpowiedz lorda Waldera (rzut)",
-   "status": "otwarte ### list - Catelyn pisze po obiedzie 10-24, szkic pokaze panu przed krukiem"
+   "status": "otwarte ### do slowa pana: wyslac dzis pod pieczecia regenta / dopisac 'w imieniu Krola' / czekac na Krola (~10-28)"
   }
  ],
  "_dopiski_300_03_18": [

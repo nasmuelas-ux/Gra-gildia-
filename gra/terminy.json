@@ -17536,6 +17536,18 @@
    "opoznienie": 0,
    "ostatnio_odebrane": "300-10-17",
    "uwaga_1021": "10-24 (piatek) po obiedzie jest tez MALA RADA (zwyczaj: po obiedzie) - Rodrik proponowal pierwszy przeglad PRZED Rada; godzina pierwszego - do slowa pana."
+  },
+  {
+   "id": "KONTRWYWIAD",
+   "co": "RAPORT KONTRWYWIADU (LUCAN, szef kontrwywiadu) - wprost do pana, poza kalendarzem teatrow (slowo pana 10-23).",
+   "kto": "LUCAN",
+   "kanal": "do rak wlasnych (ZM / WF)",
+   "rytm": {
+    "dzien_miesiaca": 2
+   },
+   "opoznienie": 0,
+   "ostatnio_odebrane": "300-10-02",
+   "zrodlo": "slowo pana 300-10-23; wywiad_jedna_kartka_300_09_17.md (kontrwywiad raportuje wprost, dzien wyznacza pan)"
   }
  ],
  "_cykliczne_zakonczone": [

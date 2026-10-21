@@ -17139,6 +17139,15 @@
    "kanal": "na miejscu",
    "wraca": "300-10-23",
    "zamyka": "slowo pana",
+   "status": "zrobione ### 300-10-23: zatwierdzone w calosci; 25 smokow wydane."
+  },
+  {
+   "data": "300-10-23",
+   "co": "SZEPT POLUDNIA - PIERWSZY OBIEG (dwa miejsca, ~XII); meldunek Willi o starcie i o tym, co ludzie mowia.",
+   "kto": "WILLA",
+   "kanal": "siatka Willi",
+   "wraca": "300-12-28",
+   "zamyka": "pierwszy meldunek Willi o obiegu",
    "status": "otwarte"
   }
  ],

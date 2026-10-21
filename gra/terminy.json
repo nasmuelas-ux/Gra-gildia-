@@ -16968,7 +16968,7 @@
    "kanal": "woz Korony Krolewskim Traktem; kruk WF-CZ",
    "wraca": "300-11-01",
    "zamyka": "kiszonka w CZ i tran wyslany",
-   "status": "otwarte ### 10-21 rozkaz pana; woz z kiszonka rusza 10-22 rano (E)."
+   "status": "otwarte ### 10-21 rozkaz pana; woz z kiszonka rusza 10-22 rano (E). ### 10-21 SLOWO PANA: rozchod na Mur ujac w karcie racji (najblizsza 10-25)."
   },
   {
    "data": "300-10-21",
@@ -16977,7 +16977,7 @@
    "kanal": "goniec do Edrica (ZM/domena)",
    "wraca": "300-11-01",
    "zamyka": "pierwszy meldunek lowow i wytopu z liczbami",
-   "status": "otwarte ### 10-21 rozkaz pana; goniec do Edrica 10-22 rano."
+   "status": "otwarte ### 10-21 rozkaz pana; goniec do Edrica 10-22 rano. ### 10-21 SLOWO PANA: uwzglednic w karcie racji; liczby dopisac po zakonczeniu lowow (meldunek Edrica)."
   }
  ],
  "_dopiski_300_03_18": [
@@ -17141,7 +17141,8 @@
    "ostatnio_odebrane": "300-10-18",
    "zrodlo": "terminarz_budow_300_04.md",
    "uwaga_0915": "SLOWO PANA 09-15: karta Spichlerza ZAWSZE W RACJACH (Racja Polnocna, skladniki + waskie gardlo), od dzis.",
-   "uwaga_1018": "SLOWO PANA 10-18: karta racji CO TYDZIEN (cykliczne raporty), w racjach, z waskim gardlem. Pierwsza poza cyklem 10-18 (gra/karta_racji_300_10_18.md)."
+   "uwaga_1018": "SLOWO PANA 10-18: karta racji CO TYDZIEN (cykliczne raporty), w racjach, z waskim gardlem. Pierwsza poza cyklem 10-18 (gra/karta_racji_300_10_18.md).",
+   "uwaga_1021": "SLOWO PANA 10-21: UWZGLEDNIC W RACJACH: (1) wydanie ~20 beczek kiszonki na Mur (rozchod, kiszonka ~170->~150); (2) tran - pierwsza partia na Mur (rozchod przy przyjsciu); (3) LOWY NA TLUSZCZ w domenie - nowa rubryka 'tluszcz z lowow (smalec, loj, sadlo)' i 'mieso z lowow'; liczby DOPISAC PO ZAKONCZENIU lowow (meldunek Edrica ~11-01, rzut), do tego czasu w karcie jako 'w toku, 0'. (4) Mur jako osobna rubryka po odpowiedzi Hallisa (~10-22)."
   },
   {
    "id": "KARTA_THEONA",

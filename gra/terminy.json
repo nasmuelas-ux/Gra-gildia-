@@ -17170,12 +17170,12 @@
   },
   {
    "data": "300-10-24",
-   "co": "FREYOWIE PRZED KROLEM (slowo pana 10-24, rada Rodrika): list lady Catelyn do lorda Waldera - handel Kompanii przez Bliznieta, myto, slub Edmure'a. Odpowiedz Waldera - RZUT.",
+   "co": "FREYOWIE PRZED KROLEM (slowo pana 10-24, korekta: FAKTAMI NIE GROZBA; bez slubu Edmure'a - Edmure jeszcze nie wie): list lady Catelyn do lorda Waldera - LICZBY handlu Kompanii przez Bliznieta i myta z mostu, dokad moze urosnac; alternatywa Przesmyku jako liczba, nie grozba. Odpowiedz Waldera - RZUT.",
    "kto": "CATELYN -> WALDER FREY",
    "kanal": "kruk WF-Bliznieta",
    "wraca": "300-11-03",
    "zamyka": "odpowiedz lorda Waldera (rzut)",
-   "status": "otwarte ### list - Catelyn pisze po obiedzie 10-24"
+   "status": "otwarte ### list - Catelyn pisze po obiedzie 10-24, szkic pokaze panu przed krukiem"
   }
  ],
  "_dopiski_300_03_18": [

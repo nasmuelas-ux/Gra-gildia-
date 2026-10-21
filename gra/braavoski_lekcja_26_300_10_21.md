@@ -19,3 +19,7 @@
 - **Sansa** prowadzi rozmowę jak przy stole w sali (E): *„Słyszałam, że…”*, *„Podobno…”*, *„Nikomu nie mów, ale…”*. Plotka Sansy (E): kucharz Gage dosypał lady Roslin miodu do owsianki, bo „pani karmi”. Akcent dobry, tempo wolne, ale bez potknięć.
 - **Arya** odpowiada słowami z placu i rękami. Jej plotka (E): *„Namiestnik… kot… stajnia… bierze!”* Sansa poprawia ją na *„Namiestnik ukradł kota ze stajni”*. Arya powtarza całe zdanie, pierwsze pełne na tej lekcji, i jest z siebie zadowolona.
 - Nowe słowa (E): *słyszałam*, *podobno*, *mówią*, *nikomu*, *ukradł*. Arya bierze *ukradł* i *nikomu*. Sansa zna je wszystkie, ale *ukradł* wymawia, jakby słowo ją parzyło.
+- **Pan się wtrąca:** powoli, po braavosku, udawana plotka dworska na tych samych słowach (*słyszałam/słyszałem, podobno, mówią, nikomu*). Na koniec, prześmiewczo: **Namiestnik kradnie wszystkie koty w całym królestwie.**
+  - Arya (E) śmieje się i od razu odpowiada słowami z lekcji: *„Podobno… wszystkie! Nikomu nie mów!”*
+  - Sansa (E), z dworską powagą: *„Mówią, że w Winterfell już nie ma myszy.”* Pierwszy żart Sansy po braavosku.
+  - Powtórzone w użyciu słowa trzymają się u obu: *podobno*, *mówią*, *nikomu*, *ukradł/kradnie*.

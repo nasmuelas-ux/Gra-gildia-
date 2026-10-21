@@ -6102,7 +6102,7 @@
   {
    "id": "projekt_cailin",
    "status": "otwarty",
-   "_dziennik_nota": 125,
+   "_dziennik_nota": 126,
    "filar": "PROJEKT CAILIN",
    "stan_watku": "ZYWY",
    "wchlonelo": [
@@ -6546,7 +6546,7 @@
   {
    "id": "dziennik",
    "status": "otwarty",
-   "_dziennik_nota": 8
+   "_dziennik_nota": 9
   },
   {
    "id": "pobor_wschodu",

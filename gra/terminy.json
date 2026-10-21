@@ -17004,7 +17004,7 @@
    "kanal": "kruk Domu WF-BP, statek BP-Braavos",
    "wraca": "300-10-29",
    "zamyka": "slowo pana",
-   "status": "otwarte"
+   "status": "zamkniete 300-10-22 ### SLOWO PANA (u Willi): list Domu do Banku - rozmowa z przedstawicielem, informacje za informacje, ZAPROSZENIE (gra/list_300_10_22_bank.md) -> pozycja BANK - ZAPROSZENIE ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-10-22",
@@ -17014,6 +17014,15 @@
    "wraca": "300-10-29",
    "zamyka": "slowo pana",
    "status": "otwarte"
+  },
+  {
+   "data": "300-10-22",
+   "co": "ZELAZNY BANK - ZAPROSZENIE PRZEDSTAWICIELA NA ROZMOWE (list Domu Tally 10-22, gra/list_300_10_22_bank.md): informacje za informacje (kto trzyma papiery Lwa <-> co Bank wie); bez liczb i zrodel w liscie. Kanal: szyfr Domu, kruk WF-BP (Hal), statek Nesty BP-Braavos (koniec X), Nesta do Banku. Odpowiedz Banku - RZUT ~XII. Dom (Kasa 1), nie Korona.",
+   "kto": "pan ; HAL ; NESTA",
+   "kanal": "kruk Domu + statek",
+   "wraca": "300-12-05",
+   "zamyka": "odpowiedz Banku",
+   "status": "otwarte ### 10-22 list napisany u Willi; kruk do Hala jutro rano (E)."
   }
  ],
  "_dopiski_300_03_18": [

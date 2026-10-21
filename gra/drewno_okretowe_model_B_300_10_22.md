@@ -37,3 +37,16 @@
 ## 5. CO DALEJ (do słowa pana)
 - **Olenna:** czy odpisać już teraz (50 pni w XI powrotem statków + zapowiedź umowy ramowej na wiosnę), żeby zdążyć przed dodatkowymi statkami Redwyne'ów (~XI)?
 - **Arsenał (przez Nestę):** zapowiedź umowy ramowej Korony na wiosnę. Statek Nesty wypływa z BP pod koniec X.
+
+---
+## 6. SŁOWO PANA: ZGODA NA OBA LISTY, Z PYTANIEM O GRANICĘ (10-22, hala Skarbu)
+### List Skarbu do Olenny Tyrell (kanał zbożowy: szyfr Domu do Hala, statek i przedstawiciel w Highgarden; pisze i podpisuje Gawen)
+> Korona Północy dziękuje za zgodę na zboże, mak i eskortę.
+> **Dąb:** ~50 pni sezonowanych możemy dać od zaraz. Pójdą do Arbor **powrotem dwóch dodatkowych statków Redwyne'ów z GP (XI)**, cechowane miarą Korony.
+> Na wiosnę Korona proponuje **umowę ramową**: dąb Korony i lordów Północy, jedna miara, jedna pieczęć, Korona gwarantuje dostawę.
+> **Pytamy, gdzie jest granica Arbor:** ile pni Arbor weźmie najwięcej w tym roku i wiosną, i do jakiej ceny za pień.
+- **Gawen (O):** *„List do Highgarden idzie trzy tygodnie, a statki będą w GP wcześniej. Niech Hendry albo Garrick powie kapitanom przy rozładunku, że dąb czeka na nabrzeżu i jest dla Arbor. Kapitan nie weźmie ładunku bez słowa pani, ale może poczekać dzień albo dwa, jeśli list Olenny jest już w drodze.”* Czy kapitanowie wezmą dąb bez słowa Olenny: RZUT przy statkach w GP (~XI).
+### List Skarbu do Arsenału Braavos (przez Nestę, powrotnym statkiem Nesty, koniec X; podpis Gawena)
+> Korona Północy proponuje Arsenałowi **umowę ramową na dąb okrętowy na wiosnę 301**: dąb Korony (~30 suchych i ~120–150 świeżych ze ścinki) i dąb lordów Północy. Jedna miara, jedna pieczęć, Korona gwarantuje termin i dostawę do portu.
+> **Pytamy, gdzie jest granica Arsenału:** ile pni najwięcej i do jakiej ceny za pień.
+- Odpowiedzi: Olenna ~XI (połowa), Arsenał ~XII–I (statkiem). RZUT przy każdej.

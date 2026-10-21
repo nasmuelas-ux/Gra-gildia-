@@ -15339,7 +15339,7 @@
    "kanal": "kruk WF-Riverrun; rycerz konno WF-Fosa",
    "wraca": "300-10-22",
    "zamyka": "wiesc z Maidenpool + rycerz w drodze",
-   "status": "otwarte ### 09-23 RODRIK: rycerz - SER WENDEL ROWAN (E, rycerz domowy WF, ~35, pod Oxcross z Karstarkami). ### 300-09-28 TRIAZ: Harrion wolny (rzut 95). Ser Wendel Rowan rusza z WF ~10-08, na Fosie ~10-15 na powitanie; prowadzi Harriona przez WF (Catelyn) do Karholdu. ### 09-28 SLOWO PANA (rada Willi): ser Wendel NIE SAM - ESKORTA (Rodrik dobiera, E ~10 ludzi Starkow) od Fosy przez WF do Karholdu. ### 300-10-15 Harrion zapowiedziany na Fosie ~10-15 - wiesc w zbiorczym ~10-20. ### 300-10-20 NIE PRZYSZLO, WIADOMO DLACZEGO: zbiorczy Garricka pisany 10-20 - w WF ~10-22 (zasada 34); pogoda 26. ### 10-22 ZBIORCZY 10-20 (rzut 90): Harrion na Fosie 10-15 wieczorem, 10-16 o swicie wyjechal z ser Wendelem i eskorta; W WF ~10-21/22. ### 10-22 RZUT 45: HARRION Z SER WENDELEM I ESKORTA W WF DZIS PRZED ZMIERZCHEM (rog przy Bramie Krolewskiej po powrocie pana z ZM)."
+   "status": "otwarte ### 09-23 RODRIK: rycerz - SER WENDEL ROWAN (E, rycerz domowy WF, ~35, pod Oxcross z Karstarkami). ### 300-09-28 TRIAZ: Harrion wolny (rzut 95). Ser Wendel Rowan rusza z WF ~10-08, na Fosie ~10-15 na powitanie; prowadzi Harriona przez WF (Catelyn) do Karholdu. ### 09-28 SLOWO PANA (rada Willi): ser Wendel NIE SAM - ESKORTA (Rodrik dobiera, E ~10 ludzi Starkow) od Fosy przez WF do Karholdu. ### 300-10-15 Harrion zapowiedziany na Fosie ~10-15 - wiesc w zbiorczym ~10-20. ### 300-10-20 NIE PRZYSZLO, WIADOMO DLACZEGO: zbiorczy Garricka pisany 10-20 - w WF ~10-22 (zasada 34); pogoda 26. ### 10-22 ZBIORCZY 10-20 (rzut 90): Harrion na Fosie 10-15 wieczorem, 10-16 o swicie wyjechal z ser Wendelem i eskorta; W WF ~10-21/22. ### 10-22 RZUT 45: HARRION Z SER WENDELEM I ESKORTA W WF DZIS PRZED ZMIERZCHEM (rog przy Bramie Krolewskiej po powrocie pana z ZM). ### 300-10-23: ZROBIONE - Harrion w WF 10-22 (kolacja, solar), o swicie 10-23 rusza do ojca."
   },
   {
    "data": "300-09-23",
@@ -16255,9 +16255,9 @@
    "co": "OWEN - NAUKA SIEDMIU (stala: pon. i czw. po 1 h; Sansa, Arya, Bran). Nastepna pon. 10-13. Wlasni - rzut tylko przy zmianie/sporze.",
    "kto": "OWEN ; SANSA, ARYA, BRAN",
    "kanal": "osobiscie, WF",
-   "wraca": "300-10-16",
+   "wraca": "300-10-27",
    "zamyka": "nauka odbyta",
-   "status": "otwarte ### 300-10-13: nauka w bibliotece (zamiec nie przeszkadza) - wlasni, bez rzutu; nastepna czw. 10-16. ### 300-10-16: nauka czwartkowa po sniadaniu (wlasni, idzie sama)."
+   "status": "otwarte ### 300-10-13: nauka w bibliotece (zamiec nie przeszkadza) - wlasni, bez rzutu; nastepna czw. 10-16. ### 300-10-16: nauka czwartkowa po sniadaniu (wlasni, idzie sama). ### 300-10-23: ODBYWA SIE DZIS (czwartek) po sniadaniu; nastepna pon. 10-27."
   },
   {
    "data": "300-10-10",
@@ -16509,7 +16509,7 @@
    "kanal": "dopisek do paczki WF-Fosa 10-14 + jezdziec",
    "wraca": "300-10-21",
    "zamyka": "pierwszy kruk z Dustinportu w WF",
-   "status": "otwarte"
+   "status": "otwarte ### 300-10-23: PRZYSZLO - pierwszy kruk z Dustinportu w WF (ptaki Garricka dotarly z jezdzcem). Niesie meldunek Donnela: szopy, chaty, rozpuszczenie poboru wschodu. Tresc przy odczycie."
   },
   {
    "data": "300-10-14",
@@ -16804,9 +16804,9 @@
    "co": "TRAN FOKOWY OD KARSTARKA (slowo pana 10-18): Gawen pisze w imieniu Korony do lorda Rickarda o kupno tranu fokowego z Zatoki Fok dla Spichlerza; cena - jego slowo, platnik Kasa 3. Odpowiedz Rickarda - RZUT.",
    "kto": "GAWEN -> RICKARD KARSTARK",
    "kanal": "kruk WF-Karhold",
-   "wraca": "300-10-23",
+   "wraca": "300-10-30",
    "zamyka": "odpowiedz Rickarda (rzut)",
-   "status": "otwarte"
+   "status": "otwarte ### 300-10-23: RZUT 17 - PRZYSZLO CO INNEGO: kartka maestra Karholdu - lord Rickard odpowie po wyjezdzie Krola (Krol w Karholdzie od 10-17) i po powrocie Harriona; ceny brak. Kolejny powrot ~10-30."
   },
   {
    "data": "300-10-18",
@@ -16896,7 +16896,7 @@
    "kanal": "kruk Winterfell-Fosa (dzis snieg z wiatrem - lot z opoznieniem, E)",
    "wraca": "300-10-23",
    "zamyka": "odpowiedz Ilaria na stole pana",
-   "status": "otwarte ### 10-20 list napisany i oddany do kruczarni Luwina."
+   "status": "otwarte ### 10-20 list napisany i oddany do kruczarni Luwina. ### 300-10-23: PRZYSZLO - kruk z Fosy rano; tresc i rzut przy odczycie."
   },
   {
    "data": "300-10-20",

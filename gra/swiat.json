@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 10,
-  "dzien": 22,
+  "dzien": 23,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 100 (300-10-22): ZNAKOMICIE - mroz, niebo czyste, slonce na sniegu, bez wiatru; kruki od switu; trakty przetarte (E).",
- "dzien_tygodnia_nr": 3,
+ "pogoda": "RZUT 70 (300-10-23): dobrze - mroz lzejszy niz wczoraj, niebo jasne z chmurami od zachodu, slaby wiatr; kruki lataja normalnie; trakty przetarte.",
+ "dzien_tygodnia_nr": 4,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

@@ -6546,7 +6546,7 @@
   {
    "id": "dziennik",
    "status": "otwarty",
-   "_dziennik_nota": 34
+   "_dziennik_nota": 35
   },
   {
    "id": "pobor_wschodu",
@@ -6576,7 +6576,7 @@
   {
    "id": "korona_trzymana_przez_tally",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 2
   }
  ]
 }

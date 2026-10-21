@@ -444,3 +444,4 @@ Posłaniec: **Benno** (E), pisarz placówki Domu na Czarnym Zamku. Był u Aemona
 ## 300-10-20: WOŹNICA, DALSZE OGNIWO (ustalone przed rzutem odczytu, rzuty.log)
 - Rudobrody woźnica wiezie chrust z ZM do zajazdu Ody przy brodzie (T3-C). Tam oddaje karb i słowo **kupcowi win z Dorzecza, człowiekowi Lannisterów**, który zimuje w zajeździe. Kupiec co dwa tygodnie wysyła pacholka na południe: Rozdroże, potem KP.
 - Odczyt Stena i Aldwina (rzut 85): trafny, łącznie z pacholkiem.
+- **10-20: PRAWDA WYSZŁA (rzut 98).** Torvald sam opowiedział panu historię Hagena po tym, jak pan podał mu ustalenie o ludziach z portu. Pan zna ją z ust Torvalda; z zewnątrz potwierdzenia nie ma, ale zgadza się z prawdą.

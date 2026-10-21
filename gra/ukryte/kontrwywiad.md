@@ -89,3 +89,5 @@
 - Dotąd szła jako obserwacja Stena i pisarza (rzut 85). **Od 10-20 prowadzi ją kontrwywiad**, dalej jako obserwacja: zajazd Ody, kupiec win z Dorzecza i jego pacholek na południe (następny ~10-30). Celem jest ustalić, gdzie łańcuch kończy się za Rozdrożem. **Nie ruszać i nie płoszyć.**
 - **Przekazanie robi Sten** (słowo pana), ustnie, w kancelarii.
 - **Aldwin (O), przy przekazaniu:** *„Za Rozdrożem mam tylko imiona od pani Willi. Poproszę ją przez skrzynkę, żeby Rozdroże spojrzało, komu pacholek oddaje. Patrzeć, nie pytać.”*
+
+**10-20 TORVALD SIWEK - EKSPOZYCJA (słowo pana w kancelarii WF):** pan powiedział Torvaldowi, że „wywiad ustalił” wizyty ludzi z portu u wdowy przy Uliczce Powroźników. Torvald wie odtąd, że pana ludzie obserwowali dom wdowy w BP (nie zna imion, metody ani tego, kto). Wyjaśnienie Torvalda (rzut 98) pokrywa się z prawdą (prawda.md 10-11): to krewni Hagena, rybacy. Podejrzenie skrzynki kontaktowej Willi (rzut 14) - mylne.

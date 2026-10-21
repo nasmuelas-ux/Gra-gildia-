@@ -1,5 +1,5 @@
-# ZGUBA VALYRII — wiersz pana, przekład na braavoski (lekcja 27, 300-10-24)
-*Tekst pana (słowo gracza), oddany na lekcji po braavosku. Rzut 45: sukces z kosztem.*
+# ZGUBA VALYRII — fragment znanego wiersza (kanon), przekład pana na braavoski (lekcja 27, 300-10-24)
+*Wiersz istniejący w świecie, nie utwór pana. Pan przełożył fragment biegłym braavoskim. Bez rzutu (korekta gracza: VOID rzutu 45).*
 
 Czternaście Płomieni nagle zapłonęło,
 A złote wieże w popiół się zmieniły.

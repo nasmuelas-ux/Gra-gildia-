@@ -16662,7 +16662,7 @@
    "kanal": "osobiscie WF",
    "wraca": "300-10-21",
    "zamyka": "lekcja 26 odbyta",
-   "status": "otwarte ### 10-17: pierwsza rozmowa pana z Sansa po braavosku - zaraz po lekcji (karty Sansy)."
+   "status": "zamkniete 300-10-21 ### lekcja 26 odbyta (gra/braavoski_lekcja_26_300_10_21.md): Arya-Talvo rzut 35, plotki dworskie rzut 46 ### POPRZEDNIO: byl-otw ### 10-17: pierwsza rozmowa pana z Sansa po braavosku - zaraz po lekcji (karty Sansy)."
   },
   {
    "data": "300-10-17",
@@ -16933,6 +16933,15 @@
    "wraca": "300-11-25",
    "zamyka": "odpowiedz Ysilli + meldunek Willi",
    "status": "otwarte ### 10-20 list napisany w nocy (pan i Mira); kruk do Hala rano 10-21; kartka do Willi rano."
+  },
+  {
+   "data": "300-10-21",
+   "co": "BRAAVOSKI - ZADANIE NA LEKCJE 27 (pt 10-24 rano; slowo pana 10-21): TLUMACZENIE WIERSZY - kazda wybiera wiersz/piesn, ktory jej sie podoba (Sansa: zwrotka 'Florian i Jonquil'; Arya: o Nymerii i dziesieciu tysiacach okretow - O). Dalej: Arya z Talvem, Sansa z panem po braavosku. Wynik tlumaczenia - RZUT na lekcji.",
+   "kto": "ARYA, SANSA ; pan",
+   "kanal": "na miejscu",
+   "wraca": "300-10-24",
+   "zamyka": "lekcja 27",
+   "status": "otwarte ### 10-24 tego dnia takze przeglad wojenny I i Mala Rada - pora lekcji rano bez zmian (E)."
   }
  ],
  "_dopiski_300_03_18": [

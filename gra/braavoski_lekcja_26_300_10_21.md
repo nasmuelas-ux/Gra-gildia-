@@ -23,3 +23,10 @@
   - Arya (E) śmieje się i od razu odpowiada słowami z lekcji: *„Podobno… wszystkie! Nikomu nie mów!”*
   - Sansa (E), z dworską powagą: *„Mówią, że w Winterfell już nie ma myszy.”* Pierwszy żart Sansy po braavosku.
   - Powtórzone w użyciu słowa trzymają się u obu: *podobno*, *mówią*, *nikomu*, *ukradł/kradnie*.
+
+## ZADANIE NA 27 (pt 10-24, rano) — słowo pana
+- **Tłumaczenie wierszy:** każda wybiera wiersz albo pieśń, które jej się podobają, i przynosi do tłumaczenia na braavoski.
+- Sansa (O): od razu wie, *„Florian i Jonquil”*, ale tylko jedną zwrotkę, bo „cała jest za długa i za smutna”.
+- Arya (O): krzywi się na pieśni o rycerzach; *„Mogę o Nymerii? Tej z dziesięcioma tysiącami okrętów.”*
+
+## LEKCJA 26: ZAMKNIĘTA

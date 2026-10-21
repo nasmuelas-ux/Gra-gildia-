@@ -1901,7 +1901,7 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 300-10-20 rano · zima (300)
+- **Data:** 300-10-20 przedpoludnie · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.25 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
 - **Zdrowie 100 · Sytosc 92 · Zmeczenie 0**
@@ -3894,11 +3894,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-10-19] `dziennik`: IZBA OWENA: pan pyta, co to wroble. OWEN (O; historia Wiary - kanon; dzis - plotka z listow sept): dawniej Ubodzy Bracia - zbrojna reka Wiary obok Synow Wojownika (Wiara Wojujaca), noszace s…
-- [300-10-19] `dziennik`: IZBA OWENA: pan pyta, czym byla Wiara Wojujaca. OWEN (O; historia Wiary - kanon): dwa zakony - SYNOWIE WOJOWNIKA ('Miecze', rycerze, ktorzy oddawali ziemie i tytuly) i UBODZY BRACIA ('Gwiazd…
-- [300-10-19] `dziennik`: POPOLUDNIE: pan dziekuje Owenowi; idzie do STENA (przyboczna) - kartka do Willi: dopisac pytanie o 'wroble' w Dorzeczu (zlecenie pkt 11). Sten (O): 'Do rak wlasnych, dzis wieczorem, panie.'
-- [300-10-19] `dziennik`: POPOLUDNIE: pan z Lyra i Mira przy klockach ('dom dla sasiata'). WIECZOR, WIELKA SALA - KOLACJA z Lyra i Mira (E: zupa rybna, chleb, ser, wedzona kielbasa, piwo). Sytosc 100.
-- [300-10-19] `dziennik`: PO KOLACJI: pan kladzie Lyre spac (muszelka pod poduszka, wilk, 'dom dla sasiata' zostaje na dywanie).
 - [300-10-20] `dziennik`: 300-10-20 RANEK (PONIEDZIALEK), WINTERFELL. SEN RZUT 58: dobrze; zmeczenie 4->0, sytosc 72. POGODA RZUT 26: snieg z wiatrem, zawieje, kruki z opoznieniem. POCZTA (gra/poczta_300_10_20.md): (…
 - [300-10-20] `dziennik`: RANO - SLOWA PANA: (1) CYPEL - bez zaskoczenia: Korona dawala dokladna liczbe zboza na cala grupe (plan chleba Cypla, rozwoz do ~10-25); Orland pilnuje terminow przed lodem. (2) Sprawa wozni…
 - [300-10-20] `dziennik`: RANO, WIELKA SALA - SNIADANIE z Lyra i Mira (E: kasza z mlekiem, chleb, maslo, jajka, wedzona ryba). Zamiec za oknami. Sytosc 72->92.
@@ -3906,3 +3901,8 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-10-20] `dziennik`: Rano, kancelaria WF: pan przeczytal rozliczenie akcji Lucana za X (akcje_lucana_300_10.md). SLOWO PANA: (A) zgoda na dokup sledzia na ~40 nowych beczek po 47 (Edric w BP, ~1/4 drozej); (C) z…
 - [300-10-20] `dziennik`: Rano, kancelaria WF: pan pisze do ILARIA (list_300_10_20_ilario.md) - jak rozwija sie skryptorium, jaki status druku. Kruk WF-Fosa przez Luwina; snieg z wiatrem - lot z opoznieniem (E). Odpo…
 - [300-10-20] `dziennik`: Przed poludniem: pan idzie z kancelarii do BOZEGO GAJU. Snieg z wiatrem; w gaju ciszej, cieple stawy paruja (E). Bez rzutu.
+- [300-10-20] `dziennik`: Boży gaj: pan siada pod czardrzewem i patrzy na staw. Cisza, nikogo. Bez rzutu.
+- [300-10-20] `dziennik`: Przed poludniem: pan z gaju idzie do STAJNI. Ciepło, konie, chlopcy przy gnoju; koniuszy klania sie; rudy kocur na belce (E). Bez rzutu.
+- [300-10-20] `dziennik`: STAJNIE: pan glaszcze rudego kocura koniuszego na belce. RZUT 83 (pasma w rzuty.log): kot przyjmuje, mruczy. Koniuszy (O): z nikim tak nie robi poza panna Arya.
+- [300-10-20] `dziennik`: PRZEDPOLUDNIE, KOMNATY TALLYCH: pan ze stajni do Lyry. Lyra z Rhona przy klockach, Mira przy oknie nad rachunkiem atelier (E). Lyra czuje stajnie na rekawie - 'Kot?' (E). Bez rzutu.
+- [300-10-20] `dziennik`: KOMNATY: pan do Lyry 'Tak, kot.' Lyra pamieta rudego kocura z murku (odszedl od niej) - pyta, czy dal sie poglaskac; chce isc do stajni (E). Mira (O) zerka na zamiec za oknem. Bez rzutu.

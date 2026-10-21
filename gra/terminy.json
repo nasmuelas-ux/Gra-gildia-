@@ -16869,7 +16869,7 @@
    "kanal": "osobiscie",
    "wraca": "300-10-21",
    "zamyka": "slowo pana",
-   "status": "otwarte"
+   "status": "zamkniete 300-10-20 ### SLOWO PANA: sprawe PRZEJMUJE KONTRWYWIAD i dalej obserwuje (nie ruszac, nie sploszyc); STEN przekazuje szefowi (plik ukryty). ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-10-20",
@@ -16878,6 +16878,15 @@
    "kanal": "WF; szyfr Korony do Cypla",
    "wraca": "300-10-24",
    "zamyka": "slowo pana + plan zimy Cypla",
+   "status": "zamkniete 300-10-20 ### SLOWO PANA: bez zaskoczenia - Korona dawala dokladna liczbe zboza na cala grupe (chleb Cypla, rachunek Orlanda/Gawena dla ludzi Mance'a; Tallhart; rozwoz 'spichlerz na droge' do 7 punktow, w tym Cypel, do ~10-25). Orland pilnuje terminow dostaw wg planu przed lodem; potrzeby Torgena - w ramach planu. ### POPRZEDNIO: byl-otw"
+  },
+  {
+   "data": "300-10-20",
+   "co": "LANCUCH WOZNICY - OBSERWACJA (kontrwywiad przejmuje 10-20): zajazd Ody, kupiec win z Dorzecza, pacholek na poludnie (~co 2 tyg.; nastepny ~10-30); dalej - gdzie konczy sie za Rozdrozem. Nie ruszac, nie sploszyc. Meldunek - rzut przy odczycie.",
+   "kto": "SZEF KONTRWYWIADU (niejawnie) ; STEN (przekazanie)",
+   "kanal": "osobiscie / skrzynka",
+   "wraca": "300-11-03",
+   "zamyka": "meldunek o dalszym ogniwie",
    "status": "otwarte"
   }
  ],

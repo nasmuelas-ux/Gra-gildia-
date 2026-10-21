@@ -84,3 +84,8 @@
 **Kolejność:** centrala od razu, BP w XI, Cailin w XII.
 **Aldwin (O):** *„To dwa razy tyle, ile mówiłem tydzień temu, bo pan kazał robić placówki osobno. Taniej się da, ale wtedy placówki będą pod jednym dachem z panią Willą, a pan tego nie chciał.”* **Do słowa pana.**
 - **10-18 SŁOWO PANA: ZGODA na kartę.** ~12 miesięcznie od 11-01. Jednorazowo: centrala ~5 (zapłacone dziś z ręki do ręki w kancelarii), BP ~12 (XI), Cailin ~8 (XII). Sakiewka pana. Aldwin (O): *„Dziękuję, panie. Rachunek będzie co miesiąc, na jednej kartce, w skrzynce.”*
+
+## 300-10-20: SPRAWA WOŹNICY PRZECHODZI DO KONTRWYWIADU (słowo pana)
+- Dotąd szła jako obserwacja Stena i pisarza (rzut 85). **Od 10-20 prowadzi ją kontrwywiad**, dalej jako obserwacja: zajazd Ody, kupiec win z Dorzecza i jego pacholek na południe (następny ~10-30). Celem jest ustalić, gdzie łańcuch kończy się za Rozdrożem. **Nie ruszać i nie płoszyć.**
+- **Przekazanie robi Sten** (słowo pana), ustnie, w kancelarii.
+- **Aldwin (O), przy przekazaniu:** *„Za Rozdrożem mam tylko imiona od pani Willi. Poproszę ją przez skrzynkę, żeby Rozdroże spojrzało, komu pacholek oddaje. Patrzeć, nie pytać.”*

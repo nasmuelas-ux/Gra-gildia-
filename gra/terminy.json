@@ -14617,9 +14617,9 @@
    "co": "SZEF BEZPIECZENSTWA DOMU TALLY (slowo pana 09-13: 'zatrudniam szefa bezpieczenstwa Domu - on bedzie zarzadzal jego bezpieczenstwem'): nowy urzad Domu (Kasa 1), pod panem; zakres: kantory i placowki (BP, Braavos, Pentos, Seagard...), ladunki i skarbczyki, ludzie Domu, ochrona przed trucizna/kradzieza/podstepem (Lys); wspolpraca: STEN (przyboczna - osoba pana i rodu), WILLA (wywiad - firewall: szef dostaje od niej tylko ostrzezenia), HAL (kantor). Sam najmuje ludzi lokalnie wedlug potrzeby, w budzecie. KANDYDACI (Sten, E): (1) Gerold Popiol, (2) Torvald Siwek - b. sierzant strazy portu BP, (3) Ysilla z Braavos - b. strazniczka skarbca domu Prestayn (przez Neste). Wybor - slowo pana; zgoda kandydata - RZUT przy rozmowie/liscie.",
    "kto": "SYMON ; STEN (kandydaci)",
    "kanal": "WF",
-   "wraca": "300-10-21",
+   "wraca": "300-11-25",
    "zamyka": "WERYFIKACJA 4-STOPNIOWA (stala zasada 09-16): Willa (rzut ~09-25) -> kontrwywiad (rzut ~09-28) -> Sten -> pan -> oferta Hala -> zgoda Torvalda (rzut)",
-   "status": "otwarte ### 09-13 SLOWO PANA: TORVALD SIWEK - ale NAJPIERW sprawdzenie przez Wille (po cichu); potem oferta przez Hala w BP + slowo grzecznosci do Wymana. ### 09-16 STALA ZASADA: weryfikacja kluczowych - Willa, kontrwywiad, Sten, pan (po kolei). ### 300-10-05 TRIAZ: przeglad na Malej Radzie ~10-10. ### 300-10-10: POZA RADA (wywiad/Dom) - meldunki Willi na spotkaniu w ZM; dzien do slowa pana (trakt odkopywany). ### 300-10-12: wstrzymane do rozmowy pana z Torvaldem (slowo 10-11) - pozycja Torvalda. ### 300-10-20 TORVALD przyjezdza dzis (rzut 48 z 10-14) - rozmowa z panem 'sam porozmawiam' (slowo 10-11). ### 10-20 NIE PRZYJECHAL, WIADOMO DLACZEGO: zawieja na trakcie od poludnia (pogoda 26); brama zamknieta na noc bez jezdzcow. Rzut przyjazdu 2 (rzuty.log) - nocuje w drodze, w WF jutro rano (dla pana: nie wiadomo, gdzie jest - zasada 34). ### ⚠ VOID 10-20 (wskazanie gracza: 'my odsniezamy trakty'): wpis 'nie przyjechal / trakt zasypany' VOID - sprzeczny z planem zimowego utrzymania traktow (09-15). TORVALD DOJEZDZA 10-20 WIECZOREM, pod koniec kolacji (rzut 48 z 10-14), wolniej przez zawieje, ale traktem przetartym. ### 10-20 KANCELARIA WF: pan oferuje TORVALDOWI szefa bezpieczenstwa calego Domu (Westeros i Essos). RZUT 14 (pasma w rzuty.log): ODMAWIA - za duze ('nie znam Essos, nie znam jezykow'), zona i jej chor w Snieznym Sepcie, BP. Krzeslo dalej puste; pozostali kandydaci Stena z 09-13: Gerold Popiol, Ysilla z Braavos (nie przed XI). Do slowa pana."
+   "status": "otwarte ### 09-13 SLOWO PANA: TORVALD SIWEK - ale NAJPIERW sprawdzenie przez Wille (po cichu); potem oferta przez Hala w BP + slowo grzecznosci do Wymana. ### 09-16 STALA ZASADA: weryfikacja kluczowych - Willa, kontrwywiad, Sten, pan (po kolei). ### 300-10-05 TRIAZ: przeglad na Malej Radzie ~10-10. ### 300-10-10: POZA RADA (wywiad/Dom) - meldunki Willi na spotkaniu w ZM; dzien do slowa pana (trakt odkopywany). ### 300-10-12: wstrzymane do rozmowy pana z Torvaldem (slowo 10-11) - pozycja Torvalda. ### 300-10-20 TORVALD przyjezdza dzis (rzut 48 z 10-14) - rozmowa z panem 'sam porozmawiam' (slowo 10-11). ### 10-20 NIE PRZYJECHAL, WIADOMO DLACZEGO: zawieja na trakcie od poludnia (pogoda 26); brama zamknieta na noc bez jezdzcow. Rzut przyjazdu 2 (rzuty.log) - nocuje w drodze, w WF jutro rano (dla pana: nie wiadomo, gdzie jest - zasada 34). ### ⚠ VOID 10-20 (wskazanie gracza: 'my odsniezamy trakty'): wpis 'nie przyjechal / trakt zasypany' VOID - sprzeczny z planem zimowego utrzymania traktow (09-15). TORVALD DOJEZDZA 10-20 WIECZOREM, pod koniec kolacji (rzut 48 z 10-14), wolniej przez zawieje, ale traktem przetartym. ### 10-20 KANCELARIA WF: pan oferuje TORVALDOWI szefa bezpieczenstwa calego Domu (Westeros i Essos). RZUT 14 (pasma w rzuty.log): ODMAWIA - za duze ('nie znam Essos, nie znam jezykow'), zona i jej chor w Snieznym Sepcie, BP. Krzeslo dalej puste; pozostali kandydaci Stena z 09-13: Gerold Popiol, Ysilla z Braavos (nie przed XI). Do slowa pana. ### 10-20 noc SLOWO PANA: piszemy do YSILLI z Braavos (osobna pozycja, list_300_10_20_ysilla.md)."
   },
   {
    "data": "300-09-13",
@@ -16924,6 +16924,15 @@
    "wraca": "300-10-30",
    "zamyka": "wdowa przyjmuje/odmawia; dzieci w szkole",
    "status": "otwarte ### 10-20 VOID: wpis 'niesie Torvald' - slowo gracza: pan robi to poza Torvaldem, bez jego wiedzy. List kancelarii Korony + poslaniec wyjezdza 10-21 o swicie (E). Smok wydany z sakiewki pana."
+  },
+  {
+   "data": "300-10-20",
+   "co": "YSILLA Z BRAAVOS - LIST PANA (gra/list_300_10_20_ysilla.md): propozycja rozmowy o urzedzie SZEFA BEZPIECZENSTWA DOMU (po odmowie Torvalda 10-20). Kanal: kruk Domu WF-BP (Hal) 10-21 -> powrotny statek Nesty BP-Braavos (koniec X) -> Nesta -> Ysilla (~XI). Odpowiedz (wola Ysilli, morze) - RZUT ~XII. WERYFIKACJA (stala zasada 09-16): 1 Willa (kartka 10-21; czlowiek Willi w Braavos od ~XI), 2 kontrwywiad, 3 Sten, 4 pan.",
+   "kto": "PAN + MIRA (list) ; HAL ; NESTA ; WILLA (szczebel 1)",
+   "kanal": "kruk Domu WF-BP; statek Nesty BP-Braavos",
+   "wraca": "300-11-25",
+   "zamyka": "odpowiedz Ysilli + meldunek Willi",
+   "status": "otwarte ### 10-20 list napisany w nocy (pan i Mira); kruk do Hala rano 10-21; kartka do Willi rano."
   }
  ],
  "_dopiski_300_03_18": [

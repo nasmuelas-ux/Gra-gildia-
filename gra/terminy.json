@@ -9748,9 +9748,9 @@
    "co": "DORNE - DOM TALLY W DESKACH (zgoda Dorana 07-17, rzut 82): czy i kiedy Dom otwiera placowke/znak w Deskach (Plankytown) - sprawa DOMU (Hal + Nesta), pod prawem i clem Dorne. Do slowa pana. ### 07-17 PO POLUDNIU: list pana do Hala - informacja o zgodzie Dorana + prosba o zdanie Hala z Nesta PRZED decyzja pana: czy, w jakiej formie (znak / kantorek / filia - model malej obecnosci 07-15), kosztorys, kiedy; przez kogo (Nesta - Braavos, kupcy braawijscy plywaja do Desek). Odpowiedz Hala - wlasny czlowiek, bez rzutu; zgoda/warunki Dorne przy otwarciu - rzut.",
    "kto": "SYMON -> HAL + NESTA",
    "kanal": "kruk Winterfell-Bialy Port; Nesta (Braavos)",
-   "wraca": "300-10-21",
+   "wraca": "300-10-29",
    "zamyka": "pan postanawia: otwieramy / pozniej / nie",
-   "status": "otwarte ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana. Decyzja pana - po odczycie. ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): Hal+Nesta: najpierw ZNAK, nie kantorek - kupiec braawijski handlujacy juz dla Nesty w Deskach bierze towar Domu komisowo (bursztyn, futro, beczka zimowa); bez kosztu stalego, prowizja; start po jesiennych sztormach. DO SLOWA PANA. ### 08-06 WIECZOR SLOWO PANA: ZGODA: ZNAK KOMISOWY w Deskach (kupiec braawijski Nesty, prowizja, bez kosztu stalego, start po jesiennych sztormach). Warunki/zgoda Dorne przy otwarciu - RZUT. ### 300-10-15 NIE PRZYSZLO, WIADOMO DLACZEGO: jesienny statek Nesty w BP ~10-15; wiesc krukiem Hala ~10-17. ### 300-10-17 STATEK NESTY W BP 10-15 (rzut 72) - kruk Hala; PACZKA NESTY wozem Domu do ZM ~10-21; rzut przy odczycie."
+   "status": "otwarte ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana. Decyzja pana - po odczycie. ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): Hal+Nesta: najpierw ZNAK, nie kantorek - kupiec braawijski handlujacy juz dla Nesty w Deskach bierze towar Domu komisowo (bursztyn, futro, beczka zimowa); bez kosztu stalego, prowizja; start po jesiennych sztormach. DO SLOWA PANA. ### 08-06 WIECZOR SLOWO PANA: ZGODA: ZNAK KOMISOWY w Deskach (kupiec braawijski Nesty, prowizja, bez kosztu stalego, start po jesiennych sztormach). Warunki/zgoda Dorne przy otwarciu - RZUT. ### 300-10-15 NIE PRZYSZLO, WIADOMO DLACZEGO: jesienny statek Nesty w BP ~10-15; wiesc krukiem Hala ~10-17. ### 300-10-17 STATEK NESTY W BP 10-15 (rzut 72) - kruk Hala; PACZKA NESTY wozem Domu do ZM ~10-21; rzut przy odczycie. ### 10-22 PACZKA (rzut 23): ODLOZONE - urzednik Dorana w Deskach chce cla jak od filii, nie od komisu; Nesta pyta: placic clo filii czy czekac na wiosne - DO SLOWA PANA."
   },
   {
    "data": "300-07-17",
@@ -11856,7 +11856,7 @@
    "kanal": "kruk WF-BP 08-07 + statek BP-Braavos",
    "wraca": "300-10-21",
    "zamyka": "przyjazd na Fose",
-   "status": "otwarte ### 300-09-30 Brak wiesci; statek jesienny Nesty - wiadomosc w liscie Nesty/bilansie Hala IX (~10-05). ### 300-10-05 TRIAZ: wiesci z Braavos - jesiennym statkiem Nesty ~10-15. ### 300-10-15 NIE PRZYSZLO, WIADOMO DLACZEGO: jesienny statek Nesty w BP ~10-15; wiesc krukiem Hala ~10-17. ### 300-10-17 STATEK NESTY W BP 10-15 (rzut 72) - kruk Hala; PACZKA NESTY wozem Domu do ZM ~10-21; rzut przy odczycie."
+   "status": "zamkniete 300-10-22 ### PACZKA: przyplynely 10-15 do BP; wozem Domu na Fose ~10-28. ### POPRZEDNIO: byl-otw ### 300-09-30 Brak wiesci; statek jesienny Nesty - wiadomosc w liscie Nesty/bilansie Hala IX (~10-05). ### 300-10-05 TRIAZ: wiesci z Braavos - jesiennym statkiem Nesty ~10-15. ### 300-10-15 NIE PRZYSZLO, WIADOMO DLACZEGO: jesienny statek Nesty w BP ~10-15; wiesc krukiem Hala ~10-17. ### 300-10-17 STATEK NESTY W BP 10-15 (rzut 72) - kruk Hala; PACZKA NESTY wozem Domu do ZM ~10-21; rzut przy odczycie."
   },
   {
    "data": "300-08-07",
@@ -12054,7 +12054,7 @@
    "kanal": "kruk WF-BP + statek BP-Braavos i z powrotem",
    "wraca": "300-10-21",
    "zamyka": "meldunek Nesty: kto przy niej",
-   "status": "otwarte ### 300-09-25 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: statek BP-Braavos-BP (~45 dni od ~08-08); sztorm 09-08 na wodach polnocy - zegluga opozniona (E). ### 300-10-05 TRIAZ: wiesci z Braavos - jesiennym statkiem Nesty ~10-15. ### 300-10-15 NIE PRZYSZLO, WIADOMO DLACZEGO: jesienny statek Nesty w BP ~10-15; wiesc krukiem Hala ~10-17. ### 300-10-17 STATEK NESTY W BP 10-15 (rzut 72) - kruk Hala; PACZKA NESTY wozem Domu do ZM ~10-21; rzut przy odczycie."
+   "status": "zamkniete 300-10-22 ### PACZKA (paczka_nesty_300_10_22.md, rzut 76): Barristan Selmy (straz), Daario Naharis (Wrony Burzy), Szary Robak, Missandei, Skahaz; pokoj z Yunkai wisi; ktos zabija jej ludzi noca. ### POPRZEDNIO: byl-otw ### 300-09-25 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: statek BP-Braavos-BP (~45 dni od ~08-08); sztorm 09-08 na wodach polnocy - zegluga opozniona (E). ### 300-10-05 TRIAZ: wiesci z Braavos - jesiennym statkiem Nesty ~10-15. ### 300-10-15 NIE PRZYSZLO, WIADOMO DLACZEGO: jesienny statek Nesty w BP ~10-15; wiesc krukiem Hala ~10-17. ### 300-10-17 STATEK NESTY W BP 10-15 (rzut 72) - kruk Hala; PACZKA NESTY wozem Domu do ZM ~10-21; rzut przy odczycie."
   },
   {
    "data": "300-08-08",
@@ -12675,7 +12675,7 @@
    "kanal": "list statkiem BP-Braavos (~3 tyg.) i z powrotem",
    "wraca": "300-10-21",
    "zamyka": "potwierdzenie Nesty: jeden kadlub, termin, zadatek",
-   "status": "otwarte ### 300-10-01 TRIAZ: w karcie Tama / bilansie Hala IX (cykl RAPORT_TAMA pisany 10-01, w WF ~10-03). ### 300-10-03 KARTA TAMA: odpowiedzi Nesty brak; statek jesienny Nesty ~10-15. ### 300-10-15 NIE PRZYSZLO, WIADOMO DLACZEGO: jesienny statek Nesty w BP ~10-15; wiesc krukiem Hala ~10-17. ### 300-10-17 STATEK NESTY W BP 10-15 (rzut 72) - kruk Hala; PACZKA NESTY wozem Domu do ZM ~10-21; rzut przy odczycie."
+   "status": "zamkniete 300-10-22 ### PACZKA: zastapione listem 'dogonic' - OBA Woly (rzut 76). ### POPRZEDNIO: byl-otw ### 300-10-01 TRIAZ: w karcie Tama / bilansie Hala IX (cykl RAPORT_TAMA pisany 10-01, w WF ~10-03). ### 300-10-03 KARTA TAMA: odpowiedzi Nesty brak; statek jesienny Nesty ~10-15. ### 300-10-15 NIE PRZYSZLO, WIADOMO DLACZEGO: jesienny statek Nesty w BP ~10-15; wiesc krukiem Hala ~10-17. ### 300-10-17 STATEK NESTY W BP 10-15 (rzut 72) - kruk Hala; PACZKA NESTY wozem Domu do ZM ~10-21; rzut przy odczycie."
   },
   {
    "data": "300-08-20",
@@ -12936,7 +12936,7 @@
    "kanal": "kruk Domu ZM-BP + statek BP-Braavos i z powrotem (~48 dni)",
    "wraca": "300-10-21",
    "zamyka": "odpowiedz Banku na pierwsza partie",
-   "status": "otwarte ### 300-10-10 MALA RADA: przyjete bez dyskusji; czeka na zdarzenie - 300-10-15. ### 300-10-15 NIE PRZYSZLO, WIADOMO DLACZEGO: jesienny statek Nesty w BP ~10-15; wiesc krukiem Hala ~10-17. ### 300-10-17 STATEK NESTY W BP 10-15 (rzut 72) - kruk Hala; PACZKA NESTY wozem Domu do ZM ~10-21; rzut przy odczycie."
+   "status": "zamkniete 300-10-22 ### PACZKA (rzut 87): Bank kupil ~62% nominalu (min 55%), ~155 na rachunek Nesty; PYTA O WIECEJ i KTO JESZCZE TRZYMA PAPIERY LWA - do slowa pana (nowa pozycja). ### POPRZEDNIO: byl-otw ### 300-10-10 MALA RADA: przyjete bez dyskusji; czeka na zdarzenie - 300-10-15. ### 300-10-15 NIE PRZYSZLO, WIADOMO DLACZEGO: jesienny statek Nesty w BP ~10-15; wiesc krukiem Hala ~10-17. ### 300-10-17 STATEK NESTY W BP 10-15 (rzut 72) - kruk Hala; PACZKA NESTY wozem Domu do ZM ~10-21; rzut przy odczycie."
   },
   {
    "data": "300-08-22",
@@ -13026,7 +13026,7 @@
    "kanal": "kruk Domu ZM-BP + nastepny statek BP-Braavos i z powrotem",
    "wraca": "300-10-21",
    "zamyka": "potwierdzenie Nesty: dwa kadluby, terminy, zadatek",
-   "status": "otwarte ### 300-10-10 MALA RADA: przyjete bez dyskusji; czeka na zdarzenie - 300-10-15. ### 300-10-15 NIE PRZYSZLO, WIADOMO DLACZEGO: jesienny statek Nesty w BP ~10-15; wiesc krukiem Hala ~10-17. ### 300-10-17 STATEK NESTY W BP 10-15 (rzut 72) - kruk Hala; PACZKA NESTY wozem Domu do ZM ~10-21; rzut przy odczycie."
+   "status": "zamkniete 300-10-22 ### PACZKA (rzut 76): stocznia trzyma OBA miejsca - Wol II i Wol IV/301; zadatek wg ksiegi Hala. ### POPRZEDNIO: byl-otw ### 300-10-10 MALA RADA: przyjete bez dyskusji; czeka na zdarzenie - 300-10-15. ### 300-10-15 NIE PRZYSZLO, WIADOMO DLACZEGO: jesienny statek Nesty w BP ~10-15; wiesc krukiem Hala ~10-17. ### 300-10-17 STATEK NESTY W BP 10-15 (rzut 72) - kruk Hala; PACZKA NESTY wozem Domu do ZM ~10-21; rzut przy odczycie."
   },
   {
    "data": "300-08-24",
@@ -13350,7 +13350,7 @@
    "kanal": "kruk WF-Riverrun",
    "wraca": "300-10-21",
    "zamyka": "drugi odzew lordow (rzut)",
-   "status": "otwarte ### 300-10-01 TRIAZ: Maidenpool wolne (rzut 95), zniwa po - Lyman pyta teraz (slowo pana 08-28); odpowiedz lordow - RZUT ~10-15 (kruk Riverrun/Hal). ### 300-10-15 NIE PRZYSZLO, WIADOMO DLACZEGO: odpowiedz lordow idzie przez Lymana i Hala (kruk Riverrun-BP-WF); ~10-17, rzut przy odczycie. ### 300-10-17 odpowiedz lordow Lymana w paczce Nesty/Hala - ZM ~10-21; rzut przy odczycie."
+   "status": "zamkniete 300-10-22 ### PACZKA (rzut 47): trzech mniejszych lordow daje zastaw; wieksi czekaja na Edmure'a. ### POPRZEDNIO: byl-otw ### 300-10-01 TRIAZ: Maidenpool wolne (rzut 95), zniwa po - Lyman pyta teraz (slowo pana 08-28); odpowiedz lordow - RZUT ~10-15 (kruk Riverrun/Hal). ### 300-10-15 NIE PRZYSZLO, WIADOMO DLACZEGO: odpowiedz lordow idzie przez Lymana i Hala (kruk Riverrun-BP-WF); ~10-17, rzut przy odczycie. ### 300-10-17 odpowiedz lordow Lymana w paczce Nesty/Hala - ZM ~10-21; rzut przy odczycie."
   },
   {
    "data": "300-08-28",
@@ -13944,7 +13944,7 @@
    "kanal": "kruk Domu ZM-BP 09-04; statek BP-Braavos",
    "wraca": "300-10-21",
    "zamyka": "sol w BP",
-   "status": "otwarte ### 300-10-20 NIE PRZYSZLO, WIADOMO DLACZEGO: paczka Nesty/Hala wozem Domu do ZM ~10-21 (kruk Hala 10-17)."
+   "status": "zamkniete 300-10-22 ### PACZKA (rzut 43): zgodnie - statek w BP ~10-25, cena wg umowy; rozwoz do ~11-01 (Gawen/Edric). ### POPRZEDNIO: byl-otw ### 300-10-20 NIE PRZYSZLO, WIADOMO DLACZEGO: paczka Nesty/Hala wozem Domu do ZM ~10-21 (kruk Hala 10-17)."
   },
   {
    "data": "300-09-03",
@@ -13971,7 +13971,7 @@
    "kanal": "kruk WF-BP + statek BP-Braavos",
    "wraca": "300-10-21",
    "zamyka": "pierwsza oferta u Arsenalu / odpowiedz",
-   "status": "otwarte ### 09-12 NIE PRZYSZLO, WIADOMO DLACZEGO: list do Nesty statkiem BP-Braavos (~3 tyg.) i odpowiedz Arsenalu z powrotem - nie przed ~X. ### 300-10-20 NIE PRZYSZLO, WIADOMO DLACZEGO: paczka Nesty/Hala wozem Domu do ZM ~10-21 (kruk Hala 10-17)."
+   "status": "zamkniete 300-10-22 ### PACZKA (rzut 54): Arsenal kupi WIOSNA po swojej cenie; umowa na pierwszy statek wiosenny (Hal/Nesta). ### POPRZEDNIO: byl-otw ### 09-12 NIE PRZYSZLO, WIADOMO DLACZEGO: list do Nesty statkiem BP-Braavos (~3 tyg.) i odpowiedz Arsenalu z powrotem - nie przed ~X. ### 300-10-20 NIE PRZYSZLO, WIADOMO DLACZEGO: paczka Nesty/Hala wozem Domu do ZM ~10-21 (kruk Hala 10-17)."
   },
   {
    "data": "300-09-04",
@@ -14070,7 +14070,7 @@
    "kanal": "statek BP-Braavos",
    "wraca": "300-10-21",
    "zamyka": "umowa podpisana w Braavos",
-   "status": "otwarte ### 300-09-30 Brak wiesci; umowa w Braavos - wiadomosc w liscie Nesty/bilansie Hala IX (~10-05). ### 300-10-05 TRIAZ: wiesci z Braavos - jesiennym statkiem Nesty ~10-15. ### 300-10-15 NIE PRZYSZLO, WIADOMO DLACZEGO: jesienny statek Nesty w BP ~10-15; wiesc krukiem Hala ~10-17. ### 300-10-17 STATEK NESTY W BP 10-15 (rzut 72) - kruk Hala; PACZKA NESTY wozem Domu do ZM ~10-21; rzut przy odczycie."
+   "status": "zamkniete 300-10-22 ### PACZKA (rzut 61): VELLAN TORRE PODPISAL - 5 lat, udzial w zysku filii. ### POPRZEDNIO: byl-otw ### 300-09-30 Brak wiesci; umowa w Braavos - wiadomosc w liscie Nesty/bilansie Hala IX (~10-05). ### 300-10-05 TRIAZ: wiesci z Braavos - jesiennym statkiem Nesty ~10-15. ### 300-10-15 NIE PRZYSZLO, WIADOMO DLACZEGO: jesienny statek Nesty w BP ~10-15; wiesc krukiem Hala ~10-17. ### 300-10-17 STATEK NESTY W BP 10-15 (rzut 72) - kruk Hala; PACZKA NESTY wozem Domu do ZM ~10-21; rzut przy odczycie."
   },
   {
    "data": "300-09-05",
@@ -14133,7 +14133,7 @@
    "kanal": "kruk WF-BP (09-06) + przedstawiciel w Highgarden",
    "wraca": "300-10-21",
    "zamyka": "odpowiedz Olenny: tak/nie, cena, kiedy",
-   "status": "otwarte ### 300-10-05 TRIAZ: w bilansie Hala IX (doszedl 10-05) bez nowej decyzji - przeglad z Halem/Lucanem ~10-07. ### 300-10-07 TRIAZ: listy do Olenny szly statkiem przez Hala (09-06..10) - odpowiedz z Reach statkiem ~10-20 (3 tyg. w kazda strone). ### 300-10-20 NIE PRZYSZLO, WIADOMO DLACZEGO: paczka Nesty/Hala wozem Domu do ZM ~10-21 (kruk Hala 10-17)."
+   "status": "zamkniete 300-10-22 ### OLENNA TAK (rzut 98): ~4 000 korcy dwoma dodatkowymi statkami, GP ~XI poczatek; ~6 000 wiosna; 1/3 drewnem; zaplata przy wadze (ekonomia). ### POPRZEDNIO: byl-otw ### 300-10-05 TRIAZ: w bilansie Hala IX (doszedl 10-05) bez nowej decyzji - przeglad z Halem/Lucanem ~10-07. ### 300-10-07 TRIAZ: listy do Olenny szly statkiem przez Hala (09-06..10) - odpowiedz z Reach statkiem ~10-20 (3 tyg. w kazda strone). ### 300-10-20 NIE PRZYSZLO, WIADOMO DLACZEGO: paczka Nesty/Hala wozem Domu do ZM ~10-21 (kruk Hala 10-17)."
   },
   {
    "data": "300-09-06",
@@ -14331,7 +14331,7 @@
    "kanal": "kruk WF-BP 09-09 + statek",
    "wraca": "300-10-21",
    "zamyka": "odpowiedz Olenny (ile, cena, kiedy) - wtedy zdarzenie Kasa 3/Kasa 2",
-   "status": "otwarte ### 300-10-05 TRIAZ: w bilansie Hala IX (doszedl 10-05) bez nowej decyzji - przeglad z Halem/Lucanem ~10-07. ### 300-10-07 TRIAZ: listy do Olenny szly statkiem przez Hala (09-06..10) - odpowiedz z Reach statkiem ~10-20 (3 tyg. w kazda strone). ### 300-10-20 NIE PRZYSZLO, WIADOMO DLACZEGO: paczka Nesty/Hala wozem Domu do ZM ~10-21 (kruk Hala 10-17)."
+   "status": "zamkniete 300-10-22 ### OLENNA TAK (rzut 98): 250 flakonow (200 Korona, 50 Fosa) z dodatkowymi statkami ~XI. ### POPRZEDNIO: byl-otw ### 300-10-05 TRIAZ: w bilansie Hala IX (doszedl 10-05) bez nowej decyzji - przeglad z Halem/Lucanem ~10-07. ### 300-10-07 TRIAZ: listy do Olenny szly statkiem przez Hala (09-06..10) - odpowiedz z Reach statkiem ~10-20 (3 tyg. w kazda strone). ### 300-10-20 NIE PRZYSZLO, WIADOMO DLACZEGO: paczka Nesty/Hala wozem Domu do ZM ~10-21 (kruk Hala 10-17)."
   },
   {
    "data": "300-09-09",
@@ -14448,7 +14448,7 @@
    "kanal": "kruk WF-Fosa 09-10 (szyfr); kruk WF-BP",
    "wraca": "300-10-21",
    "zamyka": "odpowiedz Olenny / reakcja eskorty (rzut)",
-   "status": "otwarte ### 300-10-05 TRIAZ: w bilansie Hala IX (doszedl 10-05) bez nowej decyzji - przeglad z Halem/Lucanem ~10-07. ### 300-10-07 TRIAZ: listy do Olenny szly statkiem przez Hala (09-06..10) - odpowiedz z Reach statkiem ~10-20 (3 tyg. w kazda strone). ### 300-10-20 NIE PRZYSZLO, WIADOMO DLACZEGO: paczka Nesty/Hala wozem Domu do ZM ~10-21 (kruk Hala 10-17)."
+   "status": "zamkniete 300-10-22 ### OLENNA (rzut 98): dziekuje; eskorta Redwyne'ow DWIE GALERY na zimowe kursy; pyta o DAB na galery Arbor - do slowa pana (nowa pozycja). ### POPRZEDNIO: byl-otw ### 300-10-05 TRIAZ: w bilansie Hala IX (doszedl 10-05) bez nowej decyzji - przeglad z Halem/Lucanem ~10-07. ### 300-10-07 TRIAZ: listy do Olenny szly statkiem przez Hala (09-06..10) - odpowiedz z Reach statkiem ~10-20 (3 tyg. w kazda strone). ### 300-10-20 NIE PRZYSZLO, WIADOMO DLACZEGO: paczka Nesty/Hala wozem Domu do ZM ~10-21 (kruk Hala 10-17)."
   },
   {
    "data": "300-09-10",
@@ -16237,9 +16237,9 @@
    "co": "OGRODY SZKLANE WF - 4 BRAKUJACE SZYBY (slowo pana 10-09): dokupic przez HALA (BP), Kasa 3; miara jak 36 z 09-18 (ogrodnik). Cena - ze slowa Hala (40 szyb 09-18 kosztowalo ~9, Kasa 3 - wzorzec, nie kwota). Kruk do BP, gdy kruki ruszą (~10-10). Wlasni - bez rzutu.",
    "kto": "SYMON -> HAL ; GAWEN (Kasa 3)",
    "kanal": "kruk WF-BP + woz/paczka Domu",
-   "wraca": "300-10-21",
+   "wraca": "300-11-15",
    "zamyka": "szyby w WF i wstawione",
-   "status": "otwarte ### 300-10-09 SLOWO PANA: w tym samym liscie do Hala - ZAPYTANIE O SZKLO DO CZYTANIA (Myr) DLA BERONA; placi PAN Z SAKIEWKI (nie Korona). Cena - ze slowa Hala. ### 300-10-09 SLOWO PANA: SZKLA NA NOS dla Berona - MIARA OD LUWINA (wzrok przy swiecy, litery roznej wielkosci; Beron zle z bliska, dobrze z daleka); Luwin dopisuje miare do listu Hala przed wylotem kruka. ### 300-10-20 NIE PRZYSZLO, WIADOMO DLACZEGO: paczka Nesty/Hala wozem Domu do ZM ~10-21 (kruk Hala 10-17)."
+   "status": "otwarte ### 300-10-09 SLOWO PANA: w tym samym liscie do Hala - ZAPYTANIE O SZKLO DO CZYTANIA (Myr) DLA BERONA; placi PAN Z SAKIEWKI (nie Korona). Cena - ze slowa Hala. ### 300-10-09 SLOWO PANA: SZKLA NA NOS dla Berona - MIARA OD LUWINA (wzrok przy swiecy, litery roznej wielkosci; Beron zle z bliska, dobrze z daleka); Luwin dopisuje miare do listu Hala przed wylotem kruka. ### 300-10-20 NIE PRZYSZLO, WIADOMO DLACZEGO: paczka Nesty/Hala wozem Domu do ZM ~10-21 (kruk Hala 10-17). ### 10-22 PACZKA (Hal): 4 szyby w skladzie BP - nastepnym wozem Domu ~XI, ~1 (Kasa 3); SZKLA DLA BERONA - zamowione w Myr, WIOSNA, ~2 z sakiewki pana przy odbiorze."
   },
   {
    "data": "300-10-09",
@@ -16996,6 +16996,24 @@
    "wraca": "300-11-08",
    "zamyka": "pierwsza kolumna rozladowana w wiezach + meldunek Hallisa",
    "status": "otwarte ### 10-22 rozkaz; kolumna I szykowana na ~10-26."
+  },
+  {
+   "data": "300-10-22",
+   "co": "BANK BRAAVOS PYTA: KTO JESZCZE W WESTEROS TRZYMA PAPIERY LANNISPORTU I ILE (paczka 10-22, rzut 87) + chce kolejnych partii. Hal (O): 'pierwszy raz pytaja nas'. DO SLOWA PANA: czy i co odpowiedziec (to wiedza - wymiana, nie podarunek).",
+   "kto": "pan ; HAL ; LUCAN ; NESTA",
+   "kanal": "kruk Domu WF-BP, statek BP-Braavos",
+   "wraca": "300-10-29",
+   "zamyka": "slowo pana",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-22",
+   "co": "OLENNA PYTA O DAB NA GALERY ARBOR (paczka 10-22, rzut 98): 'ile macie debu' - Arbor buduje galery w tym roku. Drewno okretowe Korony obiecane Arsenalowi Braavos na wiosne (09-04). DO SLOWA PANA.",
+   "kto": "pan ; GAWEN ; HAL",
+   "kanal": "kanal zbozowy (Hal, przedstawiciel w Highgarden)",
+   "wraca": "300-10-29",
+   "zamyka": "slowo pana",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

@@ -16918,12 +16918,12 @@
   },
   {
    "data": "300-10-20",
-   "co": "WDOWA PO HAGENIE (BP, Uliczka Powroznikow) - PROPOZYCJA STYPENDIUM w szkole Bialego Portu (szkola Wymana, 299-08-11) dla dwojga dzieci (E: chlopiec 8, dziewczynka 5) + 1 smok z sakiewki pana na nauke dzieci (slowo pana 10-20). Niesie Torvald (wraca do BP 10-21, E), z kartka pana. Zgoda wdowy i przyjecie do szkoly (cudza wola) - RZUT przy wiesci.",
-   "kto": "TORVALD (poslaniec) ; szkola BP",
-   "kanal": "Torvald osobiscie; wiesc krukiem Hala",
-   "wraca": "300-10-28",
+   "co": "WDOWA PO HAGENIE (BP, Uliczka Powroznikow) - PROPOZYCJA STYPENDIUM w szkole Bialego Portu (szkola Wymana, 299-08-11) dla dzieci + 1 smok z sakiewki pana na nauke dzieci (slowo pana 10-20). BEZ WIEDZY TORVALDA: list pisze kancelaria Korony (Beron, E), wiezie POSLANIEC KORONY konno traktem przetartym (WF-Cerwyn-Przystan-BP ~125 mil, E: ~4 dni, w BP ~10-24/25). Zgoda wdowy i przyjecie do szkoly (cudza wola) - RZUT przy wiesci.",
+   "kto": "KANCELARIA KORONY (Beron) ; poslaniec Korony ; szkola BP",
+   "kanal": "poslaniec Korony konno; wiesc z powrotem poslancem albo krukiem przez komore BP",
+   "wraca": "300-10-30",
    "zamyka": "wdowa przyjmuje/odmawia; dzieci w szkole",
-   "status": "otwarte ### 10-20 smok wydany z sakiewki pana; kartka przy Torvaldzie."
+   "status": "otwarte ### 10-20 VOID: wpis 'niesie Torvald' - slowo gracza: pan robi to poza Torvaldem, bez jego wiedzy. List kancelarii Korony + poslaniec wyjezdza 10-21 o swicie (E). Smok wydany z sakiewki pana."
   }
  ],
  "_dopiski_300_03_18": [

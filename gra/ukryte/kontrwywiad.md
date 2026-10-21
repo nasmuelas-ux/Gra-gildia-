@@ -93,3 +93,9 @@
 **10-20 TORVALD SIWEK - EKSPOZYCJA (słowo pana w kancelarii WF):** pan powiedział Torvaldowi, że „wywiad ustalił” wizyty ludzi z portu u wdowy przy Uliczce Powroźników. Torvald wie odtąd, że pana ludzie obserwowali dom wdowy w BP (nie zna imion, metody ani tego, kto). Wyjaśnienie Torvalda (rzut 98) pokrywa się z prawdą (prawda.md 10-11): to krewni Hagena, rybacy. Podejrzenie skrzynki kontaktowej Willi (rzut 14) - mylne.
 
 **10-22, solar lady Catelyn (słowo pana):** przy Catelyn i ser Rodriku pan powiedział: *„nie chodzi o to, żeby to powiedział król, tylko żeby ludzie o tym mówili. Od tego mamy wywiad.”* Ani imion, ani Willi, ani siatki. Catelyn i Rodrik o nic nie pytali. Rodrik może to czytać jako Oddział 2 sztabu (wywiad wojskowy z rozpiski 10-13). Ekspozycja ogólna: oboje wiedzą odtąd, że Korona ma wywiad zdolny szeptać na Południu.
+
+
+## 300-10-23, popołudnie, kancelaria WF: SŁOWA PANA DO ALDWINA
+- **Raport 2. dnia miesiąca** (pierwszy 11-02): czy otoczenie czyste · podsumowanie miesiąca · zagrożenia pojawiające się i trwające.
+- **Woźnica:** dziś czwartkowy kurs pod obserwacją (meldunek 10-24); pachołek ~10-30; Rozdroże przez Willę ~XI; Gil nietknięty.
+- **„Korona trzymana przez Tally” przechodzi z wywiadu do kontrwywiadu.** Uszy Willi w BP i Barrowton słuchają dalej, wynik idzie do skrzynki Aldwina. Pierwszy odczyt ~10-25.

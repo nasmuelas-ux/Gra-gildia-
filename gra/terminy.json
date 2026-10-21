@@ -16671,7 +16671,7 @@
    "kanal": "osobiscie ZM / karta centrali 28.",
    "wraca": "300-10-25",
    "zamyka": "pierwszy meldunek (pkt 1); reszta - kolejne meldunki",
-   "status": "otwarte ### 10-17 DOPISANE (slowo pana): (9) kobieta z Tarthu (gwardia Renly'ego) - ucho na Tarth, 301; (10) Beric Dondarrion i czerwony kaplan - co robia, gdzie (Rozdroze + ludzie Lymana, ~XI). ### 10-19 DOPISANE (slowo pana, kartka przez Stena): (11) 'wroble' w Dorzeczu - ilu, kto prowadzi, dokad, co z lordami i septami (~XI)."
+   "status": "otwarte ### 300-10-23 SLOWO PANA: PKT 1 (Korona trzymana przez Tally) PRZECHODZI DO KONTRWYWIADU - prowadzi ALDWIN; uszy Willi w BP/Barrowton dalej slysza, wynik przez skrzynke do Aldwina; meldunek pkt 1 ~10-25 - rzut przy meldunku. Pozostale punkty bez zmian (Willa). || otwarte ### 10-17 DOPISANE (slowo pana): (9) kobieta z Tarthu (gwardia Renly'ego) - ucho na Tarth, 301; (10) Beric Dondarrion i czerwony kaplan - co robia, gdzie (Rozdroze + ludzie Lymana, ~XI). ### 10-19 DOPISANE (slowo pana, kartka przez Stena): (11) 'wroble' w Dorzeczu - ilu, kto prowadzi, dokad, co z lordami i septami (~XI)."
   },
   {
    "data": "300-10-17",
@@ -17149,6 +17149,24 @@
    "wraca": "300-12-28",
    "zamyka": "pierwszy meldunek Willi o obiegu",
    "status": "otwarte"
+  },
+  {
+   "data": "300-10-23",
+   "co": "WOZNICA OD CHRUSTU - KURS CZWARTKOWY 10-23 pod obserwacja kontrwywiadu (Sten do bramy, dalej twarz nieznana woznicy; zajazd Ody).",
+   "kto": "ALDWIN",
+   "kanal": "na miejscu",
+   "wraca": "300-10-24",
+   "zamyka": "meldunek Aldwina z kursu 10-23 (rzut - cudzy ruch)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-23",
+   "co": "ROZDROZE - KOMU PACHOLEK KUPCA WIN ODDAJE (prosba Aldwina przez skrzynke do Willi 10-20; patrzec, nie pytac). Nastepny wyjazd pacholka ~10-30.",
+   "kto": "ALDWIN -> WILLA (Rozdroze)",
+   "kanal": "siatka Willi",
+   "wraca": "300-11-10",
+   "zamyka": "imie albo miejsce za Rozdrozem (rzut)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [
@@ -17539,7 +17557,7 @@
   },
   {
    "id": "KONTRWYWIAD",
-   "co": "RAPORT KONTRWYWIADU (ALDWIN, szef kontrwywiadu - niejawnie, gra/ukryte/kontrwywiad.md) - wprost do pana, poza kalendarzem teatrow (slowo pana 10-23).",
+   "co": "RAPORT KONTRWYWIADU (ALDWIN, niejawnie) - 2. dnia miesiaca do rak pana: (1) CZY OTOCZENIE CZYSTE (pan, rodzina, dom, kancelaria, siatka); (2) PODSUMOWANIE MIESIACA; (3) ZAGROZENIA - pojawiajace sie i trwajace. Poza kalendarzem teatrow (slowo pana 10-23).",
    "kto": "ALDWIN",
    "kanal": "do rak wlasnych (WF)",
    "rytm": {

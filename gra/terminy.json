@@ -17176,6 +17176,24 @@
    "wraca": "300-10-28",
    "zamyka": "slowo Krola o pismie; po nim list do Waldera krukiem",
    "status": "projekt do akceptacji Krola ### 10-24: gotowy, NIE wyslany; myto to prerogatywa Krola, Krol wraca ~10-28; idzie po jego slowie (data myta 1.11 do potwierdzenia)"
+  },
+  {
+   "data": "300-10-25",
+   "co": "ALDWIN - MAPA UST I KIERUNKU ramy 'Korona trzyma Tally' (tydzien; patrzec nie ruszac, bez kontr-szeptu): kto to niesie w BP i od strony Dreadfortu, dokad idzie.",
+   "kto": "ALDWIN (uszy Willi BP/Barrowton)",
+   "kanal": "do rak wlasnych (WF)",
+   "wraca": "300-11-01",
+   "zamyka": "mapa ust na stole pana (kto, dokad, czy Dreadfort)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-25",
+   "co": "KROLOWI O RAMIE 'KORONA TRZYMA TALLY' - PAN POWIE SAM, osobiscie, lekko, po powrocie (~10-28), zanim dojdzie okreznie.",
+   "kto": "SYMON -> KROL",
+   "kanal": "osobiscie (Krol w WF ~10-28)",
+   "wraca": "300-10-28",
+   "zamyka": "Krol uslyszal od pana",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

@@ -12628,9 +12628,9 @@
    "co": "PLAN PRZEWLOKI - CZTERY ZASADY (gra/plan_przewloki_cztery_zasady_300_08_18.md; rada Luwina, plan pana): (1) pewnosc czasu - rozklad przeladunku, slupy milowe, grobla sucha, ksiega przejsc (Garrick, kapitan portu, Orwyn/Harlon; Kasa 2); (2) suchy sklad na obu koncach (Herwin/lawa, Hendry; Kasa 2; Dom wynajmuje jak kazdy); (3) poczta kupiecka i zawiadomienie o przejsciu (krucznik Fosy, Hal; Kasa 1); (4) ksiazeczka przewloki w dwoch jezykach (Ilario, Wat, Hal; Kasa 1). Kosztorysy z ksiag prowadzacych.",
    "kto": "GARRICK ; HERWIN ; HENDRY ; ORWYN ; HAL ; ILARIO",
    "kanal": "kruk WF-Fosa i WF-BP (poranne 08-19)",
-   "wraca": "300-10-22",
+   "wraca": "300-10-26",
    "zamyka": "kosztorysy i pierwsze kroki IX (wlasni - bez rzutu na wykonanie)",
-   "status": "otwarte ### 09-05 (poczta_300_09_05.md): kosztorysy - zbiorczy ~09-09. ### 09-09: stan w zbiorczym Garricka 09-07 (gra/zbiorczy_garricka_300_09_07.md); nastepny zbiorczy ~09-16. ### 09-16: po zamieci kruki lataja (pogoda 86) - ZBIORCZY GARRICKA (pisany ~09-14/15) doszedl rano z Fosy; stan przy czytaniu dzis. ### 09-16: stan w zbiorczym Garricka 09-15 (gra/zbiorczy_garricka_300_09_15.md); nastepny zbiorczy ~09-23. ### 300-09-23 ZBIORCZY 09-22 (gra/zbiorczy_garricka_300_09_22.md): w toku, bez nowej decyzji; nastepny zbiorczy ~09-30. ### 300-09-30 ZBIORCZY 09-29 (gra/zbiorczy_garricka_300_09_29.md): w toku, bez nowej decyzji; nastepny zbiorczy ~10-07. ### 300-10-07 ZBIORCZY 10-06 (gra/zbiorczy_garricka_300_10_06.md): w toku, bez nowej decyzji; nastepny zbiorczy ~10-14. ### 300-10-14 ZBIORCZY 10-13 (gra/zbiorczy_garricka_300_10_13.md): w toku, bez nowej decyzji; nastepny zbiorczy ~10-20. ### 300-10-20 NIE PRZYSZLO, WIADOMO DLACZEGO: zbiorczy Garricka pisany 10-20 - w WF ~10-22 (zasada 34); pogoda 26. ### 10-20 PYTANIE PANA O STATUS: w zapisie brak osobnego meldunku o czterech zasadach od 08-18 (kosztorysy zapowiedziane na ~09-09 nie pojawily sie w zbiorczych - luka GM, nie wina ludzi). ZBIORCZY GARRICKA pisany 10-20 (w WF ~10-22) MA ZAWIERAC osobny punkt: stan czterech zasad + kosztorysy (wlasni, bez rzutu)."
+   "status": "otwarte ### 09-05 (poczta_300_09_05.md): kosztorysy - zbiorczy ~09-09. ### 09-09: stan w zbiorczym Garricka 09-07 (gra/zbiorczy_garricka_300_09_07.md); nastepny zbiorczy ~09-16. ### 09-16: po zamieci kruki lataja (pogoda 86) - ZBIORCZY GARRICKA (pisany ~09-14/15) doszedl rano z Fosy; stan przy czytaniu dzis. ### 09-16: stan w zbiorczym Garricka 09-15 (gra/zbiorczy_garricka_300_09_15.md); nastepny zbiorczy ~09-23. ### 300-09-23 ZBIORCZY 09-22 (gra/zbiorczy_garricka_300_09_22.md): w toku, bez nowej decyzji; nastepny zbiorczy ~09-30. ### 300-09-30 ZBIORCZY 09-29 (gra/zbiorczy_garricka_300_09_29.md): w toku, bez nowej decyzji; nastepny zbiorczy ~10-07. ### 300-10-07 ZBIORCZY 10-06 (gra/zbiorczy_garricka_300_10_06.md): w toku, bez nowej decyzji; nastepny zbiorczy ~10-14. ### 300-10-14 ZBIORCZY 10-13 (gra/zbiorczy_garricka_300_10_13.md): w toku, bez nowej decyzji; nastepny zbiorczy ~10-20. ### 300-10-20 NIE PRZYSZLO, WIADOMO DLACZEGO: zbiorczy Garricka pisany 10-20 - w WF ~10-22 (zasada 34); pogoda 26. ### 10-20 PYTANIE PANA O STATUS: w zapisie brak osobnego meldunku o czterech zasadach od 08-18 (kosztorysy zapowiedziane na ~09-09 nie pojawily sie w zbiorczych - luka GM, nie wina ludzi). ZBIORCZY GARRICKA pisany 10-20 (w WF ~10-22) MA ZAWIERAC osobny punkt: stan czterech zasad + kosztorysy (wlasni, bez rzutu). ### 10-20 SLOWO PANA (koryguje wpis wyzej): NIE w zbiorczym - PRZEWLOKA RAPORTOWANA OSOBNO, cykl RAPORT_PRZEWLOKI co 14 dni; pierwszy pisany 10-24, w WF ~10-26 (rozkaz krukiem dzis, lot z opoznieniem - na Fosie ~10-21). Pan oczekuje, ze rzecz idzie (zasada 7 - wlasni robia bez meldunku). Pierwszy raport: wszystko od 08-18 + kosztorysy."
   },
   {
    "data": "300-08-19",
@@ -17005,7 +17005,8 @@
    "ostatnio_odebrane": "300-10-14",
    "zrodlo": "terminarz_budow_300_04.md",
    "uwaga_0728": "07-28 burza - kruk z Fosy 07-29",
-   "uwaga_0812": "08-12 nawalnica (pogoda 6) - kruk z Fosy 08-13"
+   "uwaga_0812": "08-12 nawalnica (pogoda 6) - kruk z Fosy 08-13",
+   "uwaga_1020": "SLOWO PANA 10-20: PRZEWLOKA WYJETA ZE ZBIORCZEGO - osobny RAPORT_PRZEWLOKI co 14 dni (pierwszy pisany 10-24, w WF ~10-26)."
   },
   {
    "id": "KARTA_BORS",
@@ -17264,6 +17265,19 @@
    "opoznienie": 0,
    "ostatnio_odebrane": "300-09-28",
    "zrodlo": "slowo pana 300-10-03 (zaklad Willi, ZM)"
+  },
+  {
+   "id": "RAPORT_PRZEWLOKI",
+   "co": "RAPORT PRZEWLOKI - OSOBNO (slowo pana 10-20: 'przewloka raportowana oddzielnie, w innym terminie; nie stoi w miejscu'). Cala droga Ujscie-grobla-Cailin-Goraczka: cztery zasady z 08-18 (rozklad przeladunku, slupy milowe, ksiega przejsc, grobla/trzecia mila; suchy sklad na obu koncach; poczta kupiecka i zawiadomienie o przejsciu; ksiazeczka) z kosztorysami i z tym, co zrobiono od ostatniego raportu; pomosty, zapora, ruch (statki, barki, wozy, korce), taryfa i wplywy, lodmani. Rubryka 'co stanelo i czemu'. Wlasni - bez rzutu; cudza wola (kupcy, morze, Wyman) - rzut.",
+   "kto": "GARRICK (kancelaria lenna) + HARWIN LOPATA (kapitan portu Cailin); grobla - Orwyn i Harlon",
+   "kanal": "kruk Fosa-Winterfell",
+   "rytm": {
+    "co_dni": 14,
+    "start": "300-10-24"
+   },
+   "opoznienie": 2,
+   "ostatnio_odebrane": "300-10-20",
+   "zrodlo": "plan_przewloki_cztery_zasady_300_08_18.md"
   }
  ],
  "_cykliczne_zakonczone": [

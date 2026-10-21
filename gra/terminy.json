@@ -17085,6 +17085,15 @@
    "kanal": "na miejscu",
    "wraca": "300-10-23",
    "zamyka": "slowo pana, odpowiedz ostatnim krukiem albo jezdzcem",
+   "status": "zrobione ### 300-10-23: slowo pana - zostaje do lodu, wraca saniami; rozkaz kruk WF-Fosa + jezdziec."
+  },
+  {
+   "data": "300-10-23",
+   "co": "ROZKAZ DLA SER EDWYLE'A: zimuje w Dustinporcie przy 7 ochotnikach do lodu, potem saniami do WF.",
+   "kto": "pan -> SER EDWYLE (przez Garricka/jezdzca)",
+   "kanal": "kruk WF-Fosa + jezdziec Fosa-Dustinport",
+   "wraca": "300-10-29",
+   "zamyka": "rozkaz w rekach Edwyle'a (potwierdzenie w nastepnej karcie Donnela)",
    "status": "otwarte"
   }
  ],

@@ -6411,7 +6411,7 @@
   {
    "id": "dustinport",
    "status": "otwarty",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 3
   },
   {
    "id": "szkola_fosy",
@@ -6546,12 +6546,12 @@
   {
    "id": "dziennik",
    "status": "otwarty",
-   "_dziennik_nota": 4
+   "_dziennik_nota": 5
   },
   {
    "id": "pobor_wschodu",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 2
   }
  ]
 }

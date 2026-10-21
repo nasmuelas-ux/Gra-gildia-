@@ -16725,7 +16725,7 @@
    "kanal": "kruk WF-Czarny Zamek",
    "wraca": "300-10-21",
    "zamyka": "odpowiedz Wystana (rzut)",
-   "status": "otwarte"
+   "status": "zamkniete 300-10-21 ### ODPOWIEDZ WYSTANA (poczta_300_10_21.md, rzut 45): zdrow; Aemon lepiej; Mur - maki dosc, brak tluszczu i zielonego, w Wiezy Cieni u dwoch braci PIERWSZE ZNAKI GNILCA (napar z igliwia, cebula, kiszonka do wiez); ludzi malo; zza Muru bez wiesci o gromadach (to Hallis). Prosi: cos kwasnego i tlustego najpierw do wiez. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-10-18",
@@ -16951,6 +16951,15 @@
    "wraca": "300-10-29",
    "zamyka": "odpowiedz Flinta na stole",
    "status": "otwarte ### 10-21 list napisany; kruk do Fosy po przejasnieniu. ### 10-21 dopisek dodany przed lotem. Jesli Flint poprosi o ludzi - do slowa pana: kto placi (Kasa 2/Kasa 3) i kto wysyla (Garrick)."
+  },
+  {
+   "data": "300-10-21",
+   "co": "MUR - GNILEC W WIEZY CIENI (Wystan 10-21, rzut 45): pierwsze znaki u dwoch braci; Wystan prosi, by Korona przyslala cos kwasnego i tlustego najpierw do wiez. Zbiega sie z karta racji (tluszcz waskim gardlem, kiszonka ~33 dni) i z pytaniem do Hallisa o spizarnie w racjach (~10-22). DO SLOWA PANA.",
+   "kto": "pan ; Gawen/Orland (Spichlerz, Konserwa) ; Hallis",
+   "kanal": "kruk WF-Czarny Zamek",
+   "wraca": "300-10-22",
+   "zamyka": "decyzja pana o dostawie albo swiadome odlozenie",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

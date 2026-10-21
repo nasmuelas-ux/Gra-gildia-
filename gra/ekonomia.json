@@ -1809,6 +1809,13 @@
    "kwota": 155.0,
    "opis": "PAPIERY LWA (a) - PIERWSZA PARTIA W BANKU BRAAVOS: ~62% nominalu ~250 (koszt skupu ~135 juz w ksiedze Hala); weksel na rachunek Nesty (E Hala)",
    "zrodlo": "paczka Nesty/Hala 10-22 (rzut 87)"
+  },
+  {
+   "data": "301-03-15",
+   "kasa": "KASA 3 - SKARB POLNOCY",
+   "kwota": -40.0,
+   "opis": "SCINKA DEBU W WILCZYM LESIE XI-III: ~120-150 pni, ~0,3/pien (dniowki, sanie, cechowanie) - E Gawena",
+   "zrodlo": "slowo pana 10-22"
   }
  ],
  "_symulacje": {

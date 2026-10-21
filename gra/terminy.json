@@ -17013,7 +17013,7 @@
    "kanal": "kanal zbozowy (Hal, przedstawiciel w Highgarden)",
    "wraca": "300-10-29",
    "zamyka": "slowo pana",
-   "status": "otwarte"
+   "status": "otwarte ### 10-22 SLOWO PANA: MODEL B - Korona gwarantem jednego kontraktu; scinka w Wilczym Lesie; zapytanie do wszystkich lordow (pozycja DAB OKRETOWY - MODEL B). Odpowiedz Olennie - do slowa pana."
   },
   {
    "data": "300-10-22",
@@ -17023,6 +17023,24 @@
    "wraca": "300-12-05",
    "zamyka": "odpowiedz Banku",
    "status": "otwarte ### 10-22 list napisany u Willi; kruk do Hala jutro rano (E)."
+  },
+  {
+   "data": "300-10-22",
+   "co": "SCINKA DEBU W WILCZYM LESIE (slowo pana 10-22): EDRIC PLUG, drwale domeny, zima XI-III, ~120-150 pni (E), z miara (1 na 6 w kwaterze, mlode zostaja), zwozka saniami, cechowanie miara Korony, sezonowanie w skladzie Korony; ~40 Kasa 3 (E Gawena). Wlasni - bez rzutu; pogoda/las - rzut przy meldunku.",
+   "kto": "EDRIC PLUG ; GAWEN",
+   "kanal": "goniec do Edrica",
+   "wraca": "300-11-15",
+   "zamyka": "pierwszy meldunek scinki",
+   "status": "otwarte ### 10-22 rozkaz; goniec do Edrica z rozkazem lowow juz poszedl - dopisek scinki 10-23 rano."
+  },
+  {
+   "data": "300-10-22",
+   "co": "DAB OKRETOWY - MODEL B, KORONA GWARANTEM JEDNEGO KONTRAKTU (gra/drewno_okretowe_model_B_300_10_22.md): umowa ramowa z Reach (Arbor) i z Arsenalem Braavos; Korona cechuje, gwarantuje miare/termin/dostawe, bierze ~10% + clo wywozowe; lord dostaje cene umowy -10% przy wadze. Podzial (Gawen): ~50 sezonowanych do Arbor w XI powrotem statkow Redwyne'ow; ~30 + scinka do Braavos wiosna; dab lordow - suchy do Reach, swiezy do Braavos. ZAPYTANIE DO WSZYSTKICH LORDOW 10-23 (pismo kancelarii, podpis Skarbnika) - RZUT przy kazdej odpowiedzi; tabela na Rade ~11-07. DO SLOWA PANA: list do Olenny teraz? zapowiedz dla Arsenalu statkiem Nesty (koniec X)?",
+   "kto": "GAWEN ; BERON ; HAL/NESTA",
+   "kanal": "kruki do lordow; kanal zbozowy; statek Nesty",
+   "wraca": "300-11-07",
+   "zamyka": "tabela lordow + umowy ramowe",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

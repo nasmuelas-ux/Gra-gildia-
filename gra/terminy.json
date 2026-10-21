@@ -16987,6 +16987,15 @@
    "wraca": "300-10-24",
    "zamyka": "lekcja 28",
    "status": "otwarte"
+  },
+  {
+   "data": "300-10-22",
+   "co": "POLNOC KARMI STRAZ (rozkaz pana 10-22; gra/rozkaz_mur_polnoc_karmi_straz_300_10_22.md): wiecej zywnosci na Mur (zboze +600 korcy, ryba 20 beczek, kiszonka 20 - juz w drodze, tran pierwsza partia, tluszcz z lowow) - WIDOCZNIE: chorągiew wilka, wypalony znak 'Dar Korony Polnocy dla Nocnej Strazy', dostawy do WIEZ z kwitem dowodcy wiezy, jedno zdanie przy wydaniu 'Od Krola Polnocy i od ludzi Polnocy'; Wschodnia Straznica morzem (Hal/Wyman, do potwierdzenia). Kolumna co 2 tygodnie przez zime, pierwsza ~10-26. Wlasni - bez rzutu; odbior i reakcja Strazy (Marsh, wieze) - RZUT przy meldunku Hallisa.",
+   "kto": "ORLAND (rozchod) ; GAWEN (Kasa 3, kwit) ; ser Rodrik (eskorta) ; HALLIS (odbior) ; HAL (Wschodnia Straznica morzem)",
+   "kanal": "kolumna Korony Krolewskim Traktem; kruk WF-CZ",
+   "wraca": "300-11-08",
+   "zamyka": "pierwsza kolumna rozladowana w wiezach + meldunek Hallisa",
+   "status": "otwarte ### 10-22 rozkaz; kolumna I szykowana na ~10-26."
   }
  ],
  "_dopiski_300_03_18": [
@@ -17151,7 +17160,8 @@
    "zrodlo": "terminarz_budow_300_04.md",
    "uwaga_0915": "SLOWO PANA 09-15: karta Spichlerza ZAWSZE W RACJACH (Racja Polnocna, skladniki + waskie gardlo), od dzis.",
    "uwaga_1018": "SLOWO PANA 10-18: karta racji CO TYDZIEN (cykliczne raporty), w racjach, z waskim gardlem. Pierwsza poza cyklem 10-18 (gra/karta_racji_300_10_18.md).",
-   "uwaga_1021": "SLOWO PANA 10-21: UWZGLEDNIC W RACJACH: (1) wydanie ~20 beczek kiszonki na Mur (rozchod, kiszonka ~170->~150); (2) tran - pierwsza partia na Mur (rozchod przy przyjsciu); (3) LOWY NA TLUSZCZ w domenie - nowa rubryka 'tluszcz z lowow (smalec, loj, sadlo)' i 'mieso z lowow'; liczby DOPISAC PO ZAKONCZENIU lowow (meldunek Edrica ~11-01, rzut), do tego czasu w karcie jako 'w toku, 0'. (4) Mur jako osobna rubryka po odpowiedzi Hallisa (~10-22)."
+   "uwaga_1021": "SLOWO PANA 10-21: UWZGLEDNIC W RACJACH: (1) wydanie ~20 beczek kiszonki na Mur (rozchod, kiszonka ~170->~150); (2) tran - pierwsza partia na Mur (rozchod przy przyjsciu); (3) LOWY NA TLUSZCZ w domenie - nowa rubryka 'tluszcz z lowow (smalec, loj, sadlo)' i 'mieso z lowow'; liczby DOPISAC PO ZAKONCZENIU lowow (meldunek Edrica ~11-01, rzut), do tego czasu w karcie jako 'w toku, 0'. (4) Mur jako osobna rubryka po odpowiedzi Hallisa (~10-22).",
+   "uwaga_1022": "10-22: MUR jako osobna rubryka (dane Hallisa: zboze ~140, ryba ~20, kiszonka ~10, tluszcz ~15 dni); rozchod 'Polnoc karmi Straz' (zboze +600, ryba 20, kiszonka 20) w karcie 10-25."
   },
   {
    "id": "KARTA_THEONA",

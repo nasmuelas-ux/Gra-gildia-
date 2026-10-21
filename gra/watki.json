@@ -6546,7 +6546,7 @@
   {
    "id": "dziennik",
    "status": "otwarty",
-   "_dziennik_nota": 22
+   "_dziennik_nota": 23
   },
   {
    "id": "pobor_wschodu",
@@ -6560,6 +6560,11 @@
   },
   {
    "id": "theon",
+   "status": "otwarty",
+   "_dziennik_nota": 1
+  },
+  {
+   "id": "uderzyc_pierwsi_300_10_22",
    "status": "otwarty",
    "_dziennik_nota": 1
   }

@@ -29,3 +29,8 @@
 - *„Wieszają ludzi Lwa, którzy zostali po wojnie i rabują. Wieszają też naszych, jak rabują. Chłopi ich karmią i chowają. Chorągwi nie mają, mówią, że służą królowi, który nie żyje.”*
 - *„Gdzie dokładnie są, nie wie nikt. To jest cała ich siła.”*
 - Odczyt: *„Jeśli Kompania ma odbudowywać Dorzecze, prędzej czy później spotka się z nimi na drodze. Lepiej wiedzieć wcześniej, czy to wróg, czy ktoś, kto pilnuje tej samej drogi.”*
+
+## DOPISANE 300-10-19 (słowo pana, kartka przez Stena)
+| # | pytanie | kto szuka (Willa) | termin (E) |
+|---|---|---|---|
+| 11 | **„Wróble” w Dorzeczu:** ilu ich, kto prowadzi, dokąd idą, co robią z lordami i z septami | Rozdroże i ludzie Lymana. Septy piszą do sept, a Owen zna to z listów | ~XI |

@@ -16716,7 +16716,7 @@
    "kanal": "kruk Domu WF-CZ",
    "wraca": "300-10-22",
    "zamyka": "odpowiedz Hallisa (rzut)",
-   "status": "otwarte ### 10-18 KOREKTA GM: Hallis to posel Korony, nie brat Strazy (zapis obsady) - VOID zastrzezenia o 'odpowiedzi z wnetrza'. ### 10-18 DOPISEK PANA (przed wyslaniem): dlaczego dzicy (Mance) milcza."
+   "status": "zamkniete 300-10-22 ### ODPOWIEDZ HALLISA (poczta_300_10_22.md, rzut 93): Mallister / Pyke / Marsh (klucze spichlerza) / Slynt+Thorne (frakcja KP, 2 kruki do KP); dzicy ciagna na wschod ku Mroznemu Brzegowi, pala zmarlych, Mance nie trzyma wszystkich, czeka na lod. ### POPRZEDNIO: byl-otw ### 10-18 KOREKTA GM: Hallis to posel Korony, nie brat Strazy (zapis obsady) - VOID zastrzezenia o 'odpowiedzi z wnetrza'. ### 10-18 DOPISEK PANA (przed wyslaniem): dlaczego dzicy (Mance) milcza."
   },
   {
    "data": "300-10-18",
@@ -16770,7 +16770,7 @@
    "kanal": "kruk Domu WF-CZ (przez Benna)",
    "wraca": "300-10-22",
    "zamyka": "stan spizarni Muru w karcie racji",
-   "status": "otwarte"
+   "status": "zamkniete 300-10-22 ### HALLIS (rzut 51 - sumy od Marsha, bez rozbicia na zamki): zboze ~140 dni, ryba ~20, kiszonka ~10, tluszcz ~15 (Racja Polnocna, ~524 ludzi, E). Orland dopisuje Mur jako rubryke karty racji (10-25). ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-10-18",

@@ -91,3 +91,5 @@
 - **Aldwin (O), przy przekazaniu:** *„Za Rozdrożem mam tylko imiona od pani Willi. Poproszę ją przez skrzynkę, żeby Rozdroże spojrzało, komu pacholek oddaje. Patrzeć, nie pytać.”*
 
 **10-20 TORVALD SIWEK - EKSPOZYCJA (słowo pana w kancelarii WF):** pan powiedział Torvaldowi, że „wywiad ustalił” wizyty ludzi z portu u wdowy przy Uliczce Powroźników. Torvald wie odtąd, że pana ludzie obserwowali dom wdowy w BP (nie zna imion, metody ani tego, kto). Wyjaśnienie Torvalda (rzut 98) pokrywa się z prawdą (prawda.md 10-11): to krewni Hagena, rybacy. Podejrzenie skrzynki kontaktowej Willi (rzut 14) - mylne.
+
+**10-22, solar lady Catelyn (słowo pana):** przy Catelyn i ser Rodriku pan powiedział: *„nie chodzi o to, żeby to powiedział król, tylko żeby ludzie o tym mówili. Od tego mamy wywiad.”* Ani imion, ani Willi, ani siatki. Catelyn i Rodrik o nic nie pytali. Rodrik może to czytać jako Oddział 2 sztabu (wywiad wojskowy z rozpiski 10-13). Ekspozycja ogólna: oboje wiedzą odtąd, że Korona ma wywiad zdolny szeptać na Południu.

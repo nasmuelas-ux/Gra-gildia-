@@ -16906,6 +16906,15 @@
    "wraca": "300-10-27",
    "zamyka": "kot zostaje w komnatach albo wraca do stajni",
    "status": "otwarte ### 10-20 kocur w koszu niesiony do komnat. ### 10-20 SLOWO PANA: ARYA MOZE PRZYCHODZIC do kota w komnatach (Szare Plaszcze wpuszczaja; Rhona wie). Arya (O): czekac, az sam przyjdzie."
+  },
+  {
+   "data": "300-10-20",
+   "co": "TORVALD SIWEK - SLUZBA CELNA KORONY W BIALYM PORCIE (propozycja pana 10-20, reforma cel 10-18): TAK, jesli w BP, pod Garthem (rzut 56). Zakres do ustalenia: straz zbrojna komory BP / kierownik komory BP. Akt: Garth dobiera ludzi sluzby komor (od 04-21), Skarbnik Gawen placi (Kasa 3); pan rekomenduje. Otwarte: sakiewka na Uliczce Powroznikow (Willa 14 - podejrzenie skrzynki, bez dowodu; prawda w ukrytych) - pan 'sam porozmawiam' (10-11).",
+   "kto": "PAN ; GARTH ; GAWEN",
+   "kanal": "na miejscu (Torvald w WF); Garth krukiem",
+   "wraca": "300-10-21",
+   "zamyka": "rekomendacja pana do Gartha/Gawena albo rezygnacja",
+   "status": "otwarte ### 10-20 Torvald zgadza sie na sluzbe celna w BP (rzut 56); do slowa pana: zakres, wynagrodzenie (Gawen), droga przez Gartha."
   }
  ],
  "_dopiski_300_03_18": [

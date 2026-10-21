@@ -9181,9 +9181,9 @@
    "co": "AKCJA KALENDARZ 301 (rozkaz pana 07-11, osobna linia w ksiedze Hala): trzy wersje - KUPIECKI (targi, weksle, komory i clo, ksiezyc i przyplywy BP), DWORSKI (terminy Korony, daniny, swieta), OBRAZKOWY dla niepiszacych; swieta Siedmiu i starych bogow osobnymi znakami; strona ZIMOWA (Prawo Spichlerza + Glebokorzen); maester ORWYN sprawdza rachunek. ZAMOWIENIA Z ZADATKIEM przez placowki Domu i Kompanie do 300-09-30; druk X-XI; rozwoz przed 301-01-01. Naklad, cena, koszt - ILARIO + HAL (zasada 43). Wlasni - bez rzutu; odzew kupujacych - RZUT przy zamknieciu zamowien.",
    "kto": "ILARIO (mistrz wydawnictwa) + HAL (cena, ksiega) + placowki/Kompania (zamowienia); LUCAN czyta",
    "kanal": "kruk Winterfell-Fosa; odpis do Hala (BP)",
-   "wraca": "300-10-21",
+   "wraca": "300-11-20",
    "zamyka": "plan Ilaria z nakladem i cena (07-25); zamowienia zamkniete 09-30; kalendarze rozwiezione przed 301-01-01",
-   "status": "otwarte ### 07-25: stan w bilansie Hala ~08-05. ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana. ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): Ilario+Hal (E): naklad I - kupiecki 300 po 15 jeleni, dworski 60 po 40 jeleni (pergamin), obrazkowy 800 po 2 jelenie; zamowienia z zadatkiem otwarte w placowkach do 09-30; strone zimowa sprawdza Orwyn. Odzew - rzut przy zamknieciu. ### 300-09-30 Zamowienia zamkniete 09-30 (stan 09-20: kupiecki 101, dworski 23, obrazkowy 215 - akcje_lucana_300_09.md, rzut 56). Wynik koncowy i RZUT ODZEWU przy rozliczeniu akcji Lucana za X (~10-20). ### 300-10-20 ROZLICZENIE AKCJI LUCANA ZA X (cykl 20.) - na stole w kancelarii od rana (Lucan przyslal z ZM); do odczytu przez pana."
+   "status": "otwarte ### 07-25: stan w bilansie Hala ~08-05. ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana. ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): Ilario+Hal (E): naklad I - kupiecki 300 po 15 jeleni, dworski 60 po 40 jeleni (pergamin), obrazkowy 800 po 2 jelenie; zamowienia z zadatkiem otwarte w placowkach do 09-30; strone zimowa sprawdza Orwyn. Odzew - rzut przy zamknieciu. ### 300-09-30 Zamowienia zamkniete 09-30 (stan 09-20: kupiecki 101, dworski 23, obrazkowy 215 - akcje_lucana_300_09.md, rzut 56). Wynik koncowy i RZUT ODZEWU przy rozliczeniu akcji Lucana za X (~10-20). ### 300-10-20 ROZLICZENIE AKCJI LUCANA ZA X (cykl 20.) - na stole w kancelarii od rana (Lucan przyslal z ZM); do odczytu przez pana. ### 10-20 ROZLICZENIE X (gra/akcje_lucana_300_10.md): (A) +12, nowe ~40 po 47 (rzut 46) - dokup sledzia czy wiosna, do slowa pana; (C) kalendarz 424 zamowien (rzut 65), druk X, wysylka XI; reszta obrazkowego do szkol i soltysow - do slowa pana."
   },
   {
    "data": "300-07-11",
@@ -9307,9 +9307,9 @@
    "co": "LANCUCH ZIMOWY DOMU (oddzielna pozycja w obrotach, pan 07-11; wdraza LUCAN): warzelnia + wedzarnia + bednarnia w jednej ksiedze; ZARZADCA LANCUCHA w BP (z ludzi Hala); BECZKA ZIMOWA (miara Korony, data, pieczec Domu, reczenie roku); klienci: Spichlerz, Mur, Cypel, Dorzecze (Kompania), Essos (Nesta); zamowienia jesienne z zadatkiem; sklady BP/Fosa/Winterfell. KROK 1: karta lancucha od Lucana do Hala ~07-20; KROK 2: koszty Hala ~08-05; KROK 3: zamowienia zimowe do konca IX. Wlasni - bez rzutu; odzew klientow - rzut przy zamowieniach. UDZIAL LUCANA: 10% zysku netto obu linii przez 1 rok (zgoda pana 07-11), kwartalnie z ksiegi Hala, bez strat.",
    "kto": "LUCAN (wdrozenie) + HAL (skarbnik) + TAM (wynik)",
    "kanal": "kruk Winterfell-Bialy Port; osobiscie w BP (jesli pan pozwoli)",
-   "wraca": "300-10-21",
+   "wraca": "300-11-20",
    "zamyka": "karta lancucha + koszty Hala na stole; potem zamowienia (09-30)",
-   "status": "otwarte ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana. ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): KROK 2: zarzadca lancucha EDRIC SOLNY (z warzelni, E); uruchomienie 140-200 jednorazowo (E) - znak wypalany beczki zimowej, sklad BP, ksiega. KROK 3: zamowienia jesienne do konca IX. ### 300-09-30 KROK 3 zrobiony w rozliczeniu akcji 09-20 (rzut 87): 1220 beczek zamowionych z zadatkiem; ZASADA 8 - moc ~1000, brakuje ~220 beczek sledzia i soli. Zamowienia zamkniete 09-30; stan i decyzja o brakujacych beczkach - rozliczenie Lucana za X (~10-20). ### 300-10-01 SLOWO PANA (u Lucana): kolejnosc i moc - Mur 75 w XII + 75 w I; Spichlerz Korony ~580 (z 800); reszta klientow bez zmian (1000 = moc). ### 300-10-20 ROZLICZENIE AKCJI LUCANA ZA X (cykl 20.) - na stole w kancelarii od rana (Lucan przyslal z ZM); do odczytu przez pana."
+   "status": "otwarte ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana. ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): KROK 2: zarzadca lancucha EDRIC SOLNY (z warzelni, E); uruchomienie 140-200 jednorazowo (E) - znak wypalany beczki zimowej, sklad BP, ksiega. KROK 3: zamowienia jesienne do konca IX. ### 300-09-30 KROK 3 zrobiony w rozliczeniu akcji 09-20 (rzut 87): 1220 beczek zamowionych z zadatkiem; ZASADA 8 - moc ~1000, brakuje ~220 beczek sledzia i soli. Zamowienia zamkniete 09-30; stan i decyzja o brakujacych beczkach - rozliczenie Lucana za X (~10-20). ### 300-10-01 SLOWO PANA (u Lucana): kolejnosc i moc - Mur 75 w XII + 75 w I; Spichlerz Korony ~580 (z 800); reszta klientow bez zmian (1000 = moc). ### 300-10-20 ROZLICZENIE AKCJI LUCANA ZA X (cykl 20.) - na stole w kancelarii od rana (Lucan przyslal z ZM); do odczytu przez pana. ### 10-20 ROZLICZENIE X (gra/akcje_lucana_300_10.md): (A) +12, nowe ~40 po 47 (rzut 46) - dokup sledzia czy wiosna, do slowa pana; (C) kalendarz 424 zamowien (rzut 65), druk X, wysylka XI; reszta obrazkowego do szkol i soltysow - do slowa pana."
   },
   {
    "data": "300-07-11",
@@ -15121,9 +15121,9 @@
    "co": "IZBA ROZRACHUNKOWA - DOM RECZY ZA LISTY Z REZERWY (X-XII, slowo pana 09-20): Hal oglasza w BP i Riverrun; odzew kupcow w rozliczeniu akcji X (cykl 10-20).",
    "kto": "HAL ; LYMAN",
    "kanal": "kruk Domu WF-BP",
-   "wraca": "300-10-21",
+   "wraca": "300-11-20",
    "zamyka": "rozliczenie akcji X",
-   "status": "otwarte ### 300-10-20 NIE PRZYSZLO, WIADOMO DLACZEGO: paczka Nesty/Hala wozem Domu do ZM ~10-21 (kruk Hala 10-17)."
+   "status": "otwarte ### 300-10-20 NIE PRZYSZLO, WIADOMO DLACZEGO: paczka Nesty/Hala wozem Domu do ZM ~10-21 (kruk Hala 10-17). ### 10-20 (B) rzut 52: ~25 listow, ~120 obrotu, zadna wyplata z rezerwy."
   },
   {
    "data": "300-09-20",

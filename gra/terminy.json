@@ -17305,6 +17305,19 @@
    "opoznienie": 2,
    "ostatnio_odebrane": "300-10-20",
    "zrodlo": "plan_przewloki_cztery_zasady_300_08_18.md"
+  },
+  {
+   "id": "PRZEGLAD_WOJENNY",
+   "co": "PRZEGLAD SYTUACJI WOJENNEJ (rada wojenna przy mapie, baszta Bryndena) - CO PIATEK PO OBIEDZIE, godzina (slowo pana 10-21); NADZWYCZAJNIE, gdy sytuacja wymusi. Prowadzi SER RODRIK (szef sztabu) z BRYNDENEM; zrodla: Torren/Donnel (zachod, morze), Corwin (Kamienny Brzeg), Rickard (Karhold, Zatoka Fok), Garrick/Reedowie (Przesmyk), Hallis (Mur), lancuch ognia. Co sie ruszylo od ostatniego razu, gdzie kto stoi, co wynika. Wlasni - bez rzutu; tresc z meldunkow (zasada 34).",
+   "kto": "SER RODRIK + BRYNDEN ; pan",
+   "kanal": "na miejscu (WF)",
+   "rytm": {
+    "co_dni": 7,
+    "start": "300-10-24"
+   },
+   "opoznienie": 0,
+   "ostatnio_odebrane": "300-10-17",
+   "uwaga_1021": "10-24 (piatek) po obiedzie jest tez MALA RADA (zwyczaj: po obiedzie) - Rodrik proponowal pierwszy przeglad PRZED Rada; godzina pierwszego - do slowa pana."
   }
  ],
  "_cykliczne_zakonczone": [

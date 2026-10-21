@@ -454,3 +454,4 @@ Posłaniec: **Benno** (E), pisarz placówki Domu na Czarnym Zamku. Był u Aemona
 - **Widział:** latem dwa razy przyjeżdżał do kapitana garnizonu Lwa w Maidenpool człowiek w barwach Freyów (dwie wieże na płaszczu). Pili razem, rozmawiali bez świadków.
 - **Słyszał:** oficerowie garnizonu przy wodzie mówili: *„Na wiosnę wrócimy na rzekę. Tym razem nie sami.”*
 - **PRAWDA ŚWIATA (E z mocą zapisu):** lord Walder Frey się asekuruje. Jego ludzie rozmawiają z Lwem o tym, co będzie, jeśli rozejm pęknie. **Nic nie jest podpisane.** Milczenie Freyów wobec Korony (pozycja na Radę) ma to samo źródło: Bliźniaki czekają, kto będzie silniejszy wiosną.
+- **10-22 (rzut 94, pamięć Harriona trafna):** człowiekiem Freyów był **Lothar Frey, „Kulawy Lothar”**, zarządca i rachmistrz Bliźniaków, ten, który pisze lordowi Walderowi listy i układy. To prawda. Treść rozmów: patrz wyżej, asekuracja bez podpisu.

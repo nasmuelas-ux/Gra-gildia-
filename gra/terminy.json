@@ -16860,7 +16860,7 @@
    "kanal": "osobiscie / kruk WF-Dreadfort",
    "wraca": "300-10-30",
    "zamyka": "slowo Krola",
-   "status": "otwarte ### 300-10-28: ZAMIEC (pogoda 13) - Krol nie dotarl; czeka na Jego powrot (>=10-30)."
+   "status": "zrobione (rozstrzygniete) 300-10-29: Krol - Ramsay i 20 goscmi, wyjada gdy Roose odpowie Koronie (clo/karta/listy)."
   },
   {
    "data": "300-10-20",
@@ -17247,6 +17247,15 @@
    "kanal": "kruk Domu przez Benna",
    "wraca": "300-11-10",
    "zamyka": "wiesc Hallisa o Mansie (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-29",
+   "co": "PISMO KROLA DO ROOSE'A BOLTONA (slowo Krola 10-29): Ramsay i 20 sa goscmi Krola, wyjada w zdrowiu, gdy Boltonsgate odpowie Koronie - zaplaci zalegle clo, otworzy karte miasta, odpisze na listy. Rachunek, nie zakladnik. Reka Berona, pieczec Krola.",
+   "kto": "KROL (Beron) -> ROOSE BOLTON",
+   "kanal": "kruk WF-Dreadfort",
+   "wraca": "300-11-08",
+   "zamyka": "odpowiedz Roose'a: clo/karta/listy (rzut) albo milczenie",
    "status": "otwarte"
   }
  ],

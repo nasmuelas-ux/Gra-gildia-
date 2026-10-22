@@ -25,10 +25,17 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**272 otwartych** · **0 PRZETERMINOWANYCH** · 1 wraca dzis
+**272 otwartych** · **1 PRZETERMINOWANYCH** · 4 wraca dzis
+
+### 🔴 PRZETERMINOWANE — KAZDA MUSI DOSTAC ROZSTRZYGNIECIE W TEJ TURZE
+_przyszlo · nie przyszlo I WIADOMO DLACZEGO · przyszlo co innego. Rzut nalezy sie sprawie zewnetrznej._
+- **+1 dni** — [CYKL] LADY CATELYN - KROTKIE STRESZCZENIE RAZ W TYGODNIU (jej prosba 08-17, po rozmowie w solarze): co dotyczy jej domu i dzieci;… · _kanal:_ osobiscie, WF · _zamyka:_ cykliczne - co niedziele
 
 ### 🟡 WRACA DZIS
-- [CYKL] LADY CATELYN - KROTKIE STRESZCZENIE RAZ W TYGODNIU (jej prosba 08-17, po rozmowie w solarze): co dotyczy jej domu i dzieci;… · _kanal:_ osobiscie, WF
+- KSIEGA MILCZENIA (slowo pana 08-03, rada Sansy; gra/ksiega_milczenia.md): Beron - czesc Korony, przeglad CO PONIEDZIALEK, zmiany r… · _kanal:_ kancelaria WF; kruk WF-Fosa 08-04
+- OWEN - NAUKA SIEDMIU (stala: pon. i czw. po 1 h; Sansa, Arya, Bran). Nastepna pon. 10-13. Wlasni - rzut tylko przy zmianie/sporze. · _kanal:_ osobiscie, WF
+- FOSA - WYMIANA Z KRANNOGAMI NA ZIME (slowo pana 10-16): sol i zboze lenna za rybe, wegorze, zaby, torf (racje poza zbozem - waskie… · _kanal:_ kruk WF-Fosa 10-16; na miejscu
+- RUDY KOCUR KONIUSZEGO DO KOMNAT TALLYCH (slowo pana 10-20: przyniesc i oswoic). Stajenny niesie w koszu; w komnatach miska, skrzyn… · _kanal:_ na miejscu
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
 _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
@@ -1916,10 +1923,10 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 300-10-26 popoludnie · zima (300)
+- **Data:** 300-10-27 ranek · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.25 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 100 · Zmeczenie 2**
+- **Zdrowie 100 · Sytosc 72 · Zmeczenie 0**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 533 smokow + 178 jeleni + 44 mied
@@ -3946,8 +3953,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `przyjecie_krola_300_10_28` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-10-26] `poprawki`: KOREKTA PANA (zanim kruk poszedl): zakup ryby i tranu dla Spichlerza Korony idzie NIE PRZEZ HALA (Dom Tally), tylko przez FAKTORA KROLEWSKIEGO w Bialym Porcie (reka Korony). Powod: to zakup …
-- [300-10-26] `dziennik`: ZAPIS (na pytanie pana): wakat FAKTOR KORONY W BIALYM PORCIE dopisany z data 10-26 do terminy.json i obsada.json (zasada 13 puste krzeslo=alarm, 38 wakaty z data). Zlecenie zakupu ryby/tranu…
 - [300-10-26] `poprawki`: VOID (wskazanie gracza, zasada 1/3): GM blednie ogloszil, ze Korona nie ma faktora w BP i dopisal 'wakat faktora Korony' z data 10-26. NIEPRAWDA: Faktor Krolewski Bialego Portu = TORSEN (nom…
 - [300-10-26] `korona/TORSEN`: 10-26: Torsen (Faktor Krolewski BP) dostaje zakup ryby i tranu dla Spichlerza Korony - ilosc od Orlanda, platnik Kasa 3, odbior komora Gartha. Reka Korony w BP, nie Dom.
 - [300-10-26] `dziennik`: POLUDNIE, WIELKA SALA - OBIAD z LYRA (i Mira) (E: pieczona gęs z jablkami, rzepa, groch, chleb Benneta, cydr; dla dzieci kasza). Niedziela, po septie - stol pelny, Catelyn i Roslin z Eddarde…
@@ -3958,3 +3963,5 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-10-26] `dziennik`: SLOWO PANA (przyjecie Krola 28.): DOPISEK DO PLANU - caly dom Tally wita Krola RAZEM i korzy sie jako rodzina (pan, Mira, Lyra), nie tylko Namiestnik w urzedzie. Gest osobisty i publiczny: l…
 - [300-10-26] `przyjecie_krola_300_10_28`: Dom Tally wita Krola jako rodzina i korzy sie razem (pan+Mira+Lyra) - gest przeciw ramie 'skryba trzyma Korone'. 28. KROL ZDAJE RELACJE Z WYPRAWY (Skagos/bekart, Karhold, droga) - to Jego sc…
 - [300-10-26] `dziennik`: POPOLUDNIE/WIECZOR, IZBA - pan sam cwiczy WYSOKI VALYRIANSKI (praca domowa z lekcji 28 na wt 10-28: tylko II klasa, 10 czasownikow w przeszlym trwalym, wrostek). RZUT 43, prog 45 ALE -15 (an…
+- [300-10-26] `dziennik`: WIECZOR - pan kladzie Lyre spac i sam idzie spac. Lyra przypomina o jutrzejszej 'wstazce z zamknietymi oczami' dla rudego. Dzien domkniety na slowo gracza.
+- [300-10-27] `dziennik`: 300-10-27 RANEK (PONIEDZIALEK), WINTERFELL. SEN RZUT 77: dobrze; zmeczenie ->0, sytosc 72. POGODA RZUT 28: zle - snieg z polnocnym wiatrem, zawieje; kruki dopiero po poludniu. DZIS (poniedzi…

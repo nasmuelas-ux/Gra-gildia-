@@ -17284,6 +17284,30 @@
    "wraca": "300-11-15",
    "zamyka": "slowo Krola: czy i kogo poslac ku Meereen",
    "status": "otwarte"
+  },
+  {
+   "co": "NABOR DO DYMAREK WILCZEGO LASU - PONOWIONY z wyzsza dniowka (decyzja pana 11-01, RZUT 68). Gawen wywiesza slup w Zimowym Miescie i przez soltysow domeny; ~10-12 spodziewanych. Grim decyduje: czwarta dymarka czy wzmocnienie trzech zalog.",
+   "kto": "GAWEN (slup, Kasa 3) + GRIM (kogo bierze)",
+   "kanal": "slup Zimowe Miasto / soltysi domeny",
+   "wraca": "300-11-14",
+   "zamyka": "liczba zapisanych imiennie u Gawena + decyzja Grima (3 czy 4 dymarki)",
+   "status": "otwarte"
+  },
+  {
+   "co": "CZERWONY STRUMIEN - SEPTON + UCZONY przeciw strachowi zarazy (decyzja pana 11-01, RZUT 58 czesciowy). Septon z septu WF + czlowiek czytajacy wode/archiwum; fakt do ogloszenia: 120 lat temu ciezka zima + jedna choroba, rdzawa woda = zelazo nie mor. Luwin deleguje, sam zostaje.",
+   "kto": "septon WF + czlowiek Luwina (deleguje)",
+   "kanal": "woz Korony do Wilczego Lasu (z naborem)",
+   "wraca": "300-11-16",
+   "zamyka": "meldunek: ilu potomkow z Czerwonego Strumienia poszlo po zdjeciu strachu / kto dalej nie",
+   "status": "otwarte"
+  },
+  {
+   "co": "RADA WOJENNA Z KROLEM - PUNKT: KOWALE-STALOWNICY (Harrenhal/Gendry) - gdzie ida. Rekomendacja Symona: NIE rozdzielac piatki; dymarki+Fosa+czeladnicy robia tani koniec (gwozdzie, groty, okucia), mistrzowie ida w gore na STAL (miecz, ciezka kolczuga) i ucza czeladnikow. Domena/Kasa 3/wojsko = stol Krola.",
+   "kto": "SYMON -> KROL (rada wojenna)",
+   "kanal": "rada wojenna WF",
+   "wraca": "300-11-04",
+   "zamyka": "decyzja Krola o alokacji kowali-stalownikow i o programie czeladniczym",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

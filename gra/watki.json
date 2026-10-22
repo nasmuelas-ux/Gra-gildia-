@@ -6546,7 +6546,7 @@
   {
    "id": "dziennik",
    "status": "otwarty",
-   "_dziennik_nota": 108
+   "_dziennik_nota": 109
   },
   {
    "id": "pobor_wschodu",
@@ -6625,6 +6625,11 @@
   },
   {
    "id": "mance_cypel",
+   "status": "otwarty",
+   "_dziennik_nota": 1
+  },
+  {
+   "id": "poselstwo_kosci_dorne",
    "status": "otwarty",
    "_dziennik_nota": 1
   }

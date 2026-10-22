@@ -17098,7 +17098,7 @@
   },
   {
    "data": "300-10-23",
-   "co": "OLEJ LNIANY NA FARBE DRUKARSKA - Ilario pisze do Hala (BP): dobry olej, proba przed zaladunkiem; bez tego druk kalendarza 301 stoi.",
+   "co": "OLEJ LNIANY NA FARBE DRUKARSKA (jedno zamowienie, slowo pana 10-26): dobry olej przez Hala z BP na KALENDARZ 301 + KSIAZECZKE PRZEWLOKI + druki poczty kupieckiej; proba przed zaladunkiem.",
    "kto": "ILARIO -> HAL",
    "kanal": "kruk Domu Fosa-BP + woz BP-Fosa",
    "wraca": "300-11-06",
@@ -17193,6 +17193,15 @@
    "kanal": "osobiscie (Krol w WF ~10-28)",
    "wraca": "300-10-28",
    "zamyka": "Krol uslyszal od pana",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-26",
+   "co": "KSIAZECZKA PRZEWLOKI - DRUK (taryfa + sredni czas przejscia z ksiegi przejsc): bije Ilario zaraz po kalendarzu 301, gdy dojdzie olej (~XI); rozsylka wiosna 301.",
+   "kto": "ILARIO",
+   "kanal": "robota na miejscu (Fosa)",
+   "wraca": "300-12-15",
+   "zamyka": "ksiazeczka wydrukowana i rozeslana",
    "status": "otwarte"
   }
  ],

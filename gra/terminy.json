@@ -17215,20 +17215,11 @@
   },
   {
    "data": "300-10-26",
-   "co": "ZAKUP RYBY I TRANU W BIALYM PORCIE dla Spichlerza Korony (slowo pana 10-26, korekta: przez FAKTORA KROLEWSKIEGO w BP, NIE przez Hala/Dom - mur miedzy kasami): ryba (solona, beczki) i tran; ilosc - Orland, cena rynkowa BP, platnik Kasa 3; odbior przez komore Gartha; dostawa przed glebokim lodem.",
-   "kto": "FAKTOR KORONY w BP ; GAWEN (Kasa 3) ; ORLAND (ilosc) ; GARTH (komora, odbior)",
-   "kanal": "kruk WF-BP + statek/woz BP-WF/ZM",
+   "co": "ZAKUP RYBY I TRANU W BIALYM PORCIE dla Spichlerza Korony (slowo pana 10-26): przez TORSENA - Faktora Krolewskiego BP (reka Korony, nie Dom); ryba (solona, beczki) i tran; ilosc - Orland, cena rynkowa BP, platnik Kasa 3; odbior przez komore Gartha; dostawa przed glebokim lodem.",
+   "kto": "TORSEN (Faktor Krolewski BP) ; GAWEN (Kasa 3) ; ORLAND (ilosc) ; GARTH (komora)",
+   "kanal": "kruk WF-BP szyfrem Korony do Torsena + statek/woz BP",
    "wraca": "300-11-08",
    "zamyka": "ryba i tran w skladzie WF/ZM, kwota w Kasie 3",
-   "status": "otwarte"
-  },
-  {
-   "data": "300-10-26",
-   "co": "WAKAT: FAKTOR KORONY W BIALYM PORCIE (puste krzeslo odslonione 10-26 przy zakupie ryby/tranu). Korona nie ma wlasnego kupca handlowego w BP - dotad szlo przez Dom (Hal). DO SLOWA PANA: (1) zakup biezacy przez komore Gartha; (2) obsadzic osobnego faktora Korony (pod Gawenem/Gartem) - imie wskaze pan/Gawen; (3) kontrakt przez Wymana.",
-   "kto": "SYMON ; GAWEN ; (GARTH)",
-   "kanal": "WF",
-   "wraca": "300-10-28",
-   "zamyka": "slowo pana: kto kupuje w BP imieniem Korony",
    "status": "otwarte"
   }
  ],

@@ -16696,9 +16696,9 @@
    "co": "PRZYJECIE KROLA W WINTERFELL (~10-28; Krol ladem z Karholdu ~10-20; dopisek Krola: 'nie wychodz mi naprzeciw, trzymaj dom'): brama, pieczec regencji (gest pana - plan z Mira 10-17), rachunek Korony na pismie (Gawen), uczta (Catelyn; stroj Roslin), sprawy 'Krol pierwszy'. Do slowa pana.",
    "kto": "SYMON ; CATELYN ; GAWEN ; RODRIK",
    "kanal": "osobiscie WF",
-   "wraca": "300-10-30",
+   "wraca": "300-10-29",
    "zamyka": "plan przyjecia gotowy (Rada 10-24)",
-   "status": "otwarte ### 300-10-26 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO - czeka na slowo/powrot Krola (~10-28). ### 300-10-26 DOPISEK PANA: dom Tally wita i korzy sie RAZEM jako rodzina (pan+Mira+Lyra); Krol 28. zdaje relacje z wyprawy (Skagos/Karhold) - Jego scena. ### 300-10-28: ZAMIEC (pogoda 13) - Krol nie dotarl, trakt zasypany; przyjecie przesuniete do konca burzy (data nieznana, >=10-29)."
+   "status": "otwarte ### 300-10-26 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO - czeka na slowo/powrot Krola (~10-28). ### 300-10-26 DOPISEK PANA: dom Tally wita i korzy sie RAZEM jako rodzina (pan+Mira+Lyra); Krol 28. zdaje relacje z wyprawy (Skagos/Karhold) - Jego scena. ### 300-10-28: ZAMIEC (pogoda 13) - Krol nie dotarl, trakt zasypany; przyjecie przesuniete do konca burzy (data nieznana, >=10-29). ### 300-10-29: burza zeszla (pogoda 72), goniec przedni - Krol dzis w WF."
   },
   {
    "data": "300-10-18",
@@ -17227,9 +17227,9 @@
    "co": "KROL ZDAJE RELACJE Z WYPRAWY (28., po powrocie): Skagos/bekart, Karhold, droga - scena Krola; pan i Rada sluchaja pierwsi. Potem pan zdaje swoje (rachunek regencji + pierwszy ruch + rama Tally lekko).",
    "kto": "KROL -> pan/Rada",
    "kanal": "osobiscie WF",
-   "wraca": "300-10-30",
+   "wraca": "300-10-29",
    "zamyka": "Krol zdal relacje; pan zdal swoje",
-   "status": "otwarte ### 300-10-28: ZAMIEC (pogoda 13) - Krol nie dotarl, trakt zasypany; przyjecie przesuniete do konca burzy (data nieznana, >=10-29)."
+   "status": "otwarte ### 300-10-28: ZAMIEC (pogoda 13) - Krol nie dotarl, trakt zasypany; przyjecie przesuniete do konca burzy (data nieznana, >=10-29). ### 300-10-29: burza zeszla (pogoda 72), goniec przedni - Krol dzis w WF."
   },
   {
    "data": "300-10-27",

@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 10,
-  "dzien": 28,
+  "dzien": 29,
   "era": "AC"
  },
  "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 13 (300-10-28): bardzo zle - zamiec od polnocy, snieg poziomo, trakt Krolewski na poludnie od WF zasypany; kruki nie lataja; drogi stoja.",
- "dzien_tygodnia_nr": 2,
+ "pogoda": "RZUT 72 (300-10-29): dobrze - zamiec zeszla w nocy, rano pogodnie i mrozno, slonce na swiezym sniegu; trakty przecierane, kruki znow lataja.",
+ "dzien_tygodnia_nr": 3,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

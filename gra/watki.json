@@ -6546,7 +6546,7 @@
   {
    "id": "dziennik",
    "status": "otwarty",
-   "_dziennik_nota": 69
+   "_dziennik_nota": 70
   },
   {
    "id": "pobor_wschodu",
@@ -6610,6 +6610,11 @@
   },
   {
    "id": "ksiega_milczenia",
+   "status": "otwarty",
+   "_dziennik_nota": 1
+  },
+  {
+   "id": "rachunek_regencji",
    "status": "otwarty",
    "_dziennik_nota": 1
   }

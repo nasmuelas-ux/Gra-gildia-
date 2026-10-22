@@ -16698,7 +16698,7 @@
    "kanal": "osobiscie WF",
    "wraca": "300-10-28",
    "zamyka": "plan przyjecia gotowy (Rada 10-24)",
-   "status": "otwarte ### 300-10-26 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO - czeka na slowo/powrot Krola (~10-28)."
+   "status": "otwarte ### 300-10-26 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO - czeka na slowo/powrot Krola (~10-28). ### 300-10-26 DOPISEK PANA: dom Tally wita i korzy sie RAZEM jako rodzina (pan+Mira+Lyra); Krol 28. zdaje relacje z wyprawy (Skagos/Karhold) - Jego scena."
   },
   {
    "data": "300-10-18",
@@ -17220,6 +17220,15 @@
    "kanal": "kruk WF-BP szyfrem Korony do Torsena + statek/woz BP",
    "wraca": "300-11-08",
    "zamyka": "ryba i tran w skladzie WF/ZM, kwota w Kasie 3",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-26",
+   "co": "KROL ZDAJE RELACJE Z WYPRAWY (28., po powrocie): Skagos/bekart, Karhold, droga - scena Krola; pan i Rada sluchaja pierwsi. Potem pan zdaje swoje (rachunek regencji + pierwszy ruch + rama Tally lekko).",
+   "kto": "KROL -> pan/Rada",
+   "kanal": "osobiscie WF",
+   "wraca": "300-10-28",
+   "zamyka": "Krol zdal relacje; pan zdal swoje",
    "status": "otwarte"
   }
  ],

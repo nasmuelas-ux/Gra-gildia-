@@ -6546,7 +6546,7 @@
   {
    "id": "dziennik",
    "status": "otwarty",
-   "_dziennik_nota": 59
+   "_dziennik_nota": 60
   },
   {
    "id": "pobor_wschodu",
@@ -6595,6 +6595,11 @@
   },
   {
    "id": "spichlerz_racje",
+   "status": "otwarty",
+   "_dziennik_nota": 1
+  },
+  {
+   "id": "przyjecie_krola_300_10_28",
    "status": "otwarty",
    "_dziennik_nota": 1
   }

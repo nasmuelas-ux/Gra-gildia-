@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 10,
-  "dzien": 29,
+  "dzien": 30,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 72 (300-10-29): dobrze - zamiec zeszla w nocy, rano pogodnie i mrozno, slonce na swiezym sniegu; trakty przecierane, kruki znow lataja.",
- "dzien_tygodnia_nr": 3,
+ "pogoda": "RZUT 91 (300-10-30): znakomicie - mroz suchy, slonce, bezwietrznie; trakty przetarte po zamieci, kruki lataja.",
+ "dzien_tygodnia_nr": 4,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

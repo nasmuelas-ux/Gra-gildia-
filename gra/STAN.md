@@ -25,67 +25,83 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**271 otwartych** · **9 PRZETERMINOWANYCH** · 46 wraca dzis
+**271 otwartych** · **55 PRZETERMINOWANYCH** · 51 wraca dzis
 
 ### 🔴 PRZETERMINOWANE — KAZDA MUSI DOSTAC ROZSTRZYGNIECIE W TEJ TURZE
 _przyszlo · nie przyszlo I WIADOMO DLACZEGO · przyszlo co innego. Rzut nalezy sie sprawie zewnetrznej._
-- **+1 dni** — DREADFORT - UBYTEK LUDZI LICZONY W TRZECH OKRESACH (rada Lucana, zgoda pana 07-11; dopisek do Willi): przed wyjazdem bekarta na Sk… · _kanal:_ kruk Winterfell-Fosa; meldunek w karcie POLNOC (co miesiac 1.) · _zamyka:_ trzy liczby obok siebie (przed / w czasie / po)
-- **+1 dni** — ROZPOZNANIE PATRYCJATU - ZIMOWE MIASTO, CAILIN, BARROWTON, BIALY PORT (zlecenie pana 07-26). WILLA prowadzi (karta POLNOC - nowa r… · _kanal:_ kruk WF->Fosa pod pieczecia domowa i szyfrem Willi; Hal - kruk WF->BP · _zamyka:_ rubryka PATRYCJAT dla czterech miast w karcie Willi
-- **+1 dni** — KLASYFIKACJA RZEMIOSLA POLNOCY (zlecenie Namiestnika w imieniu Korony): ZM, Cailin, Barrowton, BP - zaklady wieksze niz pojedyncze… · _kanal:_ kruk WF->BP rano 07-28; kruk WF->Fosa (szyfr) · _zamyka:_ klasyfikacja w karcie Willi/Hala (czesc 08-01, calosc 09-01)
-- **+1 dni** — BACZENIE PRZY BRAMIE FOSY (stale, Willa; tresc w ukryte/prawda.md) - pisarze przy ksiedze przybyszow i komorze notuja pytania z uk… · _kanal:_ Fosa - posłaniec ustny / szyfr · _zamyka:_ filar - stale baczenie (nie zamyka sie)
-- **+1 dni** — LIST OJCA DO SYNA ('od ciotki z BP') - ODLOZONY (slowo pana 08-05): wyslac, gdy minie czas, by nikt nie zestawil znikniecia rodzin… · _kanal:_ ustnie przez Borsa · _zamyka:_ decyzja: wyslac teraz / pozniej
-- **+1 dni** — BAELISH (2) - NASLUCH MEWIEGO GRODU: czyja pieczec na kontraktach zbozowych i papierach wywozu Doliny (sokol Arrynow czy przedrzez… · _kanal:_ kruk Domu WF-BP 09-19 + paczka BP-Mewi Grod (18 dni tam, ~40 lacznie) · _zamyka:_ meldunek nasluchu (rzut)
-- **+1 dni** — TEST UBYTKU NA DREADFORCIE (rada Lucana 07-11; slowo pana 09-22: 'zrobic test'): Willa liczy 'ubytek' (zaginieni ludzie) na ziemia… · _kanal:_ osobiscie ZM · _zamyka:_ meldunek Willi: ubytek przed / w czasie / po (rzut)
-- **+1 dni** — WYWIAD - RAPORTY ROZBITE NA PLACOWKI, KAZDA W INNYM DNIU (slowo pana 10-03; gra/wywiad_jedna_kartka_300_09_17.md): Cailin 2., BP 6… · _kanal:_ osobiscie ZM · _zamyka:_ pierwsza strona Willi 'co sie laczy' (28.) + cykle placowek wpisane pr…
-- **+1 dni** — RACHUNEK REGENCJI DLA KROLA (slowo pana 10-18; gra/rachunek_regencji_plan_300_10_18.md): GAWEN - 5 rozdzialow (skrzynia od wyjazdu… · _kanal:_ WF, wieza Skarbu · _zamyka:_ szkic na Radzie; potem czysty odpis ~10-27
+- **+2 dni** — DREADFORT - UBYTEK LUDZI LICZONY W TRZECH OKRESACH (rada Lucana, zgoda pana 07-11; dopisek do Willi): przed wyjazdem bekarta na Sk… · _kanal:_ kruk Winterfell-Fosa; meldunek w karcie POLNOC (co miesiac 1.) · _zamyka:_ trzy liczby obok siebie (przed / w czasie / po)
+- **+2 dni** — ROZPOZNANIE PATRYCJATU - ZIMOWE MIASTO, CAILIN, BARROWTON, BIALY PORT (zlecenie pana 07-26). WILLA prowadzi (karta POLNOC - nowa r… · _kanal:_ kruk WF->Fosa pod pieczecia domowa i szyfrem Willi; Hal - kruk WF->BP · _zamyka:_ rubryka PATRYCJAT dla czterech miast w karcie Willi
+- **+2 dni** — KLASYFIKACJA RZEMIOSLA POLNOCY (zlecenie Namiestnika w imieniu Korony): ZM, Cailin, Barrowton, BP - zaklady wieksze niz pojedyncze… · _kanal:_ kruk WF->BP rano 07-28; kruk WF->Fosa (szyfr) · _zamyka:_ klasyfikacja w karcie Willi/Hala (czesc 08-01, calosc 09-01)
+- **+2 dni** — BACZENIE PRZY BRAMIE FOSY (stale, Willa; tresc w ukryte/prawda.md) - pisarze przy ksiedze przybyszow i komorze notuja pytania z uk… · _kanal:_ Fosa - posłaniec ustny / szyfr · _zamyka:_ filar - stale baczenie (nie zamyka sie)
+- **+2 dni** — LIST OJCA DO SYNA ('od ciotki z BP') - ODLOZONY (slowo pana 08-05): wyslac, gdy minie czas, by nikt nie zestawil znikniecia rodzin… · _kanal:_ ustnie przez Borsa · _zamyka:_ decyzja: wyslac teraz / pozniej
+- **+2 dni** — BAELISH (2) - NASLUCH MEWIEGO GRODU: czyja pieczec na kontraktach zbozowych i papierach wywozu Doliny (sokol Arrynow czy przedrzez… · _kanal:_ kruk Domu WF-BP 09-19 + paczka BP-Mewi Grod (18 dni tam, ~40 lacznie) · _zamyka:_ meldunek nasluchu (rzut)
+- **+2 dni** — TEST UBYTKU NA DREADFORCIE (rada Lucana 07-11; slowo pana 09-22: 'zrobic test'): Willa liczy 'ubytek' (zaginieni ludzie) na ziemia… · _kanal:_ osobiscie ZM · _zamyka:_ meldunek Willi: ubytek przed / w czasie / po (rzut)
+- **+2 dni** — WYWIAD - RAPORTY ROZBITE NA PLACOWKI, KAZDA W INNYM DNIU (slowo pana 10-03; gra/wywiad_jedna_kartka_300_09_17.md): Cailin 2., BP 6… · _kanal:_ osobiscie ZM · _zamyka:_ pierwsza strona Willi 'co sie laczy' (28.) + cykle placowek wpisane pr…
+- **+2 dni** — RACHUNEK REGENCJI DLA KROLA (slowo pana 10-18; gra/rachunek_regencji_plan_300_10_18.md): GAWEN - 5 rozdzialow (skrzynia od wyjazdu… · _kanal:_ WF, wieza Skarbu · _zamyka:_ szkic na Radzie; potem czysty odpis ~10-27
+- **+1 dni** — EKWIPUNEK I WYGLAD STALY NA 700 ZOLNIERZY LENNA - WG PROJEKTU DRUZYNY DOMU TALLY (gra/rod_tally.md, 'DRUZYNA' - od 300-06-22; wcze… · _kanal:_ meldunek zbiorczy Garricka · _zamyka:_ pierwsza transza na stanie zbrojowni, spis
+- **+1 dni** — ROZKAZ PANA - GORACY PORT: JEDYNIE MUROWAC PORT I ZABEZPIECZAC WYBRZEZE (wola gracza 05-16: 'murowac port i zabezpieczac wybrzeze'… · _kanal:_ kruk Winterfell-Fosa (05-16) + robota na miejscu · _zamyka:_ mur od morza i wieza stoja; Hendry moze wprowadzic ludzi
+- **+1 dni** — OSIEM BUDOW - CHECKPOINTY Z KARTY (harmonogram wlasny urzedu): spichlerze wiejskie start 06-05, piec pierwszych z ksiega 07-15; kw… · _kanal:_ zbiorczy Garricka co 7 dni · _zamyka:_ piec spichlerzy wiejskich z ksiega (pierwszy checkpoint twardy)
+- **+1 dni** — KOPIOWANIE KSIAG URZEDOWYCH DLA FOSY - pisarze szkoly na Fosie pod okiem Miry (do czasu skryptorium w Latarni); dniowka Kasa 2; or… · _kanal:_ Winterfell / Fosa · _zamyka:_ pierwszy odpis na Fosie
+- **+1 dni** — R-0 RUSZT CAILIN - RYSUNEK SIECI (spadki, trzy poziomy, kolektor pod Miastem Dolnym) z maestrem ORWYNEM (melioracja, przyjazd ~07-… · _kanal:_ kruk Winterfell-Fosa (05-26 po poludniu) i z powrotem · _zamyka:_ rysunek sieci na pismie
+- **+1 dni** — KSIAZKA O PTAKACH Z BAGIEN DLA BRANA - skryptorium na Fosie (Ilario): spisac z ust ptasznikow i mysliwych Przesmyku (+ zapiski Gle… · _kanal:_ Fosa · _zamyka:_ ksiazka w rekach Brana
+- **+1 dni** — SKRYPTORIUM FOSY - ODPIS KRONIKI KROLOW KURHANOW (zgoda Barbrey 06-13): oryginal pozycza maester Haldan albo pisarz jedzie do Barr… · _kanal:_ Fosa-Barrowton (3 dni) · _zamyka:_ odpis w bibliotece Fosy + egzemplarz dla Barrow Hall
+- **+1 dni** — DOM DOMU TALLY W CAILIN DLA SWOICH (zgoda pana 06-19, propozycja Alys): kamienica kanalowa wg standardu projektu Cailin - pisarze,… · _kanal:_ na miejscu · _zamyka:_ dzialka z losu lawy + start budowy
+- **+1 dni** — FOSA + CAILIN JEDNA CALOSC OBRONNA (wola pana 06-19): mury miasta (etap III) laczone z murem kurtynowym fortecy - miasto w obwodzi… · _kanal:_ na miejscu; Weylin po powrocie · _zamyka:_ obrys polaczenia na rysunku + zapis o bramach w karcie
+- **+1 dni** — MCHOWE JASTRZEBIE DO 100 (rozkaz pana 06-19; dzis 20): straz lenna - ulice Cailin (do strazy miejskiej), grobla i woda, Goracy Por… · _kanal:_ na miejscu · _zamyka:_ pierwsza fala przyjeta imiennie (rzut) + kosztorys
+- **+1 dni** — DOM DLA KAZDEGO PRACUJACEGO DLA DOMU TALLY I LENNA (rozkaz pana 06-19): kazdy ma IZBE NA WYLACZNOSC dla siebie, rodziny i dzieci; … · _kanal:_ na miejscu · _zamyka:_ plan i koszt (E) domow dla stalych; pierwsze izby przydzielone
 
 ### 🟡 WRACA DZIS
-- EKWIPUNEK I WYGLAD STALY NA 700 ZOLNIERZY LENNA - WG PROJEKTU DRUZYNY DOMU TALLY (gra/rod_tally.md, 'DRUZYNA' - od 300-06-22; wcze… · _kanal:_ meldunek zbiorczy Garricka
-- ROZKAZ PANA - GORACY PORT: JEDYNIE MUROWAC PORT I ZABEZPIECZAC WYBRZEZE (wola gracza 05-16: 'murowac port i zabezpieczac wybrzeze'… · _kanal:_ kruk Winterfell-Fosa (05-16) + robota na miejscu
-- OSIEM BUDOW - CHECKPOINTY Z KARTY (harmonogram wlasny urzedu): spichlerze wiejskie start 06-05, piec pierwszych z ksiega 07-15; kw… · _kanal:_ zbiorczy Garricka co 7 dni
-- KOPIOWANIE KSIAG URZEDOWYCH DLA FOSY - pisarze szkoly na Fosie pod okiem Miry (do czasu skryptorium w Latarni); dniowka Kasa 2; or… · _kanal:_ Winterfell / Fosa
-- R-0 RUSZT CAILIN - RYSUNEK SIECI (spadki, trzy poziomy, kolektor pod Miastem Dolnym) z maestrem ORWYNEM (melioracja, przyjazd ~07-… · _kanal:_ kruk Winterfell-Fosa (05-26 po poludniu) i z powrotem
-- KSIAZKA O PTAKACH Z BAGIEN DLA BRANA - skryptorium na Fosie (Ilario): spisac z ust ptasznikow i mysliwych Przesmyku (+ zapiski Gle… · _kanal:_ Fosa
-- SKRYPTORIUM FOSY - ODPIS KRONIKI KROLOW KURHANOW (zgoda Barbrey 06-13): oryginal pozycza maester Haldan albo pisarz jedzie do Barr… · _kanal:_ Fosa-Barrowton (3 dni)
-- DOM DOMU TALLY W CAILIN DLA SWOICH (zgoda pana 06-19, propozycja Alys): kamienica kanalowa wg standardu projektu Cailin - pisarze,… · _kanal:_ na miejscu
-- FOSA + CAILIN JEDNA CALOSC OBRONNA (wola pana 06-19): mury miasta (etap III) laczone z murem kurtynowym fortecy - miasto w obwodzi… · _kanal:_ na miejscu; Weylin po powrocie
-- MCHOWE JASTRZEBIE DO 100 (rozkaz pana 06-19; dzis 20): straz lenna - ulice Cailin (do strazy miejskiej), grobla i woda, Goracy Por… · _kanal:_ na miejscu
-- DOM DLA KAZDEGO PRACUJACEGO DLA DOMU TALLY I LENNA (rozkaz pana 06-19): kazdy ma IZBE NA WYLACZNOSC dla siebie, rodziny i dzieci; … · _kanal:_ na miejscu
-- BARAKI WIELOOSOBOWE DLA PRACOWNIKOW TYMCZASOWYCH (rozkaz pana 06-19): dla dniowkowych/przybyszow (~400) - pod dachem, z piecem, wy… · _kanal:_ na miejscu
-- WAPNO DLA CAILIN - ZRODLO I WAPIENNIK (z zalecenia pana 06-19 o bieleniu): ile wapna jest dzis w lennie (Alys bieli sklad lin - z … · _kanal:_ na miejscu
-- SKRYPTORIUM - ODPISY PIECIU KSIAG ILARIA (zlecenie pana 06-20; za zgoda wlasciciela): kolejnosc Ilaria - (1) WZORNIK KROJU (po egz… · _kanal:_ na miejscu
-- PROBA CZCIONKI RUCHOMEJ (Ilario po rozmowie z panem 06-20; plan z 300-04-25 'drzeworyt, potem czcionka' i odlewnia czcionek w Lata… · _kanal:_ Fosa; Marr - list przez Hala
-- 10 LUDZI Z DRUZYNY NA ULICE CAILIN DO PIERWSZEJ FALI JASTRZEBI (zgoda pana 06-21, propozycja Hendry'ego): na ulicy pod rozkazem Ke… · _kanal:_ na miejscu
-- KOSZARY MUROWANE DLA ZOLNIERZY I REKRUTOW LENNA (rozkaz pana 06-21, przy przegladzie garnizonu): zamiast kwater drewnianych pod 20… · _kanal:_ na miejscu
-- REKRUCI LENNA - OSOBNY PROGRAM (rozkaz pana 06-21): TRZY MIESIACE PODSTAWY - dyscyplina, forma, wlocznia i tarcza w szyku (najpros… · _kanal:_ na miejscu
-- SZKOLA DOWODZENIA DRUZYNY FOSY (rozkaz pana 06-21: 'ucz ich tez dowodzenia, ten co sie nadaje - to oni beda dowodzic pospolitym ru… · _kanal:_ na miejscu
-- STREFY ZAKAZANE NA BAGNACH LENNA (rozkaz pana 06-23, po poscigu): (1) MAPA BAGNA LENNA - kanaly, kepy, gardla, torfowiska, brody, … · _kanal:_ na miejscu
-- PIECIORO DRZWI (projekt Miry, wola pana 06-23: zapisac i zaprojektowac kazdy; gra/projekt_pieciu_drzwi_cailin_300_06.md): (2) KOCI… · _kanal:_ na miejscu
-- CP-0 RACHUNEK TORFU (etapy projektu Cailin, ciepło i para): ile torfiarnia daje rocznie, ilu kopie, kto ile spala (szklarnie, chal… · _kanal:_ na miejscu
-- SF-0 SPLAW RZEKA FEVER - POMIAR LETNI (glebokosc, bystrza, mielizny, sciezka holownicza, przystanie) - do mapy bagna; prowadzi KES… · _kanal:_ na miejscu
-- WEYLIN PO POWROCIE (~VII) - KOLEJKA RYSUNKOW wg etapow projektu Cailin: MF-1 obwod murow miasta+fortecy i PC-1 basen/brama wodna (… · _kanal:_ na miejscu
-- CP-1 WZORNIK PIECA POD PODLOGA (kanaly w posadzce, komin w bazalcie) - standard dla budynkow publicznych, lecznicy, szkoly, intern… · _kanal:_ na miejscu
-- UT-1 MAPA PASA TRAKTU KROLEWSKIEGO: granice pasa, gdzie przecinaja go kanaly i gardla (przesla), twardy grunt pod wieze, linia kan… · _kanal:_ na miejscu
-- SPIS CALEGO LENNA FOSY CAILIN - WSZYSTKIE WSIE, PRZYSIOLKI I OSADY NA KEPACH, NAPRAWDE (rozkaz pana 06-30, propozycja Warryna). Do… · _kanal:_ na miejscu; meldunek w zbiorczym Garricka
-- ⚑ STUDNIA W KAZDEJ WSI LENNA - NA KOSZT LENNA (rozkaz pana 06-30, po spacerze: we wsi kosiarzy za gajem woda metna, dzieci pija z … · _kanal:_ na miejscu; meldunek w zbiorczym Garricka
-- ST-2 STUDNIE LENNA - lista wszystkich wsi z rubryka 'woda' z ksiegi wsi; KOLEJNOSC JAWNA na radzie lenna; odpowiedz na pismie do k… · _kanal:_ rada lenna
-- KSIEGA POGODY FOSY CAILIN - prowadzi maester ORWYN od 07-01 (zgoda pana: 'mozecie probowac'): codziennie niebo, wiatr, mroz, mgla,… · _kanal:_ na miejscu; odpis do Winterfell kwartalnie
-- ODD ZE SMOLARNI (9, syn Rolfa, wnuk Tomasa Smolarza; osada smolarzy przy Trakcie Krolewskim, ~2 dni na poludnie od Winterfell) - D… · _kanal:_ osobiscie: Rolf z listem pana do straznikow bramy -> Luwin
-- DORNE - DOM TALLY W DESKACH (zgoda Dorana 07-17, rzut 82): czy i kiedy Dom otwiera placowke/znak w Deskach (Plankytown) - sprawa D… · _kanal:_ kruk Winterfell-Bialy Port; Nesta (Braavos)
-- CAILIN - WIELKA KUZNIA Z ODLEWNIA: lawa ZA (rzut 98): dzialka na koncu kanalu ponizej miasta (woda na kolo), miasto - kamien z roz… · _kanal:_ kruk do Fosy
-- LAWA CAILIN - PLAN POTENCJALU (12 punktow, odpowiedz 08-04, rzut 91; gra/zbiorczy_garricka_300_08_02.md pkt 11) - do omowienia prz… · _kanal:_ osobiscie na Fosie
-- SPIS OSADNIKOW Z DORZECZA PRZY FOSIE - ODPIS MIESIECZNY DLA EDMURE'A (list pana 08-13): komora Fosy (Rorik) + ksiega przybyszow (R… · _kanal:_ kruk WF-Fosa; kruk WF-Riverrun
-- IZBA RIVERSA (propozycja Miry 06-22, ZGODA PANA 08-17): izba egzaminacyjna na II pietrze LATARNI PIORA I PLOMIENIA (Cailin) nosi i… · _kanal:_ Mira osobiscie na Fosie (~08-24 wyjazd)
-- OKRETY LENNA - PLAN DONNELA (slowo pana 09-08): wiosna 301 jeden kadlub dla lenna w Dustinporcie; JUZ TERAZ dwoch szkutnikow z Dus… · _kanal:_ kruk WF-Fosa / Fosa-Dustinport
-- LOWISKO RYB I ZAB FOSY - ROZBUDOWA (slowo pana 09-08; lowisko istnialo - poprawki 09-08): wiecej wiecierzy i sieci, nowe stawy prz… · _kanal:_ kruk WF-Fosa 09-09 (z wiadomoscia o Domu Dziecka)
-- PRZYMUS LODMANSKI U UJSCIA GORACZKI I PRZY POMOSCIE GP (slowo pana 09-10, prawo lorda Fosy; propozycja Lucana B): kazdy obcy state… · _kanal:_ kruk WF-Fosa 09-10 (szyfr Domu)
-- LYS - OSTROZNOSC RODU TALLY NA FOSIE (slowo pana 09-11, propozycja Stena a): szyfr Domu do DAGONA (oddzial II przy lady Mirze): ni… · _kanal:_ kruk Domu WF-Fosa 09-11 (szyfr)
-- GORACY PORT - OBRONA UJSCIA PO NAPADZIE (slowo pana 09-16, wszystkie piec rad Rodrika/Bryndena): (1) noca nic na wodzie - ladunek … · _kanal:_ kruk WF-Fosa 09-16 (szyfr Domu)
-- POWROT SIL Z GLEBI I OSRICA Z ZACHODU (slowo pana 10-01, rada Rodrika - zgoda): 50 (31 z garnizonu + 19 ochotnikow rezerwy domeny)… · _kanal:_ kruk WF-Barrowton + jezdziec
-- 48 LUDZI STARKOW Z GORACEGO PORTU DO WINTERFELL (slowo pana 10-08, warunek Bryndena): TYDZIEN NAKLADKI - Jastrzebie Kessela i setk… · _kanal:_ kruk WF-Fosa
-- PRZYJECIE KROLA W WINTERFELL (~10-28; Krol ladem z Karholdu ~10-20; dopisek Krola: 'nie wychodz mi naprzeciw, trzymaj dom'): brama… · _kanal:_ osobiscie WF
-- FLINT Z PALCA - CO WIDAC NA MORZU (slowo pana 10-21, po meldunku Torrena 'za Przyladkiem Kraken nie patrzymy'): czyje zagle, ile, … · _kanal:_ kruk WF-Fosa, potem czlowiek Fosy na Palec i z powrotem (~7 dni)
-- ROZKAZ DLA SER EDWYLE'A: zimuje w Dustinporcie przy 7 ochotnikach do lodu, potem saniami do WF. · _kanal:_ kruk WF-Fosa + jezdziec Fosa-Dustinport
+- GULLTOWN - NIE OTWIERAMY. DECYZJA SWIADOMA, NIE POMINIECIE. POWOD, SLOWAMI MEDRICKA: 'Placowka w miescie, ktorego pan nie powiedzi… · _kanal:_ wlasny czlowiek na Fosie
+- REACH - WYCHOWANEK TYRELLOW W SZKOLE KROLA (rada Sansy): kuzyn, nie dziedzic. Dopiero gdy kontrakt stoi. Decyzja Krola. ### 06-15:… · _kanal:_ -
+- T3-C - MOST PRZY BRODZIE (zajazd Ody, Trakt Krolewski Winterfell-Cerwyn): w ramach T3-C, przed roztopami 301; brod stoi wiosna ~3 … · _kanal:_ kruk Barrowton-Winterfell
+- ST-3 STUDNIE LENNA - PIERWSZA FALA PRZED MROZEM: wsie, ktore pija z rowu (wg ST-2). · _kanal:_ zbiorczy Garricka
+- WALDA BOLTON - POROD (maester Dreadfortu: 'przed zima', ~IX/X) - OBAWY O DZIEDZICA (odczyt Sansy: dzien porodu najniebezpieczniejs… · _kanal:_ osobiscie, Dreadfort
+- KODEKS - PRZEPIS O WIERZE (Krol 07-19): 'wierzyc wolno kazdemu; palic, bic i nawracac sila - nikomu' - Cerwyn ubiera w litere praw… · _kanal:_ list Krola / przy najblizszym spotkaniu
+- PAN JEDZIE DO AEMONA NA CZARNY ZAMEK (wysluchac ustnie 'tego, czego nie ma w ksiegach' - list Aemona 07-22). Termin: PO POWROCIE K… · _kanal:_ trakt Krolewski na polnoc / morze do Wschodniej Strazy
+- EDRIC PLUG OBEJMUJE URZAD ZARZADCY DOMENY (po zniwach): przysiega przy Krolu, krzeslo w Malej Radzie, przejecie od Gawena i Rodwel… · _kanal:_ Winterfell
+- KONSULAT KORONY W RIVERRUN (Mala Rada 07-26, rzut 21 - Riverrun tak): kto (konsul - kancelaria misji), gdzie (przy Edmurze), koszt… · _kanal:_ kruk Riverrun
+- POWROT: KONSULAT BRAAVOS, WEKSEL POSWIADCZANY, UMOWA Z BANKIEM (odlozone 07-26) · _kanal:_ Winterfell / wg sprawy
+- POWROT: CZYNSZ DO WYBORU W CALEJ DOMENIE - po probie w okregu I · _kanal:_ Winterfell / wg sprawy
+- WARUNKI DLA WODZOW WOLNYCH LUDZI (projekt pana, do przedlozenia przez Krola przy drzewie na Cyplu): wodz wydaje winnego sedziemu l… · _kanal:_ na miejscu
+- KANON SANSY - SZCZEBEL III 'PRAWO I LUDZIE': nauczyciel LORD CERWYN (Justycjariusz), zatwierdzone przez Krola z lady Catelyn (rzut… · _kanal:_ osobiscie / odpisy przez kancelarie
+- SLUB EDMURE'A TULLY Z JONELLE CERWYN - POMYSL NAMIESTNIKA (07-30; lista Sansy z 05-12: Wynafryd Manderly, Alys Karstark, Jonelle C… · _kanal:_ osobiscie (Winterfell)
+- POMYSL (pan, 07-30): ZWIAZAC THEONA GREYJOYA Z POLNOCA PRZEZ MALZENSTWO. Odczyt Catelyn: sens, jesli Theon nie siadzie na Pyke (in… · _kanal:_ osobiscie
+- SIEC WIEZ OBSERWACYJNYCH KORONY NA GRANICY CYPLA (Krol rzut 35 - jedna konsekwencja): ETAP 1 - wieze wpiete w lancuch ognia Robett… · _kanal:_ kruk Winterfell-Deepwood
+- SYN SWIADKA - SLUZBA KORONY NA CYPLU, gdy przyjedzie (slowo pana + Krol, Przystan Wilka 08-05; ukryte/prawda.md): zwykly wlocznik … · _kanal:_ ustnie przez Borsa / Torgen
+- ZIMOWA STRAZ - DYSKRETNIE O CHLOPCACH BEKARTA (slowo pana, Krol): Krol mowi SER ALYNOWI dwa przezwiska - Obdzieracz i Ben Kosci - … · _kanal:_ ustnie, w drodze
+- CICHA KSIEGA SKARG Z ZIEM PRZY DREADFORCIE - przy JUSTYCJARIUSZU (propozycja Cerwyna, zgoda pana 08-05, Krol przy tym): kto zagina… · _kanal:_ sad Korony; kruki od marchii/slupow
+- SLOWO AEMONA DLA KROLA - USTNIE OD PANA (warunek Krola 299-09-14 pkt 4: sprawy brata - Krol slyszy pierwszy i sam; NIC NA PAPIERZE… · _kanal:_ osobiscie
+- BRAN - SEN Z NOCY ZE SZKLEM (08-04/05): byl; Bran powie najpierw Krolowi (umowa). Tresc - USTNIE, Krol pierwszy; jesli pan zapyta … · _kanal:_ ustnie
+- PROBA KOMORY ZBOZOWEJ W SKALE (slowo pana 08-16; gra/proba_komory_zbozowej_300_08_16.md): A - piwnica pod Winterfell (nie krypty),… · _kanal:_ na miejscu, Winterfell
+- [CYKL] SKARB - KARTA WYDATKOW KORONY OBOK WPLYWOW (slowo pana 08-17, rada Gawena): raz w miesiacu, dla Namiestnika i do teki Krola… · _kanal:_ na miejscu, WF
+- CYPEL - PRZELICZNIK GAWENA NA SLUP (przyjety 08-20): odpis do posla/pisarza przystani Korony, ogloszenie. Wlasni. · _kanal:_ jezdziec przez Deepwood
+- PAPIERY LWA (b) - 7 PARTII KWITOW PO UGODZIE JAKO DAR DLA KROLA (slowo pana 08-22): przy sprawach Korony, za wiedza Krola; przekaz… · _kanal:_ osobiscie
+- MODEL FLOTY KORONY - BADANIE (slowo pana 08-24: 'zbadam to, to pytanie o model dla Korony'): krol buduje i placi / lord wystawia (… · _kanal:_ osobiscie WF; list do Nesty statkiem; kruki
+- ILLYRIA - ZAMOWIENIE DODATKOWEGO ZBOZA Z PENTOS (slowo pana 08-25): 20 000 korcy dla Polnocy + 2000 dla miasta Mootona (przez Komp… · _kanal:_ kruk WF-BP (przed ~09-10)
+- BECZKA ZIMOWA - DOSTAWY: Mur 160 (morzem BP->Wschodnia Straznica przed koncem X; zadatek Strazy 9 smokow wozem ~09-05), Spichlerz … · _kanal:_ kruk Domu ZM-BP
+- PRZYSTAN WILKA - DRUGA GRUPA Z ZM (14: 3 murarzy, 2 ciesli, 9 pomocnikow) jedzie po swoich zniwach ~09-05 wozem Korony; POWROT NA … · _kanal:_ na miejscu (ZM) + jezdziec do Przystani
+- GORSZY MIESIAC X (Mala Rada 08-29, A): jesli naleznosci (~1589) nie przyjda do ~10-15 - czeka najpierw STOL WINTERFELL (dopisek Kr… · _kanal:_ na miejscu
+- KONSERWA KORONY S-1 SOL DOMENNA: 440 beczek przed ubojem XI (okregi I-III, po beczce na wies), po kosztach albo za dniowke; zrodlo… · _kanal:_ Winterfell / domena
+- KONSERWA KORONY S-3 WEDZARNIE I KISZARNIE OKREGOWE: Podgrodzie (I), Siedem Mlynow (II), Gosciniec (III); ~15 smokow sztuka. gra/ko… · _kanal:_ Winterfell / domena
+- KONSERWA KORONY - CEL IX-X: ~300 beczek kiszonki + ~80 beczek ryby solonej (E); ZURAWINA z torfowisk (X); trzy przetwornie (S-3) p… · _kanal:_ domena / Winterfell
+- WARZELNIA EDRICA SOLNEGO - DRUGA PANEW (slowo pana 09-03 (c)): ~30 smokow Kasa 1 (Dom), budowa IX-X, +3 t soli/mies. od XI (zima i… · _kanal:_ kruk Domu ZM-BP
+- PAPIER LWA W BANKU (ruch A, slowo pana 09-04): PO meldunku siatki ~09-10 (czy Lys w pieniadzu zaciagu Lannisportu) i PO LISCIE DO … · _kanal:_ list do Krola (BP / do rak), potem kruk Domu do Nesty
+- WYSLANNIK KORONY DO BRAAVOS (pomysl pana 09-04): rozmowa z MAGISTRAMI/MORSKIM LORDEM i ZELAZNYM BANKIEM (drewno okretowe dla Arsen… · _kanal:_ list do Krola razem z ruchem A
+- RYTOWNIK Z BRAAVOS - PODWOJNA STAWKA OD WIOSNY (slowo pana 09-05): Ilario przez Neste - umowa od 301-IV, przyjazd pierwszym statki… · _kanal:_ statek
+- WYSPY - CHLEB DLA KRZESLA Z MORSKIEGO KAMIENIA (slowo pana 09-10, kolejnosc 4; propozycja GM): stala oferta Korony - zboze dla Pyk… · _kanal:_ osobiscie po powrocie Krola
+- OSLONA POSELSTWA DO BRAAVOS (slowo pana 09-11, propozycja Stena b): plan ochrony lady Catelyn, Sansy i Aryi na cala droge (statek,… · _kanal:_ WF, osobiscie
+- LENNO ODDAJE KORONIE 125 KORCY ZYTA W NATURZE (rozstrzygniecie Gawena 09-18 - spalona barka GP): z wlasnych spichlerzy lenna do Sp… · _kanal:_ kruk WF-Fosa (pismo Gawena z poczta 09-19)
+- OWEN - NAUKA SIEDMIU (stala: pon. i czw. po 1 h; Sansa, Arya, Bran). Nastepna pon. 10-13. Wlasni - rzut tylko przy zmianie/sporze. · _kanal:_ osobiscie, WF
+- STROJ DLA KROLOWEJ ROSLIN NA UCZTE POWROTU KROLA (prosba lady Catelyn przez Mire; slowo pana 10-15: 'jasne, dzialaj'): atelier Tal… · _kanal:_ osobiscie WF
+- WILLA - OSIEM BIALYCH PLAM (zlecenie pana 10-17; gra/zlecenie_willi_300_10_17.md): (1) 'Korona, ktora trzyma Tally' - czy krazy i … · _kanal:_ osobiscie ZM / karta centrali 28.
+- TRAN FOKOWY OD KARSTARKA (slowo pana 10-18): Gawen pisze w imieniu Korony do lorda Rickarda o kupno tranu fokowego z Zatoki Fok dl… · _kanal:_ kruk WF-Karhold
+- REFORMA SLUZBY CELNEJ KORONY (slowo pana 10-18; gra/cla_i_komory_stan_300_10_18.md cz. 6): (1) mapa wszystkich punktow handlu zewn… · _kanal:_ WF; kruk do Gartha
+- BOLTON NIE ODPOWIADA NA LISTY KORONY - WPIS DO REJESTRU (slowo pana 10-18): dwa listy bez odpowiedzi przed 09-27, trzeci 10-15 (do… · _kanal:_ WF
+- WDOWA PO HAGENIE (BP, Uliczka Powroznikow) - PROPOZYCJA STYPENDIUM w szkole Bialego Portu (szkola Wymana, 299-08-11) dla dzieci + … · _kanal:_ poslaniec Korony konno; wiesc z powrotem poslancem albo krukiem przez komore BP
+- HARRION (kolacja 10-22, rzut 81): w Maidenpool latem DWA RAZY czlowiek w barwach FREYOW u kapitana garnizonu Lwa (pili, rozmowa be… · _kanal:_ na miejscu
+- SPRAWA (filar): UDERZYC PIERWSI - NIEKONIECZNIE MILITARNIE (slowo pana 10-22, solar Catelyn; po slowach Harriona: Kulawy Lothar u … · _kanal:_ na miejscu
+- KROLOWI O RAMIE 'KORONA TRZYMA TALLY' - PAN POWIE SAM, osobiscie, lekko, po powrocie (~10-28), zanim dojdzie okreznie. · _kanal:_ osobiscie (Krol w WF ~10-28)
+- WYMAN - PROPOZYCJA STALEGO KURSU UJSCIE-BIALY PORT (list pana Fosy 10-26): czy Wyman postawi staly kurs w obie strony jako usluge … · _kanal:_ kruk WF-Bialy Port (przez Dom/Glebokorzen)
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
 _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
@@ -1969,7 +1985,7 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 300-10-29 wieczor · zima (300)
+- **Data:** 300-10-30 ranek · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.25 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
 - **Zdrowie 100 · Sytosc 72 · Zmeczenie 0**
@@ -4003,10 +4019,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `wywiad_kontrwywiad` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-10-29] `korona/ROBB`: RADA - PAN MELDUJE KROLOWI: PRZEWLOKA SKONCZONA. Bez rzutu (relacja; sprawa lenna, ale wazna dla Korony/Polnocy). Pan zdaje: przewloka przez Przesmyk czynna i przez caly rok, zimą takze - cz…
-- [300-10-29] `dziennik`: RADA - PAN MELDUJE KROLOWI o POSELSTWIE KOSCI DO DORNE. Bez rzutu (relacja; statek w drodze, odpowiedz Oberyna tygodnie stad). Stan: 'Morska Klacz' wyplynela z Bialego Portu ~10-08 do Slonec…
-- [300-10-29] `korona/ROBB`: RADA - PAN MELDUJE KROLOWI o POSELSTWIE KOSCI DO DORNE. Bez rzutu (relacja; statek w drodze, odpowiedz Oberyna tygodnie stad). Stan: 'Morska Klacz' wyplynela z Bialego Portu ~10-08 do Slonec…
-- [300-10-29] `poselstwo_kosci_dorne`: 10-29 Rada: pan zdal Krolowi. Morska Klacz w drodze do Slonecznej Wloczni (wyplyn. 10-08, odpowiedz Oberyna tygodnie stad). Krol: Dustinowie nasi mocniej niz za Neda (rana Neda zagojona reka…
 - [300-10-29] `dziennik`: RADA - PAN ZDAJE KROLOWI STRUKTURE DOWODZENIA, ZWIEKSZENIE WOJSKA I PODZIAL GARNIZONOW (projekty 10-13; gra/sztab_winterfell_300_10_13.md, gra/majatek_funkcyjny_korony_300_10_13.md). Bez rzu…
 - [300-10-29] `korona/ROBB`: RADA - PAN ZDAJE KROLOWI STRUKTURE DOWODZENIA, ZWIEKSZENIE WOJSKA I PODZIAL GARNIZONOW (projekty 10-13; gra/sztab_winterfell_300_10_13.md, gra/majatek_funkcyjny_korony_300_10_13.md). Bez rzu…
 - [300-10-29] `dziennik`: RADA - PAN CHCE ZDAC KROLOWI o WYWIADZIE I KONTRWYWIADZIE - najpierw PROSI O WASKI STOL (rezim informacji 09-22: w sprawie siedza tylko ci, kogo dotyczy; siatka byla POZA streszczeniem Catel…
@@ -4015,3 +4027,7 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-10-29] `dziennik`: RADA - ZAMKNIECIE. Pan klania sie Krolowi i mowi szczerze: ciesze sie, ze wrocil caly; a przed taka wyprawa nastepnym razem zbierzemy WIECEJ WIADOMOSCI - Skagos, teraz jak o tym mysle, bylo …
 - [300-10-29] `korona/ROBB`: RADA - ZAMKNIECIE. Pan klania sie Krolowi i mowi szczerze: ciesze sie, ze wrocil caly; a przed taka wyprawa nastepnym razem zbierzemy WIECEJ WIADOMOSCI - Skagos, teraz jak o tym mysle, bylo …
 - [300-10-29] `skagos`: 10-29 zamkniecie Rady: pan - Skagos bylo niebezpieczna demonstracja (Krol w ciemno). Krol przyznaje: poszedl na wezwanie, ale bez rozpoznania. ZASADA przyjeta: przed wyprawa Krola WYWIAD/The…
+- [300-10-29] `dziennik`: ROZMOWA PO RADZIE - pan pyta po ludzku: jak wyglada Skagos, czy sa jednorozce. Bez rzutu (relacja Krola, tekstura dopisana wstecz - zasada 9; swiat surowy, bez magii: 'jednorozec' = realny z…
+- [300-10-29] `skagos`: 10-29 (opis Krola): Skagos = kamien, karlowata sosna, klify, male pola owsa, domy z kamienia/darni; bieda, ludzie jak gorale ale bardziej sami. JEDNOROZCE REALNE (nie z piesni): wielkie kudl…
+- [300-10-29] `dziennik`: POZNY WIECZOR - pan domyka dzien, idzie do MIRY (komnaty; Lyra spi, Plaszczyk na skrzyni). Bez rzutu, cieply. Pan opowiada jej skrocie, jak poszla Rada (bez siatki - Mira i tak nie w kregu w…
+- [300-10-30] `dziennik`: 300-10-30 RANEK (CZWARTEK), WINTERFELL. SEN RZUT 92: znakomicie; zmeczenie ->0, sytosc 72. POGODA RZUT 91: znakomicie - suchy mroz, slonce, trakty przetarte po zamieci. KROL W DOMU - dwor wr…

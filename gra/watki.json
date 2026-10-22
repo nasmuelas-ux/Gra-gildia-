@@ -6546,7 +6546,7 @@
   {
    "id": "dziennik",
    "status": "otwarty",
-   "_dziennik_nota": 123
+   "_dziennik_nota": 124
   },
   {
    "id": "pobor_wschodu",
@@ -6646,7 +6646,7 @@
   {
    "id": "aemon_mur",
    "status": "otwarty",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 4
   },
   {
    "id": "szkola_pisarzy_doroslych",

@@ -12045,7 +12045,7 @@
    "kanal": "osobiscie",
    "wraca": "300-10-30",
    "zamyka": "Krol uslyszal",
-   "status": "otwarte ### 09-15 NIE PRZYSZLO, WIADOMO DLACZEGO: sprawa czeka na KROLA (prerogatywa / umowa 'Krol pierwszy'); powrot Krola - data nieznana; zamiec 09-15 dodatkowo trzyma morze i drogi. ### 300-09-25 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: czeka na KROLA (Skagos; zwiad wraca ~10-08). ### 300-10-10 MALA RADA: meldunek/sprawa przyjeta bez dyskusji (slowo pana 'zgoda'); przeglad na Radzie 10-24. ### 300-10-26 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO - czeka na slowo/powrot Krola (~10-28). ### 300-10-28: ZAMIEC (pogoda 13) - Krol nie dotarl; czeka na Jego powrot (>=10-30)."
+   "status": "zrobione 300-10-30: pan zdal Robbowi ustnie (Benno 08-08); Krol poruszony, potwierdzil wyjazd pana do Aemona."
   },
   {
    "data": "300-08-08",
@@ -17274,6 +17274,15 @@
    "kanal": "Trakt Krolewski Winterfell-Czarny Zamek",
    "wraca": "300-11-02",
    "zamyka": "data wyjazdu ustalona po bilansie; potem meldunki z drogi",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-30",
+   "co": "DZIEWCZYNA W MEEREEN (slowo Aemona): poslac do niej kogos, kto zna ksiegi, zanim poslą ci, co znaja tylko zloto (srebrna krolowa z opowiesci zeglarzy - Daenerys?). Do rozwazenia przez Krola/pana - lączy z wyslannikiem do Braavos/Essos i nasluchem (Willa pkt 8).",
+   "kto": "KROL ; SYMON ; (Willa - Essos)",
+   "kanal": "-",
+   "wraca": "300-11-15",
+   "zamyka": "slowo Krola: czy i kogo poslac ku Meereen",
    "status": "otwarte"
   }
  ],

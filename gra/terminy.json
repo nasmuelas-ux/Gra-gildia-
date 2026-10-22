@@ -17230,6 +17230,24 @@
    "wraca": "300-10-28",
    "zamyka": "Krol zdal relacje; pan zdal swoje",
    "status": "otwarte"
+  },
+  {
+   "data": "300-10-27",
+   "co": "WYPATRYWAC MANCE'A NA CYPLU (slowo pana 10-27): Vemund wsrod przychodzacych dzikich wypatruje Mance'a z imienia, nie zatrzymuje, melduje natychmiast (przyjscie / wiesc, ze nie zyje / gdzie jest).",
+   "kto": "VEMUND (Przystan Korony, Cypel)",
+   "kanal": "jezdziec przez Deepwood / kruk Korony (Ulla Kora)",
+   "wraca": "300-11-10",
+   "zamyka": "pierwsza wiesc o Mansie z Cypla (rzut przy wiesci)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-27",
+   "co": "MUR - HALLIS WYPATRUJE WOKOL MANCE'A (slowo pana 10-27): slac wiesc, gdy po tamtej stronie cos drgnie wokol Mance'a.",
+   "kto": "HALLIS MOLLEN (Mur)",
+   "kanal": "kruk Domu przez Benna",
+   "wraca": "300-11-10",
+   "zamyka": "wiesc Hallisa o Mansie (rzut)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

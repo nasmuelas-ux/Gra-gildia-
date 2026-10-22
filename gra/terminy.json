@@ -17294,11 +17294,11 @@
    "status": "otwarte"
   },
   {
-   "co": "CZERWONY STRUMIEN - ZDJAC STRACH ZARAZY, by nabor do dymarek zebral rece. SEPTON VOID 300-11-01 (zasada 3, blad GM: Polnoc czci Starych Bogow - chlop z glebi Wilczego Lasu NIE slucha septona; sept WF jest dla Catelyn, z poludnia). POSEL NIEUSTALONY. Lever musi byc polnocny: lecznica/wiedzaca, slowo pana spod wilka, drzewo serca/stary gaj, albo najstarszy z kinu tych, co przyszli. Fakt (120 lat temu ciezka zima + jedna choroba, rdzawa woda = zelazo) ma niesc czlowiek, ktoremu wierza, nie pergamin czytany jak pismo.",
-   "kto": "NIEUSTALONY (polnocny lever)",
-   "kanal": "woz Korony do Wilczego Lasu (z naborem) - gdy posel ustalony",
-   "wraca": "300-11-16",
-   "zamyka": "decyzja pana: kto/co zdejmuje strach po polnocnemu; potem rzut na skutek",
+   "co": "CZERWONY STRUMIEN - SLOWO KROLA przeciw strachowi zarazy (wybor pana 11-01: 'Krol niech powie'). Robb pisze wlasna reka pod pieczecia wilka: wies jest Jego, robota przy rudzie jest Jego, Korona karmi i strzeze; 120 lat temu byla ciezka zima i glod, nie przeklenstwo (wyciag Luwina dolaczony). Czytac pod drzewem serca, jesli stoi w Czerwonym Strumieniu albo w Dolnym Borze; jesli nie - w najblizszym gaju. Czyta czlowiek kasztelana (byl juz z Grimem), sztandar z wilkiem na wozie. Septon VOID. RZUT na skutek - przy meldunku.",
+   "kto": "KROL (slowo, pieczec) -> czlowiek kasztelana (czyta) ; GRIM (meldunek)",
+   "kanal": "woz Korony z partia naboru (wyjazd ~11-03) ; meldunek Grima kurierem do WF",
+   "wraca": "300-11-14",
+   "zamyka": "meldunek: ilu potomkow z Czerwonego Strumienia przyszlo po slowie Krola / kto dalej nie (rzut przy meldunku)",
    "status": "otwarte"
   },
   {

@@ -16696,9 +16696,9 @@
    "co": "PRZYJECIE KROLA W WINTERFELL (~10-28; Krol ladem z Karholdu ~10-20; dopisek Krola: 'nie wychodz mi naprzeciw, trzymaj dom'): brama, pieczec regencji (gest pana - plan z Mira 10-17), rachunek Korony na pismie (Gawen), uczta (Catelyn; stroj Roslin), sprawy 'Krol pierwszy'. Do slowa pana.",
    "kto": "SYMON ; CATELYN ; GAWEN ; RODRIK",
    "kanal": "osobiscie WF",
-   "wraca": "300-10-28",
+   "wraca": "300-10-30",
    "zamyka": "plan przyjecia gotowy (Rada 10-24)",
-   "status": "otwarte ### 300-10-26 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO - czeka na slowo/powrot Krola (~10-28). ### 300-10-26 DOPISEK PANA: dom Tally wita i korzy sie RAZEM jako rodzina (pan+Mira+Lyra); Krol 28. zdaje relacje z wyprawy (Skagos/Karhold) - Jego scena."
+   "status": "otwarte ### 300-10-26 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO - czeka na slowo/powrot Krola (~10-28). ### 300-10-26 DOPISEK PANA: dom Tally wita i korzy sie RAZEM jako rodzina (pan+Mira+Lyra); Krol 28. zdaje relacje z wyprawy (Skagos/Karhold) - Jego scena. ### 300-10-28: ZAMIEC (pogoda 13) - Krol nie dotarl, trakt zasypany; przyjecie przesuniete do konca burzy (data nieznana, >=10-29)."
   },
   {
    "data": "300-10-18",
@@ -17191,9 +17191,9 @@
    "co": "KROLOWI O RAMIE 'KORONA TRZYMA TALLY' - PAN POWIE SAM, osobiscie, lekko, po powrocie (~10-28), zanim dojdzie okreznie.",
    "kto": "SYMON -> KROL",
    "kanal": "osobiscie (Krol w WF ~10-28)",
-   "wraca": "300-10-28",
+   "wraca": "300-10-30",
    "zamyka": "Krol uslyszal od pana",
-   "status": "otwarte"
+   "status": "otwarte ### 300-10-28: ZAMIEC (pogoda 13) - Krol nie dotarl, trakt zasypany; przyjecie przesuniete do konca burzy (data nieznana, >=10-29)."
   },
   {
    "data": "300-10-26",
@@ -17227,9 +17227,9 @@
    "co": "KROL ZDAJE RELACJE Z WYPRAWY (28., po powrocie): Skagos/bekart, Karhold, droga - scena Krola; pan i Rada sluchaja pierwsi. Potem pan zdaje swoje (rachunek regencji + pierwszy ruch + rama Tally lekko).",
    "kto": "KROL -> pan/Rada",
    "kanal": "osobiscie WF",
-   "wraca": "300-10-28",
+   "wraca": "300-10-30",
    "zamyka": "Krol zdal relacje; pan zdal swoje",
-   "status": "otwarte"
+   "status": "otwarte ### 300-10-28: ZAMIEC (pogoda 13) - Krol nie dotarl, trakt zasypany; przyjecie przesuniete do konca burzy (data nieznana, >=10-29)."
   },
   {
    "data": "300-10-27",

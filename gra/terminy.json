@@ -17294,11 +17294,11 @@
    "status": "otwarte"
   },
   {
-   "co": "CZERWONY STRUMIEN - STARY SEPTON ZAMKOWY WINTERFELL (kanon Chayle; w zapisie bez imienia) przeciw strachowi zarazy (decyzja pana 11-01, RZUT 58 czesciowy). JUZ W WF - nie sprowadzany (Torren) ani odrywany od szkoly (Owen). Jedzie wozem Korony z partia naboru, z PISEMNYM wyciagiem z archiwum Luwina: 120 lat temu ciezka zima + jedna choroba, rdzawa woda = zelazo nie mor. Koszt: septa Winterfell (Catelyn/Roslin/Sansa) bez septona ~2 tyg; stary czlowiek na zimowym trakcie.",
-   "kto": "STARY SEPTON ZAMKOWY WINTERFELL",
-   "kanal": "woz Korony do Wilczego Lasu (z naborem); wyciag z archiwum Luwina",
+   "co": "CZERWONY STRUMIEN - ZDJAC STRACH ZARAZY, by nabor do dymarek zebral rece. SEPTON VOID 300-11-01 (zasada 3, blad GM: Polnoc czci Starych Bogow - chlop z glebi Wilczego Lasu NIE slucha septona; sept WF jest dla Catelyn, z poludnia). POSEL NIEUSTALONY. Lever musi byc polnocny: lecznica/wiedzaca, slowo pana spod wilka, drzewo serca/stary gaj, albo najstarszy z kinu tych, co przyszli. Fakt (120 lat temu ciezka zima + jedna choroba, rdzawa woda = zelazo) ma niesc czlowiek, ktoremu wierza, nie pergamin czytany jak pismo.",
+   "kto": "NIEUSTALONY (polnocny lever)",
+   "kanal": "woz Korony do Wilczego Lasu (z naborem) - gdy posel ustalony",
    "wraca": "300-11-16",
-   "zamyka": "meldunek: ilu potomkow poszlo po slowie septona i wyciagu Luwina / kto dalej nie; i czy septon wrocil caly",
+   "zamyka": "decyzja pana: kto/co zdejmuje strach po polnocnemu; potem rzut na skutek",
    "status": "otwarte"
   },
   {

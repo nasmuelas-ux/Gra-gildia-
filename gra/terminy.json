@@ -17215,8 +17215,8 @@
   },
   {
    "data": "300-10-26",
-   "co": "ZAKUP RYBY I TRANU W BIALYM PORCIE dla Spichlerza Korony (slowo pana 10-26): Hal kupuje rybe (solona, beczki) i tran; ilosc - Orland, cena z ksiegi Hala, platnik Kasa 3; dostawa przed glebokim lodem. Rozszerza zlecenie tranu z 10-18.",
-   "kto": "HAL ; GAWEN (Kasa 3) ; ORLAND (ilosc)",
+   "co": "ZAKUP RYBY I TRANU W BIALYM PORCIE dla Spichlerza Korony (slowo pana 10-26, korekta: przez FAKTORA KROLEWSKIEGO w BP, NIE przez Hala/Dom - mur miedzy kasami): ryba (solona, beczki) i tran; ilosc - Orland, cena rynkowa BP, platnik Kasa 3; odbior przez komore Gartha; dostawa przed glebokim lodem.",
+   "kto": "FAKTOR KORONY w BP ; GAWEN (Kasa 3) ; ORLAND (ilosc) ; GARTH (komora, odbior)",
    "kanal": "kruk WF-BP + statek/woz BP-WF/ZM",
    "wraca": "300-11-08",
    "zamyka": "ryba i tran w skladzie WF/ZM, kwota w Kasie 3",

@@ -6546,7 +6546,7 @@
   {
    "id": "dziennik",
    "status": "otwarty",
-   "_dziennik_nota": 46
+   "_dziennik_nota": 48
   },
   {
    "id": "pobor_wschodu",
@@ -6577,6 +6577,16 @@
    "id": "korona_trzymana_przez_tally",
    "status": "otwarty",
    "_dziennik_nota": 3
+  },
+  {
+   "id": "lancuch_ognia",
+   "status": "otwarty",
+   "_dziennik_nota": 1
+  },
+  {
+   "id": "starkport_cypel",
+   "status": "otwarty",
+   "_dziennik_nota": 1
   }
  ]
 }

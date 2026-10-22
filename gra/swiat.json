@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 10,
-  "dzien": 25,
+  "dzien": 26,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 91 (300-10-25): znakomicie - mroz zelzal, niebo czyste, slonce na swiezym sniegu, bezwietrznie; kruki od switu, trakty przetarte.",
- "dzien_tygodnia_nr": 6,
+ "pogoda": "RZUT 99 (300-10-26): znakomicie - mroz suchy, niebo jak szklo, slonce, bezwietrznie; kruki od switu ze wszystkich stron.",
+ "dzien_tygodnia_nr": 7,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

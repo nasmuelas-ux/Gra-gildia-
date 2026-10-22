@@ -10911,7 +10911,7 @@
    "kanal": "na miejscu",
    "wraca": "300-11-04",
    "zamyka": "ogloszone przy drzewie",
-   "status": "otwarte ### 09-15 NIE PRZYSZLO, WIADOMO DLACZEGO: sprawa czeka na KROLA (prerogatywa / umowa 'Krol pierwszy'); powrot Krola - data nieznana; zamiec 09-15 dodatkowo trzyma morze i drogi. ### 300-09-25 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: czeka na KROLA (Skagos; zwiad wraca ~10-08). ### 300-10-10 MALA RADA: meldunek/sprawa przyjeta bez dyskusji (slowo pana 'zgoda'); przeglad na Radzie 10-24. ### 300-10-26 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO - czeka na slowo/powrot Krola (~10-28). ### 300-10-28: ZAMIEC (pogoda 13) - Krol nie dotarl; czeka na Jego powrot (>=10-30)."
+   "status": "otwarte ### 09-15 NIE PRZYSZLO, WIADOMO DLACZEGO: sprawa czeka na KROLA (prerogatywa / umowa 'Krol pierwszy'); powrot Krola - data nieznana; zamiec 09-15 dodatkowo trzyma morze i drogi. ### 300-09-25 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: czeka na KROLA (Skagos; zwiad wraca ~10-08). ### 300-10-10 MALA RADA: meldunek/sprawa przyjeta bez dyskusji (slowo pana 'zgoda'); przeglad na Radzie 10-24. ### 300-10-26 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO - czeka na slowo/powrot Krola (~10-28). ### 300-10-28: ZAMIEC (pogoda 13) - Krol nie dotarl; czeka na Jego powrot (>=10-30). ### 300-10-29 RADA (dopisane 11-01): warunek 'liczba od Mance'a' MARTWY; Krol oglosi warunki wodzom SAM albo przez posla - nie czeka na Mance'a. OTWARTE: KTO jest poslem i KIEDY (decyzja Krola)."
   },
   {
    "data": "300-07-26",
@@ -17175,7 +17175,7 @@
    "kanal": "kruk WF-Bliznieta",
    "wraca": "300-11-04",
    "zamyka": "slowo Krola o pismie; po nim list do Waldera krukiem",
-   "status": "zrobione (zatwierdzone) 300-10-29: Krol zatwierdzil pismo (fakt nie grozba); myto od 1.11 pod pieczecia Krola; Roslin powiadomi sam Krol; Catelyn dokłada zdanie. Kruk do Waldera po dopracowaniu z Catelyn (~10-30)."
+   "status": "zrobione 300-10-30: WYSLANE krukiem WF-Blizniaki (4 dni, ~11-03) - Catelyn dolozyla zdanie, pieczec Krola; zasada 45 (przeszkody w zapisie brak, pogoda 91, plan dnia 10-30 'pisma z Rady ida'). Myto Korony od 1.11 na swoj towar - komora liczy od dzis. ### zrobione (zatwierdzone) 300-10-29: Krol zatwierdzil pismo (fakt nie grozba); myto od 1.11 pod pieczecia Krola; Roslin powiadomi sam Krol; Catelyn dokłada zdanie. Kruk do Waldera po dopracowaniu z Catelyn (~10-30)."
   },
   {
    "data": "300-10-25",
@@ -17254,18 +17254,18 @@
    "co": "PISMO KROLA DO ROOSE'A BOLTONA (slowo Krola 10-29): Ramsay i 20 sa goscmi Krola, wyjada w zdrowiu, gdy Boltonsgate odpowie Koronie - zaplaci zalegle clo, otworzy karte miasta, odpisze na listy. Rachunek, nie zakladnik. Reka Berona, pieczec Krola.",
    "kto": "KROL (Beron) -> ROOSE BOLTON",
    "kanal": "kruk WF-Dreadfort",
-   "wraca": "300-11-08",
+   "wraca": "300-11-06",
    "zamyka": "odpowiedz Roose'a: clo/karta/listy (rzut) albo milczenie",
-   "status": "otwarte"
+   "status": "otwarte ### 300-11-01 PRZEGLAD (pytanie pana): WYSLANE 10-30 krukiem WF-Dreadfort (3 dni, ~11-02; zasada 45). Czeka na odpowiedz Roose'a (najwczesniej ~11-06)."
   },
   {
    "data": "300-10-29",
    "co": "LIST KROLA DO CERWYNA I WYMANA - garnizon w Przystani Wilka (wspolwlasnosc Korona 1/2, Cerwyn i Manderly po 1/4): zawiadomienie, ze staje tam garnizon ~150; wspolwlasciciele slysza pierwsi (slowo Krola 10-29).",
    "kto": "KROL (Beron) -> CERWYN, WYMAN",
    "kanal": "kruk WF-Cerwyn / WF-Bialy Port",
-   "wraca": "300-11-05",
+   "wraca": "300-11-04",
    "zamyka": "zawiadomienie u obu + ich slowo",
-   "status": "otwarte"
+   "status": "otwarte ### 300-11-01 PRZEGLAD (pytanie pana): WYSLANE 10-30 (Wyman kruk WF-BP 2 dni ~11-01; Cerwyn blisko). Czeka na odpowiedzi."
   },
   {
    "data": "300-10-30",
@@ -17307,6 +17307,38 @@
    "kanal": "rada wojenna WF",
    "wraca": "300-11-04",
    "zamyka": "decyzja Krola o alokacji kowali-stalownikow i o programie czeladniczym",
+   "status": "otwarte"
+  },
+  {
+   "co": "WALDER FREY - ODPOWIEDZ na pismo Korony (myto 1.11, trakt Seagard-Blizniaki-Przesmyk; fakt nie grozba)",
+   "kto": "WALDER FREY",
+   "kanal": "kruk Blizniaki-WF",
+   "wraca": "300-11-08",
+   "zamyka": "odpowiedz Waldera / milczenie (tez odpowiedz) - rzut przy odpowiedzi",
+   "status": "otwarte"
+  },
+  {
+   "co": "ROZKLAD W SZEREGACH LWA - GRANICE KROLA (Rada 10-29) DO WYKONAWCOW: rozejmu jawnie nie lamac, zadnych ludzi Korony podburzajacych; WOLNO: prawda o niezaplaconym zoldzie idzie sama, Polnoc otwarta dla tych, co sami odejda; wykonanie wywiad, nie jawna Korona; nikt nie przekracza tego w imieniu Krola. BRAK TERMINU DO 11-01 (blad zapisu, nie zwloka) - dopisane.",
+   "kto": "SYMON -> WILLA (centrala) ; ALDWIN",
+   "kanal": "skrzynka / do rak wlasnych (raport Aldwina i centrala Willi 11-02)",
+   "wraca": "300-11-02",
+   "zamyka": "Willa i Aldwin znaja granice Krola na pismie albo ustnie od pana",
+   "status": "otwarte"
+  },
+  {
+   "co": "PYTANIE KROLA (Rada 10-29): CZYJE IMIE w Lys / na wekslach Lannisportu - kto stoi za kredytem floty Lwa ('nitka na cala flote'). BRAK TERMINU DO 11-01 - dopisane.",
+   "kto": "SYMON -> LUCAN (glowa skupu) ; NESTA (Braavos)",
+   "kanal": "raport skupu Lucana (~11-05) ; Braavos tygodnie",
+   "wraca": "300-11-05",
+   "zamyka": "imie / dom z Lys albo 'nie da sie ustalic i dlaczego'",
+   "status": "otwarte"
+  },
+  {
+   "co": "RADA WOJENNA Z KROLEM - DATA NIEUSTALONA: glowy Starkportu (200) i Przystani Wilka (150), kowale-stalownicy, werbunek weteranow (zold + ziemia). ⚠ KOLIZJA: pan wyjezdza na Mur ~11-02 (12-14 dni w jedna strone) - rada przed wyjazdem albo bez pana, z jego rekomendacja na pismie.",
+   "kto": "KROL ; SYMON ; RODRIK (szef sztabu) ; BRYNDEN",
+   "kanal": "solar Krola WF",
+   "wraca": "300-11-02",
+   "zamyka": "rada odbyta (z panem przed wyjazdem albo bez niego) - obsada dwoch glow",
    "status": "otwarte"
   }
  ],

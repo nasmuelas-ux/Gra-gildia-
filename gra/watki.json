@@ -6546,7 +6546,7 @@
   {
    "id": "dziennik",
    "status": "otwarty",
-   "_dziennik_nota": 52
+   "_dziennik_nota": 53
   },
   {
    "id": "pobor_wschodu",
@@ -6590,6 +6590,11 @@
   },
   {
    "id": "przewloka",
+   "status": "otwarty",
+   "_dziennik_nota": 1
+  },
+  {
+   "id": "spichlerz_racje",
    "status": "otwarty",
    "_dziennik_nota": 1
   }

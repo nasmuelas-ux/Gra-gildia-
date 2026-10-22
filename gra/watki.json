@@ -6546,7 +6546,7 @@
   {
    "id": "dziennik",
    "status": "otwarty",
-   "_dziennik_nota": 70
+   "_dziennik_nota": 71
   },
   {
    "id": "pobor_wschodu",
@@ -6616,7 +6616,7 @@
   {
    "id": "rachunek_regencji",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 2
   }
  ]
 }

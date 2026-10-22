@@ -6321,7 +6321,7 @@
   {
    "id": "kompania_polnoc_dorzecze",
    "status": "otwarty",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 4
   },
   {
    "id": "meldunek_zbiorczy_garricka",
@@ -6546,7 +6546,7 @@
   {
    "id": "dziennik",
    "status": "otwarty",
-   "_dziennik_nota": 51
+   "_dziennik_nota": 52
   },
   {
    "id": "pobor_wschodu",

@@ -6546,7 +6546,7 @@
   {
    "id": "dziennik",
    "status": "otwarty",
-   "_dziennik_nota": 64
+   "_dziennik_nota": 65
   },
   {
    "id": "pobor_wschodu",
@@ -6600,6 +6600,11 @@
   },
   {
    "id": "przyjecie_krola_300_10_28",
+   "status": "otwarty",
+   "_dziennik_nota": 1
+  },
+  {
+   "id": "rudy_kot",
    "status": "otwarty",
    "_dziennik_nota": 1
   }

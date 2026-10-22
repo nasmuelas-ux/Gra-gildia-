@@ -10398,7 +10398,7 @@
    "kanal": "trakt Krolewski na polnoc / morze do Wschodniej Strazy",
    "wraca": "300-10-30",
    "zamyka": "data wyjazdu ustalona po powrocie Krola",
-   "status": "otwarte ### 07-22 SLOWO PANA: pan jedzie MOZE po powrocie Krola; NAJPIERW czlowiek Domu (ponizej). ### 09-13 SLOWO PANA: 'Najpierw Mur dla mnie' - pan jedzie do Aemona PO POWROCIE KROLA; sprawe DAENERYS (slowo Aemona 08-08: 'dziewczyne w Meereen niech ktos, kto zna ksiegi, odwiedzi, zanim zrobia to ci, ktorzy znaja tylko zloto') pan omowi z Aemonem OSOBISCIE na Murze - list Aemona i kto pojedzie dopiero potem (prerogatywa Krola). Ryzyko z zapisu: Aemon 'nie dozyje wiosny'; pierwszy snieg na wzgorzach 09-13; droga ladem ~12-14 dni. ### 09-13 SLOWO PANA: LADEM, Traktem Krolewskim, NAJSZYBCIEJ - od razu po powrocie Krola (~12-14 dni do Czarnego Zamku). Do przygotowania wczesniej (wlasni, bez rzutu): Sten - eskorta przybocznej i konie na zmiane (stacje/zamki po drodze: Ostatnie Domostwo?), zapasy na droge w sniegu; Beron - lista spraw dla Krola przed wyjazdem; kto trzyma pieczec Namiestnika pod nieobecnosc (Krol). ### 300-09-20 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: Krol na Skagos, 26 dni bez wiesci; list do Wymana (Skagos) poszedl 09-18 - odpowiedz ~09-21; sprawa czeka na Krola. ### 09-24 SLOWO PANA: Mur PRZED Fosa ('najpierw pojade na Mur, mozliwe ze na Fose przyjade w lodzie'). Dzien wyjazdu - nadal do slowa pana (akt regencji 08-04: Krol nie wrocil; zwiad Skagos ~10-08). ### 300-09-25 TRIAZ: czeka na slowo pana o dniu wyjazdu (Mur przed Fosa, slowo 09-24); zwiad Skagos ~10-08. ### 09-29 SLOWO PANA: DO POWROTU KROLA PAN ZOSTAJE W WINTERFELL (regencja); wyjazd na Mur - po powrocie Krola (Aemonowi gorzej 09-28 - O: ryzyko, ze nie doczeka). ### 300-10-10 MALA RADA: meldunek/sprawa przyjeta bez dyskusji (slowo pana 'zgoda'); przeglad na Radzie 10-24. ### 300-10-26 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO - czeka na slowo/powrot Krola (~10-28). ### 300-10-28: ZAMIEC (pogoda 13) - Krol nie dotarl; czeka na Jego powrot (>=10-30)."
+   "status": "otwarte ### 300-10-30: Krol zgodzil - wyjazd po 11-01, przyboczna Stena, zwiad przodem; protokol (nic na papierze, slowo Krolowi); + oglad Strazy (wolno spisac). || otwarte ### 07-22 SLOWO PANA: pan jedzie MOZE po powrocie Krola; NAJPIERW czlowiek Domu (ponizej). ### 09-13 SLOWO PANA: 'Najpierw Mur dla mnie' - pan jedzie do Aemona PO POWROCIE KROLA; sprawe DAENERYS (slowo Aemona 08-08: 'dziewczyne w Meereen niech ktos, kto zna ksiegi, odwiedzi, zanim zrobia to ci, ktorzy znaja tylko zloto') pan omowi z Aemonem OSOBISCIE na Murze - list Aemona i kto pojedzie dopiero potem (prerogatywa Krola). Ryzyko z zapisu: Aemon 'nie dozyje wiosny'; pierwszy snieg na wzgorzach 09-13; droga ladem ~12-14 dni. ### 09-13 SLOWO PANA: LADEM, Traktem Krolewskim, NAJSZYBCIEJ - od razu po powrocie Krola (~12-14 dni do Czarnego Zamku). Do przygotowania wczesniej (wlasni, bez rzutu): Sten - eskorta przybocznej i konie na zmiane (stacje/zamki po drodze: Ostatnie Domostwo?), zapasy na droge w sniegu; Beron - lista spraw dla Krola przed wyjazdem; kto trzyma pieczec Namiestnika pod nieobecnosc (Krol). ### 300-09-20 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: Krol na Skagos, 26 dni bez wiesci; list do Wymana (Skagos) poszedl 09-18 - odpowiedz ~09-21; sprawa czeka na Krola. ### 09-24 SLOWO PANA: Mur PRZED Fosa ('najpierw pojade na Mur, mozliwe ze na Fose przyjade w lodzie'). Dzien wyjazdu - nadal do slowa pana (akt regencji 08-04: Krol nie wrocil; zwiad Skagos ~10-08). ### 300-09-25 TRIAZ: czeka na slowo pana o dniu wyjazdu (Mur przed Fosa, slowo 09-24); zwiad Skagos ~10-08. ### 09-29 SLOWO PANA: DO POWROTU KROLA PAN ZOSTAJE W WINTERFELL (regencja); wyjazd na Mur - po powrocie Krola (Aemonowi gorzej 09-28 - O: ryzyko, ze nie doczeka). ### 300-10-10 MALA RADA: meldunek/sprawa przyjeta bez dyskusji (slowo pana 'zgoda'); przeglad na Radzie 10-24. ### 300-10-26 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO - czeka na slowo/powrot Krola (~10-28). ### 300-10-28: ZAMIEC (pogoda 13) - Krol nie dotarl; czeka na Jego powrot (>=10-30)."
   },
   {
    "data": "300-07-22",
@@ -17265,6 +17265,15 @@
    "kanal": "kruk WF-Cerwyn / WF-Bialy Port",
    "wraca": "300-11-05",
    "zamyka": "zawiadomienie u obu + ich slowo",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-30",
+   "co": "WYJAZD NAMIESTNIKA NA MUR (do Aemona, sprawa Jona + oglad Strazy): po 11-01, dobra pogoda; eskorta przyboczna Stena (oddzial I); zwiad przodem na trakt zimowy. Protokol: nic na papierze o Jonie, slowo Krolowi samemu; Straz WOLNO spisac. Droga ~12-14 dni ladem.",
+   "kto": "SYMON + STEN (oddzial I) ; zwiad przodem",
+   "kanal": "Trakt Krolewski Winterfell-Czarny Zamek",
+   "wraca": "300-11-02",
+   "zamyka": "data wyjazdu ustalona po bilansie; potem meldunki z drogi",
    "status": "otwarte"
   }
  ],

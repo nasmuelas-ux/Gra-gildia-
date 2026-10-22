@@ -6546,7 +6546,7 @@
   {
    "id": "dziennik",
    "status": "otwarty",
-   "_dziennik_nota": 66
+   "_dziennik_nota": 67
   },
   {
    "id": "pobor_wschodu",
@@ -6606,7 +6606,7 @@
   {
    "id": "rudy_kot",
    "status": "otwarty",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 3
   }
  ]
 }

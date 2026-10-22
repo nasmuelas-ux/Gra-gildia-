@@ -6546,7 +6546,7 @@
   {
    "id": "dziennik",
    "status": "otwarty",
-   "_dziennik_nota": 105
+   "_dziennik_nota": 106
   },
   {
    "id": "pobor_wschodu",
@@ -6621,7 +6621,7 @@
   {
    "id": "skagos",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 2
   },
   {
    "id": "mance_cypel",

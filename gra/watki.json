@@ -6546,7 +6546,7 @@
   {
    "id": "dziennik",
    "status": "otwarty",
-   "_dziennik_nota": 67
+   "_dziennik_nota": 68
   },
   {
    "id": "pobor_wschodu",
@@ -6607,6 +6607,11 @@
    "id": "rudy_kot",
    "status": "otwarty",
    "_dziennik_nota": 3
+  },
+  {
+   "id": "ksiega_milczenia",
+   "status": "otwarty",
+   "_dziennik_nota": 1
   }
  ]
 }

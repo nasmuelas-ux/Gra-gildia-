@@ -16464,7 +16464,7 @@
    "kanal": "osobiscie, WF",
    "wraca": "300-11-01",
    "zamyka": "rozpiska i obsada na stole Rady, slowo pana",
-   "status": "otwarte ### 300-10-26 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO - wlasni w toku (zasada 7); stan w nastepnej karcie urzedu / zbiorczym (~11-01)."
+   "status": "otwarte ### 300-10-26 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO - wlasni w toku (zasada 7); stan w nastepnej karcie urzedu / zbiorczym (~11-01). ### 300-10-29 RADA: Krol zatwierdzil - szef sztabu RODRIK, oddzial1 Osric; wojsko 700 (zold I ZIEMIA dla weteranow); garnizony WF350/Starkport200/Przystan150; glowy Starkportu i Przystani - na rade wojenna; LIST do Cerwyna i Wymana (Przystan Wilka wspolna) pieczecia Krola."
   },
   {
    "data": "300-10-13",
@@ -16473,7 +16473,7 @@
    "kanal": "heroldzi, listy regenta",
    "wraca": "300-11-05",
    "zamyka": "pierwszy nabor - ilu przyszlo (rzut); dalej do 700",
-   "status": "otwarte"
+   "status": "otwarte ### 300-10-29 RADA: Krol zatwierdzil - szef sztabu RODRIK, oddzial1 Osric; wojsko 700 (zold I ZIEMIA dla weteranow); garnizony WF350/Starkport200/Przystan150; glowy Starkportu i Przystani - na rade wojenna; LIST do Cerwyna i Wymana (Przystan Wilka wspolna) pieczecia Krola."
   },
   {
    "data": "300-10-13",
@@ -16482,7 +16482,7 @@
    "kanal": "osobiscie WF; listy regenta",
    "wraca": "300-11-01",
    "zamyka": "zarys na Radzie + listy do wspolwlascicieli",
-   "status": "otwarte ### 300-10-26 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO - wlasni w toku (zasada 7); stan w nastepnej karcie urzedu / zbiorczym (~11-01)."
+   "status": "otwarte ### 300-10-26 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO - wlasni w toku (zasada 7); stan w nastepnej karcie urzedu / zbiorczym (~11-01). ### 300-10-29 RADA: Krol zatwierdzil - szef sztabu RODRIK, oddzial1 Osric; wojsko 700 (zold I ZIEMIA dla weteranow); garnizony WF350/Starkport200/Przystan150; glowy Starkportu i Przystani - na rade wojenna; LIST do Cerwyna i Wymana (Przystan Wilka wspolna) pieczecia Krola."
   },
   {
    "data": "300-10-14",
@@ -17256,6 +17256,15 @@
    "kanal": "kruk WF-Dreadfort",
    "wraca": "300-11-08",
    "zamyka": "odpowiedz Roose'a: clo/karta/listy (rzut) albo milczenie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-29",
+   "co": "LIST KROLA DO CERWYNA I WYMANA - garnizon w Przystani Wilka (wspolwlasnosc Korona 1/2, Cerwyn i Manderly po 1/4): zawiadomienie, ze staje tam garnizon ~150; wspolwlasciciele slysza pierwsi (slowo Krola 10-29).",
+   "kto": "KROL (Beron) -> CERWYN, WYMAN",
+   "kanal": "kruk WF-Cerwyn / WF-Bialy Port",
+   "wraca": "300-11-05",
+   "zamyka": "zawiadomienie u obu + ich slowo",
    "status": "otwarte"
   }
  ],

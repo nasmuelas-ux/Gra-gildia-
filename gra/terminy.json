@@ -17305,7 +17305,7 @@
    "co": "RADA WOJENNA Z KROLEM - PUNKT: KOWALE-STALOWNICY (Harrenhal/Gendry) - gdzie ida. Rekomendacja Symona: NIE rozdzielac piatki; dymarki+Fosa+czeladnicy robia tani koniec (gwozdzie, groty, okucia), mistrzowie ida w gore na STAL (miecz, ciezka kolczuga) i ucza czeladnikow. Domena/Kasa 3/wojsko = stol Krola.",
    "kto": "SYMON -> KROL (rada wojenna)",
    "kanal": "rada wojenna WF",
-   "wraca": "300-11-04",
+   "wraca": "300-11-01",
    "zamyka": "decyzja Krola o alokacji kowali-stalownikow i o programie czeladniczym",
    "status": "otwarte"
   },
@@ -17334,10 +17334,10 @@
    "status": "otwarte"
   },
   {
-   "co": "RADA WOJENNA Z KROLEM - DATA NIEUSTALONA: glowy Starkportu (200) i Przystani Wilka (150), kowale-stalownicy, werbunek weteranow (zold + ziemia). ⚠ KOLIZJA: pan wyjezdza na Mur ~11-02 (12-14 dni w jedna strone) - rada przed wyjazdem albo bez pana, z jego rekomendacja na pismie.",
+   "co": "RADA WOJENNA Z KROLEM - DZIS 11-01 PO OBIEDZIE (cykl PRZEGLAD_WOJENNY, piatek): glowy Starkportu (200) i Przystani Wilka (150), kowale-stalownicy, werbunek weteranow (zold + ziemia). Pan jest - ostatni przeglad przed wyjazdem na Mur.",
    "kto": "KROL ; SYMON ; RODRIK (szef sztabu) ; BRYNDEN",
    "kanal": "solar Krola WF",
-   "wraca": "300-11-02",
+   "wraca": "300-11-01",
    "zamyka": "rada odbyta (z panem przed wyjazdem albo bez niego) - obsada dwoch glow",
    "status": "otwarte"
   }
@@ -17725,7 +17725,7 @@
     "start": "300-10-24"
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-11-01",
+   "ostatnio_odebrane": "300-10-24",
    "uwaga_1021": "10-24 (piatek) po obiedzie jest tez MALA RADA (zwyczaj: po obiedzie) - Rodrik proponowal pierwszy przeglad PRZED Rada; godzina pierwszego - do slowa pana."
   },
   {
@@ -17739,6 +17739,58 @@
    "opoznienie": 0,
    "ostatnio_odebrane": "300-10-02",
    "zrodlo": "slowo pana 300-10-23; wywiad_jedna_kartka_300_09_17.md (kontrwywiad raportuje wprost, dzien wyznacza pan)"
+  },
+  {
+   "id": "LEKCJA_HV_WT",
+   "co": "LEKCJA WYSOKIEGO VALYRIANSKIEGO U LUWINA - WTOREK WIECZOREM, wieza, godzina (postac.json nauka_wysoki_valyrianski; od 300-07-18). Licznik HV w postac.json jezyki_znane. Warunek Luwina: gdy Krol albo Bran potrzebuja - lekcja przepada.",
+   "kto": "LUWIN + pan",
+   "kanal": "na miejscu (WF, wieza Luwina)",
+   "rytm": {
+    "co_dni": 7,
+    "start": "300-10-21"
+   },
+   "opoznienie": 0,
+   "ostatnio_odebrane": "300-10-28",
+   "zrodlo": "ustalenie 300-07-18; wpis do cykli 300-11-01 (wskazanie gracza)"
+  },
+  {
+   "id": "LEKCJA_HV_PT",
+   "co": "LEKCJA WYSOKIEGO VALYRIANSKIEGO U LUWINA - PIATEK WIECZOREM, wieza, godzina. Licznik HV w postac.json.",
+   "kto": "LUWIN + pan",
+   "kanal": "na miejscu (WF, wieza Luwina)",
+   "rytm": {
+    "co_dni": 7,
+    "start": "300-10-24"
+   },
+   "opoznienie": 0,
+   "ostatnio_odebrane": "300-10-24",
+   "zrodlo": "ustalenie 300-07-18; wpis do cykli 300-11-01"
+  },
+  {
+   "id": "LEKCJA_BRAAVOSKI_PON",
+   "co": "PAN UCZY BRAAVOSKIEGO SANSE I ARYE - PONIEDZIALEK RANO, po sniadaniu (od 300-07-21; numeracja lekcji w dzienniku).",
+   "kto": "pan -> SANSA, ARYA",
+   "kanal": "na miejscu (WF)",
+   "rytm": {
+    "co_dni": 7,
+    "start": "300-10-27"
+   },
+   "opoznienie": 0,
+   "ostatnio_odebrane": "300-10-27",
+   "zrodlo": "ustalenie 300-07-18 (rozmowa z Mira); wpis do cykli 300-11-01"
+  },
+  {
+   "id": "LEKCJA_BRAAVOSKI_PT",
+   "co": "PAN UCZY BRAAVOSKIEGO SANSE I ARYE - PIATEK RANO, po sniadaniu.",
+   "kto": "pan -> SANSA, ARYA",
+   "kanal": "na miejscu (WF)",
+   "rytm": {
+    "co_dni": 7,
+    "start": "300-10-24"
+   },
+   "opoznienie": 0,
+   "ostatnio_odebrane": "300-10-24",
+   "zrodlo": "ustalenie 300-07-18; wpis do cykli 300-11-01"
   }
  ],
  "_cykliczne_zakonczone": [

@@ -17340,6 +17340,14 @@
    "wraca": "300-11-01",
    "zamyka": "rada odbyta (z panem przed wyjazdem albo bez niego) - obsada dwoch glow",
    "status": "otwarte"
+  },
+  {
+   "co": "LISTY SANSY I ARYI DO PANA NA MUR PO BRAAVOSKU (zadanie lekcji 31-32): kazda swoj, 6-8 zdan; kruk WF-Czarny Zamek. Pan odpowiada po braavosku z Muru.",
+   "kto": "SANSA, ARYA -> pan",
+   "kanal": "kruk Winterfell-Czarny Zamek",
+   "wraca": "300-11-17",
+   "zamyka": "listy u pana na Czarnym Zamku (rzut na jakosc przy czytaniu) + odpowiedz pana",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [
@@ -17767,21 +17775,21 @@
    "zrodlo": "ustalenie 300-07-18; wpis do cykli 300-11-01"
   },
   {
-   "id": "LEKCJA_BRAAVOSKI_PON",
-   "co": "PAN UCZY BRAAVOSKIEGO SANSE I ARYE - PONIEDZIALEK RANO, po sniadaniu (od 300-07-21; numeracja lekcji w dzienniku).",
+   "id": "LEKCJA_BRAAVOSKI_WT",
+   "co": "PAN UCZY BRAAVOSKIEGO SANSE I ARYE - WTOREK RANO, po sniadaniu (w praktyce od X: wt+pt; lekcje 22-27 = 10-07,10-10,10-14,10-17,10-21,10-24). Pod nieobecnosc pana (11-02..~11-30): lekcje 29-36 SAMODZIELNE wg zadan z lekcji 28 (gra/braavoski_lekcja_28_300_11_01.md) - Sansa trzyma godzine, Talvo przy Aryi; bez sceny, odhaczac.",
    "kto": "pan -> SANSA, ARYA",
    "kanal": "na miejscu (WF)",
    "rytm": {
     "co_dni": 7,
-    "start": "300-10-27"
+    "start": "300-10-21"
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-10-27",
-   "zrodlo": "ustalenie 300-07-18 (rozmowa z Mira); wpis do cykli 300-11-01"
+   "ostatnio_odebrane": "300-10-28",
+   "zrodlo": "praktyka lekcji 22-27; poprawka 300-11-01 (bylo blednie pon)"
   },
   {
    "id": "LEKCJA_BRAAVOSKI_PT",
-   "co": "PAN UCZY BRAAVOSKIEGO SANSE I ARYE - PIATEK RANO, po sniadaniu.",
+   "co": "PAN UCZY BRAAVOSKIEGO SANSE I ARYE - PIATEK RANO, po sniadaniu. Pod nieobecnosc pana (11-02..~11-30): samodzielnie wg zadan z lekcji 28; bez sceny, odhaczac.",
    "kto": "pan -> SANSA, ARYA",
    "kanal": "na miejscu (WF)",
    "rytm": {
@@ -17789,7 +17797,7 @@
     "start": "300-10-24"
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-10-24",
+   "ostatnio_odebrane": "300-11-01",
    "zrodlo": "ustalenie 300-07-18; wpis do cykli 300-11-01"
   }
  ],

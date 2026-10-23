@@ -17534,11 +17534,11 @@
    "status": "otwarte"
   },
   {
-   "co": "ODPOWIEDZ LORDA WYMANA na list z Muru (11-13): wraca Traktem; rozwazana pomoc przez Bialy Port; interesy po powrocie. Odpowiedz moze przyjsc do Winterfell albo na Mur.",
+   "co": "ODPOWIEDZ LORDA WYMANA na list z Muru (11-13): wraca Traktem; rozwazana pomoc przez Bialy Port; interesy po powrocie. Odpowiedz moze przyjsc do Winterfell albo na Mur. | 11-20 ROZSTRZYGNIETA (rzut 18, tresc w prawda.md) - list lezy w Winterfell, pan przeczyta po powrocie.",
    "kto": "LORD WYMAN MANDERLY (wola zewnetrzna)",
    "kanal": "kruk Bialy Port -> CZ / Winterfell",
-   "wraca": "300-11-20",
-   "zamyka": "odpowiedz Wymana - rzut przy odpowiedzi",
+   "wraca": "300-12-10",
+   "zamyka": "pan czyta odpowiedz Wymana w Winterfell",
    "status": "otwarte"
   },
   {

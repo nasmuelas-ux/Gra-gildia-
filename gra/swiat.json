@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 11,
-  "dzien": 19,
+  "dzien": 20,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 79 (300-11-19): dobrze - jasno, mroz, wiatr slaby z polnocnego zachodu; droga twarda.",
- "dzien_tygodnia_nr": 2,
+ "pogoda": "RZUT 24 (300-11-20): zle - wiatr od Mroznych Klow, zadymka na grzbietach, widocznosc slaba po poludniu.",
+ "dzien_tygodnia_nr": 3,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

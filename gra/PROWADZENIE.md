@@ -488,6 +488,16 @@ Rzeczy **z tego tygodnia** mam w kontekście i odpowiadam z nich. Rzeczy **sprze
 
 ---
 
+### 45b — DROGA TO NIE LOTERIA NIESZCZĘŚĆ. *(stała, 300-12-13, na wskazanie gracza: „te rzuty… za dużo złych rzeczy się dzieje")*
+
+Na drodze powrotnej z Muru rzucałem **co dzień** na „czy coś się stanie” — obok snu i pogody — i każdy niski rzut zamieniałem w wypadek: koń w rowie, kostka, lód, konar. Kilka rzutów dziennie, każdy z ogonem nieszczęść = seria klęsk, której żaden zapis nie uzasadniał. To łamie zasadę 45.
+
+**MECHANIKA:**
+- **Dzień drogi z kompetentnym przewodnikiem / własnymi ludźmi IDZIE** (zasada 28). Rzut na drogę tylko, gdy **zapis wskazuje ryzyko tego odcinka**: bród/lód, stado wilków już w zapisie, pogoda ≤20 w tym samym dniu, wróg na trasie.
+- **Pogoda to już rzut.** Zła pogoda daje skutek (wolniej, zimno, postój) — **nie rodzi osobnego wypadku** na tym samym rzucie.
+- **Jeden rzut na dzień drogi, najwyżej.** Nie: sen + pogoda + droga + zdrowie + jeszcze jedno.
+- Niski wynik ≠ krew. Skala: ≤5 poważnie, 6–20 kłopot (strata czasu, rzeczy, odmrożenie), 21+ droga idzie.
+
 # 📬 RAMA RANKA — WERSJA POPRAWIONA (zastępuje starą)
 
 Pięć bloków, ta sama kolejność. Zmienia się WNĘTRZE dwóch:

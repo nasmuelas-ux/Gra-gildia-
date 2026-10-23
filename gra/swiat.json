@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 11,
-  "dzien": 5,
+  "dzien": 6,
   "era": "AC"
  },
- "pora": "ranek",
+ "pora": "poludnie",
  "sezon": "zima (300)",
- "pogoda": "RZUT 31 (300-11-05): slabo-przecietnie - po zamieci zostal snieg i szary wiatr, ale slabnie; trakt bialy, sanie ida wolno ale pewnie; kruki po poludniu.",
- "dzien_tygodnia_nr": 2,
+ "pogoda": "RZUT 32 (300-11-06): przecietnie-slabo - szaro, snieg przelotny, wiatr; trakt bialy, konwoj wolno; w jarze zasadzka odwrocona.",
+ "dzien_tygodnia_nr": 3,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 12,
-  "dzien": 12,
+  "dzien": 13,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 16 (300-12-12): zle - sniezyca od polnocy, gesty snieg i wiatr, widocznosc slaba; w borze bez osad (dni 6-8) najgorzej.",
- "dzien_tygodnia_nr": 4,
+ "pogoda": "RZUT 58 (300-12-13): przecietnie - szaro, mroz, snieg przestal, swiezy puch po kolana.",
+ "dzien_tygodnia_nr": 5,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

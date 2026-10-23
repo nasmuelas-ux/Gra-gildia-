@@ -17700,6 +17700,14 @@
    "wraca": "300-12-20",
    "zamyka": "umowa ze starosta (cena/ilosc)",
    "status": "otwarte"
+  },
+  {
+   "co": "LIST PODZIEKOWANIA DO LORDA GALBARTA GLOVERA (slowo pana 12-17 do Brannoka): za goscine, eskorte 20 lesnikow pod Brannokiem, konie, prowiant, opieke nad Tomanem i Cadokiem. Napisac po powrocie do WF.",
+   "kto": "SYMON",
+   "kanal": "kruk WF-Deepwood",
+   "wraca": "300-12-19",
+   "zamyka": "list wyslany",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

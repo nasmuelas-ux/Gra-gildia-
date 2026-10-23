@@ -17606,8 +17606,8 @@
    "status": "zamkniete 300-11-26 (pan na lodzi; przeprawa rzut 51; Wyspa po zmroku)"
   },
   {
-   "co": "PROSBA LADY MAEGE (list 11-19): zboze dla dzikich na Wyspie Niedzwiedziej - do mowy z Krolem (nie warunek, prosba). | 11-26 na Wyspie, PROPOZYCJA MAEGE: czesc zboza dla Cypla (lodzie Maege z Dustinportu/GP) wyladowac najpierw na Wyspie dla ~600 czekajacych. Pan: dobry pomysl, przekaze Krolowi. | 11-29 PROSBA MAEGE 2: czlowiek od ran + mleko makowe i wino do ran dla maestera Wyspy (z WF/Luwin albo BP). Pan: przekaze Krolowi i Luwinowi.",
-   "kto": "SYMON -> KROL",
+   "co": "PROSBA LADY MAEGE (list 11-19): zboze dla dzikich na Wyspie Niedzwiedziej - do mowy z Krolem (nie warunek, prosba). | 11-26 na Wyspie, PROPOZYCJA MAEGE: czesc zboza dla Cypla (lodzie Maege z Dustinportu/GP) wyladowac najpierw na Wyspie dla ~600 czekajacych. Pan: dobry pomysl, przekaze Krolowi. | 11-29 PROSBA MAEGE 2: czlowiek od ran + mleko makowe i wino do ran dla maestera Wyspy (z WF/Luwin albo BP). Pan: przekaze Krolowi i Luwinowi. | 12-17 SLOWO KROLA (rzut 58): (1) czesc zboza Cypla wyladowac najpierw na Wyspie - TAK, w ramach przydzialu Cypla, Orland liczy (nie ponad); (2) mleko makowe i wino do ran - Luwin wysyla z zapasu WF przez Deepwood (Glover) albo lodzia z BP; (3) czlowiek od ran - nie z WF (Luwin bez ucznia), Krol poprosi Wymana o czlowieka z BP; (4) przeliczenie zboza na przejscie po lodzie (dziesiatki tysiecy) - na Rade, Gawen/Orland.",
+   "kto": "KROL ; ORLAND ; LUWIN ; WYMAN (czlowiek od ran)",
    "kanal": "ustnie po powrocie",
    "wraca": "300-12-18",
    "zamyka": "slowo Krola",

@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 11,
-  "dzien": 24,
+  "dzien": 25,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 76 (300-11-24): dobrze - jasno, mroz, wiatr slaby od morza; z grzbietu widac Zatoke Lodu.",
- "dzien_tygodnia_nr": 7,
+ "pogoda": "RZUT 60 (300-11-25): przecietnie-dobrze - zachmurzenie wysokie, mroz lzejszy od morza, bez opadu.",
+ "dzien_tygodnia_nr": 1,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

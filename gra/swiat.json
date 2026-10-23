@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 11,
-  "dzien": 23,
+  "dzien": 24,
   "era": "AC"
  },
- "pora": "popoludnie",
+ "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 46 (300-11-23): przecietnie - szaro, mroz, wiatr slaby; widac Wawoz i Wieze Cieni z daleka.",
- "dzien_tygodnia_nr": 6,
+ "pogoda": "RZUT 76 (300-11-24): dobrze - jasno, mroz, wiatr slaby od morza; z grzbietu widac Zatoke Lodu.",
+ "dzien_tygodnia_nr": 7,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

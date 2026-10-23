@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 12,
-  "dzien": 17,
+  "dzien": 18,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 83 (300-12-17): dobrze - jasno, mroz, wiatr slaby; z pagorkow widac dymy Winterfell i Zimowego Miasta.",
- "dzien_tygodnia_nr": 2,
+ "pogoda": "RZUT 27 (300-12-18): zle-przecietnie - szaro, snieg z wiatrem, mroz; w zamku bez skutku, trakty ciezsze.",
+ "dzien_tygodnia_nr": 3,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

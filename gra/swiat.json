@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 11,
-  "dzien": 28,
+  "dzien": 29,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 11 (300-11-28): bardzo zle - sztorm wrocil w nocy, mocniejszy; zawieja sniegu z morza, fale przez pomost.",
- "dzien_tygodnia_nr": 4,
+ "pogoda": "RZUT 2 (300-11-29): katastrofalnie - najgorsza noc sztormu, huragan z zachodu, snieg z deszczem; rano dalej wieje, morze bialo-szare.",
+ "dzien_tygodnia_nr": 5,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

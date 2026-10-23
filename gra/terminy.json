@@ -17577,15 +17577,15 @@
    "co": "WYBOR LORDA DOWODCY NOCNEJ STRAZY - ogloszony przez Marsha po stosie Aemona (11-15, rzut 48): glosowanie w Czarnym Zamku 300-11-29; kruki do Wschodniej Straznicy i Wiezy Cieni. Kandydaci (Marsh 11-13): Slynt (Thorne + ludzie od wina), Mallister, Pyke, czesc braci mowi o Marshu. Polnoc NIE ingeruje (slowo pana 11-13). Pan bedzie juz w drodze / na Wyspie.",
    "kto": "NOCNA STRAZ (wola zewnetrzna)",
    "kanal": "wiesc: Benno (kruk Domu) / Hallis",
-   "wraca": "300-11-29",
+   "wraca": "300-12-10",
    "zamyka": "imie nowego Lorda Dowodcy (rzut w dniu wyboru)",
-   "status": "otwarte"
+   "status": "rozstrzygniete 300-11-29 (rzut 46, tresc w prawda.md) - pan dowie sie z wiesci Benna / po powrocie"
   },
   {
    "co": "ROZDZIAL ZAUWAZONY (11-16, rzut 19): za Krecia Wioska jezdziec w czarnym plaszczu na grzbiecie widzial, ze grupa pana odbija na zachod; zawrocil ku wiosce. Kto - pan nie wie (czern = brat Strazy). Mozliwe: wiesc o prawdziwej drodze w CZ, w krukach. | 11-23 POTWIERDZONE: wiesc doszla do Slynta - Slynt napisal do braci Wiezy Cieni (Mallister). Czy pisal gdzie indziej - nie wiadomo (Benno / ksiega Clydasa).",
    "kto": "NIEZNANY BRAT STRAZY (wola zewnetrzna)",
    "kanal": "CZ / kruki Clydasa",
-   "wraca": "300-11-29",
+   "wraca": "300-12-10",
    "zamyka": "czy wiesc wyszla z CZ (Benno/Hallis przy meldunku o wyborze) - odczyt po powrocie",
    "status": "otwarte"
   },
@@ -17614,7 +17614,7 @@
    "status": "otwarte"
   },
   {
-   "co": "PRZEPRAWA DZIKICH PRZEZ WYSPE NIEDZWIEDZIA - STAN (Alysane 11-25, rzut 36): od lata przez Wyspe przeszlo ~3 tys. (E, liczone przez Mormontow, bez imion); teraz na Wyspie czeka ~600 - lod przy brzegach rosnie, kursy rzadsze; ciasno i glodno w obozie pod Dworem Mormontow, tarcia z wyspiarzami (kradzieze ryb, jedna bojka); Maege prosi o zboze (list 11-19). Pan zobaczy na miejscu. | 11-27 pan widzial oboz z Maege (rzut 23): CHOROBA - biegunka z goraczka w dolnej czesci (woda z potoku ponizej obozu, odchody), ~20 chorych, 2 dzieci zmarlo w tym tygodniu; maester (stary, sam) nie nadaza; Maege kaze palic zmarlych (zwyczaj + strach przed wstaniem). | SLOWO PANA 11-27: (1) woda POWYZEJ obozu - Maege kaze od razu, wartowniczka przy gornym potoku, dol potoku zamkniety dla wiader; (2) szybciej na Cypel - Maege (rzut 77): po sztormie konwoj ~20 nowych lodzi-ploz, sternik Mormontow na kazdej, wiosluja dzicy; ~200 dusz na kurs, co 2-3 dni przy pogodzie; zdrowi rodami najpierw, chorzy zostaja przy maestrze do wyzdrowienia (nie wiezc zarazy na Cypel). Przy lodzie - koniec. | 11-28: sztorm (rzut 11) - konwoj na Cypel wstrzymany. | 11-28 (rzut 59): od wczoraj bez zgonow; 3-4 nowych chorych (maester: zarazili sie przed zmiana wody, za wczesnie mowic); dol na potrzeby wykopany, straz przy gornym potoku; sztorm zwalil kilkanascie szalasow - Maege wpuscila rodziny pod dach szopy z lodziami.",
+   "co": "PRZEPRAWA DZIKICH PRZEZ WYSPE NIEDZWIEDZIA - STAN (Alysane 11-25, rzut 36): od lata przez Wyspe przeszlo ~3 tys. (E, liczone przez Mormontow, bez imion); teraz na Wyspie czeka ~600 - lod przy brzegach rosnie, kursy rzadsze; ciasno i glodno w obozie pod Dworem Mormontow, tarcia z wyspiarzami (kradzieze ryb, jedna bojka); Maege prosi o zboze (list 11-19). Pan zobaczy na miejscu. | 11-27 pan widzial oboz z Maege (rzut 23): CHOROBA - biegunka z goraczka w dolnej czesci (woda z potoku ponizej obozu, odchody), ~20 chorych, 2 dzieci zmarlo w tym tygodniu; maester (stary, sam) nie nadaza; Maege kaze palic zmarlych (zwyczaj + strach przed wstaniem). | SLOWO PANA 11-27: (1) woda POWYZEJ obozu - Maege kaze od razu, wartowniczka przy gornym potoku, dol potoku zamkniety dla wiader; (2) szybciej na Cypel - Maege (rzut 77): po sztormie konwoj ~20 nowych lodzi-ploz, sternik Mormontow na kazdej, wiosluja dzicy; ~200 dusz na kurs, co 2-3 dni przy pogodzie; zdrowi rodami najpierw, chorzy zostaja przy maestrze do wyzdrowienia (nie wiezc zarazy na Cypel). Przy lodzie - koniec. | 11-28: sztorm (rzut 11) - konwoj na Cypel wstrzymany. | 11-28 (rzut 59): od wczoraj bez zgonow; 3-4 nowych chorych (maester: zarazili sie przed zmiana wody, za wczesnie mowic); dol na potrzeby wykopany, straz przy gornym potoku; sztorm zwalil kilkanascie szalasow - Maege wpuscila rodziny pod dach szopy z lodziami. | 11-29 noc (huragan, rzut 73): zlamal sie zachodni koniec dachu szopy z lodziami - 2 rannych dzikich (reka, stopa), bez zgonow; 3 lodzie-plozy z polamanymi burtami. Konwoj nadal stoi.",
    "kto": "MAEGE / ALYSANE (wola zewnetrzna)",
    "kanal": "na miejscu, Wyspa",
    "wraca": "300-11-30",

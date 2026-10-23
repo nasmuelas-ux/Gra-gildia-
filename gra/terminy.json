@@ -17364,6 +17364,22 @@
    "wraca": "300-11-15",
    "zamyka": "sanie w Czarnym Zamku, kwit intendenta; rubryka Mur w karcie racji",
    "status": "otwarte"
+  },
+  {
+   "co": "ALDWIN - WOLNA REKA POD NIEOBECNOSC PANA (zgoda pana 11-01): oko na kierunek Dreadfortu i na goscia w sali (Ramsay + 20), w granicach Krola z 10-29 (patrzec, nie ruszac jawnie; po krew/prawo pyta Krola). Raport na powrot pana (~11-30) albo wczesniej przez Krola, jesli rzecz nie moze czekac.",
+   "kto": "ALDWIN (niejawnie) ; w razie czego -> KROL",
+   "kanal": "WF, do rak wlasnych / przez Krola",
+   "wraca": "300-11-30",
+   "zamyka": "raport Aldwina przy powrocie pana / wczesniej przez Krola",
+   "status": "otwarte"
+  },
+  {
+   "co": "DROGA NA MUR - OSTRZEZENIE ALDWINA (11-01): kolumna wolna, widoczna, lekko zbrojna, w tygodniu, gdy Ramsay jest goscin a Dreadfort milczy i tam pachnie plotka 'Korona trzyma Tally'. RYZYKO na odcinkach, gdzie trakt schodzi w las i jest blizej Dreadfortu niz Winterfell (polnoc od Umberow pewna). Protokol Stena bezwzglednie; nie obozowac w miejscach do przewidzenia. Rzut na zagrozenie - przy przejsciu tych odcinkow (zasada: przeszkoda w zapisie).",
+   "kto": "STEN (oddzial I) ; pan",
+   "kanal": "Trakt Krolewski WF-Czarny Zamek",
+   "wraca": "300-11-04",
+   "zamyka": "odcinki ryzykowne minięte / zdarzenie (rzut) przy nich",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

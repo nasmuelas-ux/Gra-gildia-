@@ -17502,7 +17502,7 @@
    "status": "otwarte"
   },
   {
-   "co": "LIST DO MORMONTOW (slowo pana 11-13 wieczor, stajnia CZ): kruk Domu od Benna do Winterfell -> maester Luwin przesyla lady Maege na Wyspe Niedzwiedzia. Prosba: lodz Mormontow pod brzeg Zatoki Lodu ponizej Wiezy Cieni; Namiestnik chce zobaczyc transport dzikich na Wyspie; potem przeprawa na lad kolo Deepwood Motte. Luwin osobno, ustnie/w cztery oczy, mowi KROLOWI prawdziwa droge. Nie przez kruki Clydasa (Clydas zapisuje cele). Ryzyko: Maege odmowi / lod / lodz nie zdazy. | 11-13 poznym wieczorem NAPISANY: prosba o przysluge (lodz); Namiestnik chce zobaczyc na wlasne oczy, z czym Mormontowie sie mierza (dzicy na Wyspie). Zapieczetowany. Czeka na oddanie Bennowi (kruk Domu).",
+   "co": "LIST DO MORMONTOW (slowo pana 11-13 wieczor, stajnia CZ): kruk Domu od Benna do Winterfell -> maester Luwin przesyla lady Maege na Wyspe Niedzwiedzia. Prosba: lodz Mormontow pod brzeg Zatoki Lodu ponizej Wiezy Cieni; Namiestnik chce zobaczyc transport dzikich na Wyspie; potem przeprawa na lad kolo Deepwood Motte. Luwin osobno, ustnie/w cztery oczy, mowi KROLOWI prawdziwa droge. Nie przez kruki Clydasa (Clydas zapisuje cele). Ryzyko: Maege odmowi / lod / lodz nie zdazy. | 11-13 poznym wieczorem NAPISANY: prosba o przysluge (lodz); Namiestnik chce zobaczyc na wlasne oczy, z czym Mormontowie sie mierza (dzicy na Wyspie). Zapieczetowany. Czeka na oddanie Bennowi (kruk Domu). | 11-13 noc: ODDANY BENNOWI osobiscie; kruk Domu do Winterfell o swicie 11-14; w ksiedze Clydasa brak sladu.",
    "kto": "LADY MAEGE MORMONT (wola zewnetrzna) via Benno -> Luwin",
    "kanal": "kruk Domu CZ->Winterfell, dalej kruk Winterfell->Wyspa Niedzwiedzia",
    "wraca": "300-11-19",
@@ -17518,7 +17518,7 @@
    "status": "zamkniete 300-11-13 (oddany, wyslanie o swicie 11-14)"
   },
   {
-   "co": "PODZIAL KONWOJU - SANIE TRAKTEM (zgoda pana 11-13): puste sanie, Hugo, ranny zwiadowca + 3 ludzi Stena, eskorta Umberow przez Dar, powrot jawny Traktem Krolewskim do Winterfell. Widoczna przyneta. | 11-13: pan martwi sie o rannego wyslanego osobno (przyneta sciaga atak na slabszych). Sten dal opcje - DECYZJA PANA OTWARTA.",
+   "co": "PODZIAL KONWOJU - SANIE TRAKTEM (zgoda pana 11-13): puste sanie, Hugo, ranny zwiadowca + 3 ludzi Stena, eskorta Umberow przez Dar, powrot jawny Traktem Krolewskim do Winterfell. Widoczna przyneta. | 11-13: pan martwi sie o rannego wyslanego osobno (przyneta sciaga atak na slabszych). Sten dal opcje - DECYZJA PANA OTWARTA. | DECYZJA PANA 11-13: RANNY ZWIADOWCA ZOSTAJE NA MURZE (opieka braci/Clydasa); Benno ma go na oku. Sanie jada puste z Hugo + 3 ludzi Stena + Umberowie przez Dar.",
    "kto": "LUDZIE STENA (wlasni)",
    "kanal": "Trakt Krolewski",
    "wraca": "300-11-30",
@@ -17539,6 +17539,14 @@
    "kanal": "kruk Bialy Port -> CZ / Winterfell",
    "wraca": "300-11-20",
    "zamyka": "odpowiedz Wymana - rzut przy odpowiedzi",
+   "status": "otwarte"
+  },
+  {
+   "co": "RANNY ZWIADOWCA NA MURZE (slowo pana 11-13): zostaje w CZ do wyzdrowienia pod opieka braci; Benno doglada i melduje kruka Domu. Wraca do Winterfell z pierwszym pewnym transportem na poludnie.",
+   "kto": "BENNO (wlasny) / bracia CZ",
+   "kanal": "kruk Domu CZ",
+   "wraca": "300-12-15",
+   "zamyka": "ranny wrocil do Winterfell albo meldunek Benna o stanie",
    "status": "otwarte"
   }
  ],

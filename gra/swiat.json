@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 11,
-  "dzien": 25,
+  "dzien": 26,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 60 (300-11-25): przecietnie-dobrze - zachmurzenie wysokie, mroz lzejszy od morza, bez opadu.",
- "dzien_tygodnia_nr": 1,
+ "pogoda": "RZUT 85 (300-11-26): dobrze - czysto, mroz, rowny wiatr z polnocnego wschodu (od ladu) - dobry na zagiel ku Wyspie; morze spokojne, kra przy brzegu rzadka.",
+ "dzien_tygodnia_nr": 2,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

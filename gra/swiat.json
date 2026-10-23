@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 11,
-  "dzien": 27,
+  "dzien": 28,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 21 (300-11-27): zle - sztorm od zachodu na zatoce, deszcz ze sniegiem, wiatr; lodzie nie wyplywaja.",
- "dzien_tygodnia_nr": 3,
+ "pogoda": "RZUT 11 (300-11-28): bardzo zle - sztorm wrocil w nocy, mocniejszy; zawieja sniegu z morza, fale przez pomost.",
+ "dzien_tygodnia_nr": 4,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

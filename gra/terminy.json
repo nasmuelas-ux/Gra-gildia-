@@ -17556,6 +17556,14 @@
    "wraca": "300-11-16",
    "zamyka": "potwierdzenie odbioru w Winterfell (wraca do Namiestnika po powrocie)",
    "status": "otwarte"
+  },
+  {
+   "co": "MUR - PLOTKA O ZLOCIE NAMIESTNIKA (11-14, rzut 2): po prosbie o rachunek za goscine (Marsh odmowil) frakcja Slynta niesie po zamku: Polnoc chce kupic Straz przed wyborem. Moze wejsc do krukow Slynta do KP i do mowy przed wyborem.",
+   "kto": "SLYNT/THORNE (wola zewnetrzna)",
+   "kanal": "plotka CZ / kruk Slynta do KP",
+   "wraca": "300-11-15",
+   "zamyka": "jak plotka sie rozeszla / reakcja pana",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

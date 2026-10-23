@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 11,
-  "dzien": 12,
+  "dzien": 13,
   "era": "AC"
  },
- "pora": "poludnie",
+ "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 84 (300-11-12): dobrze - zimno, slonecznie, bezwietrznie pod Murem; snieg ubity, trakt do bramy czysty.",
- "dzien_tygodnia_nr": 2,
+ "pogoda": "RZUT 43 (300-11-13): przecietnie - szaro, zimno, slaby snieg; pod Murem cien dlugi do poludnia.",
+ "dzien_tygodnia_nr": 3,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

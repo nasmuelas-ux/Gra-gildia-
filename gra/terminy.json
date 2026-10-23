@@ -17731,6 +17731,14 @@
    "kanal": "Rada 12-18",
    "wraca": "300-12-18",
    "zamyka": "slowo Krola",
+   "status": "zamkniete 300-12-17: RADA PANA + SLOWO KROLA - Ramsay i 20 zostaja gosćmi Krola do zaplaty reszty cla (rachunek, nie zakladnik - jak 10-29)"
+  },
+  {
+   "co": "LIST KROLA DO ROOSE'A (slowo Krola 12-17 po radzie pana): Ramsay i 20 zostaja goscmi Krola do zaplaty reszty zaleglego cla; gratulacje z narodzin syna; Krolowa (Roslin) posyla podarunek dla dziecka i oferte maestra/poloznej dla Waldy, jesli Roose zechce (warunek 07-10: nic bez zgody Roose'a). Reka Berona, pieczec Krola. + ser Alyn: blizej dwoch z 20, ktorzy znikali w ZM.",
+   "kto": "KROL (Beron) -> ROOSE ; SER ALYN ; ALDWIN",
+   "kanal": "kruk WF-Dreadfort",
+   "wraca": "300-12-28",
+   "zamyka": "odpowiedz Roose'a (rzut)",
    "status": "otwarte"
   }
  ],

@@ -17404,6 +17404,14 @@
    "wraca": "300-11-14",
    "zamyka": "wyplata odebrana, wpis w ksiedze rodu",
    "status": "otwarte"
+  },
+  {
+   "co": "STRAZ PRZY RAMSAYU ZAOSTRZONA (slowo Krola 11-02, po relacji pana): ser Alyn/Zimowa Straz - oko na Ramsaya i 20 na czas nieobecnosci pana, takze czy ktorys z 20 znika na pol dnia. Grozba Ramsaya o trakcie: jesli ruch na drodze, Krol osadza jak zdrade.",
+   "kto": "SER ALYN (Zimowa Straz) ; KROL",
+   "kanal": "WF",
+   "wraca": "300-11-30",
+   "zamyka": "pan wraca z Muru / zdarzenie zgloszone Krolowi",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

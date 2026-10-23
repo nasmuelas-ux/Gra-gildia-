@@ -17587,7 +17587,7 @@
    "kanal": "CZ / kruki Clydasa",
    "wraca": "300-12-18",
    "zamyka": "czy wiesc wyszla z CZ (Benno/Hallis przy meldunku o wyborze) - odczyt po powrocie",
-   "status": "otwarte"
+   "status": "zamkniete 300-12-17 (Benno, rzut 29): Slynt slal do Wiezy Cieni (11-17) i do KP (11-17 i 11-30); do Dreadfortu - brak wpisu. Krol: Aldwin i Benno patrza dalej."
   },
   {
    "co": "WIEZA CIENI - PYTANIE DO SER DENYSA MALLISTERA (slowo pana 11-21): czy z Czarnego Zamku przylecial ptak, w ktorym pisano o drodze Namiestnika (sprawdzenie, czy wiesc od jezdzca w czerni / Slynta poszla wzdluz Muru).",
@@ -17715,6 +17715,14 @@
    "kanal": "kruk WF -> Czarny Zamek / Wieza Cieni",
    "wraca": "300-12-20",
    "zamyka": "list wyslany; odpowiedz Mallistera (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "co": "SLYNT - KRUKI DO KROLEWSKIEJ PRZYSTANI (11-17, 11-30; Benno z ksiegi Clydasa): tresc nieznana. Krol 12-17: Aldwin + Benno patrza, czy cos wraca z KP na Polnoc (Freyowie / Lannisterowie / Dreadfort); Slynt po przegranej - szuka, komu sie sprzedac.",
+   "kto": "ALDWIN ; BENNO",
+   "kanal": "raport kontrwywiadu / kruk Domu CZ",
+   "wraca": "301-01-02",
+   "zamyka": "slad odpowiedzi z KP albo brak",
    "status": "otwarte"
   }
  ],

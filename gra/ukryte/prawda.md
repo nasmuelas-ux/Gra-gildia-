@@ -480,3 +480,6 @@ Wybrany SER DENYS MALLISTER (Wieza Cieni), w kilku turach glosowania (E); Slynt 
 
 ## 300-12-17 — KROL ROBB SLYSZY USTNIE SLOWO AEMONA (rzut 88). TYLKO TU.
 Jon: Robb milczy dlugo; ulga i zal. Postanowienie Krola (ustne): nie sadzic Jona, zanim go nie wyslucha; gdy Mance przejdzie po lodzie - Jon ma trafic ZYWY do Krola albo przed Krola na Murze; Krol napisze do nowego LD Mallistera, ze prosi, by Straz nie sadzila Jona bez slowa Krola (prosba, nie rozkaz - Straz sadzi swoich). Grisel (Snow, ruda, bialy wilk) - Robb sie usmiecha przy rudej. Daenerys: Polnoc nie kleka przed smokami; ale slepa nie bedzie. Pan ma przygotowac KANDYDATA 'od ksiag, nie od zlota' do Meereen (siec Willi w Essos / Nesta / Ilario?) - Krol zdecyduje, gdy zobaczy kogo. Slowo Aemona dla Daenerys (wuj) - Robb: to slowo starego czlowieka, niech dojdzie, jesli ktos dojdzie. Dluga noc / ogien / obsydian - Robb wiaze z Mance'em na lodzie; na Radzie: szklo Pyke'a, Noye, stal.
+
+## 300-12-17 — KRUKI SLYNTA (wg ksiegi Clydasa, przez Benna; rzut 29)
+11-17: kruk do KP (rownoczesnie z krukiem do Wiezy Cieni) - tresc nieznana; najpewniej to samo o cichej drodze Namiestnika + plotka o Polnocy kupujacej Straz. 11-30: drugi kruk do KP po przegranym wyborze. Do Dreadfortu - zadnego wpisu (Clydas). Wiesc moze dojsc z KP na Polnoc dopiero przez Lannisterow/Freyow - tygodnie.

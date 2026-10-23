@@ -17692,6 +17692,14 @@
    "wraca": "300-12-20",
    "zamyka": "slowo Krola + kosztorys + murarze wyznaczeni na odwilz",
    "status": "otwarte"
+  },
+  {
+   "co": "WIES DRWALI ZA GLEBOKIMI BRODAMI (Wilczy Las, E) - DREWNO DLA KORONY (slowo pana 12-11 do starosty: przekaze Gawenowi, Korona kupi): dab i sosna; cena, ilosc i odbior (sanie zima / splaw na wiosne) - Gawen + Edric Plug (scinka debu), Kasa 3. Obietnica Namiestnika.",
+   "kto": "SYMON -> GAWEN ; EDRIC PLUG",
+   "kanal": "po powrocie; goniec do wsi przez Edrica",
+   "wraca": "300-12-20",
+   "zamyka": "umowa ze starosta (cena/ilosc)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

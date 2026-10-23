@@ -34,8 +34,8 @@ def data_z(n):
     m, dd = divmod(reszta, 30)
     if dd == 0:
         m, dd = m - 1, 30
-    if m == 0:
-        r, m = r - 1, 12
+    if m <= 0:
+        r, m = r - 1, m + 12
     return "%d-%02d-%02d" % (r, m, dd)
 
 

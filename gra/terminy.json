@@ -17622,7 +17622,7 @@
    "status": "otwarte"
   },
   {
-   "co": "MANCE NA MROZNYM BRZEGU (Maege/Alysane 11-27, rzut 88, od grupy przybylej ~11-20): glowny oboz Mance (dziesiatki tysiecy ognisk, olbrzymy, mamuty) na Mroznym Brzegu, po polnocnej stronie Zatoki Lodu, kilka dni zeglugi od Wyspy. CZEKA, AZ ZATOKA STANIE - chce przejsc cala sila po lodzie (stad lodzie-plozy Krola). Wrona bez czerni z bialym wilkiem nadal przy nim. Lod: Maege - zatoka staje zwykle w srodku zimy (E: XII-I, roznie). Do Krola USTNIE.",
+   "co": "MANCE NA MROZNYM BRZEGU (Maege/Alysane 11-27, rzut 88, od grupy przybylej ~11-20): glowny oboz Mance (dziesiatki tysiecy ognisk, olbrzymy, mamuty) na Mroznym Brzegu, po polnocnej stronie Zatoki Lodu, kilka dni zeglugi od Wyspy. CZEKA, AZ ZATOKA STANIE - chce przejsc cala sila po lodzie (stad lodzie-plozy Krola). Wrona bez czerni z bialym wilkiem nadal przy nim. Lod: Maege - zatoka staje zwykle w srodku zimy (E: XII-I, roznie). Do Krola USTNIE. | 12-18 RADA: Krol posyla slowo do Mance'a przez Mormontow (osobny termin).",
    "kto": "MANCE (wola zewnetrzna) / MAEGE",
    "kanal": "wiesc od dzikich przez Wyspe",
    "wraca": "300-12-20",
@@ -17787,6 +17787,14 @@
    "kanal": "lancuch maesterski (kruk WF -> Stare Miasto)",
    "wraca": "301-02-01",
    "zamyka": "odpowiedz Cytadeli; Wystan w drodze do pana",
+   "status": "otwarte"
+  },
+  {
+   "co": "SLOWO KROLA DO MANCE'A NA MROZNY BRZEG (Rada 12-18): przez Maege/Dacey lodzia Mormontow przed lodem (albo pierwszym wolnym czlowiekiem wracajacym na polnoc): gdy zatoka stanie - przejscie po lodzie W PORZADKU, ogniskami, na Wyspe i dalej na Przyladek; przysiega przy drzewie (Torgen na Cyplu); chleb czeka; kto przyjdzie z bronia przeciw Polnocy - nie siadzie. Do tego: znaki na lodzie (Mormontowie). Odpowiedz Mance'a - rzut przy wiesci.",
+   "kto": "KROL -> MANCE (przez MAEGE / DACEY)",
+   "kanal": "kruk WF-Deepwood (Dacey) -> lodz Mormontow -> Mrozny Brzeg",
+   "wraca": "301-01-20",
+   "zamyka": "wiesc od Mance'a albo lod staje",
    "status": "otwarte"
   }
  ],

@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 11,
-  "dzien": 21,
+  "dzien": 22,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 17 (300-11-21): zle - zadymka trwa i gestnieje, wiatr od Mroznych Klow, widocznosc kilkanascie krokow od rana.",
- "dzien_tygodnia_nr": 4,
+ "pogoda": "RZUT 27 (300-11-22): zle, ale lzej niz wczoraj - wiatr porywisty, snieg w podmuchach, miedzy nimi widac Mur i doline na kilkaset krokow.",
+ "dzien_tygodnia_nr": 5,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

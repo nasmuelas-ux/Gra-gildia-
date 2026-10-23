@@ -17510,11 +17510,11 @@
    "status": "otwarte"
   },
   {
-   "co": "LIST DLA NIEPOZNAKI DO BIALEGO PORTU (slowo pana 11-13): jawny, kruk z CZ; tresc zgodna z widocznym powrotem sani Traktem Krolewskim. Cel: kto czyta cele krukow / Trakt, ma widziec powrot Traktem. Adresat i tresc - do ustalenia przez pana przy pisaniu.",
+   "co": "LIST DLA NIEPOZNAKI DO BIALEGO PORTU (slowo pana 11-13): jawny, kruk z CZ; tresc zgodna z widocznym powrotem sani Traktem Krolewskim. Cel: kto czyta cele krukow / Trakt, ma widziec powrot Traktem. Adresat i tresc - do ustalenia przez pana przy pisaniu. | 11-13 wieczor: NAPISANY do lorda Wymana Manderly'ego (powrot Traktem; rozwazana prosba o pomoc przez Bialy Port; rozmowa o interesach po powrocie). Zapieczetowany pieczecia Tallych. Czeka na oddanie Clydasowi (kruk jawny).",
    "kto": "SYMON (pisze)",
    "kanal": "kruk CZ (jawnie)",
    "wraca": "300-11-14",
-   "zamyka": "list napisany i wyslany",
+   "zamyka": "list oddany Clydasowi i wyslany",
    "status": "otwarte"
   },
   {
@@ -17531,6 +17531,14 @@
    "kanal": "w drodze",
    "wraca": "300-12-10",
    "zamyka": "Symon w Winterfell",
+   "status": "otwarte"
+  },
+  {
+   "co": "ODPOWIEDZ LORDA WYMANA na list z Muru (11-13): wraca Traktem; rozwazana pomoc przez Bialy Port; interesy po powrocie. Odpowiedz moze przyjsc do Winterfell albo na Mur.",
+   "kto": "LORD WYMAN MANDERLY (wola zewnetrzna)",
+   "kanal": "kruk Bialy Port -> CZ / Winterfell",
+   "wraca": "300-11-20",
+   "zamyka": "odpowiedz Wymana - rzut przy odpowiedzi",
    "status": "otwarte"
   }
  ],

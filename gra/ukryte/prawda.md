@@ -486,3 +486,6 @@ Jon: Robb milczy dlugo; ulga i zal. Postanowienie Krola (ustne): nie sadzic Jona
 
 ## 300-12-17 — BOLTONOWIE (rzuty 59 / 36 / 20)
 Roose: list ~11-12 - polowa zaleglego cla (wg Osmunda, kwota z jego wyliczenia), reszta po odwilzy; ksiegi Boltonsgate dla komory BP w zakresie handlu z BP; prosi o powrot Ramsaya i 20. Walda: syn ~11-20, slaby; Walda w goraczce. Prawe loze ma dziedzica - Ramsay ma motyw; Roose chce Ramsaya w domu (dlaczego - ukryte: Roose chce go miec na oku albo uzyc; nie ustalono). Dwaj z 20 Ramsaya znikali w ZM (z kim - nie ustalono; Aldwin).
+
+## 300-12-17 — POSREDNIK Z ROZDROZA (rzut 94). PRAWDA.
+Zlecenie na pana (zasadzka w jarze 11-06) szlo: RAMSAY -> 'KOSCI' (Ben Kosci, jeden z chlopakow Bekarta, w Dreadforcie, NIE w orszaku 20 w WF) -> posrednik z rozdroza -> zawodowiec + najemnicy. Roose: nie wiedzial albo nie chcial wiedziec (nie ustalono). Posrednik zna 'Kosci' z twarzy i z przezwiska, platnosci w srebrze z Dreadfortu (moneta bez znaku), dwa spotkania na rozdrozu. Dwaj z 20 Ramsaya w ZM - kanal do 'Kosci' przez woznice na wschod (nie ustalono tresci).

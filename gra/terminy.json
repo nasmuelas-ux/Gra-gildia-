@@ -17443,7 +17443,7 @@
    "kanal": "eskorta Umbera Dar->Winterfell",
    "wraca": "300-12-18",
    "zamyka": "raport Aldwina panu (wynik pulapki na rozdrozu - rzut przy raporcie)",
-   "status": "otwarte"
+   "status": "zamkniete 300-12-17 (rzut 94): POSREDNIK z rozdroza wziety zywcem przez Aldwina na terminie kontaktu (~koniec XI). Mowi: zlecenie szlo od czlowieka z Dreadfortu, ktorego zna jako 'KOSCI' (przezwisko Krola z listy Zimowej Strazy - Ben Kosci), placil srebrem; nazwiska wyzej nie zna. Wszyscy czterej zywi u Aldwina."
   },
   {
    "co": "BRAT HUGONA-WOZNICY na Murze (prosba pana 11-12): Clydas szuka w rolach Strazy - 'Ben' z Zimowego Miasta ~20 lat temu (moze inne imie), pytanie do Wschodniej Straznicy i Wiezy Cieni. Odpowiedz (zyje/gdzie/nie zyje) przez dom Namiestnika do Hugona. Rzut przy odpowiedzi (kanaly Muru wolne).",
@@ -17739,6 +17739,14 @@
    "kanal": "kruk WF-Dreadfort",
    "wraca": "300-12-28",
    "zamyka": "odpowiedz Roose'a (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "co": "ZASADZKA W JARZE - NITKA DO DREADFORTU (Aldwin 12-17): posrednik wskazal 'KOSCI' (Ben Kosci, czlowiek Bekarta w Dreadforcie) jako zleceniodawce; dwaj z 20 Ramsaya w WF kontaktowali sie w ZM z woznica na wschod. Dowod: zeznanie posrednika + zawodowca + najemnikow (zywi). DO KROLA (prerogatywa - sad i postepowanie wobec Boltonow); Ramsay nadal gosciem w WF. Decyzja Krola/pana.",
+   "kto": "SYMON -> KROL ; ALDWIN ; CERWYN (justycjariusz?)",
+   "kanal": "osobiscie",
+   "wraca": "300-12-18",
+   "zamyka": "slowo Krola",
    "status": "otwarte"
   }
  ],
@@ -18123,7 +18131,7 @@
     "dzien_miesiaca": 2
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-11-02",
+   "ostatnio_odebrane": "300-12-02",
    "zrodlo": "slowo pana 300-10-23; wywiad_jedna_kartka_300_09_17.md (kontrwywiad raportuje wprost, dzien wyznacza pan)"
   },
   {

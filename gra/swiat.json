@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 11,
-  "dzien": 7,
+  "dzien": 12,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "poludnie",
  "sezon": "zima (300)",
- "pogoda": "RZUT 96 (300-11-07): znakomicie - slonce, suchy mroz, bezwietrznie; trakt twardy, sanie szybko. Ostatnie Ognisko osiagniete wieczorem.",
- "dzien_tygodnia_nr": 4,
+ "pogoda": "RZUT 84 (300-11-12): dobrze - zimno, slonecznie, bezwietrznie pod Murem; snieg ubity, trakt do bramy czysty.",
+ "dzien_tygodnia_nr": 2,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

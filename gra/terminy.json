@@ -17502,11 +17502,11 @@
    "status": "otwarte"
   },
   {
-   "co": "LIST DO MORMONTOW (slowo pana 11-13 wieczor, stajnia CZ): kruk Domu od Benna do Winterfell -> maester Luwin przesyla lady Maege na Wyspe Niedzwiedzia. Prosba: lodz Mormontow pod brzeg Zatoki Lodu ponizej Wiezy Cieni; Namiestnik chce zobaczyc transport dzikich na Wyspie; potem przeprawa na lad kolo Deepwood Motte. Luwin osobno, ustnie/w cztery oczy, mowi KROLOWI prawdziwa droge. Nie przez kruki Clydasa (Clydas zapisuje cele). Ryzyko: Maege odmowi / lod / lodz nie zdazy. | 11-13 poznym wieczorem NAPISANY: prosba o przysluge (lodz); Namiestnik chce zobaczyc na wlasne oczy, z czym Mormontowie sie mierza (dzicy na Wyspie). Zapieczetowany. Czeka na oddanie Bennowi (kruk Domu). | 11-13 noc: ODDANY BENNOWI osobiscie; kruk Domu do Winterfell o swicie 11-14; w ksiedze Clydasa brak sladu.",
+   "co": "LIST DO MORMONTOW (slowo pana 11-13 wieczor, stajnia CZ): kruk Domu od Benna do Winterfell -> maester Luwin przesyla lady Maege na Wyspe Niedzwiedzia. Prosba: lodz Mormontow pod brzeg Zatoki Lodu ponizej Wiezy Cieni; Namiestnik chce zobaczyc transport dzikich na Wyspie; potem przeprawa na lad kolo Deepwood Motte. Luwin osobno, ustnie/w cztery oczy, mowi KROLOWI prawdziwa droge. Nie przez kruki Clydasa (Clydas zapisuje cele). Ryzyko: Maege odmowi / lod / lodz nie zdazy. | 11-13 poznym wieczorem NAPISANY: prosba o przysluge (lodz); Namiestnik chce zobaczyc na wlasne oczy, z czym Mormontowie sie mierza (dzicy na Wyspie). Zapieczetowany. Czeka na oddanie Bennowi (kruk Domu). | 11-13 noc: ODDANY BENNOWI osobiscie; kruk Domu do Winterfell o swicie 11-14; w ksiedze Clydasa brak sladu. | 11-19 ODPOWIEDZ MAEGE ROZSTRZYGNIETA (rzut 66, tresc w prawda.md) - pan ja przeczyta w Wiezy Cieni (kruk Luwina ~11-21).",
    "kto": "LADY MAEGE MORMONT (wola zewnetrzna) via Benno -> Luwin",
    "kanal": "kruk Domu CZ->Winterfell, dalej kruk Winterfell->Wyspa Niedzwiedzia",
-   "wraca": "300-11-19",
-   "zamyka": "odpowiedz Maege (do Wiezy Cieni / przez Luwina) - rzut przy odpowiedzi",
+   "wraca": "300-11-21",
+   "zamyka": "pan czyta odpowiedz Maege w Wiezy Cieni",
    "status": "otwarte"
   },
   {

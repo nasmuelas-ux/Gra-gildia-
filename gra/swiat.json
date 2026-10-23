@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 11,
-  "dzien": 18,
+  "dzien": 19,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 61 (300-11-18): dobrze - przejasnia sie, mroz, bez opadu; slad wczorajszego sniegu lekki.",
- "dzien_tygodnia_nr": 1,
+ "pogoda": "RZUT 79 (300-11-19): dobrze - jasno, mroz, wiatr slaby z polnocnego zachodu; droga twarda.",
+ "dzien_tygodnia_nr": 2,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

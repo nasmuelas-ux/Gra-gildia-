@@ -463,3 +463,6 @@ Aemon potwierdzil slowo o Jonie (08-08) twarza w twarz i dodal RESZTE, ktorej ni
 
 ## 300-11-16 — KTO WIDZIAL ROZDZIAL ZA KRECIA WIOSKA (rzut 19 + d3=2). TYLKO TU.
 Brat Strazy z frakcji Slynta (ten sam typ, co nosi mu dzbany; E: wracal nad ranem z Kreciej Wioski). Widzial, ze siedmiu jezdzcow z panem w szarym odbija na zachod, a sanie ida dalej Traktem. Powie Slyntowi do wieczora 11-16. Slynt moze to wlozyc do kruka do KP (przez Clydasa - wpis w ksiedze, Benno moze sie dowiedziec). Droga kruk CZ->KP i wiesc KP->Polnoc - tygodnie; pan bedzie juz na Wyspie lub w Wilczym Lesie. Realne ryzyko: Slynt wie i chwali sie / sprzedaje to, a nie zasadzka na drodze zachodem.
+
+## 300-11-19 — ODPOWIEDZ LADY MAEGE (rzut 66). Pan dowie sie w Wiezy Cieni (~11-21).
+Zgoda. Lodz Mormontow (E: dlugi czolno-lodz na 16 wiosel, zalogowa) pod Alysane Mormont plynie pod brzeg Zatoki Lodu ponizej Wiezy Cieni; na brzegu ~11-23 i czeka do 3 dni. Na Wyspie pan zobaczy dzikich i straz Mormontow nad nimi; Maege przyjmie go w Dworze Mormontow. Warunek Maege (bez targu, prosba): beczki ze zbozem dla dzikich na Wyspie - mowic o tym z Krolem. Luwin przesyla odpowiedz krukiem do Wiezy Cieni (do rak ser Denysa dla Namiestnika) - dojdzie ~11-21. Luwin powiedzial Krolowi prawdziwa droge w cztery oczy.

@@ -17651,7 +17651,7 @@
    "kanal": "ustnie po powrocie / list",
    "wraca": "300-12-18",
    "zamyka": "wiesc w karcie Theona / przegladzie",
-   "status": "otwarte"
+   "status": "zamkniete 300-12-18 (Rada): wiesc przekazana Krolowi i Rodrikowi; karty Theona XI i XII (wlasny, zasada 7): 34 rybakow Kamiennego Brzegu wyszkolonych, lodzie gotowe na wiosne, samotna dluga lodz z X widziana tez z Kamiennego Brzegu - potwierdza; Asha milczy"
   },
   {
    "co": "TOMAN (E: piegowaty chlopak z oddzialu Stena, ~16-17 lat, z Zimowego Miasta) - GORACZKA PO WPADNIECIU POD LOD (12-01): 12-02 wieczorem majaczy, ciezki oddech, rzezenie (rzut 14) - grozi zapalenie pluc. Najblizszy maester: Deepwood (Gloverowie). Rzut na stan co dzien. | 12-03 rano (rzut 49): bez zmian - goraczka wysoka, nie rosnie; chwilami przytomny. | 12-04 rano (rzut 19): GORZEJ - oddech krotki, wargi sinieja przy kaszlu, nie budzi sie do konca. | 12-04 dzien (rzut 68): trzyma sie - rosol z zajaca, oddech krotki, ale nie gorzej. | 12-05 noc (rzut 10): KRYZYS - przerwy w oddechu, nieprzytomny; posadzony przy ogniu, zyje o swicie, ledwie.",
@@ -17771,6 +17771,14 @@
    "kanal": "kruk WF-BP",
    "wraca": "300-12-28",
    "zamyka": "odpowiedz Wymana (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "co": "LOWY NA ZELAZNE ZWIADY - PLAN NA WIOSNE (Rada 12-18, po radzie Maege i wiesci o samotnej lodzi w X): THEON + TORREN przygotowuja szkic - szybkie lodzie wojenne ze stala zaloga (eskadra Torrena + rybacy Theona), patrol od Wyspy Niedzwiedziej po Palec, lancuch ognia jako oczy; nie gonic na otwarte morze. Szkic do Krola przed odwilza.",
+   "kto": "THEON ; TORREN ; RODRIK",
+   "kanal": "kruk WF-Fosa + jezdziec do Dustinportu",
+   "wraca": "301-02-15",
+   "zamyka": "szkic Theona/Torrena na stole Krola",
    "status": "otwarte"
   }
  ],
@@ -17948,7 +17956,7 @@
     "dzien_miesiaca": 15
    },
    "opoznienie": 6,
-   "ostatnio_odebrane": "300-10-15",
+   "ostatnio_odebrane": "300-12-15",
    "zrodlo": "terminy (KARTA THEONA)"
   },
   {

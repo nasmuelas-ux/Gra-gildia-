@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 11,
-  "dzien": 4,
+  "dzien": 5,
   "era": "AC"
  },
  "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 7 (300-11-04): bardzo zle - zamiec od switu, snieg z silnym wiatrem, widocznosc kilka krokow; trakt sie zasypuje, sanie wolno; kruki nie lataja.",
- "dzien_tygodnia_nr": 1,
+ "pogoda": "RZUT 31 (300-11-05): slabo-przecietnie - po zamieci zostal snieg i szary wiatr, ale slabnie; trakt bialy, sanie ida wolno ale pewnie; kruki po poludniu.",
+ "dzien_tygodnia_nr": 2,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

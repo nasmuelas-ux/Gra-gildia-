@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 12,
-  "dzien": 8,
+  "dzien": 9,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 100 (300-12-08): znakomicie - mrozny, krysztalowo czysty dzien, bez wiatru; snieg twardy, iskrzy; widac daleko miedzy pniami.",
- "dzien_tygodnia_nr": 7,
+ "pogoda": "RZUT 66 (300-12-09): dobrze - mroz, lekkie zachmurzenie, bez opadu.",
+ "dzien_tygodnia_nr": 1,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

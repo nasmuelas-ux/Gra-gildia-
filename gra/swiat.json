@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 12,
-  "dzien": 14,
+  "dzien": 15,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 51 (300-12-14): przecietnie - szaro, mroz, bez opadu.",
- "dzien_tygodnia_nr": 6,
+ "pogoda": "RZUT 97 (300-12-15): znakomicie - czysto, slonce, mroz suchy, bez wiatru.",
+ "dzien_tygodnia_nr": 7,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

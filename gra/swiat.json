@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 12,
-  "dzien": 1,
+  "dzien": 2,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 55 (300-12-01): przecietnie - szaro, mroz, bez wiatru w lesie; snieg stary, gleboki miedzy pniami.",
- "dzien_tygodnia_nr": 7,
+ "pogoda": "RZUT 1 (300-12-02): katastrofalnie - sniezyca, jakiej Sten nie pamieta; snieg sypie gesto i bez przerwy, wiatr w koronach drzew, widocznosc kilka krokow nawet w lesie.",
+ "dzien_tygodnia_nr": 1,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

@@ -16473,7 +16473,7 @@
    "kanal": "heroldzi, listy regenta",
    "wraca": "300-11-05",
    "zamyka": "pierwszy nabor - ilu przyszlo (rzut); dalej do 700",
-   "status": "otwarte ### 300-10-29 RADA: Krol zatwierdzil - szef sztabu RODRIK, oddzial1 Osric; wojsko 700 (zold I ZIEMIA dla weteranow); garnizony WF350/Starkport200/Przystan150; glowy Starkportu i Przystani - na rade wojenna; LIST do Cerwyna i Wymana (Przystan Wilka wspolna) pieczecia Krola."
+   "status": "otwarte ### 300-10-29 RADA: Krol zatwierdzil - szef sztabu RODRIK, oddzial1 Osric; wojsko 700 (zold I ZIEMIA dla weteranow); garnizony WF350/Starkport200/Przystan150; glowy Starkportu i Przystani - na rade wojenna; LIST do Cerwyna i Wymana (Przystan Wilka wspolna) pieczecia Krola. ### 300-11-01 przeglad: pierwszy nabor weteranow rzut 83 - ok. 120 ochotnikow (E); koszary WF ok. 280 miejsc - brak lozek (oddzial 6 + Gawen); ziemia dla weteranow - do slowa Krola."
   },
   {
    "data": "300-10-13",
@@ -17307,7 +17307,7 @@
    "kanal": "rada wojenna WF",
    "wraca": "300-11-01",
    "zamyka": "decyzja Krola o alokacji kowali-stalownikow i o programie czeladniczym",
-   "status": "otwarte"
+   "status": "zrobione 300-11-01: przeglad wojenny - Krol (rzut 99) przyjmuje rekomendacje pana w calosci: piatki nie rozdzielac, mistrzowie na stal, czeladnicy na gwozdzie i groty; kuznia WF jako szkola czeladnikow Korony, Kasa 3 (liczba i zold - Gawen z Mikkenem)."
   },
   {
    "co": "WALDER FREY - ODPOWIEDZ na pismo Korony (myto 1.11, trakt Seagard-Blizniaki-Przesmyk; fakt nie grozba)",
@@ -17339,7 +17339,7 @@
    "kanal": "solar Krola WF",
    "wraca": "300-11-01",
    "zamyka": "rada odbyta (z panem przed wyjazdem albo bez niego) - obsada dwoch glow",
-   "status": "otwarte"
+   "status": "otwarte ### 300-11-01 przeglad odbyty; obsada Starkportu i Przystani Wilka - do slowa pana/Krola (propozycje Rodrika i Bryndena)."
   },
   {
    "co": "LISTY SANSY I ARYI DO PANA NA MUR PO BRAAVOSKU (zadanie lekcji 31-32): kazda swoj, 6-8 zdan; kruk WF-Czarny Zamek. Pan odpowiada po braavosku z Muru.",
@@ -17765,7 +17765,7 @@
     "start": "300-10-24"
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-10-24",
+   "ostatnio_odebrane": "300-11-01",
    "uwaga_1021": "10-24 (piatek) po obiedzie jest tez MALA RADA (zwyczaj: po obiedzie) - Rodrik proponowal pierwszy przeglad PRZED Rada; godzina pierwszego - do slowa pana."
   },
   {

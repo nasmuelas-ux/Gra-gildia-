@@ -17500,6 +17500,38 @@
    "wraca": "300-12-01",
    "zamyka": "reakcja Slynta / brak wina u Slynta (meldunek Benna)",
    "status": "otwarte"
+  },
+  {
+   "co": "LIST DO MORMONTOW (slowo pana 11-13 wieczor, stajnia CZ): kruk Domu od Benna do Winterfell -> maester Luwin przesyla lady Maege na Wyspe Niedzwiedzia. Prosba: lodz Mormontow pod brzeg Zatoki Lodu ponizej Wiezy Cieni; Namiestnik chce zobaczyc transport dzikich na Wyspie; potem przeprawa na lad kolo Deepwood Motte. Luwin osobno, ustnie/w cztery oczy, mowi KROLOWI prawdziwa droge. Nie przez kruki Clydasa (Clydas zapisuje cele). Ryzyko: Maege odmowi / lod / lodz nie zdazy.",
+   "kto": "LADY MAEGE MORMONT (wola zewnetrzna) via Benno -> Luwin",
+   "kanal": "kruk Domu CZ->Winterfell, dalej kruk Winterfell->Wyspa Niedzwiedzia",
+   "wraca": "300-11-19",
+   "zamyka": "odpowiedz Maege (do Wiezy Cieni / przez Luwina) - rzut przy odpowiedzi",
+   "status": "otwarte"
+  },
+  {
+   "co": "LIST DLA NIEPOZNAKI DO BIALEGO PORTU (slowo pana 11-13): jawny, kruk z CZ; tresc zgodna z widocznym powrotem sani Traktem Krolewskim. Cel: kto czyta cele krukow / Trakt, ma widziec powrot Traktem. Adresat i tresc - do ustalenia przez pana przy pisaniu.",
+   "kto": "SYMON (pisze)",
+   "kanal": "kruk CZ (jawnie)",
+   "wraca": "300-11-14",
+   "zamyka": "list napisany i wyslany",
+   "status": "otwarte"
+  },
+  {
+   "co": "PODZIAL KONWOJU - SANIE TRAKTEM (zgoda pana 11-13): puste sanie, Hugo, ranny zwiadowca + 3 ludzi Stena, eskorta Umberow przez Dar, powrot jawny Traktem Krolewskim do Winterfell. Widoczna przyneta.",
+   "kto": "LUDZIE STENA (wlasni)",
+   "kanal": "Trakt Krolewski",
+   "wraca": "300-11-30",
+   "zamyka": "sanie w Winterfell (meldunek)",
+   "status": "otwarte"
+  },
+  {
+   "co": "DROGA ZACHODEM (zgoda pana 11-13): Symon + Sten + 7 ludzi: CZ -> wzdluz Muru do Wiezy Cieni (ser Denys Mallister) -> brzeg Zatoki Lodu -> lodz Mormontow -> Wyspa Niedzwiedzia (transport dzikich) -> lad kolo Deepwood Motte -> dom. Do ~4 tygodni. Wyjazd z CZ - kiedy pan postanowi.",
+   "kto": "SYMON / STEN",
+   "kanal": "w drodze",
+   "wraca": "300-12-10",
+   "zamyka": "Symon w Winterfell",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

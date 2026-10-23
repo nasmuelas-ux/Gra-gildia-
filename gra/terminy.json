@@ -17507,7 +17507,7 @@
    "kanal": "kruk Domu CZ->Winterfell, dalej kruk Winterfell->Wyspa Niedzwiedzia",
    "wraca": "300-11-23",
    "zamyka": "pan czyta odpowiedz Maege w Wiezy Cieni",
-   "status": "otwarte"
+   "status": "zamkniete 300-11-23 (pan przeczytal w Wiezy Cieni: Maege - ZGODA; lodz pod Alysane pod brzegiem ponizej Wiezy od ~11-23, czeka do 3 dni; Krol wie o drodze)"
   },
   {
    "co": "LIST DLA NIEPOZNAKI DO BIALEGO PORTU (slowo pana 11-13): jawny, kruk z CZ; tresc zgodna z widocznym powrotem sani Traktem Krolewskim. Cel: kto czyta cele krukow / Trakt, ma widziec powrot Traktem. Adresat i tresc - do ustalenia przez pana przy pisaniu. | 11-13 wieczor: NAPISANY do lorda Wymana Manderly'ego (powrot Traktem; rozwazana prosba o pomoc przez Bialy Port; rozmowa o interesach po powrocie). Zapieczetowany pieczecia Tallych. Czeka na oddanie Clydasowi (kruk jawny). | 11-13 poznym wieczorem ODDANY CLYDASOWI osobiscie; Clydas wpisal cel (Bialy Port) do ksiegi; kruk o swicie 11-14.",
@@ -17595,6 +17595,22 @@
    "kanal": "osobiscie, Wieza Cieni",
    "wraca": "300-11-23",
    "zamyka": "odpowiedz Mallistera przy przyjezdzie (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "co": "LODZ MORMONTOW POD BRZEGIEM ZATOKI LODU (zgoda Maege, list Luwina 11-19): Alysane Mormont, lodz na 16 wiosel; pod brzegiem ponizej Wiezy Cieni od ~11-23, czeka do ~11-26. Pan dojezdza ~11-25.",
+   "kto": "ALYSANE MORMONT (wola zewnetrzna)",
+   "kanal": "brzeg Zatoki Lodu",
+   "wraca": "300-11-25",
+   "zamyka": "pan na lodzi albo lodz odplynela",
+   "status": "otwarte"
+  },
+  {
+   "co": "PROSBA LADY MAEGE (list 11-19): zboze dla dzikich na Wyspie Niedzwiedziej - do mowy z Krolem (nie warunek, prosba).",
+   "kto": "SYMON -> KROL",
+   "kanal": "ustnie po powrocie",
+   "wraca": "300-12-10",
+   "zamyka": "slowo Krola",
    "status": "otwarte"
   }
  ],

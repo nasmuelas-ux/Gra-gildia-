@@ -13471,7 +13471,7 @@
   },
   {
    "data": "300-08-29",
-   "co": "WNIOSKI RADY DO KROLA PO POWROCIE (zbiorczo): urzad Krolowej przy matkach i wdowach poboru (08-29); Ulla Kora i Tomas Sznur do Rady (08-25); przysiega Edrica Pluga (08-28); odpowiedz Cerwynowi z lista Berona (08-29). | 11-14 MUR: prosba Marsha o bron Strazy - stal w pretach, groty do strzal, kolczugi (~530 ludzi, miecz 1/2, kolczuga 1/4); pan obiecal TYLKO przekazac Krolowi. | 11-14 MUR: NOYE - stal w pretach = warunek nauki grotow ze smoczego szkla dla ludzi Polnocy (Noye uczy, gdy ma czym kuc); pan obiecal TYLKO przekazac Krolowi. | 12-17 pan zdal Krolowi prosby Marsha/Noye (stal w pretach, groty, kolczugi; stal = warunek nauki grotow ze szkla). KROL (bez rzutu - kierunek, decyzja na Radzie): lupy ze SKUPU LUPOW (lwie kolczugi, miecze, helmy) - czesc na Mur; stal w pretach - z dymarek Wilczego Lasu, jesli Grim da; ile - Gawen na Radzie 12-18; i Noye ma uczyc grotow ludzi Polnocy.",
+   "co": "WNIOSKI RADY DO KROLA PO POWROCIE (zbiorczo): urzad Krolowej przy matkach i wdowach poboru (08-29); Ulla Kora i Tomas Sznur do Rady (08-25); przysiega Edrica Pluga (08-28); odpowiedz Cerwynowi z lista Berona (08-29). | 11-14 MUR: prosba Marsha o bron Strazy - stal w pretach, groty do strzal, kolczugi (~530 ludzi, miecz 1/2, kolczuga 1/4); pan obiecal TYLKO przekazac Krolowi. | 11-14 MUR: NOYE - stal w pretach = warunek nauki grotow ze smoczego szkla dla ludzi Polnocy (Noye uczy, gdy ma czym kuc); pan obiecal TYLKO przekazac Krolowi. | 12-17 pan zdal Krolowi prosby Marsha/Noye (stal w pretach, groty, kolczugi; stal = warunek nauki grotow ze szkla). KROL (bez rzutu - kierunek, decyzja na Radzie): lupy ze SKUPU LUPOW (lwie kolczugi, miecze, helmy) - czesc na Mur; stal w pretach - z dymarek Wilczego Lasu, jesli Grim da; ile - Gawen na Radzie 12-18; i Noye ma uczyc grotow ludzi Polnocy. | 12-18 RADA: prosby Marsha/Noye ROZSTRZYGNIETE (osobny termin BRON DLA NOCNEJ STRAZY).",
    "kto": "NAMIESTNIK -> KROL",
    "kanal": "osobiscie po powrocie",
    "wraca": "300-12-18",
@@ -17747,6 +17747,14 @@
    "kanal": "osobiscie",
    "wraca": "300-12-18",
    "zamyka": "slowo Krola",
+   "status": "otwarte"
+  },
+  {
+   "co": "BRON DLA NOCNEJ STRAZY (Rada 12-18, slowo Krola, rzut 50): (1) ze SKUPU LUPOW - ~40 mieczy lannisterskich + ~15 kolczug (E, stan ksiegi Gawena; Rodrik: kolczugi to waskie gardlo wojska - wiecej nie); (2) GROTY do strzal - Mikken kuje z zlomu ze skupu (E: ~500 do lutego); (3) STAL W PRETACH - z dymarek Wilczego Lasu, gdy Grim da pierwsze prety (nie przed I); (4) TRANSPORT - z nastepnymi saniami Daru Korony (kiszonka/tluszcz) ~I; (5) NAUKA GROTOW ZE SZKLA - dwoch chlopakow z WF (Mikken wskaze) jedzie z saniami do Noye'a na zime. Koszt - Kasa 3, Gawen na pismie (bez liczby tu). List Krola do LD Mallistera i do Marsha - razem z listem o Jonie.",
+   "kto": "GAWEN ; MIKKEN ; RODRIK ; ORLAND (sanie) ; KROL (list)",
+   "kanal": "WF -> CZ saniami Daru",
+   "wraca": "301-01-15",
+   "zamyka": "sanie z bronia w CZ; kwit Marsha",
    "status": "otwarte"
   }
  ],

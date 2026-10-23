@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 11,
-  "dzien": 3,
+  "dzien": 4,
   "era": "AC"
  },
  "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 100 (300-11-03): znakomicie - suchy mroz, slonce na sniegu, bezwietrznie; Trakt Krolewski przetarty, twardy, sanie ida szybko. Kruki lataja.",
- "dzien_tygodnia_nr": 7,
+ "pogoda": "RZUT 7 (300-11-04): bardzo zle - zamiec od switu, snieg z silnym wiatrem, widocznosc kilka krokow; trakt sie zasypuje, sanie wolno; kruki nie lataja.",
+ "dzien_tygodnia_nr": 1,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

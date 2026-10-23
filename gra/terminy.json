@@ -17342,10 +17342,10 @@
    "status": "zamkniete 300-11-01: OBSADA (slowo pana, Krol rzut 94 - przyjmuje): STARKPORT - ULRIC SEKATY (dowodca garnizonu 200), ser Corwin zostaje na Kamiennym Brzegu przy budowie i osadzie (rozdzial: Ulric wojsko, Corwin mury i ludzie); PRZYSTAN WILKA - OTTAR RUDY (garnizon 150). Pisma: Beron - nominacje pod pieczecia Krola; do Cerwyna i Wymana zawiadomienie o Ottarze (wspolwlasciciele slysza pierwsi)."
   },
   {
-   "co": "LISTY SANSY I ARYI DO PANA NA MUR PO BRAAVOSKU (zadanie lekcji 31-32): kazda swoj, 6-8 zdan; kruk WF-Czarny Zamek. Pan odpowiada po braavosku z Muru.",
+   "co": "LISTY SANSY I ARYI DO PANA NA MUR PO BRAAVOSKU (zadanie lekcji 31-32): kazda swoj, 6-8 zdan; kruk WF-Czarny Zamek. Pan odpowiada po braavosku z Muru. | 11-17: kruk WF->CZ doszedl po wyjezdzie pana; listy przejmuje BENNO i trzyma do powrotu (albo odsyla krukiem Domu do WF) - pan przeczyta po powrocie.",
    "kto": "SANSA, ARYA -> pan",
    "kanal": "kruk Winterfell-Czarny Zamek",
-   "wraca": "300-11-17",
+   "wraca": "300-12-10",
    "zamyka": "listy u pana na Czarnym Zamku (rzut na jakosc przy czytaniu) + odpowiedz pana",
    "status": "otwarte"
   },
@@ -17766,20 +17766,6 @@
    "opoznienie": 6,
    "ostatnio_odebrane": "300-10-15",
    "zrodlo": "terminy (KARTA THEONA)"
-  },
-  {
-   "id": "AEMON_STAN",
-   "co": "AEMON - STAN ZDROWIA (Clydas/Osric), co tydzien.",
-   "kto": "CLYDAS / OSRIC",
-   "kanal": "kruk Czarny Zamek-Winterfell",
-   "rytm": {
-    "co_dni": 7,
-    "start": "300-05-01"
-   },
-   "opoznienie": 0,
-   "ostatnio_odebrane": "300-10-26",
-   "zrodlo": "terminy (AEMON CHORY)",
-   "rzut": "tak - stan zdrowia (sprawa zewnetrzna)"
   },
   {
    "id": "BILANS_HALA",

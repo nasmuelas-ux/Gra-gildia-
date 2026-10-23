@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 11,
-  "dzien": 16,
+  "dzien": 17,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 73 (300-11-16): dobrze - jasno, mroz, lekki wiatr z zachodu; snieg ubity, droga za Murem przejezdna.",
- "dzien_tygodnia_nr": 6,
+ "pogoda": "RZUT 50 (300-11-17): przecietnie - zachmurzone, mroz, slaby snieg od poludnia; widocznosc dobra.",
+ "dzien_tygodnia_nr": 7,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

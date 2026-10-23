@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 12,
-  "dzien": 2,
+  "dzien": 3,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 1 (300-12-02): katastrofalnie - sniezyca, jakiej Sten nie pamieta; snieg sypie gesto i bez przerwy, wiatr w koronach drzew, widocznosc kilka krokow nawet w lesie.",
- "dzien_tygodnia_nr": 1,
+ "pogoda": "RZUT 61 (300-12-03): dobrze - snieg przestal przed switem, niebo przejasnia sie, mroz; w lesie swiezy puch po kolana i wyzej.",
+ "dzien_tygodnia_nr": 2,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

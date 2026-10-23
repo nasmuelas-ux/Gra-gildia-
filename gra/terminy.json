@@ -17780,6 +17780,14 @@
    "wraca": "301-02-15",
    "zamyka": "szkic Theona/Torrena na stole Krola",
    "status": "otwarte"
+  },
+  {
+   "co": "WYSTAN WRACA, NOWY MAESTER NA MUR (Rada 12-18, slowo pana: nowy maester tam to powrot mojego maestra Wystana): Wystan (maester Cytadeli, z Fosy) pelni po Aemonie obowiazki maestra Strazy w CZ; LUWIN pisze do Cytadeli o nowego maestra dla Strazy (przed wiosna); gdy przyjedzie - Wystan wraca do pana (Fosa). Wola Cytadeli - rzut przy odpowiedzi.",
+   "kto": "LUWIN -> CYTADELA ; WYSTAN",
+   "kanal": "lancuch maesterski (kruk WF -> Stare Miasto)",
+   "wraca": "301-02-01",
+   "zamyka": "odpowiedz Cytadeli; Wystan w drodze do pana",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

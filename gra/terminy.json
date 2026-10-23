@@ -14088,7 +14088,7 @@
    "kanal": "kruk WF-Wyspa Niedzwiedzia (przez Deepwood/Dacey)",
    "wraca": "300-11-08",
    "zamyka": "odpowiedz Maege: ile i kiedy",
-   "status": "otwarte ### 300-10-15 NIE PRZYSZLO, WIADOMO DLACZEGO: kruk z Wyspy Niedzwiedziej przez Deepwood nie przyszedl (zamiec 10-13); ~10-20. ### 300-10-20 NIE PRZYSZLO, WIADOMO DLACZEGO: kruk z Wyspy przez Deepwood nie przyszedl (pogoda 10-17, 10-20 zle); ~10-24. ### 300-10-26 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO - wlasni w toku (zasada 7); stan w nastepnej karcie urzedu / zbiorczym (~11-01). ### 300-11-01 DZIEN BILANSU: w toku (wlasni, zasada 7/33) - meldunek w stalej karcie urzedu/zbiorczym tego cyklu."
+   "status": "zamkniete 300-11-25 (ustnie od ALYSANE na brzegu, rzut 92): ~80 z 100 lodzi gotowych, reszta do polowy zimy; racje Korony doszly lodziami Torrena w X - rodziny ciesli nie glodowaly; Maege wdzieczna. Kruk z Wyspy o tym poszedl do WF w X i sie rozminal (E)."
   },
   {
    "data": "300-09-05",
@@ -14664,7 +14664,7 @@
    "kanal": "kruk WF-Wyspa (09-15); woz/lodz z GP",
    "wraca": "300-11-08",
    "zamyka": "racje na Wyspie + odpowiedz Maege (rzut)",
-   "status": "otwarte ### 300-10-15 NIE PRZYSZLO, WIADOMO DLACZEGO: kruk z Wyspy Niedzwiedziej przez Deepwood nie przyszedl (zamiec 10-13); ~10-20. ### 300-10-20 NIE PRZYSZLO, WIADOMO DLACZEGO: kruk z Wyspy przez Deepwood nie przyszedl (pogoda 10-17, 10-20 zle); ~10-24. ### 300-10-26 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO - wlasni w toku (zasada 7); stan w nastepnej karcie urzedu / zbiorczym (~11-01). ### 300-11-01 DZIEN BILANSU: w toku (wlasni, zasada 7/33) - meldunek w stalej karcie urzedu/zbiorczym tego cyklu."
+   "status": "zamkniete 300-11-25 (ustnie od ALYSANE na brzegu, rzut 92): ~80 z 100 lodzi gotowych, reszta do polowy zimy; racje Korony doszly lodziami Torrena w X - rodziny ciesli nie glodowaly; Maege wdzieczna. Kruk z Wyspy o tym poszedl do WF w X i sie rozminal (E)."
   },
   {
    "data": "300-09-14",
@@ -17526,7 +17526,7 @@
    "status": "otwarte"
   },
   {
-   "co": "DROGA ZACHODEM (zgoda pana 11-13): Symon + Sten + 7 ludzi: CZ -> wzdluz Muru do Wiezy Cieni (ser Denys Mallister) -> brzeg Zatoki Lodu -> lodz Mormontow -> Wyspa Niedzwiedzia (transport dzikich) -> lad kolo Deepwood Motte -> dom. Do ~4 tygodni. Wyjazd z CZ - kiedy pan postanowi. | Rachunek Stena 11-13: CZ->Wieza Cieni ~6 dni; do brzegu ~2; lodz na Wyspe ~1-2; Wyspa ~2-3; przeprawa+do Deepwood ~2-3; Deepwood->Winterfell przez Wilczy Las ~9-10. Razem ~3 tyg. jesli lodz czeka; ~4 tyg. jesli trzeba czekac na lodz/lod. | SLOWO PANA 11-14: WYJAZD 300-11-16 O SWICIE (dzien dla Aemona). Wszyscy razem brama poludniowa; rozdzial za Krecia Wioska, za pierwszym lasem. | 11-15: Aemon zmarl w nocy - wyjazd 11-16 stoi, chyba ze pan postanowi inaczej (stos). | DZIEN 1 (11-16): CZ -> Brama Krolowej (opuszczony zamek Strazy, nocleg pod dachem resztek). Bez zdarzen po jezdzcu; pan: jedziemy dalej, nie ogladamy sie. | DZIEN 2 (11-17): Brama Krolowej -> Glebokie Jezioro (opuszczony zamek, nocleg w stajni pod dachem). Bez zdarzen; snieg slaby. | DZIEN 3 (11-18): Glebokie Jezioro -> obok Nocnego Fortu (bez postoju) -> Lodowy Znak (opuszczony, nocleg w wiezy bramnej). Dobra droga, szybko. | DZIEN 4 (11-19): Lodowy Znak -> Wzgorze Szronu (opuszczone; Sten zatrzymal wczesniej - ludzie po nieprzespanej nocy). Teren wznosi sie, Mur idzie po wzgorzach. Do Wiezy Cieni ~2 dni. | DZIEN 5 (11-20, zadymka, rzut 12): kon juczny stracony (zlamana noga, dobity; mieso na zapas, juki rozlozone na konie wierzchowe); odmrozony policzek u mlodego; Kamienne Drzwi po zmroku. Wieza Cieni ~11-22 (dzien pozniej). | DZIEN 6 (11-21): POSTOJ w Kamiennych Drzwiach (slowo pana, zadymka). Wieza Cieni ~11-23, brzeg ~11-25; lodz (jesli przyplynie ~11-23) czeka do 3 dni - na styk. | DZIEN 7 (11-22, rzut 68): Kamienne Drzwi -> Szara Straz (mijana) -> STRAZNICA WARTOWNIKOW (Sentinel Stand, opuszczona). Wieza Cieni jutro przed poludniem. | DZIEN 9 (11-24, rzut 8): zejscie z Wiezy - Torgen (E, czlowiek Stena) zlamana kostka na oblodzonym zboczu; jedzie na koniu; nocleg pod nawisem skalnym w pol drogi do Zachodniej Strazy. Brzeg ~11-26 (zamiast 25) - lodz czeka do ~11-26: NA OSTRZU. | DZIEN 10 (11-25, rzut 85): Zachodnia Straz przy Moscie mijana po poludniu; BRZEG ZATOKI LODU o zmierzchu. Lodz Mormontow jest.",
+   "co": "DROGA ZACHODEM (zgoda pana 11-13): Symon + Sten + 7 ludzi: CZ -> wzdluz Muru do Wiezy Cieni (ser Denys Mallister) -> brzeg Zatoki Lodu -> lodz Mormontow -> Wyspa Niedzwiedzia (transport dzikich) -> lad kolo Deepwood Motte -> dom. Do ~4 tygodni. Wyjazd z CZ - kiedy pan postanowi. | Rachunek Stena 11-13: CZ->Wieza Cieni ~6 dni; do brzegu ~2; lodz na Wyspe ~1-2; Wyspa ~2-3; przeprawa+do Deepwood ~2-3; Deepwood->Winterfell przez Wilczy Las ~9-10. Razem ~3 tyg. jesli lodz czeka; ~4 tyg. jesli trzeba czekac na lodz/lod. | SLOWO PANA 11-14: WYJAZD 300-11-16 O SWICIE (dzien dla Aemona). Wszyscy razem brama poludniowa; rozdzial za Krecia Wioska, za pierwszym lasem. | 11-15: Aemon zmarl w nocy - wyjazd 11-16 stoi, chyba ze pan postanowi inaczej (stos). | DZIEN 1 (11-16): CZ -> Brama Krolowej (opuszczony zamek Strazy, nocleg pod dachem resztek). Bez zdarzen po jezdzcu; pan: jedziemy dalej, nie ogladamy sie. | DZIEN 2 (11-17): Brama Krolowej -> Glebokie Jezioro (opuszczony zamek, nocleg w stajni pod dachem). Bez zdarzen; snieg slaby. | DZIEN 3 (11-18): Glebokie Jezioro -> obok Nocnego Fortu (bez postoju) -> Lodowy Znak (opuszczony, nocleg w wiezy bramnej). Dobra droga, szybko. | DZIEN 4 (11-19): Lodowy Znak -> Wzgorze Szronu (opuszczone; Sten zatrzymal wczesniej - ludzie po nieprzespanej nocy). Teren wznosi sie, Mur idzie po wzgorzach. Do Wiezy Cieni ~2 dni. | DZIEN 5 (11-20, zadymka, rzut 12): kon juczny stracony (zlamana noga, dobity; mieso na zapas, juki rozlozone na konie wierzchowe); odmrozony policzek u mlodego; Kamienne Drzwi po zmroku. Wieza Cieni ~11-22 (dzien pozniej). | DZIEN 6 (11-21): POSTOJ w Kamiennych Drzwiach (slowo pana, zadymka). Wieza Cieni ~11-23, brzeg ~11-25; lodz (jesli przyplynie ~11-23) czeka do 3 dni - na styk. | DZIEN 7 (11-22, rzut 68): Kamienne Drzwi -> Szara Straz (mijana) -> STRAZNICA WARTOWNIKOW (Sentinel Stand, opuszczona). Wieza Cieni jutro przed poludniem. | DZIEN 9 (11-24, rzut 8): zejscie z Wiezy - Kettil (E, czlowiek Stena) zlamana kostka na oblodzonym zboczu; jedzie na koniu; nocleg pod nawisem skalnym w pol drogi do Zachodniej Strazy. Brzeg ~11-26 (zamiast 25) - lodz czeka do ~11-26: NA OSTRZU. | DZIEN 10 (11-25, rzut 85): Zachodnia Straz przy Moscie mijana po poludniu; BRZEG ZATOKI LODU o zmierzchu. Lodz Mormontow jest.",
    "kto": "SYMON / STEN",
    "kanal": "w drodze",
    "wraca": "300-12-10",
@@ -17611,6 +17611,14 @@
    "kanal": "ustnie po powrocie",
    "wraca": "300-12-10",
    "zamyka": "slowo Krola",
+   "status": "otwarte"
+  },
+  {
+   "co": "PRZEPRAWA DZIKICH PRZEZ WYSPE NIEDZWIEDZIA - STAN (Alysane 11-25, rzut 36): od lata przez Wyspe przeszlo ~3 tys. (E, liczone przez Mormontow, bez imion); teraz na Wyspie czeka ~600 - lod przy brzegach rosnie, kursy rzadsze; ciasno i glodno w obozie pod Dworem Mormontow, tarcia z wyspiarzami (kradzieze ryb, jedna bojka); Maege prosi o zboze (list 11-19). Pan zobaczy na miejscu.",
+   "kto": "MAEGE / ALYSANE (wola zewnetrzna)",
+   "kanal": "na miejscu, Wyspa",
+   "wraca": "300-11-27",
+   "zamyka": "pan oglada oboz na Wyspie; decyzja / slowo do Krola",
    "status": "otwarte"
   }
  ],

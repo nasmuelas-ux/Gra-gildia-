@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 11,
-  "dzien": 17,
+  "dzien": 18,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 50 (300-11-17): przecietnie - zachmurzone, mroz, slaby snieg od poludnia; widocznosc dobra.",
- "dzien_tygodnia_nr": 7,
+ "pogoda": "RZUT 61 (300-11-18): dobrze - przejasnia sie, mroz, bez opadu; slad wczorajszego sniegu lekki.",
+ "dzien_tygodnia_nr": 1,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

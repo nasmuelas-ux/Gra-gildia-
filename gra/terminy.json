@@ -9111,7 +9111,7 @@
    "kanal": "osobiscie, Dreadfort",
    "wraca": "300-11-04",
    "zamyka": "odpowiedz Roose'a: Winterfell / pomoc Korony / nic",
-   "status": "otwarte ### 08-14: NIE PRZYSZLO I WIADOMO DLACZEGO - Krol wyplynal z BP porannym odplywem 08-13/14; rozmowa z Roose'em przy postoju w Dreadforcie (~08-14/15), list Krola krukiem ~08-16 (zasada 34). Rzut przy liscie. ### 08-16 LIST KROLA (rzut 78): Walda rodzi w Dreadforcie; Roose przyjmuje JEDNA akuszerke Korony w IX, bez orszaku - wybiera Luwin; podziekowanie 'tylko od Krola'. NASTEPNY KROK: Luwin wskazuje akuszerke; wyjazd ~IX-01. ### 08-16 VOID (zasada 3, wskazanie pana): w liscie Krola GM pominal akuszerke z Blizniakow (07-24, rzut 65: lady Jeyne + akuszerka - w drodze). POPRAWIONE: Roose czeka na krewna z akuszerka z Blizniakow; akuszerka Korony (wybor Luwina) TYLKO jesli tamte nie dojada przed IX. Wraca: czy dojechaly - ~09-01. ### 08-27 SLOWO PANA (prosba Krolowej): akuszerka Korony GELLA Z ZM (wybor Luwina, E) jedzie 08-28 sama (2 straznikow do bram), z listami Krolowej do Waldy i do Roose'a (prosba jako siostra - 'jesli macie kogo trzeba, odeslijcie z podziekowaniem'). Dojazd ~09-02. Przyjecie - RZUT przy meldunku (~09-05, kruk Dreadfort-WF / powrot straznikow). ### 09-05 (poczta_300_09_05.md): GELLA RZUT 17 ZLE: jedna noc, odeslana; Walda zdrowa, termin X; list Roose'a chlodny. Gella wraca ~09-09."
+   "status": "zamkniete 300-12-17 (rzut 20): porod ~11-20 ciezki - SYN, maly i slaby; Walda goraczkuje, zyje (kruk Dreadfortu ~11-24)"
   },
   {
    "data": "300-07-10",
@@ -17256,7 +17256,7 @@
    "kanal": "kruk WF-Dreadfort",
    "wraca": "300-11-06",
    "zamyka": "odpowiedz Roose'a: clo/karta/listy (rzut) albo milczenie",
-   "status": "otwarte ### 300-11-01 PRZEGLAD (pytanie pana): WYSLANE 10-30 krukiem WF-Dreadfort (3 dni, ~11-02; zasada 45). Czeka na odpowiedz Roose'a (najwczesniej ~11-06)."
+   "status": "zamkniete 300-12-17 (odp. ~11-12, rzut 59): polowa zaleglego cla teraz (kwota wg Osmunda), reszta po odwilzy; ksiegi Boltonsgate dla komory BP (handel z BP); listy 'zaginely' - odpisal; PROSI o powrot Ramsaya i 20"
   },
   {
    "data": "300-10-29",
@@ -17411,7 +17411,7 @@
    "kanal": "WF",
    "wraca": "300-11-30",
    "zamyka": "pan wraca z Muru / zdarzenie zgloszone Krolowi",
-   "status": "otwarte"
+   "status": "zamkniete 300-12-17 (rzut 36): Ramsay nienaganny; dwoch z jego 20 dwa razy znikalo na pol dnia do Zimowego Miasta - z kim nie ustalono (ser Alyn, Aldwin)"
   },
   {
    "co": "PODWYZSZONY REZIM OCHRONY RODZINY (rozkaz pana 11-02, do Stena i Dagona razem): Dagon (oddzial II, 10) stale przy Mirze i Lyrze, eskorta Miry na wyjazdy do szkoly ZM (nie sama); przy PIERWSZYM podejrzeniu zagrozenia - natychmiast do Krola (nie czekac na pewnosc ani na pana); ciaglosc rodu Tally i zycie Miry za wszelka cene. Obowiazuje przez cala nieobecnosc pana (na Murze).",
@@ -17723,6 +17723,14 @@
    "kanal": "raport kontrwywiadu / kruk Domu CZ",
    "wraca": "301-01-02",
    "zamyka": "slad odpowiedzi z KP albo brak",
+   "status": "otwarte"
+  },
+  {
+   "co": "RAMSAY I 20 - POWROT DO DREADFORTU? (prosba Roose'a ~11-12; syn Waldy ~11-20): Krol decyduje - wypuscic (warunek z 10-29: polowa cla zaplacona, reszta po odwilzy - spelniony czesciowo) czy trzymac do reszty cla. Ryzyko: Ramsay w Dreadforcie przy slabym prawym dziedzicu. Dwaj z jego 20 znikali w ZM - Aldwin.",
+   "kto": "KROL ; pan (rada)",
+   "kanal": "Rada 12-18",
+   "wraca": "300-12-18",
+   "zamyka": "slowo Krola",
    "status": "otwarte"
   }
  ],

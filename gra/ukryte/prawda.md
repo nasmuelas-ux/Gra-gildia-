@@ -483,3 +483,6 @@ Jon: Robb milczy dlugo; ulga i zal. Postanowienie Krola (ustne): nie sadzic Jona
 
 ## 300-12-17 — KRUKI SLYNTA (wg ksiegi Clydasa, przez Benna; rzut 29)
 11-17: kruk do KP (rownoczesnie z krukiem do Wiezy Cieni) - tresc nieznana; najpewniej to samo o cichej drodze Namiestnika + plotka o Polnocy kupujacej Straz. 11-30: drugi kruk do KP po przegranym wyborze. Do Dreadfortu - zadnego wpisu (Clydas). Wiesc moze dojsc z KP na Polnoc dopiero przez Lannisterow/Freyow - tygodnie.
+
+## 300-12-17 — BOLTONOWIE (rzuty 59 / 36 / 20)
+Roose: list ~11-12 - polowa zaleglego cla (wg Osmunda, kwota z jego wyliczenia), reszta po odwilzy; ksiegi Boltonsgate dla komory BP w zakresie handlu z BP; prosi o powrot Ramsaya i 20. Walda: syn ~11-20, slaby; Walda w goraczce. Prawe loze ma dziedzica - Ramsay ma motyw; Roose chce Ramsaya w domu (dlaczego - ukryte: Roose chce go miec na oku albo uzyc; nie ustalono). Dwaj z 20 Ramsaya znikali w ZM (z kim - nie ustalono; Aldwin).

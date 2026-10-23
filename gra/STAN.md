@@ -1975,7 +1975,7 @@ Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane 
 - **Data:** 300-11-14 ranek · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.25 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 74 · Zmeczenie 11**
+- **Zdrowie 100 · Sytosc 96 · Zmeczenie 11**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 510 smokow + 154 jeleni + 44 mied
@@ -4042,7 +4042,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `rodzina/LYRA` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-11-13] `dziennik`: PAN u HALLISA (Mance i szklo). MANCE rzut 78: dzika kobieta pod Murem (Dlugi Kurhan, ~11-10) - Mance ZYJE, w marszu wzdluz Mlecznej Wody na wschod ku Mroznemu Brzegowi, czeka na lod na Zatoc…
 - [300-11-13] `dziennik`: SLOWO PANA (Hallis): drugi ladunek szkla (30 skrzyn) zostaje u COTTERA PYKE we WSCHODNIEJ STRAZNICY. Hallis pisze krukiem; kwit dla Stannisa przez Davosa.
 - [300-11-13] `dziennik`: PAN u BENNA (posterunek Domu na CZ: lada, wagi, skrzynia, ksiega). LISTY NA POLUDNIE (wlasny, bez rzutu na raport): od lata 2 kruki Slynta do KP przez Clydasa, do rak KROLOWEJ REGENTKI (z ks…
 - [300-11-13] `dziennik`: SLOWO PANA do BENNA: wstrzymac sprzedaz wina Slyntowi; pochwala (robisz dobra robote). BENNO: nie odmawia wprost - barylek nie ma, zima (prawda - wiecej nie zamowi), zeby nie gadal, ze Dom z…
@@ -4054,3 +4053,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-11-13] `MUR_POWROT`: Decyzja: ranny zwiadowca zostaje na Murze. Symon oddaje list do lady Maege Bennowi; kruk Domu do Luwina o swicie 11-14. Benno bierze rannego pod oko.
 - [300-11-13] `MUR_POWROT`: Symon pisze szyfrem Domu do Aldwina w Winterfell: wraca zachodem; sanie Traktem to przyneta, patrzec kto sie nimi interesuje; ranny zostaje na Murze. Oddane Bennowi, kruk Domu o swicie 11-14…
 - [300-11-14] `dziennik`: 300-11-14 RANEK (Czarny Zamek). SEN RZUT 14: zle - wiatr w szczelinach, ciezki sen, budzenie przed switem; zmeczenie ->11, sytosc 74. POGODA 40: szaro, mroz, wiatr od Muru. O SWICIE: Clydas …
+- [300-11-14] `MUR_POWROT`: Sniadanie w sali wspolnej CZ: owsianka, boczek, ciemne piwo. Sytosc 96. Sten melduje: sanie gotowe do wyjazdu kiedy pan powie; Umberowie czekaja.

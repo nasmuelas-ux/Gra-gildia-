@@ -3736,3 +3736,4 @@ rzut 9
 300-11-30 sen 51 / pogoda 89 / stopa kuzynki Grisel = 93 (rozowieje, bez zakazenia - maester: nie trzeba ciac)
 300-11-30 NAPRAWA NARZEDZIA: dzien.py data_z - dzien 30 miesiaca 11 drukowal '301--1-30' (m<=0 nieobslugiwane); poprawione na m<=0 -> r-1, m+12
 300-11-30 przeprawa Wyspa -> lad pod Wilczym Lasem = 13 (zle: martwa fala po sztormie, szkwal po poludniu; kuc zerwal sie i poszedl za burte - stracony; zniesieni na poludnie - ladowanie po zmroku w skalistej zatoczce, nie tej planowanej; +1 dzien do Deepwood; przemoczeni)
+300-12-01 sen 75 / pogoda 55

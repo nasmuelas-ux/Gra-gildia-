@@ -1,14 +1,14 @@
 {
  "data": {
   "rok": 300,
-  "miesiac": 11,
-  "dzien": 30,
+  "miesiac": 12,
+  "dzien": 1,
   "era": "AC"
  },
- "pora": "noc",
+ "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 89 (300-11-30): dobrze - po sztormie czysto, mroz, rowny wiatr z polnocnego zachodu; morze opada, kra rzadka.",
- "dzien_tygodnia_nr": 6,
+ "pogoda": "RZUT 55 (300-12-01): przecietnie - szaro, mroz, bez wiatru w lesie; snieg stary, gleboki miedzy pniami.",
+ "dzien_tygodnia_nr": 7,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

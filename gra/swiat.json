@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 11,
-  "dzien": 20,
+  "dzien": 21,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 24 (300-11-20): zle - wiatr od Mroznych Klow, zadymka na grzbietach, widocznosc slaba po poludniu.",
- "dzien_tygodnia_nr": 3,
+ "pogoda": "RZUT 17 (300-11-21): zle - zadymka trwa i gestnieje, wiatr od Mroznych Klow, widocznosc kilkanascie krokow od rana.",
+ "dzien_tygodnia_nr": 4,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

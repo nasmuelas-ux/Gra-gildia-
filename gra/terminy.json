@@ -17436,6 +17436,14 @@
    "wraca": "300-11-09",
    "zamyka": "jency pod straza + meldunek z nitka posrednika wyslany do WF",
    "status": "otwarte"
+  },
+  {
+   "co": "JENCY DO ALDWINA (rozkaz pana 11-08): zawodowiec (obserwator, bliski zrodla) + 2 najemnicy z jaru, pod SILNA eskorta Umbera do Winterfell, do Aldwina; obaj opisy POSREDNIKA; WSZYSCY MAJA DOJECHAC ZYWI (szczegolnie zawodowiec - geba do gadania, nie worek). Rusza, gdy zamiec (pogoda 1) zejdzie. Wielki Jon reczy. Aldwin prowadzi nitke posrednika (wschod). ### DOBRY-ZLY (Symon dobry, Sten zly) rzut 73: wyciagnieto POSREDNIKA (nie szczyt - cutout trzyma): (1) PUNKT = zajazd/karczma na rozdrozu po wschodniej stronie, dojazd z ziemi za Placzaca Woda bez pytania o droge (opis wystarczy by znalezc); (2) HANDLER - uchwyt (imie pewnie falszywe), placi moneta z gory, opis zgodny z nitka z jaru = TEN SAM posrednik; (3) NASTEPNY TERMIN KONTAKTU znany - Aldwin moze posadzic czlowieka na rozdrozu i wziac posrednika (warstwa wyzej), ZANIM ten sie zorientuje (zawodowiec nie wroci z meldunkiem). Dla Aldwina: PULAPKA do zastawienia, nie tylko opis.",
+   "kto": "MORS/eskorta Umbera ; ALDWIN (odbior) ; KROL",
+   "kanal": "eskorta Umbera Dar->Winterfell",
+   "wraca": "300-11-20",
+   "zamyka": "jency i opisy u Aldwina w WF (zywi); Aldwin rusza nitke",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

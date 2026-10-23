@@ -17247,7 +17247,7 @@
    "kanal": "kruk Domu przez Benna",
    "wraca": "300-11-10",
    "zamyka": "wiesc Hallisa o Mansie (rzut)",
-   "status": "otwarte"
+   "status": "otwarte ### 300-11-13 HALLIS (rzut 78): dzika kobieta z 2 dzieci pod Murem przy Dlugim Kurhanie (~11-10): MANCE ZYJE, w marszu - prowadzi caly lud wzdluz Mlecznej Wody na wschod ku Mroznemu Brzegowi, czeka na lod na Zatoce; milczy, bo jego ludzie nie stoja jeszcze na brzegu. ⚠ Przy Mansie jedzie 'wrona, ktora zdjela czern' - mlody, ciemnowlosy, a za nim BIALY WILK z czerwonymi oczami (Duch?). Jedno slowo, nie dowod; zgodne ze swiadkiem z 05-03 (Jon zywy wsrod dzikich). TYLKO DLA KROLA (sprawa brata)."
   },
   {
    "data": "300-10-29",
@@ -17483,6 +17483,14 @@
    "kanal": "ustnie",
    "wraca": "bez daty",
    "zamyka": "przekazane / nigdy",
+   "status": "otwarte"
+  },
+  {
+   "co": "DRUGI LADUNEK SMOCZEGO SZKLA (Stannis) - 30 SKRZYN W WSCHODNIEJ STRAZNICY (kruk 11-11, rzut 71): kadlub Wymana wszedl przed zamknieciem redy przez lod; Cotter Pyke trzyma i liczy; pyta: wiezc saniami na CZ czy trzymac u siebie ('jak cos przyjdzie, to od morza'). DO SLOWA PANA (warunek Stannisa: na Mur - oba miejsca to Mur).",
+   "kto": "COTTER PYKE ; HALLIS ; pan",
+   "kanal": "kruk CZ-Wschodnia Straznica",
+   "wraca": "300-11-14",
+   "zamyka": "slowo pana: gdzie trzymac szklo",
    "status": "otwarte"
   }
  ],

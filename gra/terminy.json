@@ -17611,7 +17611,7 @@
    "kanal": "ustnie po powrocie",
    "wraca": "300-12-18",
    "zamyka": "slowo Krola",
-   "status": "otwarte"
+   "status": "zamkniete 300-12-18 (Rada, slowo Krola z 12-17 potwierdzone): (1) zboze Cypla przez Wyspe - Orland wylicza czesc dla ~600 czekajacych w ramach przydzialu; (2) mleko makowe i wino - Luwin wysyla przez Deepwood (kruk do Dacey/Glovera, lodz Alysane); (3) czlowiek od ran - list Krola do Wymana; (4) przeliczenie zboza na przejscie po lodzie - osobny termin"
   },
   {
    "co": "PRZEPRAWA DZIKICH PRZEZ WYSPE NIEDZWIEDZIA - STAN (Alysane 11-25, rzut 36): od lata przez Wyspe przeszlo ~3 tys. (E, liczone przez Mormontow, bez imion); teraz na Wyspie czeka ~600 - lod przy brzegach rosnie, kursy rzadsze; ciasno i glodno w obozie pod Dworem Mormontow, tarcia z wyspiarzami (kradzieze ryb, jedna bojka); Maege prosi o zboze (list 11-19). Pan zobaczy na miejscu. | 11-27 pan widzial oboz z Maege (rzut 23): CHOROBA - biegunka z goraczka w dolnej czesci (woda z potoku ponizej obozu, odchody), ~20 chorych, 2 dzieci zmarlo w tym tygodniu; maester (stary, sam) nie nadaza; Maege kaze palic zmarlych (zwyczaj + strach przed wstaniem). | SLOWO PANA 11-27: (1) woda POWYZEJ obozu - Maege kaze od razu, wartowniczka przy gornym potoku, dol potoku zamkniety dla wiader; (2) szybciej na Cypel - Maege (rzut 77): po sztormie konwoj ~20 nowych lodzi-ploz, sternik Mormontow na kazdej, wiosluja dzicy; ~200 dusz na kurs, co 2-3 dni przy pogodzie; zdrowi rodami najpierw, chorzy zostaja przy maestrze do wyzdrowienia (nie wiezc zarazy na Cypel). Przy lodzie - koniec. | 11-28: sztorm (rzut 11) - konwoj na Cypel wstrzymany. | 11-28 (rzut 59): od wczoraj bez zgonow; 3-4 nowych chorych (maester: zarazili sie przed zmiana wody, za wczesnie mowic); dol na potrzeby wykopany, straz przy gornym potoku; sztorm zwalil kilkanascie szalasow - Maege wpuscila rodziny pod dach szopy z lodziami. | 11-29 noc (huragan, rzut 73): zlamal sie zachodni koniec dachu szopy z lodziami - 2 rannych dzikich (reka, stopa), bez zgonow; 3 lodzie-plozy z polamanymi burtami. Konwoj nadal stoi. | 11-29 rano (rzut 22): zmarl stary czlowiek z chorych (wyziebiony w nocy przy przenoszeniu) - spalony w poludnie; nowych biegunek tylko 1 (maester: woda gorna pomaga); ranna stopa staruchy - ryzyko zakazenia. | 11-30: pogoda dobra (rzut 89) - Maege puszcza PIERWSZY KONWOJ na Przyladek (~20 lodzi, ~200 zdrowych rodami); kuzynka Grisel - stopa bez zakazenia (rzut 93). | 12-03: pan w Wilczym Lesie - wiesc z Wyspy przez Dacey/Deepwood albo WF.",
@@ -17755,6 +17755,22 @@
    "kanal": "WF -> CZ saniami Daru",
    "wraca": "301-01-15",
    "zamyka": "sanie z bronia w CZ; kwit Marsha",
+   "status": "otwarte"
+  },
+  {
+   "co": "ZBOZE NA PRZEJSCIE MANCE'A PO LODZIE (Rada 12-18): Mance na Mroznym Brzegu czeka na lod Zatoki - gdy stanie, przez Wyspe/Przyladek kilkadziesiat tysiecy (zapis 07-26: ponad 22 tys. przed chlebem). ORLAND liczy: ile korcy na zime i wiosne dla takiej liczby, czy Spichlerz Etapu I + zakupy unosza (laczy ze SPISEM ZBOZA W SKLADACH CALEJ POLNOCY - jedna liczba); GAWEN - koszt; RODRIK - straz na Przyladku przy przejsciu. Karta przed nastepna Rada.",
+   "kto": "ORLAND ; GAWEN ; RODRIK",
+   "kanal": "karta na pismie",
+   "wraca": "300-12-30",
+   "zamyka": "jedna liczba + plan na Rade",
+   "status": "otwarte"
+  },
+  {
+   "co": "LIST KROLA DO WYMANA - CZLOWIEK OD RAN DLA WYSPY NIEDZWIEDZIEJ (Rada 12-18): prosba o maestra/uzdrowiciela z BP do Mormontow (oboz dzikich, biegunka, odmrozenia) - lodzia z BP na Wyspe.",
+   "kto": "KROL (Beron) -> WYMAN",
+   "kanal": "kruk WF-BP",
+   "wraca": "300-12-28",
+   "zamyka": "odpowiedz Wymana (rzut)",
    "status": "otwarte"
   }
  ],

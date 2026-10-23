@@ -17468,6 +17468,22 @@
    "wraca": "300-11-30",
    "zamyka": "Arya uslyszala prawde od pana",
    "status": "otwarte"
+  },
+  {
+   "co": "PROSBA AEMONA (11-13): po jego smierci SPALIC go jak krew smoka, nie skladac w lodzie; Namiestnik ma dopilnowac (Clydas wie). Jesli pan bedzie juz w drodze - slowo pana do Bowena Marsha/Clydasa przed wyjazdem.",
+   "kto": "pan -> BOWEN MARSH, CLYDAS",
+   "kanal": "Czarny Zamek, ustnie",
+   "wraca": "300-11-14",
+   "zamyka": "slowo pana przekazane Marshowi i Clydasowi",
+   "status": "otwarte"
+  },
+  {
+   "co": "SLOWO AEMONA DLA DAENERYS (11-13): jesli ktos kiedys do niej dotrze - przekazac, ze jej stary wuj na koncu swiata o niej myslal i zalowal, ze jej nie zobaczy. Zwiazane z charge Aemona (ktos od ksiag do Meereen) - do slowa Krola.",
+   "kto": "pan (niesie) -> ktokolwiek dotrze do Daenerys",
+   "kanal": "ustnie",
+   "wraca": "bez daty",
+   "zamyka": "przekazane / nigdy",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

@@ -16761,7 +16761,7 @@
    "kanal": "WF / domena",
    "wraca": "300-11-08",
    "zamyka": "uboj wykonany, loj w ksiedze Orlanda",
-   "status": "otwarte ### 300-10-26 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO - wlasni w toku (zasada 7); stan w nastepnej karcie urzedu / zbiorczym (~11-01). ### 300-11-01 DZIEN BILANSU: w toku (wlasni, zasada 7/33) - meldunek w stalej karcie urzedu/zbiorczym tego cyklu."
+   "status": "otwarte ### 300-10-26 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO - wlasni w toku (zasada 7); stan w nastepnej karcie urzedu / zbiorczym (~11-01). ### 300-11-01 DZIEN BILANSU: w toku (wlasni, zasada 7/33) - meldunek w stalej karcie urzedu/zbiorczym tego cyklu. ### 300-11-01 karta racji: ~40 sztuk (E), loj ~8 dni tluszczu; trwa."
   },
   {
    "data": "300-10-18",
@@ -16977,7 +16977,7 @@
    "kanal": "goniec do Edrica (ZM/domena)",
    "wraca": "300-11-08",
    "zamyka": "pierwszy meldunek lowow i wytopu z liczbami",
-   "status": "otwarte ### 10-21 rozkaz pana; goniec do Edrica 10-22 rano. ### 10-21 SLOWO PANA: uwzglednic w karcie racji; liczby dopisac po zakonczeniu lowow (meldunek Edrica). ### 300-11-01 DZIEN BILANSU: w toku (wlasni, zasada 7/33) - meldunek w stalej karcie urzedu/zbiorczym tego cyklu."
+   "status": "otwarte ### 10-21 rozkaz pana; goniec do Edrica 10-22 rano. ### 10-21 SLOWO PANA: uwzglednic w karcie racji; liczby dopisac po zakonczeniu lowow (meldunek Edrica). ### 300-11-01 DZIEN BILANSU: w toku (wlasni, zasada 7/33) - meldunek w stalej karcie urzedu/zbiorczym tego cyklu. ### 300-11-01 MELDUNEK EDRICA (karta racji 11-01), RZUT 29 - SLABO: snieg miesiac za wczesnie, niedzwiedzie spia; kilka dzikow, borsuki - ~3 dni tluszczu. DO SLOWA PANA: dalej polowac czy odeslac mysliwych (Orland: zwinac)."
   },
   {
    "data": "300-10-21",
@@ -17807,6 +17807,19 @@
    "opoznienie": 0,
    "ostatnio_odebrane": "300-11-01",
    "zrodlo": "ustalenie 300-07-18; wpis do cykli 300-11-01"
+  },
+  {
+   "id": "KARTA_RACJI",
+   "co": "KARTA RACJI KORONY (Orland Korzec) - co tydzien od slowa pana 10-18: zboze/ryba/kiszonka/tluszcz w dniach dla ~1275 gab + rubryka MUR (od 10-25). Pod nieobecnosc pana - do rak Gawena, odpis kurierem za panem.",
+   "kto": "ORLAND KORZEC",
+   "kanal": "na miejscu (WF)",
+   "rytm": {
+    "co_dni": 7,
+    "start": "300-10-18"
+   },
+   "opoznienie": 0,
+   "ostatnio_odebrane": "300-11-01",
+   "zrodlo": "slowo pana 300-10-18; wpis do cykli 300-11-01 (brakowal)"
   }
  ],
  "_cykliczne_zakonczone": [

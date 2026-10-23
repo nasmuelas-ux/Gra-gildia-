@@ -17652,6 +17652,14 @@
    "wraca": "300-12-10",
    "zamyka": "wiesc w karcie Theona / przegladzie",
    "status": "otwarte"
+  },
+  {
+   "co": "TOMAN (E: piegowaty chlopak z oddzialu Stena, ~16-17 lat, z Zimowego Miasta) - GORACZKA PO WPADNIECIU POD LOD (12-01): 12-02 wieczorem majaczy, ciezki oddech, rzezenie (rzut 14) - grozi zapalenie pluc. Najblizszy maester: Deepwood (Gloverowie). Rzut na stan co dzien.",
+   "kto": "pan / Sten",
+   "kanal": "na miejscu",
+   "wraca": "300-12-03",
+   "zamyka": "chlopak u maestera w Deepwood albo przelom",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

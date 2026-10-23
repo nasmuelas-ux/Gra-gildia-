@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 12,
-  "dzien": 9,
+  "dzien": 10,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "ranek",
  "sezon": "zima (300)",
  "pogoda": "RZUT 66 (300-12-09): dobrze - mroz, lekkie zachmurzenie, bez opadu.",
- "dzien_tygodnia_nr": 1,
+ "dzien_tygodnia_nr": 2,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

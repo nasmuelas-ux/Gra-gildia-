@@ -3735,3 +3735,4 @@ rzut 9
 300-11-29 Maege o zelaznych w tym roku = 74 (dobrze: na Wyspie nie ladowali; latem 2x po 3 dlugie lodzie u zach. cypla - zawrocily na ogien; w X rybacy widzieli samotna dluga lodz bez zagla, na wioslach, daleko na zachodzie, na poludnie - ku Kamiennemu Brzegowi/Palcowi; od sztormow nic)
 300-11-30 sen 51 / pogoda 89 / stopa kuzynki Grisel = 93 (rozowieje, bez zakazenia - maester: nie trzeba ciac)
 300-11-30 NAPRAWA NARZEDZIA: dzien.py data_z - dzien 30 miesiaca 11 drukowal '301--1-30' (m<=0 nieobslugiwane); poprawione na m<=0 -> r-1, m+12
+300-11-30 przeprawa Wyspa -> lad pod Wilczym Lasem = 13 (zle: martwa fala po sztormie, szkwal po poludniu; kuc zerwal sie i poszedl za burte - stracony; zniesieni na poludnie - ladowanie po zmroku w skalistej zatoczce, nie tej planowanej; +1 dzien do Deepwood; przemoczeni)

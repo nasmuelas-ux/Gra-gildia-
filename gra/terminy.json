@@ -16977,7 +16977,7 @@
    "kanal": "goniec do Edrica (ZM/domena)",
    "wraca": "300-11-08",
    "zamyka": "pierwszy meldunek lowow i wytopu z liczbami",
-   "status": "otwarte ### 10-21 rozkaz pana; goniec do Edrica 10-22 rano. ### 10-21 SLOWO PANA: uwzglednic w karcie racji; liczby dopisac po zakonczeniu lowow (meldunek Edrica). ### 300-11-01 DZIEN BILANSU: w toku (wlasni, zasada 7/33) - meldunek w stalej karcie urzedu/zbiorczym tego cyklu. ### 300-11-01 MELDUNEK EDRICA (karta racji 11-01), RZUT 29 - SLABO: snieg miesiac za wczesnie, niedzwiedzie spia; kilka dzikow, borsuki - ~3 dni tluszczu. DO SLOWA PANA: dalej polowac czy odeslac mysliwych (Orland: zwinac)."
+   "status": "zamkniete 300-11-01: SLOWO PANA - mysliwi odeslani do wsi (rada Orlanda). Wynik lowow ~3 dni tluszczu (rzut 29). ### otwarte ### 10-21 rozkaz pana; goniec do Edrica 10-22 rano. ### 10-21 SLOWO PANA: uwzglednic w karcie racji; liczby dopisac po zakonczeniu lowow (meldunek Edrica). ### 300-11-01 DZIEN BILANSU: w toku (wlasni, zasada 7/33) - meldunek w stalej karcie urzedu/zbiorczym tego cyklu. ### 300-11-01 MELDUNEK EDRICA (karta racji 11-01), RZUT 29 - SLABO: snieg miesiac za wczesnie, niedzwiedzie spia; kilka dzikow, borsuki - ~3 dni tluszczu. DO SLOWA PANA: dalej polowac czy odeslac mysliwych (Orland: zwinac)."
   },
   {
    "data": "300-10-21",
@@ -17274,7 +17274,7 @@
    "kanal": "Trakt Krolewski Winterfell-Czarny Zamek",
    "wraca": "300-11-02",
    "zamyka": "data wyjazdu ustalona po bilansie; potem meldunki z drogi",
-   "status": "otwarte"
+   "status": "otwarte ### 300-11-01 SLOWO PANA: pan jedzie z KONWOJEM - sanie z kiszonka i tluszczem z targu ZM (Dar Korony dla Strazy); tempo sani, eskorta Stena (oddzial I). Wyjazd 11-02 jesli pogoda pozwoli."
   },
   {
    "data": "300-10-30",
@@ -17355,6 +17355,14 @@
    "kanal": "osobiscie, Czarny Zamek",
    "wraca": "300-11-15",
    "zamyka": "list oddany Jonowi / zostawiony z adresem u Aemona / przywieziony; i slowo dla Aryi po powrocie",
+   "status": "otwarte"
+  },
+  {
+   "co": "KONWOJ Z PANEM NA MUR - KISZONKA ~30 BECZEK + TLUSZCZ ~10 BECZEK (smalec, loj) z targu w ZIMOWYM MIESCIE (slowo pana 11-01; zakup po cenie ze slupa, Kasa 3, kwota w ksiedze Gawena przy kwicie - zasada 43). RZUT 78 (podaz): kupione dzis po poludniu przez czlowieka Orlanda. ~8 sani z woznicami. Znak 'Dar Korony Polnocy dla Nocnej Strazy', choragiew wilka. Do Czarnego Zamku razem z panem, kwit od intendenta (Bowen Marsh) przy wydaniu. E skutek dla Muru: kiszonka ~18 -> ~30 dni, tluszcz ~18 -> ~45 dni.",
+   "kto": "ORLAND (zakup) ; GAWEN (kwit, Kasa 3) ; pan + STEN (konwoj)",
+   "kanal": "Trakt Krolewski WF-Czarny Zamek (sanie)",
+   "wraca": "300-11-15",
+   "zamyka": "sanie w Czarnym Zamku, kwit intendenta; rubryka Mur w karcie racji",
    "status": "otwarte"
   }
  ],

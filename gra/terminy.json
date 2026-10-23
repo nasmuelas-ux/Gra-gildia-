@@ -17412,6 +17412,14 @@
    "wraca": "300-11-30",
    "zamyka": "pan wraca z Muru / zdarzenie zgloszone Krolowi",
    "status": "otwarte"
+  },
+  {
+   "co": "PODWYZSZONY REZIM OCHRONY RODZINY (rozkaz pana 11-02, do Stena i Dagona razem): Dagon (oddzial II, 10) stale przy Mirze i Lyrze, eskorta Miry na wyjazdy do szkoly ZM (nie sama); przy PIERWSZYM podejrzeniu zagrozenia - natychmiast do Krola (nie czekac na pewnosc ani na pana); ciaglosc rodu Tally i zycie Miry za wszelka cene. Obowiazuje przez cala nieobecnosc pana (na Murze).",
+   "kto": "DAGON (oddzial II) ; SER ALYN/Krol (zawiadomienie) ; MIRA, LYRA (chronieni)",
+   "kanal": "WF + ZM (eskorta Miry); alarm -> Krol",
+   "wraca": "300-11-30",
+   "zamyka": "pan wraca z Muru / zdarzenie zglosone Krolowi",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

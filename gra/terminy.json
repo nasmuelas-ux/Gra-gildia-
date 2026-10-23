@@ -17272,9 +17272,9 @@
    "co": "WYJAZD NAMIESTNIKA NA MUR (do Aemona, sprawa Jona + oglad Strazy): po 11-01, dobra pogoda; eskorta przyboczna Stena (oddzial I); zwiad przodem na trakt zimowy. Protokol: nic na papierze o Jonie, slowo Krolowi samemu; Straz WOLNO spisac. Droga ~12-14 dni ladem.",
    "kto": "SYMON + STEN (oddzial I) ; zwiad przodem",
    "kanal": "Trakt Krolewski Winterfell-Czarny Zamek",
-   "wraca": "300-11-03",
+   "wraca": "300-11-04",
    "zamyka": "data wyjazdu ustalona po bilansie; potem meldunki z drogi",
-   "status": "otwarte ### 300-11-01 SLOWO PANA: pan jedzie z KONWOJEM - sanie z kiszonka i tluszczem z targu ZM (Dar Korony dla Strazy); tempo sani, eskorta Stena (oddzial I). Wyjazd 11-02 jesli pogoda pozwoli. ### 300-11-01 SLOWO PANA (Sten): eskorta = oddzial I CALY (Sten + 10), bez dobierania z II - 'kupiecki tabor, nie orszak'. Zwiad 2x dalej, noclegi pod dachem w osadach, 2 kusznikow przy saniach, pan w szarym plaszczu bez znakow. Przyboczna rodziny: DAGON z oddzialem II (10) przy Mirze i Lyrze - takze przy wieczornych wyjazdach Miry do ZM. ### 300-11-02 SLOWO PANA: ZOSTAJEMY - pogoda 27 (snieg z wiatrem), konwoj rozladowany na jutro; Sten da ludziom i koniom swiezy start. Wymarsz ~11-03, jesli pogoda lepsza (rzut rano). Dzien w WF: sobota, sprawy domowe (raport Aldwina 11-02, centrala Willi 11-02)."
+   "status": "zrobione 300-11-03: WYMARSZ o swicie (pogoda 100). Konwoj ruszyl: zwiad przodem, czolo zbrojne, ~8 sani (kiszonka/tluszcz, Dar Korony), tyl zbrojny; pan w srodku przy saniach, lekka kolczuga pod szarym plaszczem, miecz pod plaszczem, gwizdek Lyry na szyi, odpis Luwina i list Aryi w sakwie. Oddzial I Stena (10). ### otwarte ### 300-11-01 SLOWO PANA: pan jedzie z KONWOJEM - sanie z kiszonka i tluszczem z targu ZM (Dar Korony dla Strazy); tempo sani, eskorta Stena (oddzial I). Wyjazd 11-02 jesli pogoda pozwoli. ### 300-11-01 SLOWO PANA (Sten): eskorta = oddzial I CALY (Sten + 10), bez dobierania z II - 'kupiecki tabor, nie orszak'. Zwiad 2x dalej, noclegi pod dachem w osadach, 2 kusznikow przy saniach, pan w szarym plaszczu bez znakow. Przyboczna rodziny: DAGON z oddzialem II (10) przy Mirze i Lyrze - takze przy wieczornych wyjazdach Miry do ZM. ### 300-11-02 SLOWO PANA: ZOSTAJEMY - pogoda 27 (snieg z wiatrem), konwoj rozladowany na jutro; Sten da ludziom i koniom swiezy start. Wymarsz ~11-03, jesli pogoda lepsza (rzut rano). Dzien w WF: sobota, sprawy domowe (raport Aldwina 11-02, centrala Willi 11-02)."
   },
   {
    "data": "300-10-30",
@@ -17419,6 +17419,14 @@
    "kanal": "WF + ZM (eskorta Miry); alarm -> Krol",
    "wraca": "300-11-30",
    "zamyka": "pan wraca z Muru / zdarzenie zglosone Krolowi",
+   "status": "otwarte"
+  },
+  {
+   "co": "PODROZ NA MUR - DROGA (11-03 wymarsz; Trakt Krolewski WF-Czarny Zamek, ~12-14 dni zima z saniami, E). Meldunki z drogi; ryzyko na odcinkach, gdzie las schodzi do traktu / blizej Dreadfortu (ostrzezenie Aldwina + grozba Ramsaya) - RZUT przy tych odcinkach. Noclegi pod dachem, zwiad przodem, konwoj gotowy bojowo.",
+   "kto": "SYMON + STEN (oddzial I) ; zwiad",
+   "kanal": "Trakt Krolewski",
+   "wraca": "300-11-05",
+   "zamyka": "kolejny etap drogi / zdarzenie (rzut przy odcinkach ryzyka)",
    "status": "otwarte"
   }
  ],

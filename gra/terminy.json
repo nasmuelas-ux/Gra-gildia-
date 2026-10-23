@@ -17606,7 +17606,7 @@
    "status": "zamkniete 300-11-26 (pan na lodzi; przeprawa rzut 51; Wyspa po zmroku)"
   },
   {
-   "co": "PROSBA LADY MAEGE (list 11-19): zboze dla dzikich na Wyspie Niedzwiedziej - do mowy z Krolem (nie warunek, prosba). | 11-26 na Wyspie, PROPOZYCJA MAEGE: czesc zboza dla Cypla (lodzie Maege z Dustinportu/GP) wyladowac najpierw na Wyspie dla ~600 czekajacych. Pan: dobry pomysl, przekaze Krolowi.",
+   "co": "PROSBA LADY MAEGE (list 11-19): zboze dla dzikich na Wyspie Niedzwiedziej - do mowy z Krolem (nie warunek, prosba). | 11-26 na Wyspie, PROPOZYCJA MAEGE: czesc zboza dla Cypla (lodzie Maege z Dustinportu/GP) wyladowac najpierw na Wyspie dla ~600 czekajacych. Pan: dobry pomysl, przekaze Krolowi. | 11-29 PROSBA MAEGE 2: czlowiek od ran + mleko makowe i wino do ran dla maestera Wyspy (z WF/Luwin albo BP). Pan: przekaze Krolowi i Luwinowi.",
    "kto": "SYMON -> KROL",
    "kanal": "ustnie po powrocie",
    "wraca": "300-12-10",
@@ -17643,6 +17643,14 @@
    "kanal": "list po powrocie (kruk WF-Fosa, szyfr Domu)",
    "wraca": "300-12-12",
    "zamyka": "list wyslany; odpowiedz Hendry ego ze stanem",
+   "status": "otwarte"
+  },
+  {
+   "co": "ZELAZNI - WIESC Z WYSPY NIEDZWIEDZIEJ (Maege 11-29, rzut 74): na Wyspie w 300 nie ladowali; latem dwa razy po 3 dlugie lodzie u zachodniego cypla - zawrocily na ogien; w X rybacy Mormontow widzieli SAMOTNA DLUGA LODZ bez zagla, na wioslach, daleko na zachodzie, idaca na poludnie (ku Kamiennemu Brzegowi / Palcowi). Od sztormow nic. Do Theona i Rodrika (karta Theona, przeglad).",
+   "kto": "SYMON -> THEON / RODRIK",
+   "kanal": "ustnie po powrocie / list",
+   "wraca": "300-12-10",
+   "zamyka": "wiesc w karcie Theona / przegladzie",
    "status": "otwarte"
   }
  ],

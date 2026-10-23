@@ -17628,6 +17628,14 @@
    "wraca": "300-12-20",
    "zamyka": "lod staje / Mance rusza / wiesc",
    "status": "otwarte"
+  },
+  {
+   "co": "KETTIL NA WYSPIE NIEDZWIEDZIEJ (slowo pana 11-27): zostaje u maestera Mormontow do zrosniecia kostki (6-8 tyg.), oplacone 1 smokiem (nadwyzka na zboze obozu); potem lodzia do Deepwood i z ludzmi Glovera do Winterfell.",
+   "kto": "KETTIL (wlasny) / MAESTER MORMONTOW",
+   "kanal": "kruk Wyspa -> Deepwood (Dacey) -> WF",
+   "wraca": "301-01-20",
+   "zamyka": "Kettil w Winterfell",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

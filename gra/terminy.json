@@ -17355,7 +17355,7 @@
    "kanal": "osobiscie, Czarny Zamek",
    "wraca": "300-11-15",
    "zamyka": "list oddany Jonowi / zostawiony z adresem u Aemona / przywieziony; i slowo dla Aryi po powrocie",
-   "status": "otwarte"
+   "status": "zamkniete 300-11-13 (czesc pana): list oddany PYPOWI (przyjaciel Jona z CZ) na przechowanie, nieotwarty, do reki Jonowi po powrocie; jesli Jon nie wroci - maesterowi albo komu pan przysle. Jona pan NIE zobaczyl (za Murem z objazdem Mormonta). ### otwarte"
   },
   {
    "co": "KONWOJ Z PANEM NA MUR - KISZONKA ~30 BECZEK + TLUSZCZ ~10 BECZEK (smalec, loj) z targu w ZIMOWYM MIESCIE (slowo pana 11-01; zakup po cenie ze slupa, Kasa 3, kwota w ksiedze Gawena przy kwicie - zasada 43). RZUT 78 (podaz): kupione dzis po poludniu przez czlowieka Orlanda. ~8 sani z woznicami. Znak 'Dar Korony Polnocy dla Nocnej Strazy', choragiew wilka. Do Czarnego Zamku razem z panem, kwit od intendenta (Bowen Marsh) przy wydaniu. E skutek dla Muru: kiszonka ~18 -> ~30 dni, tluszcz ~18 -> ~45 dni.",
@@ -17459,6 +17459,14 @@
    "kanal": "Czarny Zamek",
    "wraca": "300-11-13",
    "zamyka": "pan zmierzyl frakcje KP; wnioski do Krola",
+   "status": "otwarte"
+  },
+  {
+   "co": "SLOWO DLA ARYI (obietnica 11-01): pan nie zobaczyl Jona - po powrocie powiedziec jej PRAWDE dlaczego (Jon za Murem z objazdem Mormonta, nie wrocil; list u Pypa, przyjaciela Jona, odda go Jonowi). Granica: slowo Aemona (Qhorin, przejscie do dzikich) jest tylko dla Krola - prawda dla Aryi bez tej czesci, chyba ze Krol pozwoli.",
+   "kto": "pan -> ARYA",
+   "kanal": "osobiscie, Winterfell",
+   "wraca": "300-11-30",
+   "zamyka": "Arya uslyszala prawde od pana",
    "status": "otwarte"
   }
  ],

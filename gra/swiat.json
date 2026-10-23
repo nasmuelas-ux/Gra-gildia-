@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 12,
-  "dzien": 3,
+  "dzien": 4,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 61 (300-12-03): dobrze - snieg przestal przed switem, niebo przejasnia sie, mroz; w lesie swiezy puch po kolana i wyzej.",
- "dzien_tygodnia_nr": 2,
+ "pogoda": "RZUT 20 (300-12-04): zle - wiatr wrocil, snieg w podmuchach, sciezka zawiewana; mroz ostry.",
+ "dzien_tygodnia_nr": 3,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

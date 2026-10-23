@@ -17526,7 +17526,7 @@
    "status": "otwarte"
   },
   {
-   "co": "DROGA ZACHODEM (zgoda pana 11-13): Symon + Sten + 7 ludzi: CZ -> wzdluz Muru do Wiezy Cieni (ser Denys Mallister) -> brzeg Zatoki Lodu -> lodz Mormontow -> Wyspa Niedzwiedzia (transport dzikich) -> lad kolo Deepwood Motte -> dom. Do ~4 tygodni. Wyjazd z CZ - kiedy pan postanowi. | Rachunek Stena 11-13: CZ->Wieza Cieni ~6 dni; do brzegu ~2; lodz na Wyspe ~1-2; Wyspa ~2-3; przeprawa+do Deepwood ~2-3; Deepwood->Winterfell przez Wilczy Las ~9-10. Razem ~3 tyg. jesli lodz czeka; ~4 tyg. jesli trzeba czekac na lodz/lod. | SLOWO PANA 11-14: WYJAZD 300-11-16 O SWICIE (dzien dla Aemona). Wszyscy razem brama poludniowa; rozdzial za Krecia Wioska, za pierwszym lasem.",
+   "co": "DROGA ZACHODEM (zgoda pana 11-13): Symon + Sten + 7 ludzi: CZ -> wzdluz Muru do Wiezy Cieni (ser Denys Mallister) -> brzeg Zatoki Lodu -> lodz Mormontow -> Wyspa Niedzwiedzia (transport dzikich) -> lad kolo Deepwood Motte -> dom. Do ~4 tygodni. Wyjazd z CZ - kiedy pan postanowi. | Rachunek Stena 11-13: CZ->Wieza Cieni ~6 dni; do brzegu ~2; lodz na Wyspe ~1-2; Wyspa ~2-3; przeprawa+do Deepwood ~2-3; Deepwood->Winterfell przez Wilczy Las ~9-10. Razem ~3 tyg. jesli lodz czeka; ~4 tyg. jesli trzeba czekac na lodz/lod. | SLOWO PANA 11-14: WYJAZD 300-11-16 O SWICIE (dzien dla Aemona). Wszyscy razem brama poludniowa; rozdzial za Krecia Wioska, za pierwszym lasem. | 11-15: Aemon zmarl w nocy - wyjazd 11-16 stoi, chyba ze pan postanowi inaczej (stos).",
    "kto": "SYMON / STEN",
    "kanal": "w drodze",
    "wraca": "300-12-10",
@@ -17564,6 +17564,14 @@
    "wraca": "300-11-15",
    "zamyka": "jak plotka sie rozeszla / reakcja pana",
    "status": "VOID 300-11-14 (zasada 3: przesadzone odczytanie rzutu 2; gracz zakwestionowal slusznie)"
+  },
+  {
+   "co": "STOS MAESTERA AEMONA (zmarl przed switem 11-15, rzut 16). Prosba Aemona (11-13): spalic - Marsh i Clydas obiecali. Pora stosu ustala Straz (Marsh). Pan wyjezdza 11-16 o swicie. Nastepstwo: WYBOR LORDA DOWODCY zwolany wczesniej (Marsh 11-13: 'zaraz po smierci Aemona').",
+   "kto": "MARSH / CLYDAS (Straz)",
+   "kanal": "na miejscu CZ",
+   "wraca": "300-11-15",
+   "zamyka": "stos spalony; data wyboru ogloszona",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

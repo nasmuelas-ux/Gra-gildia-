@@ -17548,6 +17548,14 @@
    "wraca": "300-12-15",
    "zamyka": "ranny wrocil do Winterfell albo meldunek Benna o stanie",
    "status": "otwarte"
+  },
+  {
+   "co": "SZYFR Z MURU DO ALDWINA (11-13 noc): szyfrem Domu, krukiem Domu od Benna (bez sladu u Clydasa), o swicie 11-14. Tresc: Namiestnik wraca ZACHODEM (Wieza Cieni -> lodz Mormontow -> Wyspa Niedzwiedzia -> Deepwood -> Winterfell), ~3-4 tyg.; sanie Traktem to przyneta - patrzec, kto sie nimi interesuje; ranny zostaje na Murze. Nie odpisywac za Namiestnikiem w droge (zgodnie ze slowem przed wyjazdem).",
+   "kto": "ALDWIN (wlasny)",
+   "kanal": "kruk Domu CZ -> Winterfell, szyfr Domu",
+   "wraca": "300-11-16",
+   "zamyka": "potwierdzenie odbioru w Winterfell (wraca do Namiestnika po powrocie)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

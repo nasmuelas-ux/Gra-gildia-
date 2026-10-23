@@ -17339,7 +17339,7 @@
    "kanal": "solar Krola WF",
    "wraca": "300-11-01",
    "zamyka": "rada odbyta (z panem przed wyjazdem albo bez niego) - obsada dwoch glow",
-   "status": "otwarte ### 300-11-01 przeglad odbyty; obsada Starkportu i Przystani Wilka - do slowa pana/Krola (propozycje Rodrika i Bryndena)."
+   "status": "zamkniete 300-11-01: OBSADA (slowo pana, Krol rzut 94 - przyjmuje): STARKPORT - ULRIC SEKATY (dowodca garnizonu 200), ser Corwin zostaje na Kamiennym Brzegu przy budowie i osadzie (rozdzial: Ulric wojsko, Corwin mury i ludzie); PRZYSTAN WILKA - OTTAR RUDY (garnizon 150). Pisma: Beron - nominacje pod pieczecia Krola; do Cerwyna i Wymana zawiadomienie o Ottarze (wspolwlasciciele slysza pierwsi)."
   },
   {
    "co": "LISTY SANSY I ARYI DO PANA NA MUR PO BRAAVOSKU (zadanie lekcji 31-32): kazda swoj, 6-8 zdan; kruk WF-Czarny Zamek. Pan odpowiada po braavosku z Muru.",
@@ -17379,6 +17379,14 @@
    "kanal": "Trakt Krolewski WF-Czarny Zamek",
    "wraca": "300-11-04",
    "zamyka": "odcinki ryzykowne minięte / zdarzenie (rzut) przy nich",
+   "status": "otwarte"
+  },
+  {
+   "co": "NOMINACJE: ULRIC SEKATY (Starkport, 200) i OTTAR RUDY (Przystan Wilka, 150) - pisma pod pieczecia Krola (Beron); zawiadomienie Cerwyna i Wymana o Ottarze; Corwin - zakres na Kamiennym Brzegu (budowa, osada). Wykonanie - sztab (Rodrik), wlasni.",
+   "kto": "BERON (pisma) ; RODRIK (sztab)",
+   "kanal": "kruk WF-Deepwood + jezdziec lancucha (KB) ; kruk WF-BP / Cerwyn",
+   "wraca": "300-11-08",
+   "zamyka": "pisma doreczone, Ulric i Ottar potwierdzaja; odpowiedzi Cerwyna/Wymana",
    "status": "otwarte"
   }
  ],

@@ -25,30 +25,34 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**302 otwartych** · **245 PRZETERMINOWANYCH** · 0 wraca dzis
+**302 otwartych** · **245 PRZETERMINOWANYCH** · 2 wraca dzis
 
 ### 🔴 PRZETERMINOWANE — KAZDA MUSI DOSTAC ROZSTRZYGNIECIE W TEJ TURZE
 _przyszlo · nie przyszlo I WIADOMO DLACZEGO · przyszlo co innego. Rzut nalezy sie sprawie zewnetrznej._
-- **+20 dni** — ROZKLAD W SZEREGACH LWA - GRANICE KROLA (Rada 10-29) DO WYKONAWCOW: rozejmu jawnie nie lamac, zadnych ludzi Korony podburzajacych;… · _kanal:_ skrzynka / do rak wlasnych (raport Aldwina i centrala Willi 11-02) · _zamyka:_ Willa i Aldwin znaja granice Krola na pismie albo ustnie od pana
-- **+19 dni** — DOM - ZADATEK NA ZAMOWIENIA FUTRA I BURSZTYNU (slowo pana 08-20, rada Lucana): jak przy beczce zimowej i kalendarzu - 1/4 z gory; … · _kanal:_ kruk Domu ZM-BP · _zamyka:_ zasada zadatku ogloszona w placowkach; pierwsze zamowienia
-- **+19 dni** — LANCUCH WOZNICY - OBSERWACJA (kontrwywiad przejmuje 10-20): zajazd Ody, kupiec win z Dorzecza, pacholek na poludnie (~co 2 tyg.; n… · _kanal:_ osobiscie / skrzynka · _zamyka:_ meldunek o dalszym ogniwie
-- **+19 dni** — FLINT Z PALCA - CO WIDAC NA MORZU (slowo pana 10-21, po meldunku Torrena 'za Przyladkiem Kraken nie patrzymy'): czyje zagle, ile, … · _kanal:_ kruk WF-Fosa, potem czlowiek Fosy na Palec i z powrotem (~7 dni) · _zamyka:_ odpowiedz Flinta na stole
-- **+18 dni** — GULLTOWN - NIE OTWIERAMY. DECYZJA SWIADOMA, NIE POMINIECIE. POWOD, SLOWAMI MEDRICKA: 'Placowka w miescie, ktorego pan nie powiedzi… · _kanal:_ wlasny czlowiek na Fosie · _zamyka:_ Dolina mowi cokolwiek - wtedy pytanie wraca
-- **+18 dni** — REACH - WYCHOWANEK TYRELLOW W SZKOLE KROLA (rada Sansy): kuzyn, nie dziedzic. Dopiero gdy kontrakt stoi. Decyzja Krola. ### 06-15:… · _kanal:_ - · _zamyka:_ decyzja Krola po kontrakcie
-- **+18 dni** — ROZKAZ PANA - GORACY PORT: JEDYNIE MUROWAC PORT I ZABEZPIECZAC WYBRZEZE (wola gracza 05-16: 'murowac port i zabezpieczac wybrzeze'… · _kanal:_ kruk Winterfell-Fosa (05-16) + robota na miejscu · _zamyka:_ mur od morza i wieza stoja; Hendry moze wprowadzic ludzi
-- **+18 dni** — T3-C - MOST PRZY BRODZIE (zajazd Ody, Trakt Krolewski Winterfell-Cerwyn): w ramach T3-C, przed roztopami 301; brod stoi wiosna ~3 … · _kanal:_ kruk Barrowton-Winterfell · _zamyka:_ most stoi przed mrozem albo przynajmniej przyczolki
-- **+18 dni** — SKRYPTORIUM FOSY - ODPIS KRONIKI KROLOW KURHANOW (zgoda Barbrey 06-13): oryginal pozycza maester Haldan albo pisarz jedzie do Barr… · _kanal:_ Fosa-Barrowton (3 dni) · _zamyka:_ odpis w bibliotece Fosy + egzemplarz dla Barrow Hall
-- **+18 dni** — UT-1 MAPA PASA TRAKTU KROLEWSKIEGO: granice pasa, gdzie przecinaja go kanaly i gardla (przesla), twardy grunt pod wieze, linia kan… · _kanal:_ na miejscu · _zamyka:_ mapa przesel i kanalu
-- **+18 dni** — ODD ZE SMOLARNI (9, syn Rolfa, wnuk Tomasa Smolarza; osada smolarzy przy Trakcie Krolewskim, ~2 dni na poludnie od Winterfell) - D… · _kanal:_ osobiscie: Rolf z listem pana do straznikow bramy -> Luwin · _zamyka:_ Odd w spisie szkoly Winterfell (albo wiadomo, czemu nie przyszedl)
-- **+18 dni** — WALDA BOLTON - POROD (maester Dreadfortu: 'przed zima', ~IX/X) - OBAWY O DZIEDZICA (odczyt Sansy: dzien porodu najniebezpieczniejs… · _kanal:_ osobiscie, Dreadfort · _zamyka:_ odpowiedz Roose'a: Winterfell / pomoc Korony / nic
-- **+18 dni** — KODEKS - PRZEPIS O WIERZE (Krol 07-19): 'wierzyc wolno kazdemu; palic, bic i nawracac sila - nikomu' - Cerwyn ubiera w litere praw… · _kanal:_ list Krola / przy najblizszym spotkaniu · _zamyka:_ przepis na pismie w Kodeksie
-- **+18 dni** — PAN JEDZIE DO AEMONA NA CZARNY ZAMEK (wysluchac ustnie 'tego, czego nie ma w ksiegach' - list Aemona 07-22). Termin: PO POWROCIE K… · _kanal:_ trakt Krolewski na polnoc / morze do Wschodniej Strazy · _zamyka:_ data wyjazdu ustalona po powrocie Krola
-- **+18 dni** — EDRIC PLUG OBEJMUJE URZAD ZARZADCY DOMENY (po zniwach): przysiega przy Krolu, krzeslo w Malej Radzie, przejecie od Gawena i Rodwel… · _kanal:_ Winterfell · _zamyka:_ przejecie spraw ~09-01; przysiega przed Krolem po powrocie
-- **+18 dni** — KONSULAT KORONY W RIVERRUN (Mala Rada 07-26, rzut 21 - Riverrun tak): kto (konsul - kancelaria misji), gdzie (przy Edmurze), koszt… · _kanal:_ kruk Riverrun · _zamyka:_ konsul wskazany, zgoda Edmure'a (rzut)
-- **+18 dni** — POWROT: KONSULAT BRAAVOS, WEKSEL POSWIADCZANY, UMOWA Z BANKIEM (odlozone 07-26) · _kanal:_ Winterfell / wg sprawy · _zamyka:_ krok wykonany albo temat rozpatrzony
-- **+18 dni** — WARUNKI DLA WODZOW WOLNYCH LUDZI (projekt pana, do przedlozenia przez Krola przy drzewie na Cyplu): wodz wydaje winnego sedziemu l… · _kanal:_ na miejscu · _zamyka:_ ogloszone przy drzewie
-- **+18 dni** — KANON SANSY - SZCZEBEL III 'PRAWO I LUDZIE': nauczyciel LORD CERWYN (Justycjariusz), zatwierdzone przez Krola z lady Catelyn (rzut… · _kanal:_ osobiscie / odpisy przez kancelarie · _zamyka:_ pierwsze uzasadnienie z odpisu i uwagi Cerwyna
-- **+18 dni** — SLUB EDMURE'A TULLY Z JONELLE CERWYN - POMYSL NAMIESTNIKA (07-30; lista Sansy z 05-12: Wynafryd Manderly, Alys Karstark, Jonelle C… · _kanal:_ osobiscie (Winterfell) · _zamyka:_ zdanie Catelyn i Cerwyna; decyzja Krola po Skagos
+- **+21 dni** — ROZKLAD W SZEREGACH LWA - GRANICE KROLA (Rada 10-29) DO WYKONAWCOW: rozejmu jawnie nie lamac, zadnych ludzi Korony podburzajacych;… · _kanal:_ skrzynka / do rak wlasnych (raport Aldwina i centrala Willi 11-02) · _zamyka:_ Willa i Aldwin znaja granice Krola na pismie albo ustnie od pana
+- **+20 dni** — DOM - ZADATEK NA ZAMOWIENIA FUTRA I BURSZTYNU (slowo pana 08-20, rada Lucana): jak przy beczce zimowej i kalendarzu - 1/4 z gory; … · _kanal:_ kruk Domu ZM-BP · _zamyka:_ zasada zadatku ogloszona w placowkach; pierwsze zamowienia
+- **+20 dni** — LANCUCH WOZNICY - OBSERWACJA (kontrwywiad przejmuje 10-20): zajazd Ody, kupiec win z Dorzecza, pacholek na poludnie (~co 2 tyg.; n… · _kanal:_ osobiscie / skrzynka · _zamyka:_ meldunek o dalszym ogniwie
+- **+20 dni** — FLINT Z PALCA - CO WIDAC NA MORZU (slowo pana 10-21, po meldunku Torrena 'za Przyladkiem Kraken nie patrzymy'): czyje zagle, ile, … · _kanal:_ kruk WF-Fosa, potem czlowiek Fosy na Palec i z powrotem (~7 dni) · _zamyka:_ odpowiedz Flinta na stole
+- **+19 dni** — GULLTOWN - NIE OTWIERAMY. DECYZJA SWIADOMA, NIE POMINIECIE. POWOD, SLOWAMI MEDRICKA: 'Placowka w miescie, ktorego pan nie powiedzi… · _kanal:_ wlasny czlowiek na Fosie · _zamyka:_ Dolina mowi cokolwiek - wtedy pytanie wraca
+- **+19 dni** — REACH - WYCHOWANEK TYRELLOW W SZKOLE KROLA (rada Sansy): kuzyn, nie dziedzic. Dopiero gdy kontrakt stoi. Decyzja Krola. ### 06-15:… · _kanal:_ - · _zamyka:_ decyzja Krola po kontrakcie
+- **+19 dni** — ROZKAZ PANA - GORACY PORT: JEDYNIE MUROWAC PORT I ZABEZPIECZAC WYBRZEZE (wola gracza 05-16: 'murowac port i zabezpieczac wybrzeze'… · _kanal:_ kruk Winterfell-Fosa (05-16) + robota na miejscu · _zamyka:_ mur od morza i wieza stoja; Hendry moze wprowadzic ludzi
+- **+19 dni** — T3-C - MOST PRZY BRODZIE (zajazd Ody, Trakt Krolewski Winterfell-Cerwyn): w ramach T3-C, przed roztopami 301; brod stoi wiosna ~3 … · _kanal:_ kruk Barrowton-Winterfell · _zamyka:_ most stoi przed mrozem albo przynajmniej przyczolki
+- **+19 dni** — SKRYPTORIUM FOSY - ODPIS KRONIKI KROLOW KURHANOW (zgoda Barbrey 06-13): oryginal pozycza maester Haldan albo pisarz jedzie do Barr… · _kanal:_ Fosa-Barrowton (3 dni) · _zamyka:_ odpis w bibliotece Fosy + egzemplarz dla Barrow Hall
+- **+19 dni** — UT-1 MAPA PASA TRAKTU KROLEWSKIEGO: granice pasa, gdzie przecinaja go kanaly i gardla (przesla), twardy grunt pod wieze, linia kan… · _kanal:_ na miejscu · _zamyka:_ mapa przesel i kanalu
+- **+19 dni** — ODD ZE SMOLARNI (9, syn Rolfa, wnuk Tomasa Smolarza; osada smolarzy przy Trakcie Krolewskim, ~2 dni na poludnie od Winterfell) - D… · _kanal:_ osobiscie: Rolf z listem pana do straznikow bramy -> Luwin · _zamyka:_ Odd w spisie szkoly Winterfell (albo wiadomo, czemu nie przyszedl)
+- **+19 dni** — WALDA BOLTON - POROD (maester Dreadfortu: 'przed zima', ~IX/X) - OBAWY O DZIEDZICA (odczyt Sansy: dzien porodu najniebezpieczniejs… · _kanal:_ osobiscie, Dreadfort · _zamyka:_ odpowiedz Roose'a: Winterfell / pomoc Korony / nic
+- **+19 dni** — KODEKS - PRZEPIS O WIERZE (Krol 07-19): 'wierzyc wolno kazdemu; palic, bic i nawracac sila - nikomu' - Cerwyn ubiera w litere praw… · _kanal:_ list Krola / przy najblizszym spotkaniu · _zamyka:_ przepis na pismie w Kodeksie
+- **+19 dni** — PAN JEDZIE DO AEMONA NA CZARNY ZAMEK (wysluchac ustnie 'tego, czego nie ma w ksiegach' - list Aemona 07-22). Termin: PO POWROCIE K… · _kanal:_ trakt Krolewski na polnoc / morze do Wschodniej Strazy · _zamyka:_ data wyjazdu ustalona po powrocie Krola
+- **+19 dni** — EDRIC PLUG OBEJMUJE URZAD ZARZADCY DOMENY (po zniwach): przysiega przy Krolu, krzeslo w Malej Radzie, przejecie od Gawena i Rodwel… · _kanal:_ Winterfell · _zamyka:_ przejecie spraw ~09-01; przysiega przed Krolem po powrocie
+- **+19 dni** — KONSULAT KORONY W RIVERRUN (Mala Rada 07-26, rzut 21 - Riverrun tak): kto (konsul - kancelaria misji), gdzie (przy Edmurze), koszt… · _kanal:_ kruk Riverrun · _zamyka:_ konsul wskazany, zgoda Edmure'a (rzut)
+- **+19 dni** — POWROT: KONSULAT BRAAVOS, WEKSEL POSWIADCZANY, UMOWA Z BANKIEM (odlozone 07-26) · _kanal:_ Winterfell / wg sprawy · _zamyka:_ krok wykonany albo temat rozpatrzony
+- **+19 dni** — WARUNKI DLA WODZOW WOLNYCH LUDZI (projekt pana, do przedlozenia przez Krola przy drzewie na Cyplu): wodz wydaje winnego sedziemu l… · _kanal:_ na miejscu · _zamyka:_ ogloszone przy drzewie
+- **+19 dni** — KANON SANSY - SZCZEBEL III 'PRAWO I LUDZIE': nauczyciel LORD CERWYN (Justycjariusz), zatwierdzone przez Krola z lady Catelyn (rzut… · _kanal:_ osobiscie / odpisy przez kancelarie · _zamyka:_ pierwsze uzasadnienie z odpisu i uwagi Cerwyna
+- **+19 dni** — SLUB EDMURE'A TULLY Z JONELLE CERWYN - POMYSL NAMIESTNIKA (07-30; lista Sansy z 05-12: Wynafryd Manderly, Alys Karstark, Jonelle C… · _kanal:_ osobiscie (Winterfell) · _zamyka:_ zdanie Catelyn i Cerwyna; decyzja Krola po Skagos
+
+### 🟡 WRACA DZIS
+- LIST DO MORMONTOW (slowo pana 11-13 wieczor, stajnia CZ): kruk Domu od Benna do Winterfell -> maester Luwin przesyla lady Maege na… · _kanal:_ kruk Domu CZ->Winterfell, dalej kruk Winterfell->Wyspa Niedzwiedzia
+- WIEZA CIENI - PYTANIE DO SER DENYSA MALLISTERA (slowo pana 11-21): czy z Czarnego Zamku przylecial ptak, w ktorym pisano o drodze … · _kanal:_ osobiscie, Wieza Cieni
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
 _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
@@ -1972,10 +1976,10 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 300-11-22 wieczor · zima (300)
+- **Data:** 300-11-23 ranek · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.25 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 58 · Zmeczenie 24**
+- **Zdrowie 100 · Sytosc 72 · Zmeczenie 15**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 510 smokow + 154 jeleni + 44 mied
@@ -4047,8 +4051,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `rodzina/LYRA` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-11-20] `MUR_POWROT`: Sniadanie, wymarsz w wietrze. DZIEN 5, RZUT 12 (zadymka): po poludniu widocznosc na kilka krokow; kon juczny wpada w zasypany row, lamie przednia noge - Sten dobija; ludzie biora mieso (zapa…
-- [300-11-20] `MUR_POWROT`: Kolacja przy ogniu w Kamiennych Drzwiach: pieczona konina z dzisiejszego konia + kasza. Pan kaze posmarowac twarze czyms wilgotnym na odmrozenia. STEN (fach, bez rzutu): mokre na mrozie zama…
 - [300-11-21] `dziennik`: 300-11-21 RANEK (Kamienne Drzwi, czwartek) - DZIEN 6. SEN 82: dobrze, sucho i cieplo; zmeczenie 34->15, sytosc 74. POGODA 17: zadymka gestnieje, widocznosc kilkanascie krokow. Chlopak: polic…
 - [300-11-21] `MUR_POWROT`: Slowo pana: czekamy dzien w Kamiennych Drzwiach. Sniadanie: konina z kociolka, kasza. Sten liczy na glos: Wieza ~11-23, brzeg ~11-25, lodz czeka do ~11-26 - na styk, ale sie miesci. Ludzie: …
 - [300-11-21] `MUR_POWROT`: Postoj w Kamiennych Drzwiach: pan siada ze Stenem przy ogniu. Bez rzutu. Sten ostrzy noz, czeka na slowo pana; sam pierwszy mowi tylko, ze ludzie odpoczna, a konie potrzebowaly dnia. Pan pro…
@@ -4059,3 +4061,5 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-11-21] `MUR_POWROT`: Pan oddaje wygrany loj ludziom (do kociolka - wspolny, na twarze na jutro). Kolacja z ludzmi: ostatnia konina z kasza na loju. Wieczorem wiatr slabnie (Sten nasluchuje przy drzwiach: przewie…
 - [300-11-22] `dziennik`: 300-11-22 RANEK (Kamienne Drzwi, piatek) - DZIEN 7. SEN 63: przecietnie-dobrze; zmeczenie ->8, sytosc 74. POGODA 27: wiatr porywisty, snieg w podmuchach, przejasnienia. Sten: da sie jechac, …
 - [300-11-22] `MUR_POWROT`: Sniadanie (kasza na loju), wymarsz. RZUT 68: porywy przeczekiwane pod lodem, miedzy nimi klus; mijaja SZARA STRAZ (Greyguard, opuszczona) przed poludniem; po poludniu wiatr slabnie. Wieczor:…
+- [300-11-22] `MUR_POWROT`: Kolacja z ludzmi w kuchni Straznicy Wartownikow. Bez rzutu. Sama kasza (konina sie skonczyla), placki ostatnie. Ludzie gadaja o Wiezy Cieni - cieplo, piwo u braci? Sten: Mallister trzyma por…
+- [300-11-23] `dziennik`: 300-11-23 RANEK (Straznica Wartownikow, sobota) - DZIEN 8. SEN 30: slabo, zimno od ziemi; zmeczenie ->15, sytosc 72. POGODA 46: szaro, wiatr slaby. Dzis Wieza Cieni (pol dnia): list Maege (p…

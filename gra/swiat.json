@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 11,
-  "dzien": 22,
+  "dzien": 23,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 27 (300-11-22): zle, ale lzej niz wczoraj - wiatr porywisty, snieg w podmuchach, miedzy nimi widac Mur i doline na kilkaset krokow.",
- "dzien_tygodnia_nr": 5,
+ "pogoda": "RZUT 46 (300-11-23): przecietnie - szaro, mroz, wiatr slaby; widac Wawoz i Wieze Cieni z daleka.",
+ "dzien_tygodnia_nr": 6,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

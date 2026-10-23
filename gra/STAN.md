@@ -25,7 +25,7 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**307 otwartych** · **264 PRZETERMINOWANYCH** · 10 wraca dzis
+**307 otwartych** · **264 PRZETERMINOWANYCH** · 0 wraca dzis
 
 ### 🔴 PRZETERMINOWANE — KAZDA MUSI DOSTAC ROZSTRZYGNIECIE W TEJ TURZE
 _przyszlo · nie przyszlo I WIADOMO DLACZEGO · przyszlo co innego. Rzut nalezy sie sprawie zewnetrznej._
@@ -49,18 +49,6 @@ _przyszlo · nie przyszlo I WIADOMO DLACZEGO · przyszlo co innego. Rzut nalezy 
 - **+36 dni** — WARUNKI DLA WODZOW WOLNYCH LUDZI (projekt pana, do przedlozenia przez Krola przy drzewie na Cyplu): wodz wydaje winnego sedziemu l… · _kanal:_ na miejscu · _zamyka:_ ogloszone przy drzewie
 - **+36 dni** — KANON SANSY - SZCZEBEL III 'PRAWO I LUDZIE': nauczyciel LORD CERWYN (Justycjariusz), zatwierdzone przez Krola z lady Catelyn (rzut… · _kanal:_ osobiscie / odpisy przez kancelarie · _zamyka:_ pierwsze uzasadnienie z odpisu i uwagi Cerwyna
 - **+36 dni** — SLUB EDMURE'A TULLY Z JONELLE CERWYN - POMYSL NAMIESTNIKA (07-30; lista Sansy z 05-12: Wynafryd Manderly, Alys Karstark, Jonelle C… · _kanal:_ osobiscie (Winterfell) · _zamyka:_ zdanie Catelyn i Cerwyna; decyzja Krola po Skagos
-
-### 🟡 WRACA DZIS
-- STOP NA CZCIONKE RUCHOMA - olow za kruchy, cyna za miekka; pytanie do Braavos przez Neste (Ilario). · _kanal:_ list do Nesty (Fosa-Braavos-Fosa)
-- LISTY SANSY I ARYI DO PANA NA MUR PO BRAAVOSKU (zadanie lekcji 31-32): kazda swoj, 6-8 zdan; kruk WF-Czarny Zamek. Pan odpowiada p… · _kanal:_ kruk Winterfell-Czarny Zamek
-- BRAT HUGONA-WOZNICY na Murze (prosba pana 11-12): Clydas szuka w rolach Strazy - 'Ben' z Zimowego Miasta ~20 lat temu (moze inne i… · _kanal:_ role Strazy + kruk/jezdziec Wsch. Straznica/Wieza Cieni
-- DROGA ZACHODEM (zgoda pana 11-13): Symon + Sten + 7 ludzi: CZ -> wzdluz Muru do Wiezy Cieni (ser Denys Mallister) -> brzeg Zatoki … · _kanal:_ w drodze
-- ODPOWIEDZ LORDA WYMANA na list z Muru (11-13): wraca Traktem; rozwazana pomoc przez Bialy Port; interesy po powrocie. Odpowiedz mo… · _kanal:_ kruk Bialy Port -> CZ / Winterfell
-- SZYFR Z MURU DO ALDWINA (11-13 noc): szyfrem Domu, krukiem Domu od Benna (bez sladu u Clydasa), o swicie 11-14. Tresc: Namiestnik … · _kanal:_ kruk Domu CZ -> Winterfell, szyfr Domu
-- ROZDZIAL ZAUWAZONY (11-16, rzut 19): za Krecia Wioska jezdziec w czarnym plaszczu na grzbiecie widzial, ze grupa pana odbija na za… · _kanal:_ CZ / kruki Clydasa
-- PROSBA LADY MAEGE (list 11-19): zboze dla dzikich na Wyspie Niedzwiedziej - do mowy z Krolem (nie warunek, prosba). | 11-26 na Wys… · _kanal:_ ustnie po powrocie
-- PRZEPRAWA DZIKICH PRZEZ WYSPE NIEDZWIEDZIA - STAN (Alysane 11-25, rzut 36): od lata przez Wyspe przeszlo ~3 tys. (E, liczone przez… · _kanal:_ na miejscu, Wyspa
-- ZELAZNI - WIESC Z WYSPY NIEDZWIEDZIEJ (Maege 11-29, rzut 74): na Wyspie w 300 nie ladowali; latem dwa razy po 3 dlugie lodzie u za… · _kanal:_ ustnie po powrocie / list
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
 _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
@@ -1999,7 +1987,7 @@ Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane 
 - **Data:** 300-12-10 ranek · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.25 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 95 · Zmeczenie 31**
+- **Zdrowie 100 · Sytosc 72 · Zmeczenie 6**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 509 smokow + 154 jeleni + 44 mied
@@ -4083,7 +4071,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `rodzina/LYRA` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-12-07] `DEEPWOOD`: Pan przechadza sie po Deepwood Motte. Bez rzutu, obraz (kanon + E): kopiec z drewniana wieza, palisada z bali na ziemnym wale, podgrodzie z kuznia, stajnia, magazyny (stad prowiant); w dole …
 - [300-12-07] `DEEPWOOD`: Pan idzie do czardrzewa w gaju Gloverow i modli sie chwile (tresc modlitwy - pana, nie zapisana). Bez rzutu. Cisza, snieg drobny; amulet z kosci wieloryba (czardrzewo od rodu Grisel) pod pla…
 - [300-12-07] `DEEPWOOD`: Kolacja z ludzmi i Galbartem. Pan: ogladalem Deepwood, ostatnio o nim rozmawialismy (wesele 299-08-12: Deepwood jako wysuniety hold zachodu dla eskadry Torrena, utwardzenie brzegu, lancuch o…
 - [300-12-07] `DEEPWOOD`: Pan: oblozyc palisade glina i postawic kamienna baszte. GALBART (bez rzutu): glina - dobra mysl i tania, ale teraz ziemia zamarznieta na lokiec, gliny nie wykopie ani nie zarobi do odwilzy; …
@@ -4095,3 +4082,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-12-09] `DROGA_DO_WF`: Sniadanie, wymarsz. Dzien spokojny do zmierzchu. RZUT 8: przy chacie lesnika nad strumieniem, gdy ludzie rozjukowuja konie, z ciemnosci miedzy pniami wypada STADO WILKOW - dwanascie, pietnas…
 - [300-12-09] `DROGA_DO_WF`: Pan tnie wilka wiszacego na zadzie konia, Sten oslania. Bez rzutu na pana (walka 9): krotki, oszczedny cios z dolu w kark - nauka Brannoka z 12-07 - wilk spada martwy. Drugi skacze z boku - …
 - [300-12-09] `DROGA_DO_WF`: Pan sprawdza rannego lesnika i konia. Bez rzutu. LESNIK (E: EGIL, mlody): Brannok przemywa rane okowita, zszywa nicia z jelit, opatruje; boli, ale reka rusza palcami - bedzie trzymal luk za …
+- [300-12-10] `dziennik`: 300-12-10 RANEK (chata lesnika nad strumieniem, wtorek) - DZIEN 3/9-10 do WF. SEN 95: znakomicie, pod dachem; zmeczenie ->6, sytosc 72. POGODA 67: mroz, slonce. Wilki nie wrocily. Terminy z …

@@ -17119,7 +17119,7 @@
    "co": "STOP NA CZCIONKE RUCHOMA - olow za kruchy, cyna za miekka; pytanie do Braavos przez Neste (Ilario).",
    "kto": "ILARIO -> NESTA",
    "kanal": "list do Nesty (Fosa-Braavos-Fosa)",
-   "wraca": "300-12-10",
+   "wraca": "300-12-18",
    "zamyka": "przepis na stop od Nesty / odlewnika braavoskiego",
    "status": "otwarte"
   },
@@ -17345,7 +17345,7 @@
    "co": "LISTY SANSY I ARYI DO PANA NA MUR PO BRAAVOSKU (zadanie lekcji 31-32): kazda swoj, 6-8 zdan; kruk WF-Czarny Zamek. Pan odpowiada po braavosku z Muru. | 11-17: kruk WF->CZ doszedl po wyjezdzie pana; listy przejmuje BENNO i trzyma do powrotu (albo odsyla krukiem Domu do WF) - pan przeczyta po powrocie.",
    "kto": "SANSA, ARYA -> pan",
    "kanal": "kruk Winterfell-Czarny Zamek",
-   "wraca": "300-12-10",
+   "wraca": "300-12-18",
    "zamyka": "listy u pana na Czarnym Zamku (rzut na jakosc przy czytaniu) + odpowiedz pana",
    "status": "otwarte"
   },
@@ -17449,7 +17449,7 @@
    "co": "BRAT HUGONA-WOZNICY na Murze (prosba pana 11-12): Clydas szuka w rolach Strazy - 'Ben' z Zimowego Miasta ~20 lat temu (moze inne imie), pytanie do Wschodniej Straznicy i Wiezy Cieni. Odpowiedz (zyje/gdzie/nie zyje) przez dom Namiestnika do Hugona. Rzut przy odpowiedzi (kanaly Muru wolne).",
    "kto": "CLYDAS ; dom Namiestnika -> HUGO",
    "kanal": "role Strazy + kruk/jezdziec Wsch. Straznica/Wieza Cieni",
-   "wraca": "300-12-10",
+   "wraca": "300-12-18",
    "zamyka": "los brata ustalony i przekazany Hugonowi / uczciwe 'nie znaleziono'",
    "status": "otwarte"
   },
@@ -17529,7 +17529,7 @@
    "co": "DROGA ZACHODEM (zgoda pana 11-13): Symon + Sten + 7 ludzi: CZ -> wzdluz Muru do Wiezy Cieni (ser Denys Mallister) -> brzeg Zatoki Lodu -> lodz Mormontow -> Wyspa Niedzwiedzia (transport dzikich) -> lad kolo Deepwood Motte -> dom. Do ~4 tygodni. Wyjazd z CZ - kiedy pan postanowi. | Rachunek Stena 11-13: CZ->Wieza Cieni ~6 dni; do brzegu ~2; lodz na Wyspe ~1-2; Wyspa ~2-3; przeprawa+do Deepwood ~2-3; Deepwood->Winterfell przez Wilczy Las ~9-10. Razem ~3 tyg. jesli lodz czeka; ~4 tyg. jesli trzeba czekac na lodz/lod. | SLOWO PANA 11-14: WYJAZD 300-11-16 O SWICIE (dzien dla Aemona). Wszyscy razem brama poludniowa; rozdzial za Krecia Wioska, za pierwszym lasem. | 11-15: Aemon zmarl w nocy - wyjazd 11-16 stoi, chyba ze pan postanowi inaczej (stos). | DZIEN 1 (11-16): CZ -> Brama Krolowej (opuszczony zamek Strazy, nocleg pod dachem resztek). Bez zdarzen po jezdzcu; pan: jedziemy dalej, nie ogladamy sie. | DZIEN 2 (11-17): Brama Krolowej -> Glebokie Jezioro (opuszczony zamek, nocleg w stajni pod dachem). Bez zdarzen; snieg slaby. | DZIEN 3 (11-18): Glebokie Jezioro -> obok Nocnego Fortu (bez postoju) -> Lodowy Znak (opuszczony, nocleg w wiezy bramnej). Dobra droga, szybko. | DZIEN 4 (11-19): Lodowy Znak -> Wzgorze Szronu (opuszczone; Sten zatrzymal wczesniej - ludzie po nieprzespanej nocy). Teren wznosi sie, Mur idzie po wzgorzach. Do Wiezy Cieni ~2 dni. | DZIEN 5 (11-20, zadymka, rzut 12): kon juczny stracony (zlamana noga, dobity; mieso na zapas, juki rozlozone na konie wierzchowe); odmrozony policzek u mlodego; Kamienne Drzwi po zmroku. Wieza Cieni ~11-22 (dzien pozniej). | DZIEN 6 (11-21): POSTOJ w Kamiennych Drzwiach (slowo pana, zadymka). Wieza Cieni ~11-23, brzeg ~11-25; lodz (jesli przyplynie ~11-23) czeka do 3 dni - na styk. | DZIEN 7 (11-22, rzut 68): Kamienne Drzwi -> Szara Straz (mijana) -> STRAZNICA WARTOWNIKOW (Sentinel Stand, opuszczona). Wieza Cieni jutro przed poludniem. | DZIEN 9 (11-24, rzut 8): zejscie z Wiezy - Kettil (E, czlowiek Stena) zlamana kostka na oblodzonym zboczu; jedzie na koniu; nocleg pod nawisem skalnym w pol drogi do Zachodniej Strazy. Brzeg ~11-26 (zamiast 25) - lodz czeka do ~11-26: NA OSTRZU. | DZIEN 10 (11-25, rzut 85): Zachodnia Straz przy Moscie mijana po poludniu; BRZEG ZATOKI LODU o zmierzchu. Lodz Mormontow jest. | 11-26: przeprawa lodzia Alysane (rzut 51) - WYSPA NIEDZWIEDZIA po zmroku, przystan pod Dworem Mormontow. | 11-27 MAEGE o przeprawie na lad: osobna lodz (Alysane) z Wyspy na pd.-wsch. do zatoczki pod Wilczym Lasem (dzien przy wietrze), stamtad do Deepwood ~2 dni (konie pana 3 + piesi; konie da Glover); odbicie, gdy sztorm przejdzie - najwczesniej 11-28/29. Dacey w Deepwood (lacznik z Gloverami i droga na Cypel) - wie od matki, ze pan jedzie. | 11-28: sztorm wrocil (rzut 11) - zadna lodz; drugi dzien na Wyspie. | 11-30 (rzut 13): przeprawa na lad - kuc za burta (zostaja 2 konie), zniesieni na poludnie, ladowanie po zmroku w skalistej zatoczce; Alysane: do Deepwood 3 dni zamiast 2 - Deepwood ~12-03. Prowiant: kasza ~3 dni + worek suszonej ryby od Maege. | 12-01 Wilczy Las (rzut 9): lod na potoku - chlopak w wodzie po piers (wyziebienie, rozgrzewany), kuc okulaly; pol dnia stracone, kierunek gubiony w polmroku. Deepwood ~12-04. | 12-02: SNIEZYCA (rzut 1) w Wilczym Lesie; chlopak z goraczka (rzut 16). Zapas: kasza ~1 dzien, ryba ~2. | 12-02 SLOWO PANA: czekamy pod wykrotem. Sten: racje na pol (poza chlopakiem - jemu caly); Deepwood ~12-05. | 12-03 (rzut 40): marsz w puchu, wolno, bez wypadkow; Toman przywiazany na zdrowym kucu, opatulony; wieczorem stara sciezka mysliwska na wschod. Kasza zjedzona - zostaje ryba na ~1 dzien. Deepwood ~12-05. | 12-04: SLOWO PANA - dwoch najszybszych (OWAIN, CADOC - E) biegiem do Deepwood po pomoc; reszta (pan, Sten, Ulf, Toman + 2) wolno sciezka. Polowa drogi zrobiona (rzut 68). Pomoc z Deepwood - jutro (ukryte). | 12-05 POLUDNIE: SPOTKANIE z pomoca z Deepwood na sciezce - DACEY MORMONT na czele, ~10 lesnikow Glovera, sanie z koniem, MAESTER Deepwood (E), OWAIN z nimi (Cadoc z odmrozonymi palcami zostal w Deepwood). Jedzenie na sciezce. Toman na sanie pod maestra. | 12-05 wieczor: DEEPWOOD MOTTE - przyjecie u lorda Galbarta Glovera; Toman i Cadoc zostaja na leczeniu. Dalej: Deepwood -> Winterfell przez Wilczy Las ~9-10 dni (konie od Glovera). | 12-06 GALBART (solar, w cztery oczy): oferuje ESKORTE 20 lesnikow + konie do Winterfell sciezkami Wilczego Lasu (nie traktem), 9-10 dni; Toman i Cadoc zostaja u jego maestera. Wyjazd - kiedy pan postanowi (Galbart: konie wypoczete za 1-2 dni). | 12-06 SLOWO PANA: eskorta przyjeta, WYJAZD 12-08 O SWICIE z Deepwood do WF (lasem, ~9-10 dni -> WF ~12-17/18). | BRANNOC (E, dowodca eskorty Glovera) - DROGA DO WF: dni 1-3 sciezkami lesnikow na wschod, noclegi w chatach smolarzy/lesnikow Glovera; dzien 4-5 bród na rzece (E: Glebokie Brody) i wies drwali; dni 6-8 gesty bor bez osad, szalasy; dzien 9-10 skraj Wilczego Lasu na zachod od Winterfell, drwale domeny (Edric Plug - scinka debu) - stamtad droga do bramy. Ryzyka: wilki (zima glodna), snieg, mroz; ludzi - malo kto chodzi. | 12-06 SLOWO PANA: jedzenie na 12 dni (dla ~26: pan, Sten, Ulf, Owain, 2 ludzi + 20 lesnikow). Sten z zarzadca Glovera: owies dla koni, suchary, solone mieso, sloniny, grochu; Galbart daje z magazynow Deepwood - rachunku nie wystawia (gosc), Sten notuje ilosci do rozliczenia przez Korone, jesli pan zechce (kwota - przy rozliczeniu, bez wymyslania). | 12-08 DZIEN 1 Deepwood->WF (rzut 39): dobra droga w sloncu; chata smolarza zawalona - oboz przy niej; kon lesnika bez podkowy (Brannok przybija w obozie). Plan bez zmian: WF ~12-17/18.",
    "kto": "SYMON / STEN",
    "kanal": "w drodze",
-   "wraca": "300-12-10",
+   "wraca": "300-12-18",
    "zamyka": "Symon w Winterfell",
    "status": "otwarte"
   },
@@ -17537,7 +17537,7 @@
    "co": "ODPOWIEDZ LORDA WYMANA na list z Muru (11-13): wraca Traktem; rozwazana pomoc przez Bialy Port; interesy po powrocie. Odpowiedz moze przyjsc do Winterfell albo na Mur. | 11-20 ROZSTRZYGNIETA (rzut 18, tresc w prawda.md) - list lezy w Winterfell, pan przeczyta po powrocie.",
    "kto": "LORD WYMAN MANDERLY (wola zewnetrzna)",
    "kanal": "kruk Bialy Port -> CZ / Winterfell",
-   "wraca": "300-12-10",
+   "wraca": "300-12-18",
    "zamyka": "pan czyta odpowiedz Wymana w Winterfell",
    "status": "otwarte"
   },
@@ -17553,7 +17553,7 @@
    "co": "SZYFR Z MURU DO ALDWINA (11-13 noc): szyfrem Domu, krukiem Domu od Benna (bez sladu u Clydasa), o swicie 11-14. Tresc: Namiestnik wraca ZACHODEM (Wieza Cieni -> lodz Mormontow -> Wyspa Niedzwiedzia -> Deepwood -> Winterfell), ~3-4 tyg.; sanie Traktem to przyneta - patrzec, kto sie nimi interesuje; ranny zostaje na Murze. Nie odpisywac za Namiestnikiem w droge (zgodnie ze slowem przed wyjazdem). | 11-16: potwierdzenia w drodze nie bedzie (slowo pana: nie pisac za nim) - odczyt po powrocie.",
    "kto": "ALDWIN (wlasny)",
    "kanal": "kruk Domu CZ -> Winterfell, szyfr Domu",
-   "wraca": "300-12-10",
+   "wraca": "300-12-18",
    "zamyka": "potwierdzenie odbioru w Winterfell (wraca do Namiestnika po powrocie)",
    "status": "otwarte"
   },
@@ -17577,7 +17577,7 @@
    "co": "WYBOR LORDA DOWODCY NOCNEJ STRAZY - ogloszony przez Marsha po stosie Aemona (11-15, rzut 48): glosowanie w Czarnym Zamku 300-11-29; kruki do Wschodniej Straznicy i Wiezy Cieni. Kandydaci (Marsh 11-13): Slynt (Thorne + ludzie od wina), Mallister, Pyke, czesc braci mowi o Marshu. Polnoc NIE ingeruje (slowo pana 11-13). Pan bedzie juz w drodze / na Wyspie.",
    "kto": "NOCNA STRAZ (wola zewnetrzna)",
    "kanal": "wiesc: Benno (kruk Domu) / Hallis",
-   "wraca": "300-12-10",
+   "wraca": "300-12-18",
    "zamyka": "imie nowego Lorda Dowodcy (rzut w dniu wyboru)",
    "status": "rozstrzygniete 300-11-29 (rzut 46, tresc w prawda.md) - pan dowie sie z wiesci Benna / po powrocie"
   },
@@ -17585,7 +17585,7 @@
    "co": "ROZDZIAL ZAUWAZONY (11-16, rzut 19): za Krecia Wioska jezdziec w czarnym plaszczu na grzbiecie widzial, ze grupa pana odbija na zachod; zawrocil ku wiosce. Kto - pan nie wie (czern = brat Strazy). Mozliwe: wiesc o prawdziwej drodze w CZ, w krukach. | 11-23 POTWIERDZONE: wiesc doszla do Slynta - Slynt napisal do braci Wiezy Cieni (Mallister). Czy pisal gdzie indziej - nie wiadomo (Benno / ksiega Clydasa).",
    "kto": "NIEZNANY BRAT STRAZY (wola zewnetrzna)",
    "kanal": "CZ / kruki Clydasa",
-   "wraca": "300-12-10",
+   "wraca": "300-12-18",
    "zamyka": "czy wiesc wyszla z CZ (Benno/Hallis przy meldunku o wyborze) - odczyt po powrocie",
    "status": "otwarte"
   },
@@ -17609,7 +17609,7 @@
    "co": "PROSBA LADY MAEGE (list 11-19): zboze dla dzikich na Wyspie Niedzwiedziej - do mowy z Krolem (nie warunek, prosba). | 11-26 na Wyspie, PROPOZYCJA MAEGE: czesc zboza dla Cypla (lodzie Maege z Dustinportu/GP) wyladowac najpierw na Wyspie dla ~600 czekajacych. Pan: dobry pomysl, przekaze Krolowi. | 11-29 PROSBA MAEGE 2: czlowiek od ran + mleko makowe i wino do ran dla maestera Wyspy (z WF/Luwin albo BP). Pan: przekaze Krolowi i Luwinowi.",
    "kto": "SYMON -> KROL",
    "kanal": "ustnie po powrocie",
-   "wraca": "300-12-10",
+   "wraca": "300-12-18",
    "zamyka": "slowo Krola",
    "status": "otwarte"
   },
@@ -17617,7 +17617,7 @@
    "co": "PRZEPRAWA DZIKICH PRZEZ WYSPE NIEDZWIEDZIA - STAN (Alysane 11-25, rzut 36): od lata przez Wyspe przeszlo ~3 tys. (E, liczone przez Mormontow, bez imion); teraz na Wyspie czeka ~600 - lod przy brzegach rosnie, kursy rzadsze; ciasno i glodno w obozie pod Dworem Mormontow, tarcia z wyspiarzami (kradzieze ryb, jedna bojka); Maege prosi o zboze (list 11-19). Pan zobaczy na miejscu. | 11-27 pan widzial oboz z Maege (rzut 23): CHOROBA - biegunka z goraczka w dolnej czesci (woda z potoku ponizej obozu, odchody), ~20 chorych, 2 dzieci zmarlo w tym tygodniu; maester (stary, sam) nie nadaza; Maege kaze palic zmarlych (zwyczaj + strach przed wstaniem). | SLOWO PANA 11-27: (1) woda POWYZEJ obozu - Maege kaze od razu, wartowniczka przy gornym potoku, dol potoku zamkniety dla wiader; (2) szybciej na Cypel - Maege (rzut 77): po sztormie konwoj ~20 nowych lodzi-ploz, sternik Mormontow na kazdej, wiosluja dzicy; ~200 dusz na kurs, co 2-3 dni przy pogodzie; zdrowi rodami najpierw, chorzy zostaja przy maestrze do wyzdrowienia (nie wiezc zarazy na Cypel). Przy lodzie - koniec. | 11-28: sztorm (rzut 11) - konwoj na Cypel wstrzymany. | 11-28 (rzut 59): od wczoraj bez zgonow; 3-4 nowych chorych (maester: zarazili sie przed zmiana wody, za wczesnie mowic); dol na potrzeby wykopany, straz przy gornym potoku; sztorm zwalil kilkanascie szalasow - Maege wpuscila rodziny pod dach szopy z lodziami. | 11-29 noc (huragan, rzut 73): zlamal sie zachodni koniec dachu szopy z lodziami - 2 rannych dzikich (reka, stopa), bez zgonow; 3 lodzie-plozy z polamanymi burtami. Konwoj nadal stoi. | 11-29 rano (rzut 22): zmarl stary czlowiek z chorych (wyziebiony w nocy przy przenoszeniu) - spalony w poludnie; nowych biegunek tylko 1 (maester: woda gorna pomaga); ranna stopa staruchy - ryzyko zakazenia. | 11-30: pogoda dobra (rzut 89) - Maege puszcza PIERWSZY KONWOJ na Przyladek (~20 lodzi, ~200 zdrowych rodami); kuzynka Grisel - stopa bez zakazenia (rzut 93). | 12-03: pan w Wilczym Lesie - wiesc z Wyspy przez Dacey/Deepwood albo WF.",
    "kto": "MAEGE / ALYSANE (wola zewnetrzna)",
    "kanal": "na miejscu, Wyspa",
-   "wraca": "300-12-10",
+   "wraca": "300-12-18",
    "zamyka": "wiesc o konwojach (kruk Wyspa->Deepwood/Dacey->WF); pan wyjezdza",
    "status": "otwarte"
   },
@@ -17649,7 +17649,7 @@
    "co": "ZELAZNI - WIESC Z WYSPY NIEDZWIEDZIEJ (Maege 11-29, rzut 74): na Wyspie w 300 nie ladowali; latem dwa razy po 3 dlugie lodzie u zachodniego cypla - zawrocily na ogien; w X rybacy Mormontow widzieli SAMOTNA DLUGA LODZ bez zagla, na wioslach, daleko na zachodzie, idaca na poludnie (ku Kamiennemu Brzegowi / Palcowi). Od sztormow nic. Do Theona i Rodrika (karta Theona, przeglad). | 12-06 Galbart (rzut 42): wybrzeze ciche od sztormow, lancuch tylko proby; samotna dluga lodz w X potwierdzona z drugiej reki (rybacy Kamiennego Brzegu -> ludzie Theona). Obawa: wiosna.",
    "kto": "SYMON -> THEON / RODRIK",
    "kanal": "ustnie po powrocie / list",
-   "wraca": "300-12-10",
+   "wraca": "300-12-18",
    "zamyka": "wiesc w karcie Theona / przegladzie",
    "status": "otwarte"
   },

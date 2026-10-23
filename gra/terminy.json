@@ -17278,10 +17278,10 @@
   },
   {
    "data": "300-10-30",
-   "co": "DZIEWCZYNA W MEEREEN (slowo Aemona): poslac do niej kogos, kto zna ksiegi, zanim poslą ci, co znaja tylko zloto (srebrna krolowa z opowiesci zeglarzy - Daenerys?). Do rozwazenia przez Krola/pana - lączy z wyslannikiem do Braavos/Essos i nasluchem (Willa pkt 8).",
-   "kto": "KROL ; SYMON ; (Willa - Essos)",
+   "co": "DZIEWCZYNA W MEEREEN (slowo Aemona): poslac do niej kogos, kto zna ksiegi, zanim poslą ci, co znaja tylko zloto (srebrna krolowa z opowiesci zeglarzy - Daenerys?). Do rozwazenia przez Krola/pana - lączy z wyslannikiem do Braavos/Essos i nasluchem (Willa pkt 8). | 12-17 KROL (ustnie, rzut 88): Polnoc nie kleka, ale nie bedzie slepa - pan przygotowuje KANDYDATA 'od ksiag, nie od zlota' do Meereen; Krol decyduje po przedstawieniu.",
+   "kto": "SYMON (kandydat) -> KROL (decyzja)",
    "kanal": "-",
-   "wraca": "300-11-15",
+   "wraca": "300-12-30",
    "zamyka": "slowo Krola: czy i kogo poslac ku Meereen",
    "status": "otwarte"
   },
@@ -17707,6 +17707,14 @@
    "kanal": "kruk WF-Deepwood",
    "wraca": "300-12-19",
    "zamyka": "list wyslany",
+   "status": "otwarte"
+  },
+  {
+   "co": "LIST KROLA DO LORDA DOWODCY MALLISTERA O JONIE (slowo Krola 12-17, ustnie do pana): prosba, by Straz nie sadzila brata Krola bez wysluchania przez Krola, gdy wroci zza Muru z ludzmi Mance'a (Straz sadzi swoich - prosba, nie rozkaz). Imie na papierze - Krol decyduje, jak to ujac (zakaz z 299-09-14).",
+   "kto": "KROL (pisze) ; pan (szkic?)",
+   "kanal": "kruk WF -> Czarny Zamek / Wieza Cieni",
+   "wraca": "300-12-20",
+   "zamyka": "list wyslany; odpowiedz Mallistera (rzut)",
    "status": "otwarte"
   }
  ],

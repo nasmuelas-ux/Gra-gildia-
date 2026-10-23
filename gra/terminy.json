@@ -17348,6 +17348,14 @@
    "wraca": "300-11-17",
    "zamyka": "listy u pana na Czarnym Zamku (rzut na jakosc przy czytaniu) + odpowiedz pana",
    "status": "otwarte"
+  },
+  {
+   "co": "LIST ARYI DO JONA - W SAKWIE PANA (lekcja 28, 11-01): zlozony, pieczec Sansy (wilk), nieczytany przez pana. Jona NIE MA na Czarnym Zamku (wiesc Benna 08-08: za Murem z Qhorinem; tylko dla Krola). Na miejscu decyzja pana: zostawic u Aemona/Strazy do powrotu Jona albo przywiezc z powrotem. ZOBOWIAZANIE wobec Aryi: jesli nie zobaczy Jona, ma jej powiedziec prawde, dlaczego.",
+   "kto": "pan (niesie) -> JON / AEMON",
+   "kanal": "osobiscie, Czarny Zamek",
+   "wraca": "300-11-15",
+   "zamyka": "list oddany Jonowi / zostawiony z adresem u Aemona / przywieziony; i slowo dla Aryi po powrocie",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

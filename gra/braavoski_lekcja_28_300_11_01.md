@@ -22,4 +22,7 @@ Słowa lekcji (E): *mur*, *lód*, *wysoki jak…*, *wartownik*, *czarny brat*, *
 
 Jeśli w tym czasie przyjdzie odpowiedź Nesty na list sióstr (lekcja 19), czytają ją razem i odpisują po braavosku na najbliższej lekcji.
 
-## LEKCJA 28: OTWARTA (pytanie Aryi o Jona, do słowa pana)
+## CZĘŚĆ 3: JON
+Pan: *„Zobaczę, co da się zrobić.”* Bierze list. **RZUT 76 (Arya, odczyt):** Arya zauważa, że pan nie powiedział „tak” — *„Przemilczałeś.”* — i stawia warunek: jeśli go nie zobaczy, ma jej powiedzieć prawdę, dlaczego. Pisze list na miejscu; Sansa podaje pieczęć z wilkiem i lak. List w sakwie pana, nieczytany.
+
+## LEKCJA 28: ZAMKNIĘTA

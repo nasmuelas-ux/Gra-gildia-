@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 11,
-  "dzien": 6,
+  "dzien": 7,
   "era": "AC"
  },
- "pora": "poludnie",
+ "pora": "wieczor",
  "sezon": "zima (300)",
- "pogoda": "RZUT 32 (300-11-06): przecietnie-slabo - szaro, snieg przelotny, wiatr; trakt bialy, konwoj wolno; w jarze zasadzka odwrocona.",
- "dzien_tygodnia_nr": 3,
+ "pogoda": "RZUT 96 (300-11-07): znakomicie - slonce, suchy mroz, bezwietrznie; trakt twardy, sanie szybko. Ostatnie Ognisko osiagniete wieczorem.",
+ "dzien_tygodnia_nr": 4,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

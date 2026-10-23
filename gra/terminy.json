@@ -17572,6 +17572,14 @@
    "wraca": "300-11-15",
    "zamyka": "stos spalony; data wyboru ogloszona",
    "status": "zamkniete 300-11-15 (stos o zachodzie, pan obecny z ludzmi; data wyboru - Marsh oglosi po stosie)"
+  },
+  {
+   "co": "WYBOR LORDA DOWODCY NOCNEJ STRAZY - ogloszony przez Marsha po stosie Aemona (11-15, rzut 48): glosowanie w Czarnym Zamku 300-11-29; kruki do Wschodniej Straznicy i Wiezy Cieni. Kandydaci (Marsh 11-13): Slynt (Thorne + ludzie od wina), Mallister, Pyke, czesc braci mowi o Marshu. Polnoc NIE ingeruje (slowo pana 11-13). Pan bedzie juz w drodze / na Wyspie.",
+   "kto": "NOCNA STRAZ (wola zewnetrzna)",
+   "kanal": "wiesc: Benno (kruk Domu) / Hallis",
+   "wraca": "300-11-29",
+   "zamyka": "imie nowego Lorda Dowodcy (rzut w dniu wyboru)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

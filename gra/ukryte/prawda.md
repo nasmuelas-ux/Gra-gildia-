@@ -475,3 +475,5 @@ Slynt (wiesc od brata-obserwatora 11-16) poslal 11-17 kruka przez Clydasa do Wie
 
 ## 300-11-29 — WYBOR LORDA DOWODCY NOCNEJ STRAZY (rzut 46). TYLKO TU - pan dowie sie przez Benna (kruk Domu do WF) albo w Deepwood/WF.
 Wybrany SER DENYS MALLISTER (Wieza Cieni), w kilku turach glosowania (E); Slynt drugi - list Slynta o 'cichej drodze Namiestnika' czesc braci odebrala jako potwarz (dar koni wpisany jawnie). Marsh poparl Mallistera w ostatniej turze (E). Mallister jako LD: dumny, uczciwy, Wawoz i szlaki pod Klami w jego rekach - przeprawa Maege bez przeszkod Strazy. Slynt urazony; Thorne przy nim. Wiesc: Benno - kruk Domu do WF ~11-30.
+
+## 300-12-04 — BIEGACZE DO DEEPWOOD (rzut 34). Owain i Cadoc dochodza do Deepwood w nocy; Dacey Mormont i Robett Glover (E) wysylaja o swicie 12-05 sanie, maestera (E) i 10 lesnikow sciezka mysliwska; spotkanie z grupa pana ~poludnie 12-05.

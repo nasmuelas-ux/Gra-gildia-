@@ -17396,6 +17396,14 @@
    "wraca": "300-11-10",
    "zamyka": "kosztorys Warryna + kolejnosc; start naboru (odzew - rzut przy naborze); pierwsze lodzie",
    "status": "otwarte"
+  },
+  {
+   "co": "WYPLATA X PANA - ODBIOR PRZEZ MIRE z upowaznienia (11-01): faktoria ZM za kwitem, po bilansie Hala X; 1/10 do skrzyni rodu, reszta w sakwie pana. Kwota z ksiegi Hala.",
+   "kto": "MIRA (upowaznienie) ; HAL (bilans X) ; faktoria ZM",
+   "kanal": "osobiscie, faktoria ZM",
+   "wraca": "300-11-14",
+   "zamyka": "wyplata odebrana, wpis w ksiedze rodu",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

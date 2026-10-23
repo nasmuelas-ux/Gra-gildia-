@@ -17502,7 +17502,7 @@
    "status": "otwarte"
   },
   {
-   "co": "LIST DO MORMONTOW (slowo pana 11-13 wieczor, stajnia CZ): kruk Domu od Benna do Winterfell -> maester Luwin przesyla lady Maege na Wyspe Niedzwiedzia. Prosba: lodz Mormontow pod brzeg Zatoki Lodu ponizej Wiezy Cieni; Namiestnik chce zobaczyc transport dzikich na Wyspie; potem przeprawa na lad kolo Deepwood Motte. Luwin osobno, ustnie/w cztery oczy, mowi KROLOWI prawdziwa droge. Nie przez kruki Clydasa (Clydas zapisuje cele). Ryzyko: Maege odmowi / lod / lodz nie zdazy.",
+   "co": "LIST DO MORMONTOW (slowo pana 11-13 wieczor, stajnia CZ): kruk Domu od Benna do Winterfell -> maester Luwin przesyla lady Maege na Wyspe Niedzwiedzia. Prosba: lodz Mormontow pod brzeg Zatoki Lodu ponizej Wiezy Cieni; Namiestnik chce zobaczyc transport dzikich na Wyspie; potem przeprawa na lad kolo Deepwood Motte. Luwin osobno, ustnie/w cztery oczy, mowi KROLOWI prawdziwa droge. Nie przez kruki Clydasa (Clydas zapisuje cele). Ryzyko: Maege odmowi / lod / lodz nie zdazy. | 11-13 poznym wieczorem NAPISANY: prosba o przysluge (lodz); Namiestnik chce zobaczyc na wlasne oczy, z czym Mormontowie sie mierza (dzicy na Wyspie). Zapieczetowany. Czeka na oddanie Bennowi (kruk Domu).",
    "kto": "LADY MAEGE MORMONT (wola zewnetrzna) via Benno -> Luwin",
    "kanal": "kruk Domu CZ->Winterfell, dalej kruk Winterfell->Wyspa Niedzwiedzia",
    "wraca": "300-11-19",
@@ -17518,7 +17518,7 @@
    "status": "zamkniete 300-11-13 (oddany, wyslanie o swicie 11-14)"
   },
   {
-   "co": "PODZIAL KONWOJU - SANIE TRAKTEM (zgoda pana 11-13): puste sanie, Hugo, ranny zwiadowca + 3 ludzi Stena, eskorta Umberow przez Dar, powrot jawny Traktem Krolewskim do Winterfell. Widoczna przyneta.",
+   "co": "PODZIAL KONWOJU - SANIE TRAKTEM (zgoda pana 11-13): puste sanie, Hugo, ranny zwiadowca + 3 ludzi Stena, eskorta Umberow przez Dar, powrot jawny Traktem Krolewskim do Winterfell. Widoczna przyneta. | 11-13: pan martwi sie o rannego wyslanego osobno (przyneta sciaga atak na slabszych). Sten dal opcje - DECYZJA PANA OTWARTA.",
    "kto": "LUDZIE STENA (wlasni)",
    "kanal": "Trakt Krolewski",
    "wraca": "300-11-30",
@@ -17526,7 +17526,7 @@
    "status": "otwarte"
   },
   {
-   "co": "DROGA ZACHODEM (zgoda pana 11-13): Symon + Sten + 7 ludzi: CZ -> wzdluz Muru do Wiezy Cieni (ser Denys Mallister) -> brzeg Zatoki Lodu -> lodz Mormontow -> Wyspa Niedzwiedzia (transport dzikich) -> lad kolo Deepwood Motte -> dom. Do ~4 tygodni. Wyjazd z CZ - kiedy pan postanowi.",
+   "co": "DROGA ZACHODEM (zgoda pana 11-13): Symon + Sten + 7 ludzi: CZ -> wzdluz Muru do Wiezy Cieni (ser Denys Mallister) -> brzeg Zatoki Lodu -> lodz Mormontow -> Wyspa Niedzwiedzia (transport dzikich) -> lad kolo Deepwood Motte -> dom. Do ~4 tygodni. Wyjazd z CZ - kiedy pan postanowi. | Rachunek Stena 11-13: CZ->Wieza Cieni ~6 dni; do brzegu ~2; lodz na Wyspe ~1-2; Wyspa ~2-3; przeprawa+do Deepwood ~2-3; Deepwood->Winterfell przez Wilczy Las ~9-10. Razem ~3 tyg. jesli lodz czeka; ~4 tyg. jesli trzeba czekac na lodz/lod.",
    "kto": "SYMON / STEN",
    "kanal": "w drodze",
    "wraca": "300-12-10",

@@ -16318,9 +16318,9 @@
    "co": "PENTOS - ODPOWIEDZ DOMU HANDLOWEGO NA WARUNKI KORONY (drewno do 100 szt. po 115 jel., futra po spisie, przewoz kupca od BP, zadatek 1/3). List przez Hala/Obara statkiem. Wola obca - RZUT przy odpowiedzi.",
    "kto": "HAL / OBARO -> dom handlowy (Pentos)",
    "kanal": "statek BP-Pentos",
-   "wraca": "300-11-25",
+   "wraca": "300-12-20",
    "zamyka": "odpowiedz domu (rzut)",
-   "status": "otwarte"
+   "status": "PRZYSZLO 12-18 (paczka Hala, rzut 29): 115 jel./szt. przyjete, ale ~50 szt. (reszta po obejrzeniu pierwszych), zadatek 1/4, odbior w BP ich statkiem wiosna; futra po spisie bez zobowiazania. Do slowa pana/Gawena (dab Korony: Arbor, Pentos, Arsenal). ### otwarte"
   },
   {
    "data": "300-10-10",
@@ -17852,6 +17852,14 @@
    "wraca": "301-01-15",
    "zamyka": "rozmowa przy stole albo list pana",
    "status": "otwarte ### 12-18 pan przeczytal."
+  },
+  {
+   "co": "ODBIOR UDZIALU PANA Z WYPLAT DOMU X i XI: 490,16 smoka w faktorii ZM za kwitem; 1/10 (49,02) do skrzyni rodu (zasada 08-17) - wpis w ksiedze rodu reka pana, podpis Miry.",
+   "kto": "PAN ; faktoria ZM",
+   "kanal": "osobiscie",
+   "wraca": "300-12-22",
+   "zamyka": "kwit podpisany, sakiewka i ksiega rodu",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [
@@ -18040,7 +18048,7 @@
     "dzien_miesiaca": 5
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-10-05",
+   "ostatnio_odebrane": "300-12-05",
    "zrodlo": "terminy (HAL - PELNE ROZLICZENIE)"
   },
   {

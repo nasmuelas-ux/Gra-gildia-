@@ -1816,6 +1816,20 @@
    "kwota": -40.0,
    "opis": "SCINKA DEBU W WILCZYM LESIE XI-III: ~120-150 pni, ~0,3/pien (dniowki, sanie, cechowanie) - E Gawena",
    "zrodlo": "slowo pana 10-22"
+  },
+  {
+   "data": "300-11-05",
+   "kasa": "KASA 1 - DOM HANDLOWY TALLY",
+   "kwota": -913.83,
+   "opis": "WYPLATA WSPOLNIKOM - X (40% wolnej gotowki X 2284,59; polozenie rzut 66): Symon 304,61, Nesta 304,61, Hal 152,31, Mira 152,31. Dyspozycja stala 07-14.",
+   "zrodlo": "bilans Hala X (11-05); polozenie rzut 66 (odczyt 12-18)"
+  },
+  {
+   "data": "300-12-05",
+   "kasa": "KASA 1 - DOM HANDLOWY TALLY",
+   "kwota": -556.64,
+   "opis": "WYPLATA WSPOLNIKOM - XI (40% wolnej gotowki XI 1391,60; polozenie rzut 18): Symon 185,55, Nesta 185,55, Hal 92,77, Mira 92,77. Dyspozycja stala 07-14.",
+   "zrodlo": "bilans Hala XI (12-05); polozenie rzut 18 (odczyt 12-18)"
   }
  ],
  "_symulacje": {

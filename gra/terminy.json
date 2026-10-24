@@ -15238,9 +15238,9 @@
    "co": "LIST SIOSTR DO NESTY PO BRAAVOSKU - 'Winterfell dla kogos z Braavos' (6 zdan, dwie rece; lekcja 19): z poczta Domu do BP -> statek do Braavos. Odpowiedz Nesty (rzut) - ~XI.",
    "kto": "SANSA, ARYA -> NESTA (przez Hala)",
    "kanal": "kruk Domu WF-BP + statek",
-   "wraca": "300-11-15",
+   "wraca": "300-12-19",
    "zamyka": "odpowiedz Nesty",
-   "status": "otwarte"
+   "status": "PRZYSZLO 12-18 (rzut 87): kartka Nesty po braavosku dla Sansy i Aryi + rysunek Tytana (Arya) i wstazka koronki (Sansa), E - u pana do przekazania. ### otwarte"
   },
   {
    "data": "300-09-22",
@@ -16329,7 +16329,7 @@
    "kanal": "kruk WF-BP + statek BP-Braavos",
    "wraca": "300-11-25",
    "zamyka": "odpowiedz Nesty: ilu, kiedy (rzut)",
-   "status": "otwarte"
+   "status": "zamkniete 300-12-18 (list Nesty, rzut 87): 4 pisarzy do Theomore'a + 3 pisarzy-nauczycieli, kontrakty roczne, stawka 10-10; przyjazd pierwszym statkiem wiosennym. ### otwarte"
   },
   {
    "data": "300-10-10",
@@ -16930,9 +16930,9 @@
    "co": "YSILLA Z BRAAVOS - LIST PANA (gra/list_300_10_20_ysilla.md): propozycja rozmowy o urzedzie SZEFA BEZPIECZENSTWA DOMU (po odmowie Torvalda 10-20). Kanal: kruk Domu WF-BP (Hal) 10-21 -> powrotny statek Nesty BP-Braavos (koniec X) -> Nesta -> Ysilla (~XI). Odpowiedz (wola Ysilli, morze) - RZUT ~XII. WERYFIKACJA (stala zasada 09-16): 1 Willa (kartka 10-21; czlowiek Willi w Braavos od ~XI), 2 kontrwywiad, 3 Sten, 4 pan.",
    "kto": "PAN + MIRA (list) ; HAL ; NESTA ; WILLA (szczebel 1)",
    "kanal": "kruk Domu WF-BP; statek Nesty BP-Braavos",
-   "wraca": "300-11-25",
+   "wraca": "301-03-15",
    "zamyka": "odpowiedz Ysilli + meldunek Willi",
-   "status": "otwarte ### 10-20 list napisany w nocy (pan i Mira); kruk do Hala rano 10-21; kartka do Willi rano."
+   "status": "PRZYSZLO 12-18 (list Nesty, rzut 83): TAK NA ROZMOWE - pierwszym statkiem wiosennym do BP (III-IV/301, E) albo w Braavos; warunki: najpierw ludzie i miejsca, dwoje wlasnych ludzi, kontrakt roczny. Jej list w osobnej kopercie (nieotwarty). Weryfikacja Willi - osobno. ### otwarte ### 10-20 list napisany w nocy (pan i Mira); kruk do Hala rano 10-21; kartka do Willi rano."
   },
   {
    "data": "300-10-21",
@@ -17040,7 +17040,7 @@
    "kanal": "kruki do lordow; kanal zbozowy; statek Nesty",
    "wraca": "300-12-20",
    "zamyka": "tabela lordow + umowy ramowe",
-   "status": "otwarte ### 12-18 RADA: ODPOWIEDZI LORDOW (rzuty): Glover 6 nie; Tallhart 74 tak (~10 suchych + ~40 swiezych, BP); Hornwood 20 nie teraz; Manderly 10 nie (sam sprzedaje); Cerwyn 20 nie; Umber 82 tak (~10 suchych + ~15 swiezych, sanie do WF); reszta sosna. GP 44: ~20 pni poszlo do Arbor, ~30 w skladzie GP. OLENNA 40: tak wiosna ~80-100 pni, cena nizsza niz pentoska, platnosc w Arbor. Scinka ~25. DO SLOWA PANA: co obiecac Arsenalowi i Olennie. ### otwarte ### 10-22 SLOWO PANA: ZGODA - list Skarbu do OLENNY (50 suchych w XI powrotem statkow + umowa ramowa wiosna + PYTANIE O GRANICE: ile najwiecej i do jakiej ceny) i do ARSENALU (umowa ramowa wiosna + GRANICA) - podpis Gawena; Olenna kanalem zbozowym (~XI), Arsenal statkiem Nesty (koniec X, odpowiedz ~XII-I). Kapitanowie Redwyne'ow w GP - Hendry/Garrick mowia przy rozladunku; czy wezma dab bez slowa Olenny - RZUT przy statkach (~XI)."
+   "status": "otwarte ### 12-18 LIST NESTY - ARSENAL (rzut 14): bez umowy ramowej z korona-gwarantem, bez granicy, cena Arsenalu przy wadze w Braavos, wiosna; kupuje od kupcow braavoskich - Nesta: pod znakiem jej kantoru inaczej. otwarte ### 12-18 RADA: ODPOWIEDZI LORDOW (rzuty): Glover 6 nie; Tallhart 74 tak (~10 suchych + ~40 swiezych, BP); Hornwood 20 nie teraz; Manderly 10 nie (sam sprzedaje); Cerwyn 20 nie; Umber 82 tak (~10 suchych + ~15 swiezych, sanie do WF); reszta sosna. GP 44: ~20 pni poszlo do Arbor, ~30 w skladzie GP. OLENNA 40: tak wiosna ~80-100 pni, cena nizsza niz pentoska, platnosc w Arbor. Scinka ~25. DO SLOWA PANA: co obiecac Arsenalowi i Olennie. ### otwarte ### 10-22 SLOWO PANA: ZGODA - list Skarbu do OLENNY (50 suchych w XI powrotem statkow + umowa ramowa wiosna + PYTANIE O GRANICE: ile najwiecej i do jakiej ceny) i do ARSENALU (umowa ramowa wiosna + GRANICA) - podpis Gawena; Olenna kanalem zbozowym (~XI), Arsenal statkiem Nesty (koniec X, odpowiedz ~XII-I). Kapitanowie Redwyne'ow w GP - Hendry/Garrick mowia przy rozladunku; czy wezma dab bez slowa Olenny - RZUT przy statkach (~XI)."
   },
   {
    "data": "300-10-22",

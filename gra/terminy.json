@@ -13071,7 +13071,7 @@
    "kanal": "kruk WF-BP + statek",
    "wraca": "300-11-05",
    "zamyka": "odpowiedz Olenny: Dustinport w klauzuli",
-   "status": "otwarte ### 300-09-25 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: Hal -> przedstawiciel -> Olenna, droga morska na poludnie (~75 dni w obie strony). ### 300-10-15 NIE PRZYSZLO, WIADOMO DLACZEGO: droga morska na poludnie (~75 dni w obie strony); przeglad z bilansem X."
+   "status": "zamkniete 300-12-20 (Rada; odpowiedz Olenny XI, rzut 38): TAK Z WARUNKIEM - tylko gdy GP zamkniety (lod/zelazni), na slowo kapitana konwoju; doplata frachtu za przekierowanie po stawce kapitanow (w liscie; Gawen do ksiegi), placi Korona; locman Korony w Dustinporcie (Donnel wskaze). ### POPRZEDNIO: byl-otw ### 300-09-25 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: Hal -> przedstawiciel -> Olenna, droga morska na poludnie (~75 dni w obie strony). ### 300-10-15 NIE PRZYSZLO, WIADOMO DLACZEGO: droga morska na poludnie (~75 dni w obie strony); przeglad z bilansem X."
   },
   {
    "data": "300-08-25",
@@ -14772,7 +14772,7 @@
    "kanal": "kruk WF-Fosa + jezdziec do Dustinportu",
    "wraca": "300-11-08",
    "zamyka": "dwa okrety przy ujsciu GP",
-   "status": "otwarte ### 300-09-30 ZBIORCZY 09-29 A: dwa okrety wyplynely z Dustinportu 09-28 (E), przy ujsciu GP od 10-01. ### 300-10-07 ZBIORCZY 10-06 A: dwa okrety przy ujsciu od 10-01 - do konca dostaw Reach. ### 300-11-01 DZIEN BILANSU: w toku (wlasni, zasada 7/33) - meldunek w stalej karcie urzedu/zbiorczym tego cyklu."
+   "status": "zamkniete 300-12-20 (Rada): okrety przy GP od 10-01 przez ostatnie statki Reach i Redwyne'ow (XI); wrocily do Dustinportu ~11-28 przed lodem (E, zbiorczy Garricka). ### POPRZEDNIO: byl-otw ### 300-09-30 ZBIORCZY 09-29 A: dwa okrety wyplynely z Dustinportu 09-28 (E), przy ujsciu GP od 10-01. ### 300-10-07 ZBIORCZY 10-06 A: dwa okrety przy ujsciu od 10-01 - do konca dostaw Reach. ### 300-11-01 DZIEN BILANSU: w toku (wlasni, zasada 7/33) - meldunek w stalej karcie urzedu/zbiorczym tego cyklu."
   },
   {
    "data": "300-09-16",
@@ -17971,6 +17971,14 @@
    "kanal": "kruk WF-Deepwood",
    "wraca": "300-12-30",
    "zamyka": "zgoda na wyreb i dowoz",
+   "status": "otwarte"
+  },
+  {
+   "co": "LOCMAN KORONY W DUSTINPORCIE dla statkow Reach (warunek Olenny, Rada 12-20): Donnel wskazuje czlowieka znajacego wejscie; zold Kasa 3; gotowy przed wiosennymi statkami.",
+   "kto": "DONNEL ; GAWEN",
+   "kanal": "kruk WF-Dustinport",
+   "wraca": "301-02-15",
+   "zamyka": "locman wskazany",
    "status": "otwarte"
   }
  ],

@@ -18143,6 +18143,15 @@
    "wraca": "300-12-22",
    "zamyka": "slowo Krola",
    "status": "otwarte"
+  },
+  {
+   "data": "300-12-21",
+   "co": "LIST HUGONA DO BRATA BENA (Wschodnia Straznica) - spisany przez pana 12-21 (gra/list_300_12_21_hugo_do_bena.md); znak Hugona pod listem (Ulf, ~12-22); wysylka z saniami Daru Korony z bronia w I do CZ, dalej Clydas -> Wschodnia Straznica.",
+   "kto": "PAN ; ULF ; HUGO ; CLYDAS",
+   "kanal": "sanie I -> CZ -> Wschodnia Straznica",
+   "wraca": "301-01-05",
+   "zamyka": "list w saniach na Mur",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

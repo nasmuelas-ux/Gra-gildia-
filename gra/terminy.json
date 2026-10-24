@@ -18376,6 +18376,15 @@
    "kanal": "na miejscu",
    "wraca": "300-12-25",
    "zamyka": "wilk wreczony; reakcja (rzut)",
+   "status": "otwarte ### 12-24 KROL: wedlug nowej reguly - wilk idzie przez kancelarie (Beron), nie przez czlowieka Stena przy stole; zdanie to samo."
+  },
+  {
+   "data": "300-12-24",
+   "co": "REGULA KROLA DLA GOSCI (12-24, rzut 79): dary dla rodzin pod dachem Krola - tylko przez kancelarie (Beron), nie przez sluge do stolu; sluzba gosci nie podchodzi do stolow rodzin ani do ich komnat; Zimowa Straz pilnuje (ser Alyn). Krol sam mowi to Ramsayowi jutro rano, spokojnie, jako zwyczaj domu ('wszystkich gosci'). Wilk za pieska - przez kancelarie wg reguly.",
+   "kto": "KROL ; SER ALYN ; BERON",
+   "kanal": "na miejscu",
+   "wraca": "300-12-25",
+   "zamyka": "regula ogloszona; rozmowa Krola z Ramsayem",
    "status": "otwarte"
   }
  ],

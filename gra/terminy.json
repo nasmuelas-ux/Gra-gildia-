@@ -17916,6 +17916,14 @@
    "wraca": "300-12-19",
    "zamyka": "ogloszone",
    "status": "otwarte"
+  },
+  {
+   "co": "ZOLD PRZYBOCZNEJ x3 + 1/4 ZA STOPIEN (slowo pana 12-19): podstawa = dotychczasowa stawka z ksiegi Garricka x3 (+200%); dodatek 1/4 od nowej podstawy za kazdy stopien: SZARY / ZBROJNY (rok + proba: miecz, kon w sniegu, luk, warta, opatrunek) / STARSZY (+czytanie i pisanie, zima i trop, piatka) / DZIESIETNIK (dziesiatka, sygnaly i klucz, jedna obca mowa). Proby co kwartal (Sten + Rodrik/Brynden). Kasa 2 (lenno). Garrick liczy koszt na 40 ludzi i od kiedy; regulamin na pismie - Sten. Uwaga Stena: Jastrzebie i garnizon uslysza.",
+   "kto": "PAN -> GARRICK (Kasa 2) ; STEN (regulamin)",
+   "kanal": "kruk WF-Fosa",
+   "wraca": "300-12-26",
+   "zamyka": "stawki i koszt w ksiedze Garricka; regulamin stopni",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

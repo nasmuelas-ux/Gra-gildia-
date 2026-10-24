@@ -14169,7 +14169,7 @@
    "kanal": "kruk Domu WF-BP + statek BP-Pentos (~24 dni w jedna strone)",
    "wraca": "301-03-15",
    "zamyka": "meldunek Obara: kandydaci imiennie i warunki albo przyczyna braku",
-   "status": "otwarte ### 12-20 ODCZYT: rzut 27 - mistrza szklarza z Myr brak (gildia trzyma w wojnie); 2 czeladnikow szklarskich wiosna; 1 tlumacz (myr./lys./wspolna); doradcy brak. ### otwarte"
+   "status": "otwarte ### 12-20 KOREKTA: szklarz Danno Nhaessar - juz zgodzony 09-18 (rzut 75), przyjazd I 301; rzut 27 dla reszty: 1 bednarz z Tyrosh, 1 tlumacz (myr./lys./wspolna), doradcy od pieniedzy brak. ### rzut 27 - mistrza szklarza z Myr brak (gildia trzyma w wojnie); 2 czeladnikow szklarskich wiosna; 1 tlumacz (myr./lys./wspolna); doradcy brak. ### otwarte"
   },
   {
    "data": "300-09-07",
@@ -16273,9 +16273,9 @@
    "co": "POSELSTWO KOSCI - PRZYJECIE W DORNE (Sloneczna Wlocznia, list do Oberyna, osmiu poleglych). Wiesc ~XI (kruki z BP na statku). RZUT na miejscu - przy wiesci.",
    "kto": "BRENN KAMIENIEC ; SER HARWOOD",
    "kanal": "kruk z Dorne/BP",
-   "wraca": "300-11-10",
+   "wraca": "301-03-15",
    "zamyka": "wiesc z Dorne (rzut)",
-   "status": "zamkniete 300-12-20 (odczyt zaleglych): rzut 39 - Oberyn przyjal i pochowal z honorem; list grzeczny, chlodny, bez zobowiazan; Brenn i ser Harwood wracaja wiosna. ### POPRZEDNIO: byl-otw"
+   "status": "otwarte ### 12-20 KOREKTA odczytu (rzut 39, czesciowo): Oberyn przyjal sam, dary, przewodnicy; Yronwood - tydzien, przepuscil z wlasnymi ludzmi; Wieza Radosci ~11-25 - 8 kopcow, kosci wydobyte; kosci ludzi Polnocy w Slonecznej Wloczni do statku wiosna; Dayne - Starfall, Hightower posle; SER OSWELL WHENT - komu oddac? (Brenn pyta) - DO SLOWA PANA/KROLA. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-10-10",

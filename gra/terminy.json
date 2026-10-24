@@ -18027,7 +18027,7 @@
    "kanal": "kruk Domu WF-Seagard; statek/kupiec do Harlaw",
    "wraca": "301-01-25",
    "zamyka": "odpowiedz Harlawa",
-   "status": "otwarte ### 12-20 decyzja Krola; najpierw list do Theona (KB)."
+   "status": "otwarte ### 12-21 dyspozycja przekazana Lucanowi; Seagard - pierwszy list jako zapytanie o cene soli (nie oferta Korony), po slowie Theona. otwarte ### 12-20 decyzja Krola; najpierw list do Theona (KB)."
   },
   {
    "co": "BANK BRAAVOS - KREDYT LWA (rada wojenna 12-20): przez DOM (Lucan, Nesta, kruki Banku): Bankowi to, co wiemy - kto trzyma papier Lwa (dwa domy z Lys + Dom ~1000 nominalu); cel - drozszy kredyt Lwa; skup dalej cicho. Odzew Banku - RZUT.",
@@ -18035,7 +18035,7 @@
    "kanal": "kruki Banku przez BP",
    "wraca": "301-01-20",
    "zamyka": "odzew Banku",
-   "status": "otwarte"
+   "status": "otwarte ### 12-21 dyspozycja przekazana Lucanowi; Lucan: 'mowimy, ze mamy - liczba jest nasza'. Kruki Banku przez BP. otwarte"
   },
   {
    "co": "LIST DO THEONA (Kamienny Brzeg) - O HARLAWIE (warunek Catelyn, rada wojenna 12-20): Theon wie pierwszy, ze Korona pisze do Rodrika Harlawa o handel; prosba o jego slowo jako syna Pyke do listu Domu. Tajne (klucz wojskowy). Odpowiedz Theona - jego wola (rzut).",

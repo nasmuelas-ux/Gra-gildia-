@@ -18142,7 +18142,7 @@
    "kanal": "osobiscie",
    "wraca": "300-12-22",
    "zamyka": "slowo Krola",
-   "status": "otwarte"
+   "status": "zamkniete 300-12-22: KROL (a) 99 TAK - Krol pyta Sanse sam, ona pisze sama, droga: kapitanowie Redwyne'ow wiosna; (b) 9 NIE - prawda o skrzyni nie przez posla Korony; Olenna uslyszy z rynku (szept T1); Arbor = handel ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-12-21",
@@ -18194,9 +18194,18 @@
    "co": "GLEBOKORZEN - POSWIADCZENIE DLA CZELADNIKOW CECHU PISARZY BP (prosba starszego cechu, karta Theomore'a 12-06, rzut 99): czy czeladnik cechu moze zdawac probe Glebokorzenia i nosic poswiadczenie obok cechowego; pierwsze poswiadczenie dla ludzi spoza Glebokorzenia - pieczec Krola. + PARAGRAF VIII/IX karty (lancuchy nauki) do podpisu Krola od IX.",
    "kto": "PAN -> KROL ; THEOMORE ; LUWIN (Mistrz Nauki)",
    "kanal": "osobiscie / kruk WF-BP",
-   "wraca": "300-12-22",
+   "wraca": "300-12-30",
    "zamyka": "slowo pana i pieczec Krola",
-   "status": "otwarte ### 12-22 SLOWO PANA: (1) TAK - do pieczeci Krola przez Luwina; Theomore odpowiada cechowi po pieczeci; (2) paragraf VIII/IX jedzie do Krola razem - przy najblizszej sprawie (dzis, Tyrellowie)."
+   "status": "otwarte ### 12-22 SLOWO PANA: (1) TAK - do pieczeci Krola przez Luwina; Theomore odpowiada cechowi po pieczeci; (2) paragraf VIII/IX jedzie do Krola razem - przy najblizszej sprawie (dzis, Tyrellowie). ### 12-22 KROL (rzut 7): paragraf VIII/IX PODPISANY; poswiadczenie NIE TERAZ - slowo Wymana przy Dlugiej Nocy + zdanie Luwina (licencja/Cytadela)."
+  },
+  {
+   "data": "300-12-22",
+   "co": "LIST SANSY DO MARGAERY (Krol 12-22, rzut 99): Krol pyta Sanse sam; Sansa pisze sama, po swojemu, pod swoja pieczecia; Krol nie czyta. Droga: ludzie Olenny - kapitanowie Redwyne'ow wiosna (razem z listem Skarbu o debie), nie kruk przez KP.",
+   "kto": "KROL -> SANSA ; GAWEN (droga z listem o debie)",
+   "kanal": "osobiscie; statek Redwyne'ow wiosna",
+   "wraca": "301-03-15",
+   "zamyka": "list w rekach kapitana Redwyne'ow",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

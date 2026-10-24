@@ -18314,6 +18314,15 @@
    "wraca": "301-01-10",
    "zamyka": "odpowiedz Banku: termin przyjazdu przedstawiciela do ZM; meldunek Hala z rozmowy w BP",
    "status": "otwarte ### 12-23 list pana do Hala - kruk po zamieci."
+  },
+  {
+   "data": "300-12-23",
+   "co": "T1 - ODPRAWA WILLI USTNIE ODBYTA (nowe granice Krola 12-20). Wynik - w centrali Willi.",
+   "kto": "WILLA",
+   "kanal": "ustnie",
+   "wraca": "300-12-28",
+   "zamyka": "meldunek w centrali Willi (rzut przy meldunku)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

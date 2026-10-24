@@ -16725,7 +16725,7 @@
    "kanal": "kruk WF-Czarny Zamek",
    "wraca": "300-10-21",
    "zamyka": "odpowiedz Wystana (rzut)",
-   "status": "otwarte ### 12-21 napisany (gra/list_300_12_21_wystan.md); kanal Domu z listem do Clydasa. Odpowiedz Wystana - RZUT."
+   "status": "otwarte ### 12-21 WYSLANY kanalem Domu. Odpowiedz - RZUT."
   },
   {
    "data": "300-10-18",
@@ -18091,7 +18091,7 @@
    "kanal": "kruk WF-Czarny Zamek",
    "wraca": "301-01-05",
    "zamyka": "odpowiedz Wystana",
-   "status": "otwarte ### 12-21 napisany (gra/list_300_12_21_wystan.md); kanal Domu z listem do Clydasa. Odpowiedz Wystana - RZUT."
+   "status": "otwarte ### 12-21 WYSLANY kanalem Domu. Odpowiedz - RZUT."
   },
   {
    "co": "ZAPROSZENIE KROLA DLA WYMANA MANDERLY'EGO NA PRZESILENIE (Dluga Noc, E 300-12-30) do Winterfell (slowo pana 12-21, propozycja Krola): list Krola wlasna reka; przy stole - Medrick do misji w Meereen (pytanie, nie list), 'nasze sprawy' (rozwazalo, dab, kurs, garnizon PW, Torvald, komora). Odpowiedz/przyjazd Wymana - RZUT.",
@@ -18115,7 +18115,7 @@
    "kanal": "osobiscie / posłaniec do ZM",
    "wraca": "300-12-21",
    "zamyka": "Hugo wie",
-   "status": "otwarte"
+   "status": "otwarte ### 12-21 Ulf jedzie do ZM (z Owainem), wraca przed kolacja."
   }
  ],
  "_dopiski_300_03_18": [

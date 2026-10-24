@@ -2302,6 +2302,13 @@
     "na": "beczka dobrego piwa w Zimowym Miescie dla ludzi z drogi na Mur (podziekowanie)",
     "kasa": "sakiewka pana",
     "uwaga": "cena beczki - E, brak w zapisie"
+   },
+   {
+    "data": "300-12-19",
+    "ruch": "-1 smok",
+    "na": "dar dla rodziny Tomana (Hedda i piekarz, ZM) - syn w sluzbie, choroba w drodze z Muru",
+    "kasa": "sakiewka pana",
+    "uwaga": "kwota - wybor GM (wzor: 1 smok na Kettila 11-27), do korekty slowem gracza"
    }
   ],
   "wyplata_VIII_a_300_08_14": "Symon 224,47 ODEBRANE w faktorii ZM 08-14 za kwitem; Mira 112,24 czeka w faktorii do jej odbioru (dlug Miry wobec szkatuly - rozliczyc przy jej odbiorze).",

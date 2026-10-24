@@ -2246,7 +2246,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-11-04",
    "zamyka": "Dolina mowi cokolwiek - wtedy pytanie wraca",
-   "status": "otwarte - ODLOZONE Z POWODEM ### 08-10: Dolina milczy (Sansa 08-07: trzy strony Doliny, Royce przeciw Baelishowi) - decyzja zostaje; wraca, gdy Dolina cos powie. ### 09-10: Dolina dalej milczy (karta Willi 09-01 - biala plama; ksiega milczenia bez zmian) - decyzja stoi; nastepny przeglad z karta Willi 10-01/10-10. ### 300-10-10 MALA RADA: przyjete bez dyskusji; czeka na zdarzenie - 300-10-28. ### 300-10-28: ZAMIEC (pogoda 13) - Krol nie dotarl; czeka na Jego powrot (>=10-30)."
+   "status": "zamkniete 300-12-20 (triaz, kiwniecie pana): decyzja swiadoma stoi - nie termin (wraca, gdy Dolina cos powie). ### POPRZEDNIO: byl-otw - ODLOZONE Z POWODEM ### 08-10: Dolina milczy (Sansa 08-07: trzy strony Doliny, Royce przeciw Baelishowi) - decyzja zostaje; wraca, gdy Dolina cos powie. ### 09-10: Dolina dalej milczy (karta Willi 09-01 - biala plama; ksiega milczenia bez zmian) - decyzja stoi; nastepny przeglad z karta Willi 10-01/10-10. ### 300-10-10 MALA RADA: przyjete bez dyskusji; czeka na zdarzenie - 300-10-28. ### 300-10-28: ZAMIEC (pogoda 13) - Krol nie dotarl; czeka na Jego powrot (>=10-30)."
   },
   {
    "data": "300-03-12",
@@ -15807,7 +15807,7 @@
    "kanal": "kruk WF-Barrowton + jezdziec",
    "wraca": "300-11-08",
    "zamyka": "sily z glebi i Osric w WF",
-   "status": "otwarte ### 300-10-01: rozkaz wyszedl rano (pieczec Namiestnika). Czesc 'I Z GORACEGO PORTU' - do doprecyzowania przez pana (kto i dokad). ### 300-10-01 SLOWO PANA: GORACY PORT ZOSTAJE jak jest (zapora, ognie, lodz, wzmocnienie) - 'I z Goracego Portu' cofniete. ### 300-10-05 TRIAZ: rozkaz u Osrica ~10-04/05 (pogoda dobra); wymarsz ~10-06 (E); WF ~10-22..25. ### 300-10-08 SLOWO PANA (sala map, rada Bryndena): po powrocie OSRIC i 50 ZOSTAJA W WINTERFELL JAKO ODWOD (do odwolania). ### 300-10-24: NIE PRZYSZLO, WIADOMO DLACZEGO - kolumna na trakcie zachodnim, bez kruka po drodze; w WF ~10-29. ### 300-11-01 DZIEN BILANSU: w toku (wlasni, zasada 7/33) - meldunek w stalej karcie urzedu/zbiorczym tego cyklu."
+   "status": "zamkniete 300-12-20 (triaz, kiwniecie pana): Osric i 50 doszli 10-29/30. ### POPRZEDNIO: byl-otw ### 300-10-01: rozkaz wyszedl rano (pieczec Namiestnika). Czesc 'I Z GORACEGO PORTU' - do doprecyzowania przez pana (kto i dokad). ### 300-10-01 SLOWO PANA: GORACY PORT ZOSTAJE jak jest (zapora, ognie, lodz, wzmocnienie) - 'I z Goracego Portu' cofniete. ### 300-10-05 TRIAZ: rozkaz u Osrica ~10-04/05 (pogoda dobra); wymarsz ~10-06 (E); WF ~10-22..25. ### 300-10-08 SLOWO PANA (sala map, rada Bryndena): po powrocie OSRIC i 50 ZOSTAJA W WINTERFELL JAKO ODWOD (do odwolania). ### 300-10-24: NIE PRZYSZLO, WIADOMO DLACZEGO - kolumna na trakcie zachodnim, bez kruka po drodze; w WF ~10-29. ### 300-11-01 DZIEN BILANSU: w toku (wlasni, zasada 7/33) - meldunek w stalej karcie urzedu/zbiorczym tego cyklu."
   },
   {
    "data": "300-10-01",
@@ -16608,7 +16608,7 @@
    "kanal": "osobiscie WF",
    "wraca": "300-11-04",
    "zamyka": "stroj gotowy; platnik ustalony",
-   "status": "otwarte ### SLOWO PANA 10-15: PLACI KORONA (Kasa 3 / dom krolewski) - Mira uzgadnia z GAWENEM przed zakupem jedwabiu; kwota z wyceny Miry, wpis Gawena (zasada 43). ### 10-16: Mira zmierzyla Roslin rano; Gawen wpisal ~4 smoki (wycena Miry, E) - Kasa 3, 10-22; jedwab z BP przez Hala. ### 300-10-26 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO - czeka na slowo/powrot Krola (~10-28). ### 300-10-28: ZAMIEC (pogoda 13) - Krol nie dotarl; czeka na Jego powrot (>=10-30)."
+   "status": "zamkniete 300-12-20 (triaz, kiwniecie pana): gotowy na uczte 10-27. ### POPRZEDNIO: byl-otw ### SLOWO PANA 10-15: PLACI KORONA (Kasa 3 / dom krolewski) - Mira uzgadnia z GAWENEM przed zakupem jedwabiu; kwota z wyceny Miry, wpis Gawena (zasada 43). ### 10-16: Mira zmierzyla Roslin rano; Gawen wpisal ~4 smoki (wycena Miry, E) - Kasa 3, 10-22; jedwab z BP przez Hala. ### 300-10-26 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO - czeka na slowo/powrot Krola (~10-28). ### 300-10-28: ZAMIEC (pogoda 13) - Krol nie dotarl; czeka na Jego powrot (>=10-30)."
   },
   {
    "data": "300-10-15",
@@ -16977,7 +16977,7 @@
    "kanal": "goniec do Edrica (ZM/domena)",
    "wraca": "300-11-08",
    "zamyka": "pierwszy meldunek lowow i wytopu z liczbami",
-   "status": "zamkniete 300-11-01: SLOWO PANA - mysliwi odeslani do wsi (rada Orlanda). Wynik lowow ~3 dni tluszczu (rzut 29). ### otwarte ### 10-21 rozkaz pana; goniec do Edrica 10-22 rano. ### 10-21 SLOWO PANA: uwzglednic w karcie racji; liczby dopisac po zakonczeniu lowow (meldunek Edrica). ### 300-11-01 DZIEN BILANSU: w toku (wlasni, zasada 7/33) - meldunek w stalej karcie urzedu/zbiorczym tego cyklu. ### 300-11-01 MELDUNEK EDRICA (karta racji 11-01), RZUT 29 - SLABO: snieg miesiac za wczesnie, niedzwiedzie spia; kilka dzikow, borsuki - ~3 dni tluszczu. DO SLOWA PANA: dalej polowac czy odeslac mysliwych (Orland: zwinac)."
+   "status": "zamkniete 300-12-20 (triaz, kiwniecie pana): mysliwi odeslani 11-01 (slowo pana); wynik ~3 dni tluszczu. ### POPRZEDNIO: zamkniete 300-11-01: SLOWO PANA - mysliwi odeslani do wsi (rada Orlanda). Wynik lowow ~3 dni tluszczu (rzut 29). ### byl-otw ### 10-21 rozkaz pana; goniec do Edrica 10-22 rano. ### 10-21 SLOWO PANA: uwzglednic w karcie racji; liczby dopisac po zakonczeniu lowow (meldunek Edrica). ### 300-11-01 DZIEN BILANSU: w toku (wlasni, zasada 7/33) - meldunek w stalej karcie urzedu/zbiorczym tego cyklu. ### 300-11-01 MELDUNEK EDRICA (karta racji 11-01), RZUT 29 - SLABO: snieg miesiac za wczesnie, niedzwiedzie spia; kilka dzikow, borsuki - ~3 dni tluszczu. DO SLOWA PANA: dalej polowac czy odeslac mysliwych (Orland: zwinac)."
   },
   {
    "data": "300-10-21",
@@ -17274,7 +17274,7 @@
    "kanal": "Trakt Krolewski Winterfell-Czarny Zamek",
    "wraca": "300-11-04",
    "zamyka": "data wyjazdu ustalona po bilansie; potem meldunki z drogi",
-   "status": "zrobione 300-11-03: WYMARSZ o swicie (pogoda 100). Konwoj ruszyl: zwiad przodem, czolo zbrojne, ~8 sani (kiszonka/tluszcz, Dar Korony), tyl zbrojny; pan w srodku przy saniach, lekka kolczuga pod szarym plaszczem, miecz pod plaszczem, gwizdek Lyry na szyi, odpis Luwina i list Aryi w sakwie. Oddzial I Stena (10). ### otwarte ### 300-11-01 SLOWO PANA: pan jedzie z KONWOJEM - sanie z kiszonka i tluszczem z targu ZM (Dar Korony dla Strazy); tempo sani, eskorta Stena (oddzial I). Wyjazd 11-02 jesli pogoda pozwoli. ### 300-11-01 SLOWO PANA (Sten): eskorta = oddzial I CALY (Sten + 10), bez dobierania z II - 'kupiecki tabor, nie orszak'. Zwiad 2x dalej, noclegi pod dachem w osadach, 2 kusznikow przy saniach, pan w szarym plaszczu bez znakow. Przyboczna rodziny: DAGON z oddzialem II (10) przy Mirze i Lyrze - takze przy wieczornych wyjazdach Miry do ZM. ### 300-11-02 SLOWO PANA: ZOSTAJEMY - pogoda 27 (snieg z wiatrem), konwoj rozladowany na jutro; Sten da ludziom i koniom swiezy start. Wymarsz ~11-03, jesli pogoda lepsza (rzut rano). Dzien w WF: sobota, sprawy domowe (raport Aldwina 11-02, centrala Willi 11-02)."
+   "status": "zamkniete 300-12-20 (triaz, kiwniecie pana): zrobione (XI). ### POPRZEDNIO: zrobione 300-11-03: WYMARSZ o swicie (pogoda 100). Konwoj ruszyl: zwiad przodem, czolo zbrojne, ~8 sani (kiszonka/tluszcz, Dar Korony), tyl zbrojny; pan w srodku przy saniach, lekka kolczuga pod szarym plaszczem, miecz pod plaszczem, gwizdek Lyry na szyi, odpis Luwina i list Aryi w sakwie. Oddzial I Stena (10). ### byl-otw ### 300-11-01 SLOWO PANA: pan jedzie z KONWOJEM - sanie z kiszonka i tluszczem z targu ZM (Dar Korony dla Strazy); tempo sani, eskorta Stena (oddzial I). Wyjazd 11-02 jesli pogoda pozwoli. ### 300-11-01 SLOWO PANA (Sten): eskorta = oddzial I CALY (Sten + 10), bez dobierania z II - 'kupiecki tabor, nie orszak'. Zwiad 2x dalej, noclegi pod dachem w osadach, 2 kusznikow przy saniach, pan w szarym plaszczu bez znakow. Przyboczna rodziny: DAGON z oddzialem II (10) przy Mirze i Lyrze - takze przy wieczornych wyjazdach Miry do ZM. ### 300-11-02 SLOWO PANA: ZOSTAJEMY - pogoda 27 (snieg z wiatrem), konwoj rozladowany na jutro; Sten da ludziom i koniom swiezy start. Wymarsz ~11-03, jesli pogoda lepsza (rzut rano). Dzien w WF: sobota, sprawy domowe (raport Aldwina 11-02, centrala Willi 11-02)."
   },
   {
    "data": "300-10-30",
@@ -17355,7 +17355,7 @@
    "kanal": "osobiscie, Czarny Zamek",
    "wraca": "300-11-15",
    "zamyka": "list oddany Jonowi / zostawiony z adresem u Aemona / przywieziony; i slowo dla Aryi po powrocie",
-   "status": "zamkniete 300-11-13 (czesc pana): list oddany PYPOWI (przyjaciel Jona z CZ) na przechowanie, nieotwarty, do reki Jonowi po powrocie; jesli Jon nie wroci - maesterowi albo komu pan przysle. Jona pan NIE zobaczyl (za Murem z objazdem Mormonta). ### otwarte"
+   "status": "zamkniete 300-12-20 (triaz, kiwniecie pana): zostawiony na Murze (czeka na Jona); Arya wie (12-17). ### POPRZEDNIO: zamkniete 300-11-13 (czesc pana): list oddany PYPOWI (przyjaciel Jona z CZ) na przechowanie, nieotwarty, do reki Jonowi po powrocie; jesli Jon nie wroci - maesterowi albo komu pan przysle. Jona pan NIE zobaczyl (za Murem z objazdem Mormonta). ### byl-otw"
   },
   {
    "co": "KONWOJ Z PANEM NA MUR - KISZONKA ~30 BECZEK + TLUSZCZ ~10 BECZEK (smalec, loj) z targu w ZIMOWYM MIESCIE (slowo pana 11-01; zakup po cenie ze slupa, Kasa 3, kwota w ksiedze Gawena przy kwicie - zasada 43). RZUT 78 (podaz): kupione dzis po poludniu przez czlowieka Orlanda. ~8 sani z woznicami. Znak 'Dar Korony Polnocy dla Nocnej Strazy', choragiew wilka. Do Czarnego Zamku razem z panem, kwit od intendenta (Bowen Marsh) przy wydaniu. E skutek dla Muru: kiszonka ~18 -> ~30 dni, tluszcz ~18 -> ~45 dni.",
@@ -17459,7 +17459,7 @@
    "kanal": "Czarny Zamek",
    "wraca": "300-11-13",
    "zamyka": "pan zmierzyl frakcje KP; wnioski do Krola",
-   "status": "otwarte"
+   "status": "zamkniete 300-12-20 (triaz, kiwniecie pana): odbyte 11-13. ### POPRZEDNIO: byl-otw"
   },
   {
    "co": "SLOWO DLA ARYI (obietnica 11-01): pan nie zobaczyl Jona - po powrocie powiedziec jej PRAWDE dlaczego (Jon za Murem z objazdem Mormonta, nie wrocil; list u Pypa, przyjaciela Jona, odda go Jonowi). Granica: slowo Aemona (Qhorin, przejscie do dzikich) jest tylko dla Krola - prawda dla Aryi bez tej czesci, chyba ze Krol pozwoli. | 12-17 KROL pozwala: Aryi mozna powiedziec, ze Jon ZYJE i ze pan nie zobaczyl go, bo jest za Murem; O QHORINIE / DZIKICH / MANSIE - jeszcze NIE (Krol sam, gdy przyjdzie pora).",
@@ -17643,7 +17643,7 @@
    "kanal": "list po powrocie (kruk WF-Fosa, szyfr Domu)",
    "wraca": "300-12-18",
    "zamyka": "list wyslany; odpowiedz Hendry ego ze stanem",
-   "status": "otwarte"
+   "status": "zamkniete 300-12-20 (triaz, kiwniecie pana): w liscie pana do Garricka 12-19 (gra/list_300_12_19_garrick.md). ### POPRZEDNIO: byl-otw"
   },
   {
    "co": "ZELAZNI - WIESC Z WYSPY NIEDZWIEDZIEJ (Maege 11-29, rzut 74): na Wyspie w 300 nie ladowali; latem dwa razy po 3 dlugie lodzie u zachodniego cypla - zawrocily na ogien; w X rybacy Mormontow widzieli SAMOTNA DLUGA LODZ bez zagla, na wioslach, daleko na zachodzie, idaca na poludnie (ku Kamiennemu Brzegowi / Palcowi). Od sztormow nic. Do Theona i Rodrika (karta Theona, przeglad). | 12-06 Galbart (rzut 42): wybrzeze ciche od sztormow, lancuch tylko proby; samotna dluga lodz w X potwierdzona z drugiej reki (rybacy Kamiennego Brzegu -> ludzie Theona). Obawa: wiosna.",

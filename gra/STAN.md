@@ -25,10 +25,9 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**147 otwartych** · **0 PRZETERMINOWANYCH** · 2 wraca dzis
+**147 otwartych** · **0 PRZETERMINOWANYCH** · 1 wraca dzis
 
 ### 🟡 WRACA DZIS
-- ZAKUP KISZONKI I KORZENI - TARG ZM I WSIE DOMENY (slowo pana 12-18): rzepa, brukiew, zurawina, suszone grzyby; cena ze slupa, Kasa… · _kanal:_ na miejscu (ZM)
 - STALA (slowo pana 12-19): PAN IGNORUJE RAMSAYA I JEGO ZACZEPKI - grzecznosc tylko konieczna, kubek bez odpowiedzi, zadnego przedst… · _kanal:_ na miejscu (WF)
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
@@ -1803,7 +1802,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **?** — WYSTAN WRACA, NOWY MAESTER NA MUR (Rada 12-18, slowo pana: nowy maester tam to powrot mojego maestra Wystana): Wystan (maester Cytadeli, z Fosy) pelni po Aemonie obowiazki maestra Strazy w CZ; LUWIN pisze do Cytadeli o nowego maestra dla Strazy (przed wiosna); gdy przyjedzie - Wystan wraca do pana (Fosa). Wola Cytadeli - rzut przy odpowiedzi. · _kto:_ **LUWIN -> CYTADELA ; WYSTAN** · _zamyka:_ odpowiedz Cytadeli; Wystan w drodze do pana
 - **?** — SLOWO KROLA DO MANCE'A NA MROZNY BRZEG (Rada 12-18): przez Maege/Dacey lodzia Mormontow przed lodem (albo pierwszym wolnym czlowiekiem wracajacym na polnoc): gdy zatoka stanie - przejscie po lodzie W PORZADKU, ogniskami, na Wyspe i dalej na Przyladek; przysiega przy drzewie (Torgen na Cyplu); chleb czeka; kto przyjdzie z bronia przeciw Polnocy - nie siadzie. Do tego: znaki na lodzie (Mormontowie). Odpowiedz Mance'a - rzut przy wiesci. · _kto:_ **KROL -> MANCE (przez MAEGE / DACEY)** · _zamyka:_ wiesc od Mance'a albo lod staje
 - **?** — TRAN - DRUGA PARTIA Z BIALEGO PORTU (slowo pana 12-18, karta racji): Orland -> Hal, ilosc wg ksiegi Hala, cena z ksiegi (zasada 43), sanie BP->WF poki trakt przejezdny. Wlasni - bez rzutu; pogoda na trakcie wg 45b. · _kto:_ **ORLAND -> HAL** · _zamyka:_ tran w skladzie WF, karta racji **⚠ OTWARTE ### 12-18 ROZKAZ; KRUK DO HALA DZIS.**
-- **?** — ZAKUP KISZONKI I KORZENI - TARG ZM I WSIE DOMENY (slowo pana 12-18): rzepa, brukiew, zurawina, suszone grzyby; cena ze slupa, Kasa 3; czesc (~8 beczek E) na Mur z saniami broni w I. RZUT podazy zrobiony (log) - wynik w karcie 12-20. · _kto:_ **ORLAND (czlowiek Orlanda)** · _zamyka:_ karta racji 12-20 **⚠ OTWARTE ### 12-20 CZLOWIEK ORLANDA: ~15 BECZEK (RZEPA, BRUKIEW, ZURAWINA, GRZYBY) KUPIONE PO CENIE ZE SLUPA; RESZTA ~10 DO ~12-24 (WSIE DOMENY, ZAMIEC). ### OTWARTE ### 12-18 CZLOWIEK ORLANDA RUSZA PO RADZIE. ### 12-21 KARTA ORLANDA: 15 BECZEK W SKLADZIE; POPRAWKA PRZELICZKI (~3-4 DNI Z CALOSCI NETTO, NIE 8-10). ### 12-21 (PAN): ~8 BECZEK DLA MURU JADA Z SANIAMI BRONI W I; TERAZ POMOC UMBERA.**
+- **?** — ZAKUP KISZONKI I KORZENI - TARG ZM I WSIE DOMENY (slowo pana 12-18): rzepa, brukiew, zurawina, suszone grzyby; cena ze slupa, Kasa 3; czesc (~8 beczek E) na Mur z saniami broni w I. RZUT podazy zrobiony (log) - wynik w karcie 12-20. · _kto:_ **ORLAND (czlowiek Orlanda)** · _zamyka:_ karta racji 12-20 **⚠ OTWARTE ### 12-20 CZLOWIEK ORLANDA: ~15 BECZEK (RZEPA, BRUKIEW, ZURAWINA, GRZYBY) KUPIONE PO CENIE ZE SLUPA; RESZTA ~10 DO ~12-24 (WSIE DOMENY, ZAMIEC). ### OTWARTE ### 12-18 CZLOWIEK ORLANDA RUSZA PO RADZIE. ### 12-21 KARTA ORLANDA: 15 BECZEK W SKLADZIE; POPRAWKA PRZELICZKI (~3-4 DNI Z CALOSCI NETTO, NIE 8-10). ### 12-21 (PAN): ~8 BECZEK DLA MURU JADA Z SANIAMI BRONI W I; TERAZ POMOC UMBERA. ### 12-24 ORLAND: Z ~10 RESZTY DOSZLO ~6 BECZEK PRZED ZAMIECIA; ~4 UTKNELY W DEBOWYM GAJU (E) - PO ODSNIEZENIU ~12-26. WLASNI - BEZ RZUTU.**
 - **?** — RACJA - KISZONKA CO DRUGI DZIEN dla niepracujacych na mrozie, od 301-01 (slowo pana 12-18); pelna dla strazy, drwali, woznicow, ludzi na mrozie. Ogloszenie w kuchniach - Orland. · _kto:_ **ORLAND** · _zamyka:_ wejscie w zycie, karta racji
 - **?** — KARSTARK - TRAN FOKOWY: PONAGLENIE BEZPOSREDNIO OD NAMIESTNIKA (slowo pana 12-18), zamiast pisma Skarbu. Zwloka warunkowa z 10-23 ('po wyjezdzie Krola i powrocie Harriona') - oba warunki spelnione (Krol wyjechal z Karholdu ~10-26, Harrion u ojca od ~10-23). Tresc i adresat (Rickard / Harrion) - do slowa pana. Odpowiedz - RZUT. · _kto:_ **PAN -> RICKARD KARSTARK** · _zamyka:_ list pana wyslany; odpowiedz Karholdu **⚠ OTWARTE ### 12-18 WYSLANE KRUKIEM WF-KARHOLD (LUWIN). ODPOWIEDZ - RZUT. OTWARTE ### 12-18 LIST PANA DO HARRIONA NAPISANY REKA WLASNA (GRA/LIST_300_12_18_HARRION.MD) - DO ZAPIECZETOWANIA I KRUKA. OTWARTE ### 12-18 SLOWO PANA: PONAGLIC BEZPOSREDNIO.**
 - **?** — TRIAZ BERONA - ~340 POZYCJI PRZETERMINOWANYCH z 6 tygodni nieobecnosci pana (slowo pana 12-18): Beron + Gawen sortuja na (a) zamkniete w kartach urzedow, (b) do slowa pana, (c) do Krola. Wlasni - bez rzutu. · _kto:_ **BERON + GAWEN** · _zamyka:_ listy (b) i (c) na stole pana **⚠ ZAMKNIETE 300-12-22: TRIAZ BERONA 12-19, KUPKA (A): SPRAWA W KARCIE WLASNEGO URZEDU (BERON + GAWEN); STAN W STALYM MELDUNKU; WRACA DO REJESTRU TYLKO NA NOWE SLOWO PANA ALBO OBCA ODPOWIEDZ ### POPRZEDNIO: BYL-OTW ### 12-18 SLOWO PANA: ZGODA.**
@@ -2050,7 +2049,7 @@ Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane 
 - **Data:** 300-12-24 popoludnie · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.25 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 100 · Zmeczenie 26**
+- **Zdrowie 100 · Sytosc 100 · Zmeczenie 27**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 164 smokow + 171 jeleni + 44 mied
@@ -4215,7 +4214,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `rodzina/LYRA` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-12-23] `WF`: Po wieczerzy pan idzie do ALDWINA. ODPRAWA T2 USTNIE: granice Krola z 12-20 w czesci, ktora go dotyczy; obserwacja trwa jak dotad; odpis testu ubytku juz w cichej ksiedze Cerwyna (12-19). Pa…
 - [300-12-23] `WF`: Pan pisze T3 - FURTKA - kartke kluczem do Garricka (osobno od listu o zoldzie z 12-19): kto sam przyjdzie do Fosy, odchodzac ze sluzby Lwa, ma przejscie i statek dalej, jesli poprosi; wyjsci…
 - [300-12-23] `WF`: Pan idzie na krotki spacer po zamku (pozny wieczor, zamiec). Bez rzutu (bez nazwanego ryzyka; 45b). Kryte ganki: wiatr gwizdze w szczelinach, snieg nawiany pod sciany. Czlowiek Stena idzie k…
 - [300-12-23] `WF`: SLOWO PANA (spacer, noc): do czlowieka Stena - SZARE PLASZCZE W NAJWYZSZEJ GOTOWOSCI. Bez rzutu (wlasni). Czlowiek Stena (O): 'Tak, panie.' - odchodzi szybkim krokiem. Po kwadransie STEN sam…
@@ -4227,3 +4225,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-12-24] `WF`: Pan dziekuje siostrom; OBIAD w komnatach Tallych z Mira i Lyra (Ulla przynosi). Bez rzutu. E: zupa z soczewicy z wedzonka, chleb, ser, kompot z suszonych jablek; sytosc ->100. Lyra opowiada,…
 - [300-12-24] `WF`: KANCELARIA - POCZTA (gra/poczta_300_12_24.md). (1) UMBER RZUT 63: Wielki Jon wysyla jutro do CZ 10 beczek kapusty/rzepy + 6 smalcu/loju z wlasnych piwnic, ze swoimi ludzmi; 'twoje osiem becz…
 - [300-12-24] `WF`: SOLAR KROLA - pan przynosi odpowiedz Wymana (Krol ma oryginal). KROL RZUT 7 - nie teraz. KROL (O), czyta jeszcze raz zdanie 'kiedy Wasza Milosc go pusci', usmiecha sie krzywo: 'To nie jest l…
+- [300-12-24] `WF`: Pan dziekuje Krolowi i idzie do ORLANDA (kancelaria Spichlerza). Bez rzutu (wlasny; E Orlanda). RESZTA KISZONKI: z ~10 beczek doszlo ~6 przed zamiecia; ~4 utknely w Debowym Gaju (E), przyjad…

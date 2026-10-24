@@ -25,10 +25,15 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**149 otwartych** · **0 PRZETERMINOWANYCH** · 1 wraca dzis
+**149 otwartych** · **1 PRZETERMINOWANYCH** · 2 wraca dzis
+
+### 🔴 PRZETERMINOWANE — KAZDA MUSI DOSTAC ROZSTRZYGNIECIE W TEJ TURZE
+_przyszlo · nie przyszlo I WIADOMO DLACZEGO · przyszlo co innego. Rzut nalezy sie sprawie zewnetrznej._
+- **+1 dni** — STALA (slowo pana 12-19): PAN IGNORUJE RAMSAYA I JEGO ZACZEPKI - grzecznosc tylko konieczna, kubek bez odpowiedzi, zadnego przedst… · _kanal:_ na miejscu (WF) · _zamyka:_ wyjazd Ramsaya albo zmiana slowa pana
 
 ### 🟡 WRACA DZIS
-- STALA (slowo pana 12-19): PAN IGNORUJE RAMSAYA I JEGO ZACZEPKI - grzecznosc tylko konieczna, kubek bez odpowiedzi, zadnego przedst… · _kanal:_ na miejscu (WF)
+- RAMSAY - REWANZ 'DREWNIANY WILK ZA PIESKA' (slowo pana 12-24): stolarz zamkowy struga w nocy (E); jutro przy stole czlowiek Stena … · _kanal:_ na miejscu
+- REGULA KROLA DLA GOSCI (12-24, rzut 79): dary dla rodzin pod dachem Krola - tylko przez kancelarie (Beron), nie przez sluge do sto… · _kanal:_ na miejscu
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
 _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
@@ -2048,10 +2053,10 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 300-12-24 popoludnie · zima (300)
+- **Data:** 300-12-25 ranek · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.25 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 100 · Zmeczenie 34**
+- **Zdrowie 100 · Sytosc 72 · Zmeczenie 26**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 164 smokow + 171 jeleni + 44 mied
@@ -4218,8 +4223,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `rodzina/LYRA` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-12-24] `WF`: Sniadanie w komnatach Tallych z Mira i Lyra. Bez rzutu. E: kasza z mlekiem, chleb, maslo, jajka, grzane mleko; jedzenie przynosi ULLA osobiscie (punkt 3 Stena) - kiwa Mirze, nic nie mowi. Sy…
-- [300-12-24] `WF`: LEKCJA BRAAVOSKIEGO 38 (gra/braavoski_lekcja_38_300_12_24.md; temat GM: 'Na dworze Morskiego Lorda' - do korekty). RZUT 89 bardzo dobrze: Sansa - powitanie i dar wzorowo + wlasne zdanie 'Zim…
 - [300-12-24] `WF`: Pan dziekuje siostrom; OBIAD w komnatach Tallych z Mira i Lyra (Ulla przynosi). Bez rzutu. E: zupa z soczewicy z wedzonka, chleb, ser, kompot z suszonych jablek; sytosc ->100. Lyra opowiada,…
 - [300-12-24] `WF`: KANCELARIA - POCZTA (gra/poczta_300_12_24.md). (1) UMBER RZUT 63: Wielki Jon wysyla jutro do CZ 10 beczek kapusty/rzepy + 6 smalcu/loju z wlasnych piwnic, ze swoimi ludzmi; 'twoje osiem becz…
 - [300-12-24] `WF`: SOLAR KROLA - pan przynosi odpowiedz Wymana (Krol ma oryginal). KROL RZUT 7 - nie teraz. KROL (O), czyta jeszcze raz zdanie 'kiedy Wasza Milosc go pusci', usmiecha sie krzywo: 'To nie jest l…
@@ -4230,3 +4233,5 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-12-24] `WF`: SLOWO PANA: rewanz - DREWNIANY WILK ZA PIESKA (stolarz zamkowy struga w nocy, E; wreczy jutro czlowiek Stena sludze Ramsaya: 'od domu Tallych, za pieska'); LUWIN sprawdza zabawke Ramsaya. Be…
 - [300-12-24] `WF`: KOMNATY TALLYCH, noc - pan z Mira. Bez rzutu. Lyra spi; czlowiek Stena za drzwiami. MIRA siada na brzegu lozka, rece na kolanach (O): "Nie boje sie o siebie. Boje sie, ze on bedzie probowal …
 - [300-12-24] `WF`: PAN do Miry: zostajemy tu, pod ochrona Stena i Krola. Pan i Mira ida razem do KROLA (pozna noc; solar - Krol jeszcze nad listami, Roslin spi). Pan mowi o zabawce dla Lyry przez sluge Ramsaya…
+- [300-12-24] `WF`: Pan dziekuje Krolowi; z Mira do komnat; spac.
+- [300-12-25] `dziennik`: 300-12-25 RANEK (SRODA), WINTERFELL. SEN RZUT 4: BARDZO ZLE - pan i Mira nie moga zasnac do polnocy; przed switem Lyra budzi sie z placzem ('pies gryzie' - zly sen; nie widziala zabawki - E:…

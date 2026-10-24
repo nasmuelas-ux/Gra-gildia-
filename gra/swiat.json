@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 12,
-  "dzien": 24,
+  "dzien": 25,
   "era": "AC"
  },
- "pora": "popoludnie",
+ "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 23 (300-12-24): zle - zamiec slabnie nad ranem, potem gesty snieg bez wiatru; KRUKI OD POLUDNIA; trakty zawiane, sanie z trudem.",
- "dzien_tygodnia_nr": 2,
+ "pogoda": "RZUT 18 (300-12-25): zle - snieg z wiatrem od polnocy od switu; kruki dopiero od poludnia; trakt ZM-WF ciezki.",
+ "dzien_tygodnia_nr": 3,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

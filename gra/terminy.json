@@ -17899,7 +17899,7 @@
    "kanal": "osobiscie",
    "wraca": "300-12-21",
    "zamyka": "rozmowa odbyta, notatka pana",
-   "status": "otwarte"
+   "status": "zamkniete 300-12-21: rozmowa odbyta (biblioteka), zapis w db starkowie/SANSA 12-21; dalej - termin DO KROLA - TYRELLOWIE PO CICHU ### POPRZEDNIO: byl-otw"
   },
   {
    "co": "WYSTAN - PRZYDZIAL DO GORACEGO PORTU po powrocie z Muru (slowo pana 12-19): maester GP (lecznica, kruki, pogoda); warunek - Cytadela przysyla Strazy nowego maestera (prosba Luwina).",
@@ -18134,6 +18134,15 @@
    "wraca": "300-12-26",
    "zamyka": "meldunek faktora - ile kupione (RZUT podazy przy meldunku)",
    "status": "otwarte ### 12-21 kruk po poludniu."
+  },
+  {
+   "data": "300-12-21",
+   "co": "DO KROLA - TYRELLOWIE PO CICHU (slowo pana 12-21 po rozmowie z Sansa): (a) list Sansy do Margaery - 'drzwi, nie wiadomosc' (jej propozycja 04-19, 'nie bez Robba'); (b) prawda o Joffreyu i REALNY STAN SKRZYNI TYWINA (kopalnie, kredyt Lys) dla OLENNY - nie listem, przy spotkaniu; sposobnosc z zapisu: zaplata za dab przy odbiorze w ARBOR wiosna (Redwyne'owie - krew Olenny); kto jedzie - Krol. Granice Krola 12-20: prawda szeptem, bez klamstwa, bez obietnic w jego imieniu; Sansa: nic, co dotyka Margaery i dziecka.",
+   "kto": "PAN -> KROL ; SANSA",
+   "kanal": "osobiscie",
+   "wraca": "300-12-22",
+   "zamyka": "slowo Krola",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

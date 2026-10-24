@@ -17859,7 +17859,7 @@
    "kanal": "osobiscie",
    "wraca": "300-12-22",
    "zamyka": "kwit podpisany, sakiewka i ksiega rodu",
-   "status": "otwarte"
+   "status": "zamkniete 300-12-22: kwit podpisany w faktorii ZM; 441,14 do sakiewki; 49,02 w osobnej sakwie do skrzyni rodu - wpis w ksiedze rodu przy Mirze (WF) ### POPRZEDNIO: byl-otw"
   },
   {
    "co": "LIST SIOSTR DO NESTY II (slowo pana 12-18 'odpiszcie'): Sansa i Arya odpisuja po braavosku (6 zdan) + wycinanka platka sniegu, rysunek Winterfell w sniegu (Arya - wilk na murach), lisc czardrzewa (Arya). Kanal - do slowa pana: kruk Banku przez BP (sam list) albo pierwszy statek wiosenny (list + dary).",
@@ -18205,6 +18205,15 @@
    "kanal": "osobiscie; statek Redwyne'ow wiosna",
    "wraca": "301-03-15",
    "zamyka": "list w rekach kapitana Redwyne'ow",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-12-22",
+   "co": "KSIEGA RODU - WPIS 1/10 Z WYPLAT X i XI (49,02 smoka: 30,46 + 18,56) reka pana, podpis Miry; sakwa do skrzyni rodu w komnatach WF.",
+   "kto": "PAN ; MIRA",
+   "kanal": "osobiscie (WF)",
+   "wraca": "300-12-22",
+   "zamyka": "wpis i podpis",
    "status": "otwarte"
   }
  ],

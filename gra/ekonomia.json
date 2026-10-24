@@ -2309,6 +2309,12 @@
     "na": "dar dla rodziny Tomana (Hedda i piekarz, ZM) - syn w sluzbie, choroba w drodze z Muru",
     "kasa": "sakiewka pana",
     "uwaga": "kwota - wybor GM (wzor: 1 smok na Kettila 11-27), do korekty slowem gracza"
+   },
+   {
+    "data": "300-12-22",
+    "ruch": "+441 smokow +28 jeleni (441,14)",
+    "na": "wyplata Domu X 304,61 + XI 185,55 = 490,16 za kwitem w faktorii ZM; 1/10 = 49,02 (49 smokow 4 jelenie) w osobnej sakwie do skrzyni rodu w WF",
+    "kasa": "sakiewka pana"
    }
   ],
   "wyplata_VIII_a_300_08_14": "Symon 224,47 ODEBRANE w faktorii ZM 08-14 za kwitem; Mira 112,24 czeka w faktorii do jej odbioru (dlug Miry wobec szkatuly - rozliczyc przy jej odbiorze).",
@@ -2346,8 +2352,15 @@
     "data": "300-11-01",
     "kto": "Symon",
     "z": "wyplata X (kwota z ksiegi Hala)",
-    "kwota_smoki": null,
-    "stan": "1/10 odklada MIRA przy odbiorze z upowaznienia pana (pan na Murze)"
+    "kwota_smoki": 30.46,
+    "stan": "wyplata X 304,61 - odebrana przez pana 12-22 (Mira nie odbierala - bilans X przyszedl dopiero 12-18); 1/10 w sakwie do skrzyni, wpis reka pana, podpis Miry"
+   },
+   {
+    "data": "300-12-22",
+    "kto": "Symon",
+    "z": "wyplata XI 185,55",
+    "kwota_smoki": 18.56,
+    "stan": "sakwa do skrzyni rodu w WF (razem z X: 49,02); wpis reka pana, podpis Miry"
    }
   ],
   "sakiewka_pana_koszty_stale": [

@@ -27,7 +27,8 @@ zgodnie ze słowem z 21 dnia przedkładam na piśmie kandydatów i intencję.
 - Zdać sprawę **tylko Królowi**, pierwszą wiadomością przez Bank albo Nestę, a pełną ustnie po powrocie.
 
 **IV. DROGA I CZAS (E)**
-Biały Port → Braavos (Nesta) → Volantis (statki na wschód, linia Nesty) → Meereen. Pierwszy statek wiosną (III/301), ~3–4 miesiące w jedną stronę.
+Biały Port → Braavos (Nesta) → Volantis (statki na wschód, linia Nesty) → Meereen, ~3–4 miesiące w jedną stronę.
+**Poprawka pana 12-23: VOID „pierwszy statek wiosną (III/301)”.** Biały Port nie zamarza, a Wąskie Morze chodzi cały rok. Wielkie statki morskie pływają zimą, tak jak zapisano 300-02-17. **Wyjazd jest możliwy, gdy tylko będą trzy rzeczy:** zgoda Wymana na Medricka (Długa Noc), Wystan w Białym Porcie (zgoda i droga z Muru) oraz pamiątka od Clydasa, jeśli jest.
 
 **V. CO WISI**
 - Zgoda Wymana na Medricka (Długa Noc).

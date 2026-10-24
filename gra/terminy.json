@@ -18044,6 +18044,14 @@
    "wraca": "300-12-28",
    "zamyka": "odpowiedz Theona",
    "status": "otwarte"
+  },
+  {
+   "co": "GRANICE KROLA 10-29 - ROZSZERZENIE (rada wojenna 12-20, rzut 41 czesciowo): wywiad moze POMAGAC PRAWDZIE (niezaplacony zold Lwa) dojsc tam, gdzie stoja ich garnizony (KP, Duskendale, Lannisport; kupcy, karczmy, statki); DEZERTERZY - Polnoc drogi nie zamyka: przejscie przez Fose i statek dalej na prosbe; ZAKAZY: zlota za dezercje, ludzi Korony podburzajacych, obietnic w imieniu Krola. Do Willi i Aldwina - ustnie od pana.",
+   "kto": "PAN -> WILLA ; ALDWIN ; GARRICK (Fosa - przejscie)",
+   "kanal": "ustnie / do rak wlasnych",
+   "wraca": "300-12-28",
+   "zamyka": "Willa, Aldwin i Garrick znaja nowe granice",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

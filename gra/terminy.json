@@ -18341,6 +18341,15 @@
    "wraca": "300-12-28",
    "zamyka": "meldunek Aldwina (rzut przy meldunku)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-12-23",
+   "co": "T3 - FURTKA (kartka pana kluczem do GARRICKA, osobno od listu o zoldzie): czlowiek, ktory sam przyjdzie do Fosy i odejdzie ze sluzby Lwa, ma przejscie i statek dalej, jesli poprosi. Wyjscie awaryjne, nie cel; nikogo nie wolac, niczego nie obiecywac w imieniu Krola (granice 12-20).",
+   "kto": "PAN -> GARRICK",
+   "kanal": "kruk WF-Fosa, klucz (po zamieci)",
+   "wraca": "300-12-30",
+   "zamyka": "Garrick potwierdza przyjecie (wlasny - bez rzutu)",
+   "status": "otwarte ### 12-23 kartka napisana; kruk po zamieci."
   }
  ],
  "_dopiski_300_03_18": [

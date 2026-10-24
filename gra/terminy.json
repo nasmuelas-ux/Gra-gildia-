@@ -16055,11 +16055,11 @@
   {
    "data": "300-10-06",
    "co": "ARYA - POZNAWANIE KLAMSTWA: czesciowo Talvo; INNI NAUCZYCIELE DO WERYFIKACJI (slowo Namiestnika 10-06) - kandydaci i ich sprawdzenie (Sten / kontrwywiad). Do slowa pana.",
-   "kto": "SYMON ; STEN",
+   "kto": "WILLA (weryfikacja) ; ALDWIN ; STEN ; PAN",
    "kanal": "osobiscie",
-   "wraca": "300-11-08",
+   "wraca": "301-01-10",
    "zamyka": "kandydaci sprawdzeni",
-   "status": "otwarte ### 300-10-13: kandydaci do weryfikacji - wciaz do slowa pana (np. Owen? Willa? Talvo). ### 300-10-20 na Male Rade 10-24. ### 300-10-26 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO - wlasni w toku (zasada 7); stan w nastepnej karcie urzedu / zbiorczym (~11-01). ### 300-11-01 DZIEN BILANSU: w toku (wlasni, zasada 7/33) - meldunek w stalej karcie urzedu/zbiorczym tego cyklu."
+   "status": "otwarte ### 12-20 SLOWO PANA: WILLA sprawdza TALVA i OWENA (stala zasada 09-16); wynik - RZUT przy meldunku. ### otwarte ### 300-10-13: kandydaci do weryfikacji - wciaz do slowa pana (np. Owen? Willa? Talvo). ### 300-10-20 na Male Rade 10-24. ### 300-10-26 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO - wlasni w toku (zasada 7); stan w nastepnej karcie urzedu / zbiorczym (~11-01). ### 300-11-01 DZIEN BILANSU: w toku (wlasni, zasada 7/33) - meldunek w stalej karcie urzedu/zbiorczym tego cyklu."
   },
   {
    "data": "300-10-06",
@@ -17020,9 +17020,9 @@
    "co": "ZELAZNY BANK - ZAPROSZENIE PRZEDSTAWICIELA NA ROZMOWE (list Domu Tally 10-22, gra/list_300_10_22_bank.md): informacje za informacje (kto trzyma papiery Lwa <-> co Bank wie); bez liczb i zrodel w liscie. Kanal: szyfr Domu, kruk WF-BP (Hal), statek Nesty BP-Braavos (koniec X), Nesta do Banku. Odpowiedz Banku - RZUT ~XII. Dom (Kasa 1), nie Korona. ### 10-24 SLOWO PANA: rozmowa z Bankiem (XII) prowadzona jako AKCJA SPECJALNA przez LUCANA przez DOM (nie jawna Korona); Lucan raportuje.",
    "kto": "LUCAN (Dom) ; przedstawiciel Zelaznego Banku",
    "kanal": "kruk Domu + statek",
-   "wraca": "300-12-05",
+   "wraca": "300-12-21",
    "zamyka": "odpowiedz Banku",
-   "status": "otwarte ### 10-22 list napisany u Willi; kruk do Hala jutro rano (E)."
+   "status": "otwarte ### 12-20 w poczcie z 6 tygodni brak odpowiedzi Banku; Lucan jutro (rozliczenie akcji) - jesli krukiem Banku przez Hala, RZUT przy odczycie. ### otwarte ### 10-22 list napisany u Willi; kruk do Hala jutro rano (E)."
   },
   {
    "data": "300-10-22",

@@ -17713,9 +17713,9 @@
    "co": "LIST KROLA DO LORDA DOWODCY MALLISTERA O JONIE (slowo Krola 12-17, ustnie do pana): prosba, by Straz nie sadzila brata Krola bez wysluchania przez Krola, gdy wroci zza Muru z ludzmi Mance'a (Straz sadzi swoich - prosba, nie rozkaz). Imie na papierze - Krol decyduje, jak to ujac (zakaz z 299-09-14).",
    "kto": "KROL (pisze) ; pan (szkic?)",
    "kanal": "kruk WF -> Czarny Zamek / Wieza Cieni",
-   "wraca": "300-12-22",
+   "wraca": "300-12-26",
    "zamyka": "list wyslany; odpowiedz Mallistera (rzut)",
-   "status": "otwarte ### 12-20 Krol napisal (E); kruk po zamieci. ### otwarte"
+   "status": "otwarte ### 12-20 Krol napisal (E); kruk po zamieci. ### otwarte ### 12-22: list Krola POSZEDL krukiem po poludniu 12-21 (plan dnia 12-21 'Krol - Cerwyn i Mallister'; zasada 45; w opisie wysylki 12-21 pominiety - blad zapisu, poprawione). Odpowiedz Mallistera (rzut) ~12-26."
   },
   {
    "co": "SLYNT - KRUKI DO KROLEWSKIEJ PRZYSTANI (11-17, 11-30; Benno z ksiegi Clydasa): tresc nieznana. Krol 12-17: Aldwin + Benno patrza, czy cos wraca z KP na Polnoc (Freyowie / Lannisterowie / Dreadfort); Slynt po przegranej - szuka, komu sie sprzedac.",
@@ -17841,9 +17841,9 @@
    "co": "CLO ROOSE'A - POLOWA ZALEGLEGO: KWOTA Z KOMORY BP (slowo pana 12-18): Gawen pyta komore BP o kwote, date wplaty i forme; do bilansu XII i rachunku reszty (Ramsay gosciem do reszty cla). Wlasni - bez rzutu.",
    "kto": "GAWEN -> KOMORA BP (pisarz / Garth)",
    "kanal": "kruk WF-BP",
-   "wraca": "300-12-22",
+   "wraca": "300-12-24",
    "zamyka": "kwota na karcie Gawena",
-   "status": "otwarte ### 12-18 kruk poszedl."
+   "status": "otwarte ### 12-18 kruk poszedl. ### 12-22 NIE PRZYSZLO, WIADOMO DLACZEGO: zamiec 12-19/20 (kruki staly), kruk komory BP w drodze ~12-24."
   },
   {
    "co": "WYMAN - UKLUCIE DUMY Z LISTU Z MURU (odp. ~11-20, rzut 18): Wyman odczytal 'rozwazalem prosbe o pomoc przez BP' jako lekcewazenie; chlodno, nie wrogo; o interesach przy stole. Do naprawienia przy spotkaniu (slowo pana). Zbiega sie z: Manderly NIE do umowy ramowej na dab (rzut 10).",
@@ -18510,7 +18510,7 @@
     "start": "300-10-24"
    },
    "opoznienie": 2,
-   "ostatnio_odebrane": "300-10-24",
+   "ostatnio_odebrane": "300-12-20",
    "zrodlo": "plan_przewloki_cztery_zasady_300_08_18.md"
   },
   {

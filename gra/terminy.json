@@ -17796,6 +17796,38 @@
    "wraca": "301-01-20",
    "zamyka": "wiesc od Mance'a albo lod staje",
    "status": "otwarte"
+  },
+  {
+   "co": "TRAN - DRUGA PARTIA Z BIALEGO PORTU (slowo pana 12-18, karta racji): Orland -> Hal, ilosc wg ksiegi Hala, cena z ksiegi (zasada 43), sanie BP->WF poki trakt przejezdny. Wlasni - bez rzutu; pogoda na trakcie wg 45b.",
+   "kto": "ORLAND -> HAL",
+   "kanal": "kruk WF-BP (szyfr Domu)",
+   "wraca": "301-01-05",
+   "zamyka": "tran w skladzie WF, karta racji",
+   "status": "otwarte ### 12-18 rozkaz; kruk do Hala dzis."
+  },
+  {
+   "co": "ZAKUP KISZONKI I KORZENI - TARG ZM I WSIE DOMENY (slowo pana 12-18): rzepa, brukiew, zurawina, suszone grzyby; cena ze slupa, Kasa 3; czesc (~8 beczek E) na Mur z saniami broni w I. RZUT podazy zrobiony (log) - wynik w karcie 12-20.",
+   "kto": "ORLAND (czlowiek Orlanda)",
+   "kanal": "na miejscu (ZM)",
+   "wraca": "300-12-20",
+   "zamyka": "karta racji 12-20",
+   "status": "otwarte ### 12-18 czlowiek Orlanda rusza po Radzie."
+  },
+  {
+   "co": "RACJA - KISZONKA CO DRUGI DZIEN dla niepracujacych na mrozie, od 301-01 (slowo pana 12-18); pelna dla strazy, drwali, woznicow, ludzi na mrozie. Ogloszenie w kuchniach - Orland.",
+   "kto": "ORLAND",
+   "kanal": "na miejscu",
+   "wraca": "301-01-01",
+   "zamyka": "wejscie w zycie, karta racji",
+   "status": "otwarte"
+  },
+  {
+   "co": "KARSTARK - TRAN FOKOWY: PONAGLENIE BEZPOSREDNIO OD NAMIESTNIKA (slowo pana 12-18), zamiast pisma Skarbu. Zwloka warunkowa z 10-23 ('po wyjezdzie Krola i powrocie Harriona') - oba warunki spelnione (Krol wyjechal z Karholdu ~10-26, Harrion u ojca od ~10-23). Tresc i adresat (Rickard / Harrion) - do slowa pana. Odpowiedz - RZUT.",
+   "kto": "PAN -> RICKARD KARSTARK",
+   "kanal": "kruk WF-Karhold",
+   "wraca": "300-12-19",
+   "zamyka": "list pana wyslany; odpowiedz Karholdu",
+   "status": "otwarte ### 12-18 slowo pana: ponaglic bezposrednio."
   }
  ],
  "_dopiski_300_03_18": [

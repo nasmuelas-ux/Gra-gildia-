@@ -11685,7 +11685,7 @@
    "kanal": "kruk WF-BP + morze BP-Braavos",
    "wraca": "300-11-05",
    "zamyka": "list podpisany i w drodze; potem reakcja Banku",
-   "status": "otwarte ### 08-04: KROL PODPISAL I DOPISAL WLASNA REKA: 'Polnoc nie zapomina ani dlugow, ani przyjaciol.' Kruk WF-BP po poludniu -> Hal -> statek -> Nesta; Braavos ~08-27..30. Reakcja Banku - rzut przy wiesci. ### 300-09-25 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: odpowiedz Banku idzie statkiem przez Neste; jesienna zegluga (E). ### 300-10-05 TRIAZ: w bilansie Hala IX (doszedl 10-05) bez nowej decyzji - przeglad z Halem/Lucanem ~10-07. ### 300-10-07 TRIAZ: bilans Hala IX bez nowej decyzji; przeglad z bilansem X (~11-05)."
+   "status": "zamkniete 300-12-20 (odczyt zaleglych): rzut 71 (kruk Banku do BP) - przedstawiciel wiosna w BP do rozmowy z Domem; nazwy domow z Lys 'Bank notuje'; konto Baelisha na LORDA PROTEKTORA Doliny (nie Dom Arrynow), podpisuje Baelish; list Korony 'przyjmuje do wiadomosci'. ### POPRZEDNIO: byl-otw ### 08-04: KROL PODPISAL I DOPISAL WLASNA REKA: 'Polnoc nie zapomina ani dlugow, ani przyjaciol.' Kruk WF-BP po poludniu -> Hal -> statek -> Nesta; Braavos ~08-27..30. Reakcja Banku - rzut przy wiesci. ### 300-09-25 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: odpowiedz Banku idzie statkiem przez Neste; jesienna zegluga (E). ### 300-10-05 TRIAZ: w bilansie Hala IX (doszedl 10-05) bez nowej decyzji - przeglad z Halem/Lucanem ~10-07. ### 300-10-07 TRIAZ: bilans Hala IX bez nowej decyzji; przeglad z bilansem X (~11-05)."
   },
   {
    "data": "300-08-03",
@@ -12214,9 +12214,9 @@
    "co": "GP-2 - LANCUCH I KOLOWROT DLA GORACEGO PORTU U KOWALI MANDERLY (BP): zaliczka 174,72 (08-12), reszta 349,43 przy odbiorze; gotowe ~3 miesiace od zaliczki; transport do GP (barka/woz - Hal); montaz - Harlon. Wlasni (Dom) + kowale - termin kowali rzut przy odbiorze, jesli sie przesunie.",
    "kto": "HAL (Kasa 1) -> kowale Manderly; HARLON (montaz)",
    "kanal": "kruk Domu WF-BP; meldunki Hala",
-   "wraca": "300-11-12",
+   "wraca": "301-03-15",
    "zamyka": "lancuch i kolowrot na miejscu w GP",
-   "status": "otwarte"
+   "status": "otwarte ### 12-20 ODCZYT: rzut 6 - lancuch gotowy, os kolowrotu pekla przy probie (zly odlew); kowale przekuwaja na wlasny koszt - wiosna; reszta zaplaty wstrzymana do odbioru; noca zapora z pni. ### otwarte"
   },
   {
    "data": "300-08-11",
@@ -14167,9 +14167,9 @@
    "co": "WERBUNEK PRZEZ PENTOS (OBARO) - slowo pana 09-06: (1) MISTRZ SZKLARZ Z MYR (wojna Myr/Lys/Tyrosh - rzemieslnicy moga chciec wyjechac) - umowa lenna, huta Fosy w patronacie lenna; (2) LUDZIE Z PENTOS I INNYCH WOLNYCH MIAST (rzemioslo, wedle potrzeb zapisu: rytownik, szkutnicy, mistrzowie); (3) LINGWISCI I DORADCA EKONOMICZNY (kadry II - Braavos zawiodl, rzut 22). Forma jak kadry z Braavos: umowa z kazdym osobno, termin powrotu, kara po obu stronach; szukac wsrod odstawionych. ⚠ Zasady z zapisu: ZADNYCH pytan o Illyria w Pentos (linia Willi); dom handlowy z Pentos - w weryfikacji (slowo pana 09-05) - werbunek idzie przez placowke Domu (Obaro), nie przez ten dom. Odpowiedz - RZUT przy meldunku Obara.",
    "kto": "SYMON -> HAL -> OBARO (Pentos)",
    "kanal": "kruk Domu WF-BP + statek BP-Pentos (~24 dni w jedna strone)",
-   "wraca": "300-11-05",
+   "wraca": "301-03-15",
    "zamyka": "meldunek Obara: kandydaci imiennie i warunki albo przyczyna braku",
-   "status": "otwarte"
+   "status": "otwarte ### 12-20 ODCZYT: rzut 27 - mistrza szklarza z Myr brak (gildia trzyma w wojnie); 2 czeladnikow szklarskich wiosna; 1 tlumacz (myr./lys./wspolna); doradcy brak. ### otwarte"
   },
   {
    "data": "300-09-07",
@@ -14412,7 +14412,7 @@
    "kanal": "kruk Domu WF-BP + statek BP-Braavos",
    "wraca": "300-11-10",
    "zamyka": "pierwszy list Nesty z Volantis (rzut)",
-   "status": "otwarte"
+   "status": "zamkniete 300-12-20 (odczyt zaleglych): rzut 76 - ZLOTA KOMPANIA ZERWALA KONTRAKT Z MYR; zapasy na dlugi rejs, statki najmowane, w porcie mowia 'na zachod'; Volantis najmuje statki na wschod do Zatoki Niewolniczej. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-09-10",
@@ -14439,7 +14439,7 @@
    "kanal": "statek BP-Braavos; poslaniec ustny przez BP na Smocza Skale",
    "wraca": "300-11-08",
    "zamyka": "pierwsza odpowiedz (Nesta albo Salladhor) - kto w Lys",
-   "status": "otwarte ### 09-10 SLOWO PANA (kolejnosc 2): DOPISEK do pytania do SALLADHORA - czy w Lys mowia o CZARNYM KADLUBIE (valyrianskie zloto) i kto za nim stoi. Test domyslu Sansy (czlowiek, ktory chce Wysp). ### 300-10-26 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO - wlasni w toku (zasada 7); stan w nastepnej karcie urzedu / zbiorczym (~11-01). ### 300-11-01 DZIEN BILANSU: w toku (wlasni, zasada 7/33) - meldunek w stalej karcie urzedu/zbiorczym tego cyklu."
+   "status": "zamkniete 300-12-20 (odczyt zaleglych): rzut 39 - rada magistrow, domy niewolnicze i lichwiarskie; weksle Lwa = zysk + dzwignia na Stopniach (vs Tyrosh, Myr); Salladhor Saan: 'rzadzi, kto ma najwiecej galer i najmniej sumienia'; imion brak. ### POPRZEDNIO: byl-otw ### 09-10 SLOWO PANA (kolejnosc 2): DOPISEK do pytania do SALLADHORA - czy w Lys mowia o CZARNYM KADLUBIE (valyrianskie zloto) i kto za nim stoi. Test domyslu Sansy (czlowiek, ktory chce Wysp). ### 300-10-26 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO - wlasni w toku (zasada 7); stan w nastepnej karcie urzedu / zbiorczym (~11-01). ### 300-11-01 DZIEN BILANSU: w toku (wlasni, zasada 7/33) - meldunek w stalej karcie urzedu/zbiorczym tego cyklu."
   },
   {
    "data": "300-09-10",
@@ -15006,7 +15006,7 @@
    "kanal": "kruk BP-WF",
    "wraca": "300-11-15",
    "zamyka": "ladunek na Murze",
-   "status": "otwarte ### 300-10-20 kadlub Wymana - Wschodnia Straznica ~XI."
+   "status": "zamkniete 300-12-20 (odczyt zaleglych): rzut 18 - sztorm u Palcow, ~8 z 30 skrzyn za burta; ~22 doszly do Wschodniej Straznicy ~11-20. ### POPRZEDNIO: byl-otw ### 300-10-20 kadlub Wymana - Wschodnia Straznica ~XI."
   },
   {
    "data": "300-09-18",
@@ -15031,9 +15031,9 @@
    "co": "REYAAN - GWARANCJA STRAZY NA PRZESMYKU (slowo pana 09-18): pismo lorda Fosy; odpowiedz Reyaan (warunki ubezpieczenia ladunkow przez Cailin) - RZUT.",
    "kto": "SYMON -> HAL -> NESTA -> REYAAN",
    "kanal": "kruk Domu WF-BP 09-19 + statek",
-   "wraca": "300-11-15",
+   "wraca": "301-03-15",
    "zamyka": "warunki ubezpieczenia Reyaan",
-   "status": "otwarte"
+   "status": "otwarte ### 12-20 ODCZYT: rzut 57 - tak z warunkami: stala obsada i ksiega wpisow na Przesmyku; stawka nizsza niz Stopnie (w liscie; ksiega Hala); inspektor wiosna. ### otwarte"
   },
   {
    "data": "300-09-18",
@@ -15042,7 +15042,7 @@
    "kanal": "kruk Domu WF-BP 09-19 + statek BP-Braavos",
    "wraca": "300-11-15",
    "zamyka": "meldunek Nesty: jak Bank przyjal (rzut)",
-   "status": "otwarte"
+   "status": "zamkniete 300-12-20 (odczyt zaleglych): rzut 71 (kruk Banku do BP) - przedstawiciel wiosna w BP do rozmowy z Domem; nazwy domow z Lys 'Bank notuje'; konto Baelisha na LORDA PROTEKTORA Doliny (nie Dom Arrynow), podpisuje Baelish; list Korony 'przyjmuje do wiadomosci'. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-09-18",
@@ -15060,7 +15060,7 @@
    "kanal": "kruk Domu WF-BP 09-19 + statek BP-Braavos",
    "wraca": "300-11-15",
    "zamyka": "meldunek Nesty (rzut)",
-   "status": "otwarte"
+   "status": "zamkniete 300-12-20 (odczyt zaleglych): rzut 71 (kruk Banku do BP) - przedstawiciel wiosna w BP do rozmowy z Domem; nazwy domow z Lys 'Bank notuje'; konto Baelisha na LORDA PROTEKTORA Doliny (nie Dom Arrynow), podpisuje Baelish; list Korony 'przyjmuje do wiadomosci'. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-09-18",
@@ -15069,7 +15069,7 @@
    "kanal": "kruk Domu WF-BP 09-19 + paczka BP-Mewi Grod (18 dni tam, ~40 lacznie)",
    "wraca": "300-11-08",
    "zamyka": "meldunek nasluchu (rzut)",
-   "status": "otwarte ### 300-11-01 DZIEN BILANSU: w toku (wlasni, zasada 7/33) - meldunek w stalej karcie urzedu/zbiorczym tego cyklu."
+   "status": "zamkniete 300-12-20 (odczyt zaleglych): rzut 62 - przedrzezniacz obok sokola na kontraktach zbozowych; Baelish podpisuje sam jako Lord Protektor; zboze za zloto do KP. ### POPRZEDNIO: byl-otw ### 300-11-01 DZIEN BILANSU: w toku (wlasni, zasada 7/33) - meldunek w stalej karcie urzedu/zbiorczym tego cyklu."
   },
   {
    "data": "300-09-19",
@@ -15312,7 +15312,7 @@
    "kanal": "kruk Deepwood-WF",
    "wraca": "300-11-05",
    "zamyka": "dwa odpisy pomiaru",
-   "status": "otwarte ### 300-10-15 NIE PRZYSZLO, WIADOMO DLACZEGO: kruk z Czarnego Zamku/Deepwood nie przyszedl (zamiec 10-13, poslaniec za Murem); wiesc z Cypla z odpowiedzia na list pana 10-14 ~10-20. ### 300-10-20 Torgen o pomiarze nie pisze (zajety osadzaniem) - dwa odpisy po pomiarze; nastepna poczta z Cypla."
+   "status": "zamkniete 300-12-20 (odczyt zaleglych): rzut 69 - granica na pismie, dwa odpisy (Korona, Glover); roznica przy strumieniu na korzysc Glovera za jego zgoda; bez sporu. ### POPRZEDNIO: byl-otw ### 300-10-15 NIE PRZYSZLO, WIADOMO DLACZEGO: kruk z Czarnego Zamku/Deepwood nie przyszedl (zamiec 10-13, poslaniec za Murem); wiesc z Cypla z odpowiedzia na list pana 10-14 ~10-20. ### 300-10-20 Torgen o pomiarze nie pisze (zajety osadzaniem) - dwa odpisy po pomiarze; nastepna poczta z Cypla."
   },
   {
    "data": "300-09-22",
@@ -16275,7 +16275,7 @@
    "kanal": "kruk z Dorne/BP",
    "wraca": "300-11-10",
    "zamyka": "wiesc z Dorne (rzut)",
-   "status": "otwarte"
+   "status": "zamkniete 300-12-20 (odczyt zaleglych): rzut 39 - Oberyn przyjal i pochowal z honorem; list grzeczny, chlodny, bez zobowiazan; Brenn i ser Harwood wracaja wiosna. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-10-10",
@@ -16363,9 +16363,9 @@
    "co": "SPRAWDZENIE MALEJ RADY - TABLICA PRZECIEKOW DALEJ (Willa, miesiac wiecej). Po cichu. Wynik - rzut przy meldunku.",
    "kto": "WILLA",
    "kanal": "osobiscie ZM",
-   "wraca": "300-11-11",
+   "wraca": "301-01-28",
    "zamyka": "meldunek Willi (rzut)",
-   "status": "otwarte"
+   "status": "otwarte ### 12-20 ODCZYT: rzut 33 - Gawen i Beron czyste; przy Edricu wiesc o bednarni na targu ZM dzien przed ogloszeniem (pisarz Edrica? ciesle? targ?) - Willa patrzy dalej. ### otwarte"
   },
   {
    "data": "300-10-11",
@@ -16923,7 +16923,7 @@
    "kanal": "poslaniec Korony konno; wiesc z powrotem poslancem albo krukiem przez komore BP",
    "wraca": "300-11-08",
    "zamyka": "wdowa przyjmuje/odmawia; dzieci w szkole",
-   "status": "otwarte ### 10-20 VOID: wpis 'niesie Torvald' - slowo gracza: pan robi to poza Torvaldem, bez jego wiedzy. List kancelarii Korony + poslaniec wyjezdza 10-21 o swicie (E). Smok wydany z sakiewki pana. ### 300-11-01 DZIEN BILANSU: w toku (wlasni, zasada 7/33) - meldunek w stalej karcie urzedu/zbiorczym tego cyklu."
+   "status": "zamkniete 300-12-20 (odczyt zaleglych): rzut 75 - przyjela; dwoje dzieci w szkole BP od XI; podziekowanie reka syna. ### POPRZEDNIO: byl-otw ### 10-20 VOID: wpis 'niesie Torvald' - slowo gracza: pan robi to poza Torvaldem, bez jego wiedzy. List kancelarii Korony + poslaniec wyjezdza 10-21 o swicie (E). Smok wydany z sakiewki pana. ### 300-11-01 DZIEN BILANSU: w toku (wlasni, zasada 7/33) - meldunek w stalej karcie urzedu/zbiorczym tego cyklu."
   },
   {
    "data": "300-10-20",
@@ -17022,7 +17022,7 @@
    "kanal": "kruk Domu + statek",
    "wraca": "300-12-21",
    "zamyka": "odpowiedz Banku",
-   "status": "otwarte ### 12-20 w poczcie z 6 tygodni brak odpowiedzi Banku; Lucan jutro (rozliczenie akcji) - jesli krukiem Banku przez Hala, RZUT przy odczycie. ### otwarte ### 10-22 list napisany u Willi; kruk do Hala jutro rano (E)."
+   "status": "zamkniete 300-12-20 (odczyt zaleglych): rzut 71 (kruk Banku do BP) - przedstawiciel wiosna w BP do rozmowy z Domem; nazwy domow z Lys 'Bank notuje'; konto Baelisha na LORDA PROTEKTORA Doliny (nie Dom Arrynow), podpisuje Baelish; list Korony 'przyjmuje do wiadomosci'. ### POPRZEDNIO: byl-otw ### 12-20 w poczcie z 6 tygodni brak odpowiedzi Banku; Lucan jutro (rozliczenie akcji) - jesli krukiem Banku przez Hala, RZUT przy odczycie. ### byl-otw ### 10-22 list napisany u Willi; kruk do Hala jutro rano (E)."
   },
   {
    "data": "300-10-22",
@@ -17451,7 +17451,7 @@
    "kanal": "role Strazy + kruk/jezdziec Wsch. Straznica/Wieza Cieni",
    "wraca": "300-12-18",
    "zamyka": "los brata ustalony i przekazany Hugonowi / uczciwe 'nie znaleziono'",
-   "status": "otwarte"
+   "status": "zamkniete 300-12-20 (odczyt zaleglych): rzut 68 - 'Ben Woz' zyje, budowniczy we Wschodniej Straznicy; list do Hugona przez dom Namiestnika. ### POPRZEDNIO: byl-otw"
   },
   {
    "co": "SPOTKANIE Z FRAKCJA KP NA MURZE - JANOS SLYNT + ser ALLISER THORNE (slowo pana 11-12, na rano 11-13): pan mierzy ich (czytanie ludzi), NIE robi teatru Polnoc-vs-Lew (Straz niczyja, przestroga Hallisa). Kontekst: ich karta 'Lew was wyzywi' zbita przyjazdem pana z zywnoscia; Lew nie przyslal nic. Cel: przejrzec, co naprawde robia i czy groza dla dowodztwa Muru, ktory Polnoc karmi.",
@@ -18060,6 +18060,14 @@
    "wraca": "301-01-28",
    "zamyka": "meldunek o kopalniach",
    "status": "otwarte ### 12-20 korekta: zadanie 'sprawdzic kopalnie' VOID - fakt w zapisie; zostaje szept prawdy."
+  },
+  {
+   "co": "ZLOTA KOMPANIA ZERWALA KONTRAKT Z MYR (Volantis, linia Nesty, rzut 76): zapasy na dlugi rejs, 'na zachod' - do Krola i rady wojennej (ktos zaplacil wiecej - kto i za co?). Wywiad: sledzic (Nesta/Volantis, Willa - Krainy Burzy, Stopnie).",
+   "kto": "PAN -> KROL ; WILLA ; NESTA",
+   "kanal": "osobiscie / kruki Banku",
+   "wraca": "300-12-21",
+   "zamyka": "Krol wie; zadanie dla wywiadu",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

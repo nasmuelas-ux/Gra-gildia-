@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 12,
-  "dzien": 20,
+  "dzien": 21,
   "era": "AC"
  },
  "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 16 (300-12-20): zle - zamiec od polnocy od switu, widocznosc na kilka krokow; kruki stoja caly dzien, trakty zasypane (ZM-WF ciezko); w zamku bez skutku poza zimnem.",
- "dzien_tygodnia_nr": 5,
+ "pogoda": "RZUT 16 (300-12-21): zle - snieg z wiatrem od rana (slabiej niz wczoraj), przejasnia sie po poludniu; kruki dopiero od poludnia; trakt ZM-WF ciezki, ale sanie przejda.",
+ "dzien_tygodnia_nr": 6,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

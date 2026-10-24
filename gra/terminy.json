@@ -16725,7 +16725,7 @@
    "kanal": "kruk WF-Czarny Zamek",
    "wraca": "300-10-21",
    "zamyka": "odpowiedz Wystana (rzut)",
-   "status": "zamkniete 300-10-21 ### ODPOWIEDZ WYSTANA (poczta_300_10_21.md, rzut 45): zdrow; Aemon lepiej; Mur - maki dosc, brak tluszczu i zielonego, w Wiezy Cieni u dwoch braci PIERWSZE ZNAKI GNILCA (napar z igliwia, cebula, kiszonka do wiez); ludzi malo; zza Muru bez wiesci o gromadach (to Hallis). Prosi: cos kwasnego i tlustego najpierw do wiez. ### POPRZEDNIO: byl-otw"
+   "status": "otwarte ### 12-21 napisany (gra/list_300_12_21_wystan.md); kanal Domu z listem do Clydasa. Odpowiedz Wystana - RZUT."
   },
   {
    "data": "300-10-18",
@@ -18075,7 +18075,7 @@
    "kanal": "kruk WF-Czarny Zamek",
    "wraca": "301-01-10",
    "zamyka": "odpowiedz Clydasa",
-   "status": "otwarte ### 12-21 napisany (gra/list_300_12_21_clydas.md), kanal Domu do rak wlasnych. Odpowiedz Clydasa - RZUT."
+   "status": "otwarte ### 12-21 WYSLANY kanalem Domu. Odpowiedz Clydasa - RZUT."
   },
   {
    "co": "WYJAZD PANA DO BIALEGO PORTU - ROZMOWA Z WYMANEM (slowo pana 12-21): Medrick do misji w Meereen (prosba Korony do lorda), 'nasze sprawy' - uklucie 'rozwazalo', dab poza umowa ramowa (Manderly nie przystapil), staly kurs Ujscie-BP, garnizon Przystani Wilka (Wyman doklada wikt), Torvald/Garth, komora BP. Lucan: po przesileniu; ~5 dni traktem zima (E); 'z czyms w reku, nie z prosba'. Zapowiedz krukiem do Wymana. Data - do slowa pana; eskorta - przyboczna (Sten).",
@@ -18091,7 +18091,7 @@
    "kanal": "kruk WF-Czarny Zamek",
    "wraca": "301-01-05",
    "zamyka": "odpowiedz Wystana",
-   "status": "otwarte"
+   "status": "otwarte ### 12-21 napisany (gra/list_300_12_21_wystan.md); kanal Domu z listem do Clydasa. Odpowiedz Wystana - RZUT."
   },
   {
    "co": "ZAPROSZENIE KROLA DLA WYMANA MANDERLY'EGO NA PRZESILENIE (Dluga Noc, E 300-12-30) do Winterfell (slowo pana 12-21, propozycja Krola): list Krola wlasna reka; przy stole - Medrick do misji w Meereen (pytanie, nie list), 'nasze sprawy' (rozwazalo, dab, kurs, garnizon PW, Torvald, komora). Odpowiedz/przyjazd Wymana - RZUT.",
@@ -18107,6 +18107,14 @@
    "kanal": "kruk WF-Fosa; sanie Fosa-WF",
    "wraca": "300-12-30",
    "zamyka": "sanie w WF",
+   "status": "otwarte"
+  },
+  {
+   "co": "HUGO (woznica, Zimowe Miasto) - POWIEDZIEC, ZE BRAT ZYJE: 'Ben Woz', budowniczy we Wschodniej Straznicy (Clydas, rzut 68); pan obiecal w liscie do Clydasa 'dowie sie dzis'.",
+   "kto": "PAN (albo Sten/Ulf)",
+   "kanal": "osobiscie / posłaniec do ZM",
+   "wraca": "300-12-21",
+   "zamyka": "Hugo wie",
    "status": "otwarte"
   }
  ],

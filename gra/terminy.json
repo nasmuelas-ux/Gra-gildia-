@@ -18368,6 +18368,15 @@
    "wraca": "301-01-10",
    "zamyka": "8 beczek w Ostatnim Domostwie",
    "status": "otwarte"
+  },
+  {
+   "data": "300-12-24",
+   "co": "RAMSAY - REWANZ 'DREWNIANY WILK ZA PIESKA' (slowo pana 12-24): stolarz zamkowy struga w nocy (E); jutro przy stole czlowiek Stena wrecza sludze Ramsaya z jednym zdaniem 'od domu Tallych, za pieska'. Reakcja Ramsaya - RZUT przy wreczeniu.",
+   "kto": "PAN ; STEN (czlowiek) ; stolarz zamkowy",
+   "kanal": "na miejscu",
+   "wraca": "300-12-25",
+   "zamyka": "wilk wreczony; reakcja (rzut)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

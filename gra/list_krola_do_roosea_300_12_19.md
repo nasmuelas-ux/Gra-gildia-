@@ -16,4 +16,4 @@
 
 *Robb Stark*
 
-*Od Królowej: Kuzynce Waldzie przesyłam wraz z akuszerką podarunek dla jej syna. Modlę się za oboje. — Roslin*
+*Od Królowej: Bratanicy Waldzie przesyłam wraz z akuszerką podarunek dla jej syna. Modlę się za oboje. — Roslin*

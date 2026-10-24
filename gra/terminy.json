@@ -17283,7 +17283,7 @@
    "kanal": "-",
    "wraca": "300-12-30",
    "zamyka": "slowo Krola: czy i kogo poslac ku Meereen",
-   "status": "otwarte ### 12-21 PAN do Krola: nawiazac lacznosc; KROL: zgoda - czlowiek od ksiag, nie poselstwo z choragwia; droga BP -> Braavos (Nesta) -> Volantis (statki na wschod) -> Meereen, wiosna (III/301), ~3-4 mies. (E); niesie slowo Aemona; IMIE KANDYDATA do 12-30. ### 12-21 PAN: ktos, kogo nie odesle + jasna intencja. KROL: (1) niesie slowo Aemona + pamiatke po nim (Clydas - ksiega/ogniwo?); (2) nie kupiec, nie jawny szpieg; INTENCJA (szkic Krola): 'Polnoc nie przychodzi kleknac ani grozic - mowi, co wie o dlugiej nocy, i pyta, czego ona chce od Westeros.' Kandydat + intencja na pismie do 12-30; list do Clydasa (pan). ### 12-21 SLOWO PANA: kandydaci SER MEDRICK MANDERLY + MAESTER WYSTAN (para; rada Lucana) - do Krola do 12-30; Wystan w GP do III, potem z Medrickiem pierwszym statkiem."
+   "status": "otwarte ### 12-21 PAN do Krola: nawiazac lacznosc; KROL: zgoda - czlowiek od ksiag, nie poselstwo z choragwia; droga BP -> Braavos (Nesta) -> Volantis (statki na wschod) -> Meereen, wiosna (III/301), ~3-4 mies. (E); niesie slowo Aemona; IMIE KANDYDATA do 12-30. ### 12-21 PAN: ktos, kogo nie odesle + jasna intencja. KROL: (1) niesie slowo Aemona + pamiatke po nim (Clydas - ksiega/ogniwo?); (2) nie kupiec, nie jawny szpieg; INTENCJA (szkic Krola): 'Polnoc nie przychodzi kleknac ani grozic - mowi, co wie o dlugiej nocy, i pyta, czego ona chce od Westeros.' Kandydat + intencja na pismie do 12-30; list do Clydasa (pan). ### 12-21 SLOWO PANA: kandydaci SER MEDRICK MANDERLY + MAESTER WYSTAN (para; rada Lucana) - do Krola do 12-30; Wystan w GP do III, potem z Medrickiem pierwszym statkiem. ### 12-21 KROL (rzut 51, z warunkami): Medrick - przysiega Krolowi na misje, list uwierzytelniajacy Krola; Wystan - slowo i pamiatka Aemona, BEZ listu Krola i szyfru; intencja na pismie przed wyjazdem; Wyman oddaje Medricka z wlasnej woli - pytanie przy przesileniu."
   },
   {
    "co": "NABOR DO DYMAREK WILCZEGO LASU - PONOWIONY z wyzsza dniowka (decyzja pana 11-01, RZUT 68). Gawen wywiesza slup w Zimowym Miescie i przez soltysow domeny; ~10-12 spodziewanych. Grim decyduje: czwarta dymarka czy wzmocnienie trzech zalog.",
@@ -18083,7 +18083,7 @@
    "kanal": "trakt WF-Cerwyn-BP; kruk zapowiedzi",
    "wraca": "300-12-21",
    "zamyka": "data wyjazdu i zapowiedz",
-   "status": "otwarte ### 12-21 KROL (rzut 3): NIE TERAZ - Ramsay, Roose (odp. ~12-28), lod Mance'a, Zlota Kompania, Rada 01-04, trakt po zasadzce 11-06. ALTERNATYWA: zaprosic WYMANA do WF na przesilenie (jak Medgera) - zaproszenie od Krola; albo wiosna z rodzina. Mira - chetna (po przesileniu, Rhona), pytala, czy Ramsay zostaje. DO SLOWA PANA. ### otwarte ### 12-21 SLOWO PANA: jedzie z MIRA i LYRA - WIZYTA rodzinna; sanie kryte, noclegi pod dachem (Cerwyn, PW, zajazd Ody), ~5-6 dni (E); pelna przyboczna Stena; Mira - swoje sprawy w BP (atelier, welna, szkola). Zapytac Mire."
+   "status": "zamkniete 300-12-21: ZAMIAST WYJAZDU - Krol zaprasza WYMANA na przesilenie do WF (list Krola dzis). Wyjazd z rodzina - wiosna. ### POPRZEDNIO: byl-otw ### 12-21 KROL (rzut 3): NIE TERAZ - Ramsay, Roose (odp. ~12-28), lod Mance'a, Zlota Kompania, Rada 01-04, trakt po zasadzce 11-06. ALTERNATYWA: zaprosic WYMANA do WF na przesilenie (jak Medgera) - zaproszenie od Krola; albo wiosna z rodzina. Mira - chetna (po przesileniu, Rhona), pytala, czy Ramsay zostaje. DO SLOWA PANA. ### byl-otw ### 12-21 SLOWO PANA: jedzie z MIRA i LYRA - WIZYTA rodzinna; sanie kryte, noclegi pod dachem (Cerwyn, PW, zajazd Ody), ~5-6 dni (E); pelna przyboczna Stena; Mira - swoje sprawy w BP (atelier, welna, szkola). Zapytac Mire."
   },
   {
    "co": "LIST PANA DO MAESTRA WYSTANA (Czarny Zamek): przydzial - GP do wiosny, potem MISJA DO MEEREEN z ser Medrickiem (slowo Aemona i pamiatka); prosba o jego zgode. Pisze pan. Odpowiedz Wystana - RZUT.",
@@ -18092,6 +18092,14 @@
    "wraca": "301-01-05",
    "zamyka": "odpowiedz Wystana",
    "status": "otwarte"
+  },
+  {
+   "co": "ZAPROSZENIE KROLA DLA WYMANA MANDERLY'EGO NA PRZESILENIE (Dluga Noc, E 300-12-30) do Winterfell (slowo pana 12-21, propozycja Krola): list Krola wlasna reka; przy stole - Medrick do misji w Meereen (pytanie, nie list), 'nasze sprawy' (rozwazalo, dab, kurs, garnizon PW, Torvald, komora). Odpowiedz/przyjazd Wymana - RZUT.",
+   "kto": "KROL -> WYMAN ; PAN",
+   "kanal": "kruk WF-BP",
+   "wraca": "300-12-24",
+   "zamyka": "odpowiedz Wymana (przyjazd albo nie)",
+   "status": "otwarte ### 12-21 list Krola - kruk po poludniu."
   }
  ],
  "_dopiski_300_03_18": [

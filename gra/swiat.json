@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 12,
-  "dzien": 22,
+  "dzien": 23,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 76 (300-12-22): dobrze - suchy mroz po zamieci, czysto, slonce, bezwietrznie; kruki od switu; trakty przetarte saniami (ZM-WF lekko).",
- "dzien_tygodnia_nr": 7,
+ "pogoda": "RZUT 9 (300-12-23): bardzo zle - zamiec od polnocnego wschodu od nocy, wiatr i snieg poziomo; KRUKI STOJA caly dzien; trakt ZM-WF zawiany, sanie z trudem; dziedziniec odgarniany co godzine.",
+ "dzien_tygodnia_nr": 1,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

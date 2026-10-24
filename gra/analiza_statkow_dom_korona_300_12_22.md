@@ -36,3 +36,18 @@
 4. **Kra:** zapytać Gawena i Edrica o maszty. Załogę i kapitana zaproponuje Rodrik/Torren na Radę 01-04 (łączy się z modelem floty).
 5. **Wół III:** dopisany do rozmowy z Wymanem przy stole, obok stałego kursu i pomostu.
 6. **Eskorta Wołów** (Lys, żelaźni): łączy się z planem konwoju od zachodu (Rada 01-04)? Wół I płynie ze wschodu, z Braavos, więc to osobna droga.
+
+---
+## ⚑ SŁOWO PANA 300-12-22 (wieczór)
+1. **KAPITAN I ZAŁOGA DOMU:** Dom zatrudnia **stałego kapitana** i dobiera mu załogę na Woły. Szuka **Hal w BP**: człowiek, który zna Morze Wąskie i drogę do Braavos, z Północy, bez długów u Lys. **Nesta** szuka równolegle braawoskich marynarzy do uzupełnienia. Kapitan z rdzeniem załogi płynie do Braavos pierwszym statkiem Nesty albo Banku (~I) i przyprowadza **Wołu I (II/301)**. Kasa 1, płaca według stawek Hala. Czy znajdzie się dobry człowiek, rozstrzygnie RZUT przy meldunku Hala (~01-05).
+2. **IMIONA** (wygenerowane, do korekty słowem pana):
+   - **Wół I: „Lyra”**, pierwszy kadłub pod barwami Tallych;
+   - **Wół II: „Wierna Księga”**;
+   - **Wół III: „Mchowa Grobla”**.
+   Nesta przekaże imiona stoczni w Braavos, a Hal stoczni Wymana.
+3. **PŁATNOŚCI:** z **wolnej gotówki Domu** (60% zostawiane w obrocie „do końca rozruchu”), nie z bufora 1000 i nie z pożyczek. Hal rozpisze raty (reszta Wołu I w II, Wołu II w IV, zadatek Wołu III w III, do tego Pentos i dąb) w bilansie XII.
+4. **MASZTY KRY:** pytanie do Gawena i Edrica (dziś). Załoga i kapitan Kry na Radę 01-04, razem z modelem floty.
+5. **WÓŁ III:** do rozmowy z Wymanem przy stole na Długą Noc.
+6. **LENNO:**
+   - **zamawia Krę** (Wzór II) w **Dustinporcie** na wiosenną pochylnię (Donnel). Norma 30–60, Kasa 2, umowę Korona–lenno podpisuje Gawen;
+   - **ROZBUDOWA STOCZNI w GORĄCYM PORCIE** (pochylnia przy ujściu Gorączki): druga pochylnia, szopa szkutnicza, skład do sezonowania drewna (od teraz, bo drewno schnie 3 lata), kuźnia okuć przy wielkiej kuźni Cailin. Ludzie: szkutnicy Donnela i trzech z Braavos. Kosztorys: **Warryn** (razem z ponagleniem z rana), plan: Garrick, Harlon, Hendry.

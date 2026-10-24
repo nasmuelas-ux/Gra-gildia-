@@ -18173,7 +18173,7 @@
   },
   {
    "data": "300-12-22",
-   "co": "WYMAN PRZY STOLE (Dluga Noc, jesli przyjedzie) - STALY KURS UJSCIE-BP kadlubami Wymana + polowa pomostu w Ujsciu (slowo pana 12-22); obok Medricka (Meereen) i 'naszych spraw'.",
+   "co": "WYMAN PRZY STOLE (Dluga Noc, jesli przyjedzie) - STALY KURS UJSCIE-BP kadlubami Wymana + polowa pomostu w Ujsciu (slowo pana 12-22); obok Medricka (Meereen) i 'naszych spraw'. + WOL III 'MCHOWA GROBLA' (pochylnia po Krze, stepka III/301, zadatek przy stepce).",
    "kto": "PAN -> WYMAN",
    "kanal": "osobiscie",
    "wraca": "300-12-30",
@@ -18232,6 +18232,42 @@
    "kanal": "na miejscu (WF-ZM)",
    "wraca": "300-12-26",
    "zamyka": "wyjscie odbyte (scena/meldunek Owena)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-12-22",
+   "co": "DOM - STALY KAPITAN I ZALOGA NA WOLY (slowo pana 12-22): HAL szuka w BP kapitana (Morze Waskie, droga do Braavos, z Polnocy, bez dlugow u Lys); NESTA rownolegle braawoskich marynarzy. Kapitan z rdzeniem zalogi do Braavos ~I statkiem Nesty/Banku -> przeprowadza WOLU I 'LYRA' (II/301) do BP. Kasa 1, place wg stawek Hala. Jaki czlowiek - RZUT przy meldunku Hala.",
+   "kto": "HAL ; NESTA",
+   "kanal": "kruk Domu WF-BP (szyfr Domu); Hal -> Nesta kruk Banku/statek",
+   "wraca": "301-01-05",
+   "zamyka": "kapitan zatrudniony, zaloga, termin wyplyniecia do Braavos",
+   "status": "otwarte ### 12-22 list pana do Hala, kruk Domu wieczorem."
+  },
+  {
+   "data": "300-12-22",
+   "co": "DOM - IMIONA WOLOW (slowo pana 12-22, wygenerowane, do korekty): Wol I 'LYRA', Wol II 'WIERNA KSIEGA', Wol III 'MCHOWA GROBLA'. Nesta -> stocznia w Braavos; Hal -> stocznia Wymana.",
+   "kto": "HAL ; NESTA",
+   "kanal": "w liscie do Hala",
+   "wraca": "301-01-05",
+   "zamyka": "stocznie maja imiona",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-12-22",
+   "co": "DOM - PLAN PLATNOSCI ZA STATKI Z WOLNEJ GOTOWKI (slowo pana 12-22): reszta Wolu I (II), Wolu II (IV), zadatek Wolu III (III), Pentos (zadatek 1/4), dab - z wolnej gotowki Domu (60% w obrocie), nie z bufora 1000, nie z pozyczek; raty w bilansie Hala XII.",
+   "kto": "HAL",
+   "kanal": "bilans XII",
+   "wraca": "301-01-05",
+   "zamyka": "plan rat w bilansie XII",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-12-22",
+   "co": "LENNO - KRA (Wzor II) Z DUSTINPORTU (slowo pana 12-22): zamowienie na wiosenna pochylnie Donnela; norma 30-60, Kasa 2; umowe Korona-lenno podpisuje Gawen. + ROZBUDOWA STOCZNI W GORACYM PORCIE (pochylnia przy ujsciu Goraczki): druga pochylnia, szopa szkutnicza, sklad sezonowania drewna od teraz (3 lata), kuznia okuc przy wielkiej kuzni Cailin; szkutnicy Donnela + 3 z Braavos; kosztorys WARRYN; plan Garrick/Harlon/Hendry.",
+   "kto": "GARRICK ; WARRYN ; HARLON ; DONNEL ; GAWEN (umowa)",
+   "kanal": "kruk WF-Fosa (wieczorem, z ponagleniem Warryna)",
+   "wraca": "300-12-30",
+   "zamyka": "kosztorys Warryna + potwierdzenie Donnela (pochylnia wiosna)",
    "status": "otwarte"
   }
  ],

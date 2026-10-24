@@ -11199,7 +11199,7 @@
    "kanal": "osobiscie",
    "wraca": "301-03-15",
    "zamyka": "rozmowa z Krolem o Theonie albo pomysl odlozony",
-   "status": "otwarte ### 12-20 RADA H: Krol - wiosna, po odpowiedzi Ashy; Theon musi chciec. ### otwarte ### 07-31 KROL (rzut 30 - jedna konsekwencja): TAK co do kierunku, NIE TERAZ - zareczyny syna Balona z corka lorda zachodu w roku, gdy zelazni licza brzeg, Pyke przeczyta jako zabranie syna na zawsze (moze przyspieszyc uderzenie); po jesieni (koniec IX). ~08-07 KROL rozmawia z Theonem SAM, jak przyjaciel, bez propozycji - wybada, czego Theon chce. ### 08-07 RANEK: KROL W DRODZE (barka do BP 08-06, potem morze) - rozmowa Krola z Theonem w WF NIE MOZE SIE ODBYC. Pomysl stoi (po IX); czy pan przejmuje rozmowe \"jak przyjaciel\" bez propozycji - do slowa pana. ### 08-07 SLOWO PANA: rozmowe CELOWA z Theonem (czego chce, przyszlosc) prowadzi KROL - po powrocie; pan rozmawia z Theonem tylko ogolnie, jak sie ma. OBIETNICA 300-02-17 (obietnica wiadomosci: \"jesli bedzie rzecz, ktorej nie wolno mi powiedziec - powiem, ze jest i ze nie wolno\") - w mocy. ### 08-07 PRZY TARCZACH: pan do Theona - \"Nic nie jest postanowione. Zastanawialismy sie z Robbem, czy nie jestes samotny.\" Theon czyta to jako mozliwy ozenek; prosi: jesli kiedys - wiedziec PIERWSZY i moc powiedziec NIE. Obietnica z 02-17 dotrzymana. ### 300-09-30 Krol na Skagos - rozmowa po powrocie Krola (zwiad ~10-08). ### 300-10-13: rozmowa z Krolem po powrocie. ### 300-10-26 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO - czeka na slowo/powrot Krola (~10-28). ### 300-10-28: ZAMIEC (pogoda 13) - Krol nie dotarl; czeka na Jego powrot (>=10-30)."
+   "status": "otwarte ### 12-20 RADA H: Krol - wiosna, po odpowiedzi Ashy; Theon musi chciec. ### otwarte ### 07-31 KROL (rzut 30 - jedna konsekwencja): TAK co do kierunku, NIE TERAZ - zareczyny syna Balona z corka lorda zachodu w roku, gdy zelazni licza brzeg, Pyke przeczyta jako zabranie syna na zawsze (moze przyspieszyc uderzenie); po jesieni (koniec IX). ~08-07 KROL rozmawia z Theonem SAM, jak przyjaciel, bez propozycji - wybada, czego Theon chce. ### 08-07 RANEK: KROL W DRODZE (barka do BP 08-06, potem morze) - rozmowa Krola z Theonem w WF NIE MOZE SIE ODBYC. Pomysl stoi (po IX); czy pan przejmuje rozmowe \"jak przyjaciel\" bez propozycji - do slowa pana. ### 08-07 SLOWO PANA: rozmowe CELOWA z Theonem (czego chce, przyszlosc) prowadzi KROL - po powrocie; pan rozmawia z Theonem tylko ogolnie, jak sie ma. OBIETNICA 300-02-17 (obietnica wiadomosci: \"jesli bedzie rzecz, ktorej nie wolno mi powiedziec - powiem, ze jest i ze nie wolno\") - w mocy. ### 08-07 PRZY TARCZACH: pan do Theona - \"Nic nie jest postanowione. Zastanawialismy sie z Robbem, czy nie jestes samotny.\" Theon czyta to jako mozliwy ozenek; prosi: jesli kiedys - wiedziec PIERWSZY i moc powiedziec NIE. Obietnica z 02-17 dotrzymana. ### 300-09-30 Krol na Skagos - rozmowa po powrocie Krola (zwiad ~10-08). ### 300-10-13: rozmowa z Krolem po powrocie. ### 300-10-26 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO - czeka na slowo/powrot Krola (~10-28). ### 300-10-28: ZAMIEC (pogoda 13) - Krol nie dotarl; czeka na Jego powrot (>=10-30). ### 12-23 PAN proponuje wczesniej; KROL RZUT 2 - NIE, z wyrzutem: wiosna po odpowiedzi Ashy i po tym, jak bedzie wiadomo, kto rzadzi na Pyke (brat Balona wrocil); Theon dowie sie pierwszy, od Krola, w oczy. Sprawa zamknieta do wiosny slowem Krola."
   },
   {
    "data": "300-07-30",
@@ -18305,6 +18305,15 @@
    "wraca": "301-01-05",
    "zamyka": "kurs ustalony (dzien, kapitan)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-12-23",
+   "co": "BANK - (b)+(a) (slowo pana 12-23): (b) HAL rozmawia TERAZ z ludzmi Banku w BP (klucznik Banku; kanal od 298): 'informacja za informacje' - lista pytan z pakietu Braavos (komu Bank pozycza na wojne, papiery Lwa, imie w Lys, konto Baelisha); (a) ZAPROSZENIE: przedstawiciel Banku zimowym statkiem do BP, dalej traktem do ZIMOWEGO MIASTA - rozmowa z NAMIESTNIKIEM twarza w twarz (izby Lucana albo faktoria Domu); koszt drogi - Dom (Kasa 1; Bank przez Dom, nie Korone - slowo Krola 10-29). Wola Banku (kiedy, czy do ZM) - RZUT przy odpowiedzi.",
+   "kto": "PAN -> HAL -> klucznik Banku (BP) -> Bank (Braavos) ; LUCAN",
+   "kanal": "kruk Domu WF-BP (szyfr Domu, po zamieci); kruk Banku BP-Braavos",
+   "wraca": "301-01-10",
+   "zamyka": "odpowiedz Banku: termin przyjazdu przedstawiciela do ZM; meldunek Hala z rozmowy w BP",
+   "status": "otwarte ### 12-23 list pana do Hala - kruk po zamieci."
   }
  ],
  "_dopiski_300_03_18": [

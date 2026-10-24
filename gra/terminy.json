@@ -17836,6 +17836,14 @@
    "wraca": "300-12-20",
    "zamyka": "listy (b) i (c) na stole pana",
    "status": "otwarte ### 12-18 slowo pana: zgoda."
+  },
+  {
+   "co": "CLO ROOSE'A - POLOWA ZALEGLEGO: KWOTA Z KOMORY BP (slowo pana 12-18): Gawen pyta komore BP o kwote, date wplaty i forme; do bilansu XII i rachunku reszty (Ramsay gosciem do reszty cla). Wlasni - bez rzutu.",
+   "kto": "GAWEN -> KOMORA BP (pisarz / Garth)",
+   "kanal": "kruk WF-BP",
+   "wraca": "300-12-22",
+   "zamyka": "kwota na karcie Gawena",
+   "status": "otwarte ### 12-18 kruk poszedl."
   }
  ],
  "_dopiski_300_03_18": [

@@ -17283,7 +17283,7 @@
    "kanal": "-",
    "wraca": "300-12-30",
    "zamyka": "slowo Krola: czy i kogo poslac ku Meereen",
-   "status": "otwarte ### 12-21 PAN do Krola: nawiazac lacznosc; KROL: zgoda - czlowiek od ksiag, nie poselstwo z choragwia; droga BP -> Braavos (Nesta) -> Volantis (statki na wschod) -> Meereen, wiosna (III/301), ~3-4 mies. (E); niesie slowo Aemona; IMIE KANDYDATA do 12-30."
+   "status": "otwarte ### 12-21 PAN do Krola: nawiazac lacznosc; KROL: zgoda - czlowiek od ksiag, nie poselstwo z choragwia; droga BP -> Braavos (Nesta) -> Volantis (statki na wschod) -> Meereen, wiosna (III/301), ~3-4 mies. (E); niesie slowo Aemona; IMIE KANDYDATA do 12-30. ### 12-21 PAN: ktos, kogo nie odesle + jasna intencja. KROL: (1) niesie slowo Aemona + pamiatke po nim (Clydas - ksiega/ogniwo?); (2) nie kupiec, nie jawny szpieg; INTENCJA (szkic Krola): 'Polnoc nie przychodzi kleknac ani grozic - mowi, co wie o dlugiej nocy, i pyta, czego ona chce od Westeros.' Kandydat + intencja na pismie do 12-30; list do Clydasa (pan)."
   },
   {
    "co": "NABOR DO DYMAREK WILCZEGO LASU - PONOWIONY z wyzsza dniowka (decyzja pana 11-01, RZUT 68). Gawen wywiesza slup w Zimowym Miescie i przez soltysow domeny; ~10-12 spodziewanych. Grim decyduje: czwarta dymarka czy wzmocnienie trzech zalog.",
@@ -18068,6 +18068,14 @@
    "wraca": "301-01-28",
    "zamyka": "Krol wie; zadanie dla wywiadu",
    "status": "otwarte ### 12-21 PAN - mozliwosci: Lys (wojna z Myr), Stannis przez Bank, Illyrio (sprawa Targaryenow; nasze zboze), Lew na kredyt, Dorne. KROL: wywiad - kto i gdzie (Pentos bez pytan o Illyrie); pytanie do Banku w pakiecie Braavos 01-04; kontrakt Illyrii 301 - przeglad przed podpisem. otwarte ### 12-21 Krol wie; rozkaz - wywiad patrzy (Nesta/Volantis; Willa - Stopnie, Krainy Burzy); nikomu nie mowic. otwarte"
+  },
+  {
+   "co": "LIST DO CLYDASA - PAMIATKA PO AEMONIE DLA DAENERYS (Krol 12-21): czy zostalo cos z reki Aemona (ksiega, ogniwo, list) - pojedzie z czlowiekiem od ksiag do Meereen jako znak. Pisze pan. Odpowiedz Clydasa - RZUT.",
+   "kto": "PAN -> CLYDAS",
+   "kanal": "kruk WF-Czarny Zamek",
+   "wraca": "301-01-10",
+   "zamyka": "odpowiedz Clydasa",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

@@ -2315,6 +2315,12 @@
     "ruch": "+441 smokow +28 jeleni (441,14)",
     "na": "wyplata Domu X 304,61 + XI 185,55 = 490,16 za kwitem w faktorii ZM; 1/10 = 49,02 (49 smokow 4 jelenie) w osobnej sakwie do skrzyni rodu w WF",
     "kasa": "sakiewka pana"
+   },
+   {
+    "data": "300-12-22",
+    "ruch": "-700 smokow",
+    "na": "do skrzyni rodu (WF) jako SAKWA PANA - nadal wlasne pana (rubryka sakwy Symona w ksiedze majatku rodu, nie majatek rodu); 1/10 z wyplat X-XI juz wplacona do rodu osobno (49,02)",
+    "kasa": "sakiewka pana -> sakwa pana w skrzyni"
    }
   ],
   "wyplata_VIII_a_300_08_14": "Symon 224,47 ODEBRANE w faktorii ZM 08-14 za kwitem; Mira 112,24 czeka w faktorii do jej odbioru (dlug Miry wobec szkatuly - rozliczyc przy jej odbiorze).",
@@ -2443,7 +2449,14 @@
     "zrodlo": "zgoda pana 10-18"
    }
   ],
-  "upowaznienie_miry_300_11_01": "Pan (przed wyjazdem na Mur) upowaznia MIRE na pismie, pod pieczecia domowa: odbiera za kwitem w faktorii ZM wyplate Domu pana za X (kwota z ksiegi Hala, zasada 43), odklada 1/10 do skrzyni rodu (wpis jej reka, podpis pana po powrocie), reszte trzyma w sakwie pana w skrzyni rodu. Wazne do powrotu pana."
+  "upowaznienie_miry_300_11_01": "Pan (przed wyjazdem na Mur) upowaznia MIRE na pismie, pod pieczecia domowa: odbiera za kwitem w faktorii ZM wyplate Domu pana za X (kwota z ksiegi Hala, zasada 43), odklada 1/10 do skrzyni rodu (wpis jej reka, podpis pana po powrocie), reszte trzyma w sakwie pana w skrzyni rodu. Wazne do powrotu pana.",
+  "sakwa_pana_w_skrzyni_ruchy": [
+   {
+    "data": "300-12-22",
+    "ruch": "+700 smokow",
+    "uwaga": "wlasne pana, w skrzyni rodu; wpis w rubryce sakwy Symona reka pana, Mira widzi (sakwy jawne dla obojga)"
+   }
+  ]
  },
  "_synergia_sieci": {
   "od": "300-08-01",

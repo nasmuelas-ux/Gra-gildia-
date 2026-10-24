@@ -17940,6 +17940,14 @@
    "wraca": "300-12-24",
    "zamyka": "wyjazd Ramsaya albo zmiana slowa pana",
    "status": "otwarte"
+  },
+  {
+   "co": "PAKIET BRAAVOS - CZEGO OCZEKUJEMY I CO DAJEMY (slowo pana 12-20, Mala Rada; Krol: zgoda): zebrac w jedna karte przed Rada 301-01-04: dab dla Arsenalu / Morski Lord; Bank (papier Lwa, kredyt floty Lwa, imie w Lys); faktoria Braavos w Cailin; Przewloka poza Stopniami; Woly (stocznia); pisarze, rytownik, Ysilla; azyl; poselstwo (Catelyn, Sansa, Arya); wyslannik Krola po zimie i kandydat. Sklada pan z Gawenem; Lucan (Bank), Hal/Nesta (Arsenal - kruki Banku), Catelyn (poselstwo).",
+   "kto": "PAN ; GAWEN ; LUCAN ; HAL/NESTA ; CATELYN",
+   "kanal": "na miejscu + kruki Banku",
+   "wraca": "301-01-04",
+   "zamyka": "karta pakietu na Radzie 301-01-04",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

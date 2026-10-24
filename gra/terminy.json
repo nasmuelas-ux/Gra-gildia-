@@ -18350,6 +18350,15 @@
    "wraca": "300-12-30",
    "zamyka": "Garrick potwierdza przyjecie (wlasny - bez rzutu)",
    "status": "otwarte ### 12-23 kartka napisana; kruk po zamieci."
+  },
+  {
+   "data": "300-12-23",
+   "co": "STALA (slowo pana 12-23, noc): SZARE PLASZCZE (przyboczna Tallych) W NAJWYZSZEJ GOTOWOSCI - Sten wykonuje (warty podwojone przy komnatach Tallych i przy panu, bron przy ludziach w nocy, zmiany krotsze). Do odwolania albo wyjazdu Ramsaya.",
+   "kto": "STEN ; przyboczna",
+   "kanal": "ustnie (czlowiek Stena)",
+   "wraca": "300-12-30",
+   "zamyka": "odwolanie pana albo wyjazd Ramsaya",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 12,
-  "dzien": 18,
+  "dzien": 19,
   "era": "AC"
  },
- "pora": "przedpoludnie",
+ "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 27 (300-12-18): zle-przecietnie - szaro, snieg z wiatrem, mroz; w zamku bez skutku, trakty ciezsze.",
- "dzien_tygodnia_nr": 3,
+ "pogoda": "RZUT 70 (300-12-19): dobrze - mroz, bezwietrznie, przejasnia sie po poludniu; kruki lataja, trakty przetarte.",
+ "dzien_tygodnia_nr": 4,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

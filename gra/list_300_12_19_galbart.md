@@ -13,7 +13,7 @@
 
 *Twoją prośbę o kamienną basztę przekazałem Królowi, tak jak obiecałem. Odpowiedź dostaniesz od niego samego.*
 
-*Pozdrów ode mnie lady Sybellę i dzieci, a Dacey powiedz, że jej słowa dla Aryi doszły.*
+*Pozdrów ode mnie Robetta i jego rodzinę, a Dacey powiedz, że jej słowa dla Aryi doszły.*
 
 *Symon Tally*
 *Namiestnik Króla*

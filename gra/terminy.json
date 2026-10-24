@@ -17811,7 +17811,7 @@
    "kanal": "na miejscu (ZM)",
    "wraca": "300-12-24",
    "zamyka": "karta racji 12-20",
-   "status": "otwarte ### 12-20 czlowiek Orlanda: ~15 beczek (rzepa, brukiew, zurawina, grzyby) kupione po cenie ze slupa; reszta ~10 do ~12-24 (wsie domeny, zamiec). ### otwarte ### 12-18 czlowiek Orlanda rusza po Radzie."
+   "status": "otwarte ### 12-20 czlowiek Orlanda: ~15 beczek (rzepa, brukiew, zurawina, grzyby) kupione po cenie ze slupa; reszta ~10 do ~12-24 (wsie domeny, zamiec). ### otwarte ### 12-18 czlowiek Orlanda rusza po Radzie. ### 12-21 karta Orlanda: 15 beczek w skladzie; poprawka przeliczki (~3-4 dni z calosci netto, nie 8-10)."
   },
   {
    "co": "RACJA - KISZONKA CO DRUGI DZIEN dla niepracujacych na mrozie, od 301-01 (slowo pana 12-18); pelna dla strazy, drwali, woznicow, ludzi na mrozie. Ogloszenie w kuchniach - Orland.",
@@ -18276,7 +18276,7 @@
     "start": "300-10-18"
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-10-25",
+   "ostatnio_odebrane": "300-12-21",
    "zrodlo": "terminarz_budow_300_04.md",
    "uwaga_0915": "SLOWO PANA 09-15: karta Spichlerza ZAWSZE W RACJACH (Racja Polnocna, skladniki + waskie gardlo), od dzis.",
    "uwaga_1018": "SLOWO PANA 10-18: karta racji CO TYDZIEN (cykliczne raporty), w racjach, z waskim gardlem. Pierwsza poza cyklem 10-18 (gra/karta_racji_300_10_18.md).",
@@ -18564,7 +18564,7 @@
     "start": "300-10-18"
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-12-13",
+   "ostatnio_odebrane": "300-12-21",
    "zrodlo": "slowo pana 300-10-18; wpis do cykli 300-11-01 (brakowal)"
   }
  ],

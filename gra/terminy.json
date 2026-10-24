@@ -7187,11 +7187,11 @@
   {
    "data": "300-06-08",
    "co": "T3-C - MOST PRZY BRODZIE (zajazd Ody, Trakt Krolewski Winterfell-Cerwyn): w ramach T3-C, przed roztopami 301; brod stoi wiosna ~3 tygodnie pod woda. Do Krola krukiem z Barrowton (domena placi). Rece domeny; ciesle - E.",
-   "kto": "SYMON -> KROL (domena) / kasztelan",
+   "kto": "EDRIC PLUG ; ciesla zamkowy ; GAWEN (Kasa 3)",
    "kanal": "kruk Barrowton-Winterfell",
-   "wraca": "300-11-04",
+   "wraca": "301-01-10",
    "zamyka": "most stoi przed mrozem albo przynajmniej przyczolki",
-   "status": "otwarte ### 300-10-15 NIE PRZYSZLO, WIADOMO DLACZEGO: meldunek drog domeny (Edric Plug/kasztelan) na Male Rade 10-24. ### 300-10-26 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO - czeka na slowo/powrot Krola (~10-28). ### 300-10-28: ZAMIEC (pogoda 13) - Krol nie dotarl; czeka na Jego powrot (>=10-30)."
+   "status": "otwarte ### 12-20 MALA RADA - SLOWO PANA: 6 z 12 pali wbite przed lodem; pozostale 6 Z LODU w styczniu (Edric, ~20 ludzi x ~3 tyg., ~2 smoki Kasa 3 E, ciesla zamkowy; ryzyko - lod). Start ~01-10 po probie lodu; meldunek ~01-31. ### otwarte ### 300-10-15 NIE PRZYSZLO, WIADOMO DLACZEGO: meldunek drog domeny (Edric Plug/kasztelan) na Male Rade 10-24. ### 300-10-26 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO - czeka na slowo/powrot Krola (~10-28). ### 300-10-28: ZAMIEC (pogoda 13) - Krol nie dotarl; czeka na Jego powrot (>=10-30)."
   },
   {
    "data": "300-06-09",
@@ -14392,9 +14392,9 @@
    "co": "T3-C CERWYN-WINTERFELL - DO MROZU (meldunek 09-10: ~4/25 mil, pale mostu niewbite; rece domeny w Konserwie - priorytet): Edric po mlocce (~09-25) 40 ludzi -> do mrozu ~10 mil + pale; do slowa pana: najem 40 ludzi z Dorzecza/ZM za dniowke (~1,2 smoka/mies, Kasa 3). Wlasni - bez rzutu.",
    "kto": "EDRIC PLUG ; GAWEN",
    "kanal": "na miejscu",
-   "wraca": "300-11-08",
+   "wraca": "301-03-15",
    "zamyka": "odcinek do mrozu (meldunek Edrica) + pale pod most",
-   "status": "otwarte ### 09-10 SLOWO PANA: CZEKAC - bez najmu; rece domeny po mlocce (~09-25, 40 ludzi), Konserwa pierwsza; do mrozu ~10 mil + pale, reszta wiosna 301. ### 300-10-15 NIE PRZYSZLO, WIADOMO DLACZEGO: meldunek drog domeny (Edric Plug/kasztelan) na Male Rade 10-24. ### 300-10-26 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO - wlasni w toku (zasada 7); stan w nastepnej karcie urzedu / zbiorczym (~11-01). ### 300-11-01 DZIEN BILANSU: w toku (wlasni, zasada 7/33) - meldunek w stalej karcie urzedu/zbiorczym tego cyklu."
+   "status": "otwarte ### 12-20 RADA: do mrozu ~11/25 mil (E Edrica); reszta wiosna 301. ### otwarte ### 09-10 SLOWO PANA: CZEKAC - bez najmu; rece domeny po mlocce (~09-25, 40 ludzi), Konserwa pierwsza; do mrozu ~10 mil + pale, reszta wiosna 301. ### 300-10-15 NIE PRZYSZLO, WIADOMO DLACZEGO: meldunek drog domeny (Edric Plug/kasztelan) na Male Rade 10-24. ### 300-10-26 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO - wlasni w toku (zasada 7); stan w nastepnej karcie urzedu / zbiorczym (~11-01). ### 300-11-01 DZIEN BILANSU: w toku (wlasni, zasada 7/33) - meldunek w stalej karcie urzedu/zbiorczym tego cyklu."
   },
   {
    "data": "300-09-10",
@@ -15434,11 +15434,11 @@
   {
    "data": "300-09-25",
    "co": "TRAKTY LORDOW - T1-C (FREY / MALLISTER): brak odpowiedzi na zapytanie z 09-08 (Mallister cisza od 07-20). Zalezne od Dorzecza; ponowic przez Catelyn/Edmure'a albo czekac na Krola - do slowa pana.",
-   "kto": "SYMON -> FREY (Perwyn), MALLISTER",
+   "kto": "CATELYN ; GAWEN -> EDMURE, JASON MALLISTER, (Walder)",
    "kanal": "kruk WF-Riverrun / Blizniaki",
-   "wraca": "300-11-04",
+   "wraca": "301-03-01",
    "zamyka": "odpowiedz albo decyzja pana",
-   "status": "otwarte ### 09-25 SLOWO PANA: ODLOZONE na potem."
+   "status": "otwarte ### 12-20 RADA (propozycja Gawena, zgoda pana): wiosna - jeden list przez CATELYN do Edmure'a i lorda Jasona Mallistera; Walder cieplejszy po mycie. ### otwarte ### 09-25 SLOWO PANA: ODLOZONE na potem."
   },
   {
    "data": "300-09-25",
@@ -17947,6 +17947,22 @@
    "kanal": "na miejscu + kruki Banku",
    "wraca": "301-01-04",
    "zamyka": "karta pakietu na Radzie 301-01-04",
+   "status": "otwarte"
+  },
+  {
+   "co": "T1-B ODNOGA DO BLIZNIAKOW - WZNOWIENIE ROBOT PO ODWILZY (przypomnienie, Rada 12-20): ~9/30 mil; szlaban zniesiony dla Korony; Brenn z Brodu, checkpoint co 10 mil.",
+   "kto": "BRENN Z BRODU ; GAWEN",
+   "kanal": "kruk Fosa/Brenn",
+   "wraca": "301-03-15",
+   "zamyka": "roboty ruszyly",
+   "status": "otwarte"
+  },
+  {
+   "co": "PALE Z LODU - MOST PRZY BRODZIE (zajazd Ody) - MELDUNEK EDRICA (przypomnienie, Rada 12-20): ile wbito z 6, stan lodu, koszt.",
+   "kto": "EDRIC PLUG",
+   "kanal": "na miejscu (domena)",
+   "wraca": "301-01-31",
+   "zamyka": "12 pali stoi albo powod",
    "status": "otwarte"
   }
  ],

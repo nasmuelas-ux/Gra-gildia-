@@ -2185,6 +2185,20 @@
    "moneta_w_skrzyni_07_31_po_korekcie": 2052.61,
    "clo_fosy_VII_E": 58,
    "clo_fosy_VI_E": 63
+  },
+  "bilans_300_10_11_cykl": {
+   "plik": "gra/bilans_korony_300_10_11_cykl.md",
+   "rzut_X": 72,
+   "rzut_XI": 33,
+   "wynik_X": -2117.19,
+   "wynik_XI": 1322.75,
+   "moneta_10_31": 9061.13,
+   "moneta_11_30": 10383.88,
+   "skrzynia_zimowa_wplata_XI": 264.55,
+   "skrzynia_zimowa_razem": 768.87,
+   "moneta_wolna_po_wplacie": 10119.33,
+   "naleznosci": 5486,
+   "poza_liczba": "clo Roose'a (polowa, XI, ksiega komory BP), myto odnogi Freyow od 11-01 - do bilansu XII"
   }
  },
  "_udzialy_wspolnikow": {

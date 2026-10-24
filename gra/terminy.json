@@ -17148,7 +17148,7 @@
    "kanal": "siatka Willi",
    "wraca": "300-12-28",
    "zamyka": "pierwszy meldunek Willi o obiegu",
-   "status": "otwarte"
+   "status": "zamkniete 300-12-23: odczyt na zadanie pana (rzut 42, czesciowo) - powtarzaja to, co juz znali; jedna rzecz nowa sie trzyma; sladu ku Polnocy brak; reakcji wladz brak. Nastepny przeglad ~I. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-10-23",
@@ -18322,6 +18322,15 @@
    "kanal": "ustnie",
    "wraca": "300-12-28",
    "zamyka": "meldunek w centrali Willi (rzut przy meldunku)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-12-23",
+   "co": "SZEPT POLUDNIA - PRZEGLAD II (po pierwszym obiegu, rzut 42): co sie trzyma, czy ktos pyta o zrodlo.",
+   "kto": "WILLA",
+   "kanal": "centrala Willi",
+   "wraca": "301-01-20",
+   "zamyka": "meldunek Willi (rzut)",
    "status": "otwarte"
   }
  ],

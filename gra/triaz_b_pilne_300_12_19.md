@@ -1,0 +1,15 @@
+# TRIAŻ (b): JEDENAŚCIE PILNYCH ZIMĄ, 300-12-19 (Beron z kart drugiej kupki; własni bez rzutu, obca wola z rzutem)
+
+| # | sprawa | stan z kart | czy potrzeba słowa pana |
+|---|---|---|---|
+| 1 | **Droga 22 tysięcy** (rozstrzygnięcie z 04-02: łodzie po odwilży) | **Zastąpiona.** Mance czeka na lód, a słowo Króla z 12-18 mówi: przejście po lodzie w porządku, przez Wyspę na Przylądek. Zboże liczy Orland do 12-30. | kiwnięcie: zamknąć |
+| 2 | **Buty i kożuchy dla łańcucha ognia** | **Doszły.** Karta Robetta z XI: 40 par i 40 kożuchów odebrane w Deepwood ~10-28 (E), rozdane po punktach. | nie, zamknięte |
+| 3 | **Gorący Port bez maestera** | Bez zmian. Orwyn z Fosy jeździ dorywczo, a lecznicę w GP prowadzi zielarka z kursu. Wystan wraca z Muru (~II/301), kiedy Cytadela przyśle Straży nowego maestera. | **TAK**: pisać do Cytadeli wiosną? co z Wystanem po powrocie? |
+| 4 | **Rządca Konserwy Korony** | Edric jest p.o. od IX. Kandydaci z jego karty (E): **Jorunn**, wdowa, prowadzi kiszarnię w Podgrodziu (12 kobiet, „liczy beczki lepiej niż ja”, Edric); **Tobbe**, były szafarz spiżarni zamkowej, zna wagę i sól, ale „ludzie go nie lubią”. Trzecia droga: Edric zostaje do wiosny. | **TAK**: kto |
+| 5 | **Rezerwa Korony (Osric)** | **Zrobione 11-01.** Spis ~620/1000 i kosztorys u pana. Słowo pana: przynęta „nic poza dniówką”, rewizja wiosną. | nie, zamknięte |
+| 6 | **48 ludzi Starków z GP do WF** | **Doszli ~10-29** pod Torvinem (zbiorczy Garricka). Są w garnizonie WF. | nie, zamknięte |
+| 7 | **Księga załóg eskadry Torrena** | Karta Donnela (E): **6 kadłubów, ~210 ludzi**. Wioślarzy ~150, z nich ~60 nadaje się do walki w kolczudze i z bronią; 6 szyprów. Zimą przy łodziach w Dustinporcie zostaje ~40 (straż i smoła), reszta do odwilży wraca do domów na brzegu. | nie, do wiadomości |
+| 8 | **Test ubytku na Dreadforcie** | **Wynik był 11-02 (rzut 67).** Ubytek ludzi na ziemiach Boltona jest wyraźnie wyższy niż u sąsiadów we wszystkich trzech okresach. Willa: *„anomalia, nie dowód”*. | **TAK**: dać to do cichej księgi Cerwyna? pokazać Królowi? |
+| 9 | **Torvald Siwek do służby celnej w BP** | **Garth odmówił (rzut 4).** Jego zdanie: *„Celnik, który dwadzieścia lat jadł chleb lorda portu, nie będzie liczył jego statków.”* **Wyman nie miał nic przeciw (rzut 81)**: *„Torvald służył uczciwie, niech służy Koronie”*. Decyzję o ludziach komór ma Garth. | **TAK**: przyjąć odmowę Gartha czy pan go przekona? |
+| 10 | **Flint z Palca: co widać na morzu** | **Odpowiedź ~11-03 (rzut 8): sucho i dumnie.** Pod koniec X widział nocą dwa żagle bez znaków, idące na południe obok Palca. Ludzi z Fosy *„na swoim Palcu nie potrzebuje”*. Czytał Rodrik (sztab), karta leżała. | **TAK**: zostawić czy coś odpisać? (żagle zgadzają się z żelaznym zwiadem z X) |
+| 12 | **Szef bezpieczeństwa Domu do wiosny** | Krzesło puste do przyjazdu Ysilli (III–IV). Dziś kantory pilnuje 20 Szarych Płaszczy Domu (Kasa 1), a osobę pana i rodzinę Sten. | **TAK**: kto trzyma krzesło do wiosny (Sten? Hal? nikt?) |

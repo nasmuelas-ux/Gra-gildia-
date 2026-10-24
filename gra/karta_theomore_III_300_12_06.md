@@ -37,3 +37,8 @@
 ## DO SŁOWA PANA
 1. **Poświadczenie Głębokorzenia dla czeladników cechu BP:** tak czy nie? Jeśli tak, potrzebna pieczęć Króla (pierwsze poświadczenie dla ludzi spoza Głębokorzenia).
 2. **Paragraf VIII/IX** do podpisu Króla: dołączyć do najbliższej sprawy u Króla?
+
+---
+## ⚑ SŁOWO PANA 300-12-22
+1. **Poświadczenie Głębokorzenia dla czeladników cechu BP: TAK.** Do pieczęci Króla, przez Mistrza Nauki (Luwin). Theomore odpowie starszemu cechu dopiero po pieczęci.
+2. **Paragraf VIII/IX (łańcuchy nauki) jedzie do Króla** razem z poświadczeniem, przy najbliższej sprawie u Króla (dziś: Tyrellowie).

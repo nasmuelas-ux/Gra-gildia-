@@ -2321,6 +2321,13 @@
     "ruch": "-700 smokow",
     "na": "do skrzyni rodu (WF) jako SAKWA PANA - nadal wlasne pana (rubryka sakwy Symona w ksiedze majatku rodu, nie majatek rodu); 1/10 z wyplat X-XI juz wplacona do rodu osobno (49,02)",
     "kasa": "sakiewka pana -> sakwa pana w skrzyni"
+   },
+   {
+    "data": "300-12-23",
+    "ruch": "-41 smokow",
+    "na": "wywiad - biezace XI-XII wg pasm zatwierdzonych 09-25 i 10-23 (srodek pasma, jak za X: 14/mies + Szept ~6-7/mies); do rak Willi w ZM",
+    "kasa": "sakiewka pana",
+    "uwaga": "kwota z pasm w zapisie; rozbicie u Willi"
    }
   ],
   "wyplata_VIII_a_300_08_14": "Symon 224,47 ODEBRANE w faktorii ZM 08-14 za kwitem; Mira 112,24 czeka w faktorii do jej odbioru (dlug Miry wobec szkatuly - rozliczyc przy jej odbiorze).",

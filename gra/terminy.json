@@ -18386,6 +18386,15 @@
    "wraca": "300-12-25",
    "zamyka": "regula ogloszona; rozmowa Krola z Ramsayem",
    "status": "zamkniete 300-12-25: ogloszona rano; Krol powiedzial Ramsayowi przy jego ludziach - Ramsay przyjal uprzejmie ('zwyczaj domu to zwyczaj domu'). Regula stoi (stala). ### POPRZEDNIO: byl-otw"
+  },
+  {
+   "data": "300-12-25",
+   "co": "KROL PO OBELDZE RAMSAYA (rzut 98): (1) pogryziony wilk nad drzwiami psiarni - 'przezyl zeby'; (2) goscie do psiarni i stajni tylko z Zimowa Straza (zwyczaj domu - dopisek); (3) LIST KROLA DO ROOSE'A - sam fakt, bez przymiotnikow, kopia do rachunku regencji; prosba, by lord Roose przyjechal po syna osobiscie (zaproszenie z 12-19 w mocy).",
+   "kto": "KROL ; SER ALYN ; BERON",
+   "kanal": "na miejscu; kruk WF-Dreadfort (po poludniu)",
+   "wraca": "300-12-30",
+   "zamyka": "list do Roose'a wyslany; odpowiedz Roose'a (rzut przy odpowiedzi, laczy sie z listem 12-19)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

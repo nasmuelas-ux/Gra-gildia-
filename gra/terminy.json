@@ -17737,9 +17737,9 @@
    "co": "LIST KROLA DO ROOSE'A (slowo Krola 12-17 po radzie pana): Ramsay i 20 zostaja goscmi Krola do zaplaty reszty zaleglego cla; gratulacje z narodzin syna; Krolowa (Roslin) posyla podarunek dla dziecka i oferte maestra/poloznej dla Waldy, jesli Roose zechce (warunek 07-10: nic bez zgody Roose'a). Reka Berona, pieczec Krola. + ser Alyn: blizej dwoch z 20, ktorzy znikali w ZM.",
    "kto": "KROL (Beron) -> ROOSE ; SER ALYN ; ALDWIN",
    "kanal": "kruk WF-Dreadfort",
-   "wraca": "300-12-19",
+   "wraca": "300-12-28",
    "zamyka": "odpowiedz Roose'a (rzut)",
-   "status": "otwarte ### 12-18 SOLAR (rzut 27): DO PRZEPISANIA - (a) Korona uznaje publicznie syna Roose'a i Waldy za dziedzica Dreadfortu z prawego loza (karta Boltonsgate); (b) maester i akuszerka od Krolowej do Dreadfortu; (c) zaproszenie dla ROOSE'A do WF po syna i z reszta cla przy pierwszej dobrej drodze (bez Waldy i dziecka); Ramsay gosciem do przyjazdu ojca. Pisze pan z Beronem 12-19, podpis Krola. ### otwarte"
+   "status": "otwarte ### 12-19 WYSLANE (brudnopis II, gra/list_krola_do_roosea_300_12_19.md; podpis i pieczec Krola, linijka Roslin) - kruk po poludniu. Odpowiedz Roose'a - RZUT. ### otwarte ### 12-18 SOLAR (rzut 27): DO PRZEPISANIA - (a) Korona uznaje publicznie syna Roose'a i Waldy za dziedzica Dreadfortu z prawego loza (karta Boltonsgate); (b) maester i akuszerka od Krolowej do Dreadfortu; (c) zaproszenie dla ROOSE'A do WF po syna i z reszta cla przy pierwszej dobrej drodze (bez Waldy i dziecka); Ramsay gosciem do przyjazdu ojca. Pisze pan z Beronem 12-19, podpis Krola. ### otwarte"
   },
   {
    "co": "ZASADZKA W JARZE - NITKA DO DREADFORTU (Aldwin 12-17): posrednik wskazal 'KOSCI' (Ben Kosci, czlowiek Bekarta w Dreadforcie) jako zleceniodawce; dwaj z 20 Ramsaya w WF kontaktowali sie w ZM z woznica na wschod. Dowod: zeznanie posrednika + zawodowca + najemnikow (zywi). DO KROLA (prerogatywa - sad i postepowanie wobec Boltonow); Ramsay nadal gosciem w WF. Decyzja Krola/pana. | SLOWO PANA 12-17: do Krola JUTRO na Radzie, w cztery oczy (przed albo po Radzie). Aldwin trzyma czterech; cisza. | 12-18 rano: kartka Aldwina w rekach KROLA (przed Rada). Krol: Ramsay jest gosciem pod moim dachem - prawo goscia; nie przy stole Rady; wieczorem w solarze: Krol, pan, ser Brynden, Aldwin (i Cerwyn jako justycjariusz - kruk?). Decyzja Krola wieczorem (rzut przy decyzji).",
@@ -17907,6 +17907,14 @@
    "kanal": "osobiscie po powrocie",
    "wraca": "301-02-15",
    "zamyka": "Wystan w GP",
+   "status": "otwarte"
+  },
+  {
+   "co": "OGLOSZENIE KROLA PRZY SALI: syn Roose'a i Waldy z prawego loza dziedzicem Dreadfortu (karta Boltonsgate; slowo Krola 12-18). Przy wieczerzy 12-19, przy stole Boltonow (Ramsay i 20 obecni).",
+   "kto": "KROL",
+   "kanal": "Wielka Sala WF",
+   "wraca": "300-12-19",
+   "zamyka": "ogloszone",
    "status": "otwarte"
   }
  ],

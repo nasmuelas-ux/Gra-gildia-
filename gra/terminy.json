@@ -17283,7 +17283,7 @@
    "kanal": "-",
    "wraca": "300-12-30",
    "zamyka": "slowo Krola: czy i kogo poslac ku Meereen",
-   "status": "otwarte ### 12-21 PAN do Krola: nawiazac lacznosc; KROL: zgoda - czlowiek od ksiag, nie poselstwo z choragwia; droga BP -> Braavos (Nesta) -> Volantis (statki na wschod) -> Meereen, wiosna (III/301), ~3-4 mies. (E); niesie slowo Aemona; IMIE KANDYDATA do 12-30. ### 12-21 PAN: ktos, kogo nie odesle + jasna intencja. KROL: (1) niesie slowo Aemona + pamiatke po nim (Clydas - ksiega/ogniwo?); (2) nie kupiec, nie jawny szpieg; INTENCJA (szkic Krola): 'Polnoc nie przychodzi kleknac ani grozic - mowi, co wie o dlugiej nocy, i pyta, czego ona chce od Westeros.' Kandydat + intencja na pismie do 12-30; list do Clydasa (pan)."
+   "status": "otwarte ### 12-21 PAN do Krola: nawiazac lacznosc; KROL: zgoda - czlowiek od ksiag, nie poselstwo z choragwia; droga BP -> Braavos (Nesta) -> Volantis (statki na wschod) -> Meereen, wiosna (III/301), ~3-4 mies. (E); niesie slowo Aemona; IMIE KANDYDATA do 12-30. ### 12-21 PAN: ktos, kogo nie odesle + jasna intencja. KROL: (1) niesie slowo Aemona + pamiatke po nim (Clydas - ksiega/ogniwo?); (2) nie kupiec, nie jawny szpieg; INTENCJA (szkic Krola): 'Polnoc nie przychodzi kleknac ani grozic - mowi, co wie o dlugiej nocy, i pyta, czego ona chce od Westeros.' Kandydat + intencja na pismie do 12-30; list do Clydasa (pan). ### 12-21 SLOWO PANA: kandydaci SER MEDRICK MANDERLY + MAESTER WYSTAN (para; rada Lucana) - do Krola do 12-30; Wystan w GP do III, potem z Medrickiem pierwszym statkiem."
   },
   {
    "co": "NABOR DO DYMAREK WILCZEGO LASU - PONOWIONY z wyzsza dniowka (decyzja pana 11-01, RZUT 68). Gawen wywiesza slup w Zimowym Miescie i przez soltysow domeny; ~10-12 spodziewanych. Grim decyduje: czwarta dymarka czy wzmocnienie trzech zalog.",
@@ -18075,6 +18075,22 @@
    "kanal": "kruk WF-Czarny Zamek",
    "wraca": "301-01-10",
    "zamyka": "odpowiedz Clydasa",
+   "status": "otwarte"
+  },
+  {
+   "co": "WYJAZD PANA DO BIALEGO PORTU - ROZMOWA Z WYMANEM (slowo pana 12-21): Medrick do misji w Meereen (prosba Korony do lorda), 'nasze sprawy' - uklucie 'rozwazalo', dab poza umowa ramowa (Manderly nie przystapil), staly kurs Ujscie-BP, garnizon Przystani Wilka (Wyman doklada wikt), Torvald/Garth, komora BP. Lucan: po przesileniu; ~5 dni traktem zima (E); 'z czyms w reku, nie z prosba'. Zapowiedz krukiem do Wymana. Data - do slowa pana; eskorta - przyboczna (Sten).",
+   "kto": "PAN ; STEN (eskorta) ; LUCAN",
+   "kanal": "trakt WF-Cerwyn-BP; kruk zapowiedzi",
+   "wraca": "300-12-26",
+   "zamyka": "data wyjazdu i zapowiedz",
+   "status": "otwarte"
+  },
+  {
+   "co": "LIST PANA DO MAESTRA WYSTANA (Czarny Zamek): przydzial - GP do wiosny, potem MISJA DO MEEREEN z ser Medrickiem (slowo Aemona i pamiatka); prosba o jego zgode. Pisze pan. Odpowiedz Wystana - RZUT.",
+   "kto": "PAN -> WYSTAN",
+   "kanal": "kruk WF-Czarny Zamek",
+   "wraca": "301-01-05",
+   "zamyka": "odpowiedz Wystana",
    "status": "otwarte"
   }
  ],

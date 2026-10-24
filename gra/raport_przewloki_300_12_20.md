@@ -31,3 +31,9 @@
 2. **Eskorta od zachodu:** czy pan chce czegoś na wiosnę (łodzie Torrena? Theon? Redwyne'owie z dwiema galerami Olenny?), czy zostawić to kapitanom.
 3. **Stały kurs Ujście–BP:** Garrick pyta, czy pan mówi o tym z lordem Wymanem przy stole (Długa Noc, jeśli przyjedzie).
 4. *(bez pytania)* Mur w GP dokończą wiosną, pod dachem pracują zimą.
+
+---
+## ⚑ SŁOWO PANA 300-12-22
+1. **Zawiadomienie o saniach: TAK.** Poczta kupiecka w Cailin (Bertram Wolny) rozsyła je do faktorów w BP (Torsen), ZM, Barrowton i Riverrun (Lyman), a do kapitanów Redwyne'ów przez GP. Kasa 2, w taryfie. Kruk WF → Fosa dziś.
+2. **Eskorta od zachodu na wiosnę: TAK.** Plan konwoju do Ujścia i GP, z trzech źródeł z zapisu: łodzie Torrena, Theon (plan łowów z Torrenem) i dwie galery Olenny przy jej statkach. Składają Garrick z Harwinem, sztab Rodrika i Torren, na Radę **301-01-04**. Pytanie do Arbor, czy kapitanowie Redwyne'ów idą w jednym konwoju, wejdzie do listu Skarbu o dębie (Gawen).
+3. **Stały kurs Ujście–BP: TAK.** Wchodzi do spraw z lordem Wymanem przy stole (Długa Noc, jeśli przyjedzie), obok połowy pomostu w Ujściu.

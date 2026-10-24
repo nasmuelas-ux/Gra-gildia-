@@ -18152,6 +18152,33 @@
    "wraca": "301-01-05",
    "zamyka": "list w saniach na Mur",
    "status": "otwarte"
+  },
+  {
+   "data": "300-12-22",
+   "co": "PRZEWLOKA - ZAWIADOMIENIE O SANIACH (slowo pana 12-22): poczta kupiecka Cailin do faktorow BP (Torsen), ZM, Barrowton, Riverrun (Lyman) i kapitanow Redwyne'ow przez GP: 'przewloka czynna zima, grobla saniami, sklad suchy, rozklad bez zmian'. Kasa 2.",
+   "kto": "GARRICK ; BERTRAM WOLNY ; HARWIN",
+   "kanal": "kruk WF-Fosa; poczta kupiecka",
+   "wraca": "300-12-30",
+   "zamyka": "zawiadomienie rozeslane (raport Przewloki)",
+   "status": "otwarte ### 12-22 kruk."
+  },
+  {
+   "data": "300-12-22",
+   "co": "PRZEWLOKA - ESKORTA OD ZACHODU NA WIOSNE (slowo pana 12-22): plan konwoju do Ujscia/GP - lodzie Torrena, Theon, dwie galery Olenny; pytanie do Arbor o wspolny konwoj w liscie Skarbu o debie.",
+   "kto": "GARRICK + HARWIN ; RODRIK (sztab) ; TORREN ; GAWEN (list do Arbor)",
+   "kanal": "kruk WF-Fosa; WF",
+   "wraca": "301-01-04",
+   "zamyka": "plan na Radzie 301-01-04",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-12-22",
+   "co": "WYMAN PRZY STOLE (Dluga Noc, jesli przyjedzie) - STALY KURS UJSCIE-BP kadlubami Wymana + polowa pomostu w Ujsciu (slowo pana 12-22); obok Medricka (Meereen) i 'naszych spraw'.",
+   "kto": "PAN -> WYMAN",
+   "kanal": "osobiscie",
+   "wraca": "300-12-30",
+   "zamyka": "rozmowa z Wymanem (wola Wymana - rzut)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

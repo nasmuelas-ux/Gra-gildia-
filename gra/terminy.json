@@ -17980,6 +17980,38 @@
    "wraca": "301-02-15",
    "zamyka": "locman wskazany",
    "status": "otwarte"
+  },
+  {
+   "co": "KOLCZUGI ZA MORZEM - ZAPYTANIE (slowo pana 12-20, Rada): ile kolczug (~110 brakuje) i po ile wiosna - Pentos (Hal -> Obaro) i Braavos (Nesta, kruki Banku); Kasa 3. Odpowiedzi - RZUT.",
+   "kto": "GAWEN -> HAL/OBARO ; NESTA",
+   "kanal": "kruk WF-BP; kruki Banku",
+   "wraca": "301-01-20",
+   "zamyka": "oferty na stole",
+   "status": "otwarte"
+  },
+  {
+   "co": "RECE W KUZNI WF - 2-3 CZELADNIKOW DLA MIKKENA z ZM (slowo pana 12-20): kolczugi i miecze; zold Kasa 3. Odzew - RZUT.",
+   "kto": "MIKKEN ; ORWYL",
+   "kanal": "na miejscu (ZM)",
+   "wraca": "300-12-30",
+   "zamyka": "czeladnicy w kuzni",
+   "status": "otwarte"
+  },
+  {
+   "co": "STAL Z DYMAREK PO STYCZNIU - KOLEJNOSC (slowo pana 12-20): pierwsze prety do kuzni WF na kolczugi i miecze pakietu 1500 oraz prety dla Strazy (Rada 12-18) - Rodrik i Gawen ustalaja kolejnosc.",
+   "kto": "RODRIK ; GAWEN ; ORWYL",
+   "kanal": "na miejscu",
+   "wraca": "301-01-20",
+   "zamyka": "kolejnosc na pismie",
+   "status": "otwarte"
+  },
+  {
+   "co": "STALI FAKTORZY KROLEWSCY - ZIMOWE MIASTO I BARROWTON (slowo pana 12-20; prosba Torsena): Gawen + Torsen wskazuja kandydatow (niezwiazanych z Domem; baza 07-27 dla Barrowton: Eldric Wozak, Marga, Tommen Sztaba); Rada wskazuje 301-01-04, mianuje Krol. Do tego czasu zastepcy (Tobin Szala, Aldo Kurhan).",
+   "kto": "GAWEN ; TORSEN ; MALA RADA -> KROL",
+   "kanal": "kruk WF-BP",
+   "wraca": "301-01-04",
+   "zamyka": "nominacja Krola",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

@@ -14464,9 +14464,9 @@
    "co": "WYSPY - CHLEB DLA KRZESLA Z MORSKIEGO KAMIENIA (slowo pana 09-10, kolejnosc 4; propozycja GM): stala oferta Korony - zboze dla Pyke, KTOKOLWIEK zasiadzie na Krzesle; male ilosci (zapas i Konserwa pierwsze), SPRZEDAWANE (moneta / okrety / pokoj na zachodnim brzegu), tylko jednym oficjalnym kanalem, nigdy kapitanom na boku. 'Byc dla Wysp tym, czym Olenna jest dla nas.' Prerogatywa Krola - szkic Namiestnika do decyzji Krola po powrocie (razem z B).",
    "kto": "SYMON (szkic) -> KROL",
    "kanal": "osobiscie po powrocie Krola",
-   "wraca": "300-12-20",
+   "wraca": "301-03-15",
    "zamyka": "slowo Krola",
-   "status": "otwarte ### 12-20 RADA H: na rade wojenna dzis. ### otwarte ### 09-10 SLOWO PANA (Lucan b): w szkicu dla Krola ZAPLATA KADLUBAMI (puste okrety, bez zalog) jako jedna z form; dostawy PO CICHU - kupieckimi statkami przez Harlaw (Czytelnik), bez pieczeci Korony na beczce; slowo Krola tylko na pismie dla Krzesla. ### 300-09-20 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: Krol na Skagos, 26 dni bez wiesci; list do Wymana (Skagos) poszedl 09-18 - odpowiedz ~09-21; sprawa czeka na Krola. ### 300-09-25 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: czeka na KROLA (Skagos; zwiad wraca ~10-08). ### 300-10-10 MALA RADA: meldunek/sprawa przyjeta bez dyskusji (slowo pana 'zgoda'); przeglad na Radzie 10-24. ### 300-10-26 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO - czeka na slowo/powrot Krola (~10-28). ### 300-10-28: ZAMIEC (pogoda 13) - Krol nie dotarl; czeka na Jego powrot (>=10-30)."
+   "status": "otwarte ### 12-20 RADA WOJENNA: stala oferta - DOPIERO PO SMIERCI BALONA; najpierw dla tych, ktorzy nie plyna czarnym kadlubem. ### otwarte ### 12-20 RADA H: na rade wojenna dzis. ### otwarte ### 09-10 SLOWO PANA (Lucan b): w szkicu dla Krola ZAPLATA KADLUBAMI (puste okrety, bez zalog) jako jedna z form; dostawy PO CICHU - kupieckimi statkami przez Harlaw (Czytelnik), bez pieczeci Korony na beczce; slowo Krola tylko na pismie dla Krzesla. ### 300-09-20 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: Krol na Skagos, 26 dni bez wiesci; list do Wymana (Skagos) poszedl 09-18 - odpowiedz ~09-21; sprawa czeka na Krola. ### 300-09-25 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: czeka na KROLA (Skagos; zwiad wraca ~10-08). ### 300-10-10 MALA RADA: meldunek/sprawa przyjeta bez dyskusji (slowo pana 'zgoda'); przeglad na Radzie 10-24. ### 300-10-26 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO - czeka na slowo/powrot Krola (~10-28). ### 300-10-28: ZAMIEC (pogoda 13) - Krol nie dotarl; czeka na Jego powrot (>=10-30)."
   },
   {
    "data": "300-09-10",
@@ -18019,6 +18019,30 @@
    "kanal": "na miejscu (rezim informacji)",
    "wraca": "300-12-20",
    "zamyka": "kierunek Krola na pismie (tajny)",
+   "status": "zamkniete 300-12-20: kierunek Krola na pismie (tajny, gra/rada_wojenna_300_12_20.md; rzut 68 - tak z warunkami). ### POPRZEDNIO: byl-otw"
+  },
+  {
+   "co": "HARLAW (CZYTELNIK) - OFERTA HANDLU (rada wojenna 12-20, Krol rzut 68 z warunkami): zboze i sol na zime za srebro i SPOKOJ NA NASZYM BRZEGU; handel, NIE przymierze; BEZ BRONI I STALI (pytanie o bron = koniec rozmowy); kanal: DOM przez placowke w SEAGARD + slowo Theona jako syna Pyke; pieczec Korony dopiero po odpowiedzi. Theon wie PIERWSZY (Catelyn). Odpowiedz Harlawa - RZUT.",
+   "kto": "PAN -> LUCAN/HAL -> placowka SEAGARD ; THEON",
+   "kanal": "kruk Domu WF-Seagard; statek/kupiec do Harlaw",
+   "wraca": "301-01-25",
+   "zamyka": "odpowiedz Harlawa",
+   "status": "otwarte ### 12-20 decyzja Krola; najpierw list do Theona (KB)."
+  },
+  {
+   "co": "BANK BRAAVOS - KREDYT LWA (rada wojenna 12-20): przez DOM (Lucan, Nesta, kruki Banku): Bankowi to, co wiemy - kto trzyma papier Lwa (dwa domy z Lys + Dom ~1000 nominalu); cel - drozszy kredyt Lwa; skup dalej cicho. Odzew Banku - RZUT.",
+   "kto": "LUCAN ; NESTA",
+   "kanal": "kruki Banku przez BP",
+   "wraca": "301-01-20",
+   "zamyka": "odzew Banku",
+   "status": "otwarte"
+  },
+  {
+   "co": "LIST DO THEONA (Kamienny Brzeg) - O HARLAWIE (warunek Catelyn, rada wojenna 12-20): Theon wie pierwszy, ze Korona pisze do Rodrika Harlawa o handel; prosba o jego slowo jako syna Pyke do listu Domu. Tajne (klucz wojskowy). Odpowiedz Theona - jego wola (rzut).",
+   "kto": "PAN -> THEON",
+   "kanal": "kruk WF-KB, klucz wojskowy",
+   "wraca": "300-12-28",
+   "zamyka": "odpowiedz Theona",
    "status": "otwarte"
   }
  ],

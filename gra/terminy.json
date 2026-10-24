@@ -18278,6 +18278,15 @@
    "wraca": "301-01-20",
    "zamyka": "maszty w stoczni BP",
    "status": "otwarte"
+  },
+  {
+   "data": "300-12-23",
+   "co": "DLUGA NOC - STOL ROSLIN (porzadek miejsc; Mira pomaga): SLOWO PANA 12-23 - RAMSAY PRZY DRZWIACH, z dala od rodzin Starkow i Tallych (bekart - miejsce wg zwyczaju, nie afront); Zimowa Straz (ser Alyn) w poblizu; Wyman/Medger - wg rangi, jesli przyjada.",
+   "kto": "ROSLIN ; MIRA ; SER ALYN",
+   "kanal": "na miejscu",
+   "wraca": "300-12-30",
+   "zamyka": "stol na Dluga Noc",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

@@ -28,3 +28,7 @@
 1. **Tran:** ponaglić Karstarka (Harrion wrócił?) i drugi tran z BP przez Hala, póki trakt przejezdny.
 2. **Kiszonka:** kupić, co jeszcze jest na targu w ZM i we wsiach domeny (rzepa, brukiew, żurawina, suszone grzyby). Część dać Murowi z saniami broni w I.
 3. **Racja:** kiszonka co drugi dzień dla tych, którzy nie pracują na mrozie, od 301-01. *(Pan odrzucił to samo dla tłuszczu 10-18; Orland pyta drugi raz, tylko o kiszonkę.)*
+
+---
+### ⚑ POPRAWKA 300-12-21 (zasada 3)
+VOID w wierszu ryby: „z tego 75 oddane Murowi, netto ~30, ~12 dni”. Grudniowe ~105 to już liczba po odjęciu Muru (słowo pana 10-01). **Ryba 12-18: ~165 dni.** Brutto całego okresu XI–XII: gra/karta_racji_300_12_21.md.

@@ -17625,9 +17625,9 @@
    "co": "MANCE NA MROZNYM BRZEGU (Maege/Alysane 11-27, rzut 88, od grupy przybylej ~11-20): glowny oboz Mance (dziesiatki tysiecy ognisk, olbrzymy, mamuty) na Mroznym Brzegu, po polnocnej stronie Zatoki Lodu, kilka dni zeglugi od Wyspy. CZEKA, AZ ZATOKA STANIE - chce przejsc cala sila po lodzie (stad lodzie-plozy Krola). Wrona bez czerni z bialym wilkiem nadal przy nim. Lod: Maege - zatoka staje zwykle w srodku zimy (E: XII-I, roznie). Do Krola USTNIE. | 12-18 RADA: Krol posyla slowo do Mance'a przez Mormontow (osobny termin).",
    "kto": "MANCE (wola zewnetrzna) / MAEGE",
    "kanal": "wiesc od dzikich przez Wyspe",
-   "wraca": "300-12-20",
+   "wraca": "301-01-05",
    "zamyka": "lod staje / Mance rusza / wiesc",
-   "status": "otwarte"
+   "status": "otwarte ### 12-20 cisza - brak wiesci (zamiec; lod jeszcze nie stal wg ostatnich wiesci). ### otwarte"
   },
   {
    "co": "KETTIL NA WYSPIE NIEDZWIEDZIEJ (slowo pana 11-27): zostaje u maestera Mormontow do zrosniecia kostki (6-8 tyg.), oplacone 1 smokiem (nadwyzka na zboze obozu); potem lodzia do Deepwood i z ludzmi Glovera do Winterfell.",
@@ -17713,9 +17713,9 @@
    "co": "LIST KROLA DO LORDA DOWODCY MALLISTERA O JONIE (slowo Krola 12-17, ustnie do pana): prosba, by Straz nie sadzila brata Krola bez wysluchania przez Krola, gdy wroci zza Muru z ludzmi Mance'a (Straz sadzi swoich - prosba, nie rozkaz). Imie na papierze - Krol decyduje, jak to ujac (zakaz z 299-09-14).",
    "kto": "KROL (pisze) ; pan (szkic?)",
    "kanal": "kruk WF -> Czarny Zamek / Wieza Cieni",
-   "wraca": "300-12-20",
+   "wraca": "300-12-22",
    "zamyka": "list wyslany; odpowiedz Mallistera (rzut)",
-   "status": "otwarte"
+   "status": "otwarte ### 12-20 Krol napisal (E); kruk po zamieci. ### otwarte"
   },
   {
    "co": "SLYNT - KRUKI DO KROLEWSKIEJ PRZYSTANI (11-17, 11-30; Benno z ksiegi Clydasa): tresc nieznana. Krol 12-17: Aldwin + Benno patrza, czy cos wraca z KP na Polnoc (Freyowie / Lannisterowie / Dreadfort); Slynt po przegranej - szuka, komu sie sprzedac.",
@@ -17809,9 +17809,9 @@
    "co": "ZAKUP KISZONKI I KORZENI - TARG ZM I WSIE DOMENY (slowo pana 12-18): rzepa, brukiew, zurawina, suszone grzyby; cena ze slupa, Kasa 3; czesc (~8 beczek E) na Mur z saniami broni w I. RZUT podazy zrobiony (log) - wynik w karcie 12-20.",
    "kto": "ORLAND (czlowiek Orlanda)",
    "kanal": "na miejscu (ZM)",
-   "wraca": "300-12-20",
+   "wraca": "300-12-24",
    "zamyka": "karta racji 12-20",
-   "status": "otwarte ### 12-18 czlowiek Orlanda rusza po Radzie."
+   "status": "otwarte ### 12-20 czlowiek Orlanda: ~15 beczek (rzepa, brukiew, zurawina, grzyby) kupione po cenie ze slupa; reszta ~10 do ~12-24 (wsie domeny, zamiec). ### otwarte ### 12-18 czlowiek Orlanda rusza po Radzie."
   },
   {
    "co": "RACJA - KISZONKA CO DRUGI DZIEN dla niepracujacych na mrozie, od 301-01 (slowo pana 12-18); pelna dla strazy, drwali, woznicow, ludzi na mrozie. Ogloszenie w kuchniach - Orland.",
@@ -18273,7 +18273,7 @@
     "start": "300-09-26"
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-11-01",
+   "ostatnio_odebrane": "300-12-20",
    "zrodlo": "rozkaz Namiestnika 300-09-15/16 (ALARM 36)"
   },
   {
